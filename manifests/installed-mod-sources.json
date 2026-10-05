@@ -1,0 +1,305 @@
+{
+  "status": "analysis snapshot; not final release distribution",
+  "excludedMod": "axiom",
+  "assets": [
+    {
+      "id": "donation",
+      "version": "2.0.2",
+      "sha256": "a0f145d7d6a2849491ee000656f333854ad86ec08e37d977b618490796bf9c05",
+      "sha512": "740cb7171be4d6bf699cfeed581c0322006594e68648d02deb964adaddc41795b34ce7a71cf87877ba729c13ce1f71c093427cd3031f42561510f47e286c2ae5",
+      "license": "All-Rights-Reserved",
+      "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/launcher_v2-1.21.4/fabricmods/required/donation-fabric-1.21.4-2.0.2.jar",
+      "authority": "original installed launcher distribution feed"
+    },
+    {
+      "id": "nochatreports",
+      "version": "1.21.4-v2.11.0",
+      "sha256": "d633096f0e702ff3f0b0d4841ece0c1c9a63caf3d585b8623f9f5d9d74502702",
+      "sha512": "d343b05c8e50f1de15791ff622ad44eeca6cdcb21e960a267a17d71506c61ca79b1c824167779e44d778ca18dcbdebe594ff234fbe355b68d25cdb5b6afd6e4f",
+      "license": "WTFPL",
+      "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/9xt05630/NoChatReports-FABRIC-1.21.4-v2.11.0.jar",
+      "authority": "exact-hash Modrinth project release",
+      "project": "https://modrinth.com/mod/no-chat-reports",
+      "licenseSource": {
+        "id": "WTFPL",
+        "name": "Do What The F*ck You Want To Public License",
+        "url": null
+      }
+    },
+    {
+      "id": "keyeventmod",
+      "version": "1.21.4",
+      "sha256": "e55ab1332b0d0647370845b1dcf6746c79299d953a5a989cc865d99daf7ae0ca",
+      "sha512": "eb4204204362808189e270a6df4ecc1556b066278751c052c99edfefc2e67e4c544c02cee294136e451d0ccfd0657f1ed16146a457374b4f1d4df400c7084dd7",
+      "license": null,
+      "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/launcher_v2-1.21.4/fabricmods/required/KeyChecker-1.21.4.jar",
+      "authority": "original installed launcher distribution feed"
+    },
+    {
+      "id": "koreanpatch",
+      "version": "1.8.5+mc1.21.3",
+      "sha256": "f9a68b4f43d7ec9ba26cd9e0219b43d36b5e2265f9f850e844d3decd708c8e03",
+      "sha512": "81db8c6ebd475193766a9471f9346549a6a5b0d53387a9452e259e099e3d321da84bb77a649ce0ab033efc1ebc0d4d05a1cc029db5411ddaf69eb753ba980d13",
+      "license": "LGPL-3.0",
+      "url": "https://cdn.modrinth.com/data/qyulnpBL/versions/Bch8tAuW/koreanpatch-fabric-1.8.5%2Bmc1.21.3.jar",
+      "authority": "exact-hash Modrinth project release",
+      "project": "https://modrinth.com/mod/korean-chat-patch",
+      "licenseSource": {
+        "id": "LGPL-3.0-only",
+        "name": "GNU Lesser General Public License v3.0 only",
+        "url": null
+      }
+    },
+    {
+      "id": "fabric-api",
+      "version": "0.119.4+1.21.4",
+      "sha256": "d183bacb845167f09264c2f90322b7ecffe8826debda6f60e597889264bef4af",
+      "sha512": "16b679f6a42549ca3b6bc147de710b2c8ba2d5e4661ed88df22782c05a4a5f6c1163d7b13867687ed91acde0fdfe5a5037d05662431c946865b58396284e7ee7",
+      "license": "Apache-2.0",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/p96k10UR/fabric-api-0.119.4%2B1.21.4.jar",
+      "authority": "exact-hash Modrinth project release",
+      "project": "https://modrinth.com/mod/fabric-api",
+      "licenseSource": {
+        "id": "Apache-2.0",
+        "name": "Apache License 2.0",
+        "url": null
+      }
+    },
+    {
+      "id": "iris",
+      "version": "1.8.8+mc1.21.4",
+      "sha256": "70571b23d4de17ae380515fb4c9dadd82d96f7ec1b573553858a07bb80445da9",
+      "sha512": "5296c4b0c0be6d5259b985577154c02e6534818465205e6995b5229b26414b423d333199152693118a897f31312e4de051abe28df7d0dd0950c8b649e54a50a0",
+      "license": "LGPL-3.0-only",
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/Ca054sTe/iris-fabric-1.8.8%2Bmc1.21.4.jar",
+      "authority": "exact-hash Modrinth project release",
+      "project": "https://modrinth.com/mod/iris",
+      "licenseSource": {
+        "id": "LGPL-3.0-only",
+        "name": "GNU Lesser General Public License v3.0 only",
+        "url": null
+      }
+    },
+    {
+      "id": "journeymap",
+      "version": "1.21.4-6.0.0-beta.47",
+      "sha256": "30236d6da74c450106e176050f6f257a5a4615ec6aa5db5191bae55e75185739",
+      "sha512": "062a81898c7f558cd6820d9a2c4276466b69abf7affb5dc370026381ef2262c26329a6fadb76a28893778166a3cd5e048e4f96354786304d93e2a67a54ae510a",
+      "license": "All Rights Reserved",
+      "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/bjbTbat1/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
+      "authority": "exact-hash Modrinth project release",
+      "project": "https://modrinth.com/mod/journeymap",
+      "licenseSource": {
+        "id": "LicenseRef-All-Rights-Reserved",
+        "name": "",
+        "url": null
+      }
+    },
+    {
+      "id": "blurserveraddress",
+      "version": "1.2.0+mc1.21.2",
+      "sha256": "a140283e286dde01b36c30f92a734bd6397e1548d5a11d9aa09a27e332afbe2a",
+      "sha512": "11a77098635d5cd5349f36b164c9048bdac5e372bef0b8c6f0dbde58a703358722b0d935999029157789f20be020426348204d3e6dcf55feba29eb40ebeaa54d",
+      "license": "LGPL-3.0-only",
+      "url": "https://cdn.modrinth.com/data/559boQnq/versions/VPin7VZe/blurserveraddress-fabric-1.2.0%2Bmc1.21.2.jar",
+      "authority": "exact-hash Modrinth project release",
+      "project": "https://modrinth.com/mod/blur-server-address",
+      "licenseSource": {
+        "id": "LGPL-3.0-only",
+        "name": "GNU Lesser General Public License v3.0 only",
+        "url": null
+      }
+    },
+    {
+      "id": "authme",
+      "version": "9.0.1+1.21.4",
+      "sha256": "848eaae8ae84b2e3b567df05454d532ece707fa4754addf12d632afee3f645d3",
+      "sha512": "49d634d26dcfa02da947f6bf2f87a6220c0d232fc4d640a3ab371ddca91e04a8b491ec289412bc27222bfc0dc82ceab2f00a8c6d42edc40c526402cab8507f3c",
+      "license": "MIT",
+      "url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/DfEuMvQ6/authme-fabric-9.0.1%2B1.21.4.jar",
+      "authority": "exact-hash Modrinth project release",
+      "project": "https://modrinth.com/mod/auth-me",
+      "licenseSource": {
+        "id": "MIT",
+        "name": "MIT License",
+        "url": null
+      }
+    },
+    {
+      "id": "sodium",
+      "version": "0.6.13+mc1.21.4",
+      "sha256": "92b79623fc00f0f948005a0ae416cb42a51646f2423b4036e27e867e4001a47e",
+      "sha512": "2c72ca2ddfd27e29ff6c24fccdf6f3d80857bd1014c707017f96cb4a424f94918e53ba21d85f22e3c9171803f8d2c12c99ae857d38d8e85546cc65960b95a2f1",
+      "license": "Polyform-Shield-1.0.0",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/c3YkZvne/sodium-fabric-0.6.13%2Bmc1.21.4.jar",
+      "authority": "exact-hash Modrinth project release",
+      "project": "https://modrinth.com/mod/sodium",
+      "licenseSource": {
+        "id": "LicenseRef-Polyform-Shield-1.0.0",
+        "name": "",
+        "url": "https://github.com/CaffeineMC/sodium/blob/dev/LICENSE.md"
+      }
+    },
+    {
+      "id": "wi_zoom",
+      "version": "1.6-MC1.21.4",
+      "sha256": "5cf262672de0159afec5ade4433d1cbe5efba2a1944cc10399a7c30efbde73a5",
+      "sha512": "90ade15210c7a0ca3ad7faa215e05795475085e7ba8eff9b973d8fc9a96c63e4ea533221fd6c0df99480fccd205c85052b77161b1bb6f585b28fa65106021d20",
+      "license": "GPL-3.0-or-later",
+      "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/launcher_v2-1.21.4/fabricmods/required/WI-Zoom-1.6-MC1.21.4.jar",
+      "authority": "original installed launcher distribution feed"
+    },
+    {
+      "id": "plasmovoice",
+      "version": "2.1.5",
+      "sha256": "12f670957dfe838747fce1582b84e8eb70b11556693e27d0ce4dfd8eea539d03",
+      "sha512": "dc4e581ca4eae8288216a6cc7af1428d419bd0f52e1d14dfa768fa281e96412b25b9901f0dc2458ed79f95d1dff8b6c4dd867732e5e2d7c979494c2506a37772",
+      "license": "LGPL-3.0",
+      "url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/vBm1h2pZ/plasmovoice-fabric-1.21.4-2.1.5.jar",
+      "authority": "exact-hash Modrinth project release",
+      "project": "https://modrinth.com/mod/plasmo-voice",
+      "licenseSource": {
+        "id": "LGPL-3.0-only",
+        "name": "GNU Lesser General Public License v3.0 only",
+        "url": null
+      }
+    },
+    {
+      "id": "architectury",
+      "version": "15.0.3",
+      "sha256": "9e11f81ee786401a26de486a9798687559a5329fec3cd415e94fa3c3958352f3",
+      "sha512": "6acc7cfccfc6e93fd8c1895fb2c489cbabd27265f38f7cbad98ddaab2cb2e6d1601633bd12cf26fc0bb100a87949ee06b872f333cf7b8490cccc0082ac586dcb",
+      "license": "LGPL-3",
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/73nlw3WM/architectury-15.0.3-fabric.jar",
+      "authority": "exact-hash Modrinth project release",
+      "project": "https://modrinth.com/mod/architectury-api",
+      "licenseSource": {
+        "id": "LGPL-3.0-only",
+        "name": "GNU Lesser General Public License v3.0 only",
+        "url": null
+      }
+    },
+    {
+      "id": "chacademi_chat_layout",
+      "version": "1.3.7",
+      "sha256": "b84744ab53cd0317379951e0b01986ff183900d4f7dc46fcef4b329ae3aaa8e1",
+      "sha512": "31f43f5d009ccca171424ad349b14f44ec1144e37bd9d17a4812efaf94867c7131f393e0de566eec2ab809df01b3ea454b3c82bf5971518b76a53f6531528a0b",
+      "license": "GPL-3.0-only",
+      "status": "user-owned final integration artifact pending"
+    },
+    {
+      "id": "chacademy_motion",
+      "version": "0.1.0",
+      "sha256": "e989c46d10435b479a3a226b540d35dd1421cda9e61bb48c59a120e96f971782",
+      "sha512": "0bf09a43bef5de2dd05a71f9e6edfcae3bfb0060820accf166a73d763d8f0f129f7d86c689c641b3972b097aba9771234c1ba8bd2378553dcc345c8b488a77f2",
+      "license": "All-Rights-Reserved",
+      "status": "user-owned final integration artifact pending"
+    },
+    {
+      "id": "chatplus",
+      "version": "2.8.1",
+      "sha256": "8f8509ad9e1c1a52a0efe38c507bfbb710235e2f4d66412ead001d7da7479f9b",
+      "sha512": "119d552e1c57df0c08a9c4949d0ffb415d5268bc0fccf3081d61aa8b70699431cf6d1ca46b0dfae6274a4840bfa23210d7e1b083b80a2684f6172be5c6096071",
+      "license": "GPL-3.0",
+      "url": "https://cdn.modrinth.com/data/cJlZ132G/versions/87l7ajmu/chatplus-fabric-2.8.1.jar",
+      "authority": "exact-hash Modrinth project release",
+      "project": "https://modrinth.com/mod/chat-plus",
+      "licenseSource": {
+        "id": "GPL-3.0-only",
+        "name": "GNU General Public License v3.0 only",
+        "url": null
+      }
+    },
+    {
+      "id": "distanthorizons",
+      "version": "3.3.2",
+      "sha256": "4637de9fcc8cb80ddd6b7f4470e4e15b44ff8357ca19970c0e2ae86cb30498c2",
+      "sha512": "4a793a6fcc0cb4774f6dd8f1684cd88ec3ae77d1cc176dd4293b8508f55c43ec2dc19714970d7da88e73e242c323c1671f84b52c72c75183af5e5b00cf125ceb",
+      "license": "LGPL-3",
+      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/t08qeDio/DistantHorizons-3.3.2-1.21.4-fabric-neoforge.jar",
+      "authority": "exact-hash Modrinth project release",
+      "project": "https://modrinth.com/mod/distanthorizons",
+      "licenseSource": {
+        "id": "LGPL-3.0-only",
+        "name": "GNU Lesser General Public License v3.0 only",
+        "url": null
+      }
+    },
+    {
+      "id": "fabric-language-kotlin",
+      "version": "1.13.6+kotlin.2.2.20",
+      "sha256": "62c2773380fae0ce5cd01e6cfbdc34f6a2d42fd0734e5996e261bf7d8bf12ce3",
+      "sha512": "1d1d70bd4662ec1fcba57c9f16c3bceb185e8986119f266594f37d145d6d19772e5d6a50dcfec315e600c9eafd32f2b5f86bab72ae1954891297cde7fce62e9b",
+      "license": "Apache-2.0",
+      "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/i6MmXDwA/fabric-language-kotlin-1.13.6%2Bkotlin.2.2.20.jar",
+      "authority": "exact-hash Modrinth project release",
+      "project": "https://modrinth.com/mod/fabric-language-kotlin",
+      "licenseSource": {
+        "id": "Apache-2.0",
+        "name": "Apache License 2.0",
+        "url": null
+      }
+    },
+    {
+      "id": "forgeconfigapiport",
+      "version": "21.4.3",
+      "sha256": "4e1c10e96a1a7f80bd988823f151db0da7eb073cf825c1d9ca3140013a638b10",
+      "sha512": "3ed7728d93e245ca4dca7afc466524c3cab6ed779250ea989ef47aca3f71be8750e6aeebab67c9f7e016153f471c5440db4a48dd278911a0aa367a2692ccb914",
+      "license": "MPL-2.0",
+      "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/SSKF75hc/ForgeConfigAPIPort-v21.4.3-1.21.4-Fabric.jar",
+      "authority": "exact-hash Modrinth project release",
+      "project": "https://modrinth.com/mod/forge-config-api-port",
+      "licenseSource": {
+        "id": "MPL-2.0",
+        "name": "Mozilla Public License 2.0",
+        "url": null
+      }
+    },
+    {
+      "id": "magiccodex",
+      "version": "0.39.0-catalog.alpha.2+mc1.21.4",
+      "sha256": "a832bb20db2c1b4e035d41ea9b598597e8ab848a91f15406edceadc1ecd01cc1",
+      "sha512": "ad27efa64f37f690bf429936c490ac06c6f481591de47ad3176158507145df2ff5d8c4793f21e43f31c2ad03ac2ce99427f19127765d5847c38c0c427e135f13",
+      "license": null,
+      "status": "user-owned final integration artifact pending"
+    },
+    {
+      "id": "playeranimator",
+      "version": "2.0.5+1.21.4",
+      "sha256": "3be94302d070f01222ada581def30a6aad142f36ef83890db5499715aea720d9",
+      "sha512": "e7192c7403516b09f9beca496e2befea70a07d1016adc0bd10da4a53cea1492b67e03453b0d29bf16e09267569dc7dd4c5b6d57b162f75695ea1e800ea8e62d3",
+      "license": "MIT",
+      "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/ZTeZ33xQ/player-animation-lib-fabric-2.0.5%2B1.21.4.jar",
+      "authority": "exact-hash Modrinth project release",
+      "project": "https://modrinth.com/mod/playeranimator",
+      "licenseSource": {
+        "id": "MIT",
+        "name": "MIT License",
+        "url": null
+      }
+    },
+    {
+      "id": "portablevfx",
+      "version": "3.2.0-catalog.alpha.4",
+      "sha256": "b44066b093177501a6c1fa9c78b95296eb1b50928344188af872735e04c9f74d",
+      "sha512": "347d43af5b38fb6aa9c9d11fe56ef5498d05f42babb8d46f279c719a79d193b74133271224fdc3c2004f6bd990c6007a989475b3ba117b7222fe000088b3ec0a",
+      "license": "MIT",
+      "status": "user-owned final integration artifact pending"
+    },
+    {
+      "id": "shouldersurfing",
+      "version": "4.12.0",
+      "sha256": "4513329b71788a9c4f784437b223d7e39b08292793519177612ac0322bba428d",
+      "sha512": "19c2236cef9a4bc80157d123a4c8577b5167b4a9a5102a90fb2b41e4c179698ffa3dbb6267332725fffe743ed2543f927609ba0d83d7544b9a1af5c863026c08",
+      "license": "MIT",
+      "url": "https://cdn.modrinth.com/data/kepjj2sy/versions/n8ilV1cO/ShoulderSurfing-Fabric-1.21.4-4.12.0.jar",
+      "authority": "exact-hash Modrinth project release",
+      "project": "https://modrinth.com/mod/shoulder-surfing-reloaded",
+      "licenseSource": {
+        "id": "MIT",
+        "name": "MIT License",
+        "url": null
+      }
+    }
+  ]
+}
