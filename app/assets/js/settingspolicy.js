@@ -18,6 +18,8 @@ exports.prepare = async function(distribution, instanceDirectory){
                     if(!target.startsWith(root + path.sep)){
                         throw new Error('Seed path outside instance')
                     }
+                    module.seedOriginalMD5 ??= module.artifact.MD5
+                    module.artifact.MD5 = module.seedOriginalMD5
                     if(await fs.pathExists(target)){
                         const stat = await fs.lstat(target)
                         if(!stat.isFile() || stat.isSymbolicLink()){
