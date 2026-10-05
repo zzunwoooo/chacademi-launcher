@@ -4,7 +4,7 @@ Based on [Helios Launcher by Daniel Scalzi](https://github.com/dscalzi/HeliosLau
 Contains launcher code, not account credentials, worlds, third-party JARs or commercial model sources.
 
 ## Status
-Final HUD/Bridge integration is pending. The approved new background awaits a supported Library transfer because Windows extended-attribute preservation is unavailable. No final installer release is published.
+Final HUD/Bridge hashes verified against ae8644fe777b06c4fbf80a014394d9b433776032. Asset assembly remains incomplete. The launcher uses an approved calm, blank background; no generated image is required. No final installer release is published.
 Windows setup and ZIP targets are prepared. Microsoft OAuth remains the normal flow, with no bypass or new registration.
 The installed launcher's public Microsoft client ID matches its original public source. The existing OAuth client ID, scopes and redirect flow are retained for continuity; no new app registration, credential or permission expansion is created.
 Use exact-hash official mod URLs or the original launcher publisher's URLs without rehosting binaries.
@@ -12,6 +12,14 @@ Use exact-hash official mod URLs or the original launcher publisher's URLs witho
 ## Release preparation
 Run tools/Build-Final.ps1 only in isolated hosting staging after freezing the final source commit and approved release-input.json.
 Supply mod-inventory.json and distribution-reviewed.json in the staging parent directory. Keep payload and real inputs out of Git.
-The gate requires final HUD/Bridge, retained mods, SHA256-matching assets, authorized download sources, approved new PNG background and existing authorized Microsoft client ID.
+The gate requires final HUD/Bridge, retained mods, SHA256-matching assets, authorized download sources, the explicit blank background/model policy and existing authorized Microsoft client ID.
 Builds produce setup/ZIP and SHA256SUMS.txt without automatic publication.
 See THIRD-PARTY-NOTICES.md for credits and conditions.
+
+## Pet model policy
+Use the separately distributed, approved 284-model GUI ZIP. The launcher verifies the bundle and per-file SHA256 then installs models before starting Java. A version stamp skips decompression on later launches. The existing PetBbModel renderer, asynchronous loading, three-model cache and texture upload behavior are unchanged. No ModelEngine reassembly or additional vanilla model set is introduced. All model originals remain outside public source Git.
+
+The final HUD hash must match the client Magic Codex JAR. The Bridge hash is an integration readiness record only; no Bukkit/Bridge server plugin is installed into the client.
+The model ZIP is produced with tools/build-pet-bundle.py from the approved GUI model inventory, then delivered as the chacademi-pet-models.zip File module at config/magiccodex/pets/pets-models.zip. Actual model bytes remain outside this Git repository.
+
+Shader credit: Complementary Unbound by EminGTR. See THIRD-PARTY-NOTICES.md.

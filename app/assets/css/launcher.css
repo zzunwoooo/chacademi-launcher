@@ -47,7 +47,7 @@ body, button {
 }
 
 /*body {
-    background: linear-gradient(180deg, rgba(5, 12, 28, 0.12), rgba(5, 12, 28, 0.70)), url('./../images/backgrounds/chacademi-background.png') no-repeat center center fixed;
+    background: linear-gradient(160deg, #081020, #111b2d);
     background-size: cover;
 }*/
 
@@ -867,7 +867,7 @@ body, button {
     z-index: 9000;
     position: absolute;
     filter: blur(8px) contrast(0.9) brightness(1.0);
-    background: linear-gradient(180deg, rgba(5, 12, 28, 0.12), rgba(5, 12, 28, 0.70)), url('./../images/backgrounds/chacademi-background.png') no-repeat center center fixed;
+    background: linear-gradient(160deg, #081020, #111b2d);
     transform: scale(1.2);
     background-size: cover;
 }

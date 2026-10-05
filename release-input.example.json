@@ -1,12 +1,17 @@
 {
   "finalIntegrationApproved": false,
   "sourceCommit": "",
-  "serverAddress": "스트리머.온라인.한국",
+  "serverAddress": "\uc2a4\ud2b8\ub9ac\uba38.\uc628\ub77c\uc778.\ud55c\uad6d",
   "microsoftClientId": "8075f7ce-dec1-4dec-9925-3d15372b291d",
   "microsoftClientIdAuthorized": true,
   "assets": [],
-  "backgroundApproved": false,
-  "backgroundSha256": "",
   "authenticationMode": "existing-installed-launcher-continuation",
-  "microsoftClientIdSource": "https://github.com/mchlauncher/zzunwoo/blob/main/app/assets/js/ipcconstants.js"
+  "microsoftClientIdSource": "https://github.com/mchlauncher/zzunwoo/blob/main/app/assets/js/ipcconstants.js",
+  "backgroundMode": "blank",
+  "modelPolicy": "bbmodel-bundle",
+  "modelClientDistributionApproved": true,
+  "integrationComponents": {
+    "hudSha256": "",
+    "bridgeSha256": ""
+  }
 }

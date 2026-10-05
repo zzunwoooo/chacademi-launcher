@@ -9,6 +9,7 @@ const os                    = require('os')
 const path                  = require('path')
 
 const ConfigManager            = require('./configmanager')
+const PetModels = require('./petmodels')
 
 const logger = LoggerUtil.getLogger('ProcessBuilder')
 
@@ -46,6 +47,8 @@ class ProcessBuilder {
      */
     build(){
         fs.ensureDirSync(this.gameDir)
+        const modelModule = this.server.rawServer.modules.find(module => module.id === 'chacademi-pet-models.zip')
+        logger.info('Pet model bundle prepared:', PetModels.install(this.gameDir, modelModule))
         const tempNativePath = path.join(os.tmpdir(), ConfigManager.getTempNativeFolder(), crypto.pseudoRandomBytes(16).toString('hex'))
         process.throwDeprecation = true
         this.setupLiteLoader()

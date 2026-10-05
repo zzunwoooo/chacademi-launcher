@@ -8,6 +8,7 @@ asar: true
 compression: 'maximum'
 
 files:
+  - '!app/assets/images/backgrounds/**'
   - '!tools/**'
   - '!release-input*'
   - '!payload/**'
