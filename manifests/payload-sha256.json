@@ -1,0 +1,292 @@
+{
+  "sourceCommit": "ae3735020ce0309bc80621a9e21ef5b0fff856d9",
+  "integrationComponents": {
+    "hudSha256": "68b1093ee8a3c266ee06ceae2aa5143e72398a600eea19af0dd3ba42b73e84a6",
+    "bridgeSha256": "da81a97ff5687da506f3b2d42683bd32922a7083497ddf23b7e1a478171b84cf"
+  },
+  "backgroundMode": "blank",
+  "modelPolicy": "bbmodel-bundle",
+  "petModelStatus": "approved separate ZIP installed before launch; existing renderer unchanged",
+  "assets": [
+    {
+      "path": "mods/donation-2.0.2.jar",
+      "sha256": "a0f145d7d6a2849491ee000656f333854ad86ec08e37d977b618490796bf9c05",
+      "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/launcher_v2-1.21.4/fabricmods/required/donation-fabric-1.21.4-2.0.2.jar",
+      "license": "All-Rights-Reserved",
+      "role": "mod"
+    },
+    {
+      "path": "mods/nochatreports-1.21.4-v2.11.0.jar",
+      "sha256": "d633096f0e702ff3f0b0d4841ece0c1c9a63caf3d585b8623f9f5d9d74502702",
+      "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/9xt05630/NoChatReports-FABRIC-1.21.4-v2.11.0.jar",
+      "license": "WTFPL",
+      "role": "mod"
+    },
+    {
+      "path": "mods/keyeventmod-1.21.4.jar",
+      "sha256": "e55ab1332b0d0647370845b1dcf6746c79299d953a5a989cc865d99daf7ae0ca",
+      "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/launcher_v2-1.21.4/fabricmods/required/KeyChecker-1.21.4.jar",
+      "license": "original publisher URL",
+      "role": "mod"
+    },
+    {
+      "path": "mods/koreanpatch-1.8.5+mc1.21.3.jar",
+      "sha256": "f9a68b4f43d7ec9ba26cd9e0219b43d36b5e2265f9f850e844d3decd708c8e03",
+      "url": "https://cdn.modrinth.com/data/qyulnpBL/versions/Bch8tAuW/koreanpatch-fabric-1.8.5%2Bmc1.21.3.jar",
+      "license": "LGPL-3.0",
+      "role": "mod"
+    },
+    {
+      "path": "mods/fabric-api-0.119.4+1.21.4.jar",
+      "sha256": "d183bacb845167f09264c2f90322b7ecffe8826debda6f60e597889264bef4af",
+      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/p96k10UR/fabric-api-0.119.4%2B1.21.4.jar",
+      "license": "Apache-2.0",
+      "role": "mod"
+    },
+    {
+      "path": "mods/iris-1.8.8+mc1.21.4.jar",
+      "sha256": "70571b23d4de17ae380515fb4c9dadd82d96f7ec1b573553858a07bb80445da9",
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/Ca054sTe/iris-fabric-1.8.8%2Bmc1.21.4.jar",
+      "license": "LGPL-3.0-only",
+      "role": "mod"
+    },
+    {
+      "path": "mods/journeymap-1.21.4-6.0.0-beta.47.jar",
+      "sha256": "30236d6da74c450106e176050f6f257a5a4615ec6aa5db5191bae55e75185739",
+      "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/bjbTbat1/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
+      "license": "All Rights Reserved",
+      "role": "mod"
+    },
+    {
+      "path": "mods/blurserveraddress-1.2.0+mc1.21.2.jar",
+      "sha256": "a140283e286dde01b36c30f92a734bd6397e1548d5a11d9aa09a27e332afbe2a",
+      "url": "https://cdn.modrinth.com/data/559boQnq/versions/VPin7VZe/blurserveraddress-fabric-1.2.0%2Bmc1.21.2.jar",
+      "license": "LGPL-3.0-only",
+      "role": "mod"
+    },
+    {
+      "path": "mods/authme-9.0.1+1.21.4.jar",
+      "sha256": "848eaae8ae84b2e3b567df05454d532ece707fa4754addf12d632afee3f645d3",
+      "url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/DfEuMvQ6/authme-fabric-9.0.1%2B1.21.4.jar",
+      "license": "MIT",
+      "role": "mod"
+    },
+    {
+      "path": "mods/sodium-0.6.13+mc1.21.4.jar",
+      "sha256": "92b79623fc00f0f948005a0ae416cb42a51646f2423b4036e27e867e4001a47e",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/c3YkZvne/sodium-fabric-0.6.13%2Bmc1.21.4.jar",
+      "license": "Polyform-Shield-1.0.0",
+      "role": "mod"
+    },
+    {
+      "path": "mods/wi_zoom-1.6-MC1.21.4.jar",
+      "sha256": "5cf262672de0159afec5ade4433d1cbe5efba2a1944cc10399a7c30efbde73a5",
+      "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/launcher_v2-1.21.4/fabricmods/required/WI-Zoom-1.6-MC1.21.4.jar",
+      "license": "GPL-3.0-or-later",
+      "role": "mod"
+    },
+    {
+      "path": "mods/plasmovoice-2.1.5.jar",
+      "sha256": "12f670957dfe838747fce1582b84e8eb70b11556693e27d0ce4dfd8eea539d03",
+      "url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/vBm1h2pZ/plasmovoice-fabric-1.21.4-2.1.5.jar",
+      "license": "LGPL-3.0",
+      "role": "mod"
+    },
+    {
+      "path": "mods/architectury-15.0.3-fabric.jar",
+      "sha256": "9e11f81ee786401a26de486a9798687559a5329fec3cd415e94fa3c3958352f3",
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/73nlw3WM/architectury-15.0.3-fabric.jar",
+      "license": "LGPL-3",
+      "role": "mod"
+    },
+    {
+      "path": "mods/chacademi-chat-layout-1.3.7.jar",
+      "sha256": "b84744ab53cd0317379951e0b01986ff183900d4f7dc46fcef4b329ae3aaa8e1",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/chacademi-chat-layout-1.3.7.jar",
+      "license": "project-authorized client distribution",
+      "role": "chacademi_chat_layout"
+    },
+    {
+      "path": "mods/chacademy-motion-0.1.0.jar",
+      "sha256": "e989c46d10435b479a3a226b540d35dd1421cda9e61bb48c59a120e96f971782",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/chacademy-motion-0.1.0.jar",
+      "license": "project-authorized client distribution",
+      "role": "chacademy_motion"
+    },
+    {
+      "path": "mods/chatplus-fabric-2.8.1.jar",
+      "sha256": "8f8509ad9e1c1a52a0efe38c507bfbb710235e2f4d66412ead001d7da7479f9b",
+      "url": "https://cdn.modrinth.com/data/cJlZ132G/versions/87l7ajmu/chatplus-fabric-2.8.1.jar",
+      "license": "GPL-3.0",
+      "role": "mod"
+    },
+    {
+      "path": "mods/DistantHorizons-3.3.2-1.21.4-fabric-neoforge.jar",
+      "sha256": "4637de9fcc8cb80ddd6b7f4470e4e15b44ff8357ca19970c0e2ae86cb30498c2",
+      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/t08qeDio/DistantHorizons-3.3.2-1.21.4-fabric-neoforge.jar",
+      "license": "LGPL-3",
+      "role": "mod"
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
+      "sha256": "62c2773380fae0ce5cd01e6cfbdc34f6a2d42fd0734e5996e261bf7d8bf12ce3",
+      "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/i6MmXDwA/fabric-language-kotlin-1.13.6%2Bkotlin.2.2.20.jar",
+      "license": "Apache-2.0",
+      "role": "mod"
+    },
+    {
+      "path": "mods/ForgeConfigAPIPort-v21.4.3-1.21.4-Fabric.jar",
+      "sha256": "4e1c10e96a1a7f80bd988823f151db0da7eb073cf825c1d9ca3140013a638b10",
+      "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/SSKF75hc/ForgeConfigAPIPort-v21.4.3-1.21.4-Fabric.jar",
+      "license": "MPL-2.0",
+      "role": "mod"
+    },
+    {
+      "path": "mods/magic-codex-ui-0.39.0-catalog.alpha.2+mc1.21.4.jar",
+      "sha256": "68b1093ee8a3c266ee06ceae2aa5143e72398a600eea19af0dd3ba42b73e84a6",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/magic-codex-ui-0.39.0-catalog.alpha.2+mc1.21.4.jar",
+      "license": "project-authorized client distribution",
+      "role": "magiccodex"
+    },
+    {
+      "path": "mods/player-animation-lib-fabric-2.0.5+1.21.4.jar",
+      "sha256": "3be94302d070f01222ada581def30a6aad142f36ef83890db5499715aea720d9",
+      "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/ZTeZ33xQ/player-animation-lib-fabric-2.0.5%2B1.21.4.jar",
+      "license": "MIT",
+      "role": "mod"
+    },
+    {
+      "path": "mods/portable-vfx-client-3.2.0-catalog.alpha.4.jar",
+      "sha256": "b44066b093177501a6c1fa9c78b95296eb1b50928344188af872735e04c9f74d",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/portable-vfx-client-3.2.0-catalog.alpha.4.jar",
+      "license": "project-authorized client distribution",
+      "role": "portablevfx"
+    },
+    {
+      "path": "mods/ShoulderSurfing-Fabric-1.21.4-4.12.0.jar",
+      "sha256": "4513329b71788a9c4f784437b223d7e39b08292793519177612ac0322bba428d",
+      "url": "https://cdn.modrinth.com/data/kepjj2sy/versions/n8ilV1cO/ShoulderSurfing-Fabric-1.21.4-4.12.0.jar",
+      "license": "MIT",
+      "role": "mod"
+    },
+    {
+      "path": "config/magiccodex/pets/pets-models.zip",
+      "sha256": "b96250e19438ea24e20cb1d4612d4636428a0f1a2af0e08789766d541f940fe1",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/pets-models.zip",
+      "license": "project-authorized client distribution",
+      "role": "pets-models-bundle"
+    },
+    {
+      "path": "config/magiccodex/launcher/client-assets.zip",
+      "sha256": "3db443a233ad3d389f4bbbed8d5744f172b2fe7bc934904502140a42ed84d126",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/client-assets.zip",
+      "license": "project-authorized client distribution",
+      "role": "client-assets-bundle"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+      "sha256": "61d133b24b6a92e46a3d7df791bb2ff163bbba10eed59df979b9bd727c24fbaf",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/ComplementaryUnbound_r5.5.1.zip",
+      "license": "Complementary License Agreement 1.5; original license retained",
+      "role": "shader"
+    },
+    {
+      "path": "config/chacademi-chat-layout.json",
+      "sha256": "a65f51edcbbe2e8729f01b94957e403c3f8667117cbafa5e7a25912b1d34d29b",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/chacademi-chat-layout.json",
+      "license": "project-authorized client distribution",
+      "role": "mod-config"
+    },
+    {
+      "path": "config/chatplus/chatplus-v2.7.0.json",
+      "sha256": "996204f73e9d7fe128d8ecfb9fdd335c4e872e72fae71827dfacb5d543bdae1e",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/chatplus-v2.7.0.json",
+      "license": "project-authorized client distribution",
+      "role": "mod-config"
+    },
+    {
+      "path": "config/DistantHorizons.toml",
+      "sha256": "a05f00184c816ed36b5ee453fa427aad99b60e2d4ffe314dab68f119dc1a4ad6",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/DistantHorizons.toml",
+      "license": "project-authorized client distribution",
+      "role": "mod-config"
+    },
+    {
+      "path": "config/forgeconfigapiport.toml",
+      "sha256": "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/forgeconfigapiport.toml",
+      "license": "project-authorized client distribution",
+      "role": "mod-config"
+    },
+    {
+      "path": "config/iris-excluded.json",
+      "sha256": "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/iris-excluded.json",
+      "license": "project-authorized client distribution",
+      "role": "mod-config"
+    },
+    {
+      "path": "config/iris.properties",
+      "sha256": "adbff4dfad7b5f6ba7c33e8c3107018f657b68c3d52f5f53e1634b9973da394a",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/iris.properties",
+      "license": "project-authorized client distribution",
+      "role": "mod-config"
+    },
+    {
+      "path": "config/koreanpatch.json5",
+      "sha256": "0b9f2cbe0343ff078bc1966257f6e30d5ef1a13b77e1ef4e19762d1dd4671dcc",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/koreanpatch.json5",
+      "license": "project-authorized client distribution",
+      "role": "mod-config"
+    },
+    {
+      "path": "config/magiccodex/key-settings.yml",
+      "sha256": "3933d67ca78c4e52950c8170dab3405d2b8f6fb72c2395901b0238931a48e6e7",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/key-settings.yml",
+      "license": "project-authorized client distribution",
+      "role": "mod-config"
+    },
+    {
+      "path": "config/portablevfx/bloom.properties",
+      "sha256": "f1994fa57a188a84db9462e851e75752bcb2d72bd065cbdff648e835c8011a71",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/bloom.properties",
+      "license": "project-authorized client distribution",
+      "role": "mod-config"
+    },
+    {
+      "path": "config/portablevfx/load-limits.properties",
+      "sha256": "0cb92248de87200a4a850ae0a3cfa5dbd0b6f9b0e7a1da718560093b28c57aec",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/load-limits.properties",
+      "license": "project-authorized client distribution",
+      "role": "mod-config"
+    },
+    {
+      "path": "config/shouldersurfing-client.toml",
+      "sha256": "419bceefc7af8411dd60525682d32bd00d2e40b8743a354ac3ec7ba19c227055",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/shouldersurfing-client.toml",
+      "license": "project-authorized client distribution",
+      "role": "mod-config"
+    },
+    {
+      "path": "config/sodium-mixins.properties",
+      "sha256": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/sodium-mixins.properties",
+      "license": "project-authorized client distribution",
+      "role": "mod-config"
+    },
+    {
+      "path": "config/sodium-options.json",
+      "sha256": "00c7dd465e12693baeb0f9844848eb087f627d98827df51111b080af462d7d73",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/sodium-options.json",
+      "license": "project-authorized client distribution",
+      "role": "mod-config"
+    },
+    {
+      "path": "options.txt",
+      "sha256": "03ca88c66ae4eeb0e00622ed3768b6c4916c6188c02da7ebd7acc9c9c2cd7690",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/options.txt",
+      "license": "project-authorized client distribution",
+      "role": "options"
+    }
+  ]
+}

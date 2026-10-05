@@ -1,33 +1,19 @@
 # Chacademi Launcher
-Temporary Helios-based Minecraft 1.21.4/Fabric launcher for Chacademi.
-Based on [Helios Launcher by Daniel Scalzi](https://github.com/dscalzi/HeliosLauncher), retaining its MIT license.
-Contains launcher code, not account credentials, worlds, third-party JARs or commercial model sources.
 
-## Status
-Latest ae3735020ce0309bc80621a9e21ef5b0fff856d9 UI and all three explicitly approved resource transfers are staged and verified. Final release is pending the retained chacademy-motion client JAR transfer/publication authorization; no incomplete installer has been published.
-Windows setup and ZIP targets are prepared. Microsoft OAuth remains the normal flow, with no bypass or new registration.
-The installed launcher's public Microsoft client ID matches its original public source. The existing OAuth client ID, scopes and redirect flow are retained for continuity; no new app registration, credential or permission expansion is created.
-Use exact-hash official mod URLs or the original launcher publisher's URLs without rehosting binaries.
+Temporary Windows x64 launcher for Minecraft 1.21.4 / Fabric 0.18.4, based on Helios Launcher by Daniel Scalzi. Original MIT license and third-party notices are retained.
 
-## Release preparation
-Run tools/Build-Final.ps1 only in isolated hosting staging after freezing the final source commit and approved release-input.json.
-Supply mod-inventory.json and distribution-reviewed.json in the staging parent directory. Keep payload and real inputs out of Git.
-The gate requires final HUD/Bridge, retained mods, SHA256-matching assets, authorized download sources, the explicit blank background/model policy and existing authorized Microsoft client ID.
-Builds produce setup/ZIP and SHA256SUMS.txt without automatic publication.
-See THIRD-PARTY-NOTICES.md for credits and conditions.
+## Final v0.1.0
 
-## Pet model policy
-Use the separately distributed, approved 284-model GUI ZIP. The launcher verifies the bundle and per-file SHA256 then installs models before starting Java. A version stamp skips decompression on later launches. The existing PetBbModel renderer, asynchronous loading, three-model cache and texture upload behavior are unchanged. No ModelEngine reassembly or additional vanilla model set is introduced. All model originals remain outside public source Git.
+- [Windows installer](https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/Chacademi-Launcher-setup-0.1.0.exe)
+- [Windows ZIP](https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/Chacademi-Launcher-setup-0.1.0.zip)
+- [Release and checksums](https://github.com/zzunwoooo/chacademi-launcher/releases/tag/v0.1.0)
 
-The final HUD hash must match the client Magic Codex JAR. The Bridge hash is an integration readiness record only; no Bukkit/Bridge server plugin is installed into the client.
-The model ZIP is produced with tools/build-pet-bundle.py from the approved GUI model inventory, then delivered as the chacademi-pet-models.zip File module at config/magiccodex/pets/pets-models.zip. Actual model bytes remain outside this Git repository.
+This distribution uses integrated game source ae3735020ce0309bc80621a9e21ef5b0fff856d9 and the verified MagicCodex UI SHA256 68b1093ee8a3c266ee06ceae2aa5143e72398a600eea19af0dd3ba42b73e84a6. The matching Bridge is a server readiness record and is not installed into the client.
 
-Shader credit: Complementary Unbound by EminGTR. See THIRD-PARTY-NOTICES.md.
+The launcher downloads its 40 verified game modules before Play: 23 retained mods (the original Axiom exclusion), approved configuration, spell resourcepack, custom VFX, 284-model pet bundle and Complementary Unbound r5.5.1. Third-party mods use verified official/original publisher URLs. Project assets use immutable v0.1.0 Release URLs. No login tokens, passwords, API keys, worlds, session logs or private server settings are included.
 
-## Updates
-Install Chacademi Launcher once; the previous zzunwoo app does not migrate automatically. The new app checks its own GitHub Releases on startup and every 30 minutes. Windows NSIS updates require a newer version, matching latest.yml, setup and blockmap; publication is separate from staging builds. Game artifacts refresh before Play. Personal options and keybind/config files use seed policy and are preserved after first install. Only explicitly marked managed configurations are repaired from the manifest; mods and resources keep hash verification.
+Microsoft authentication retains the original public OAuth client ID and normal login flow. The background remains blank. Spell/VFX data are restored to their original relative paths before Java starts, with archive/member SHA256 checks and managed asset repair. Personal options, keybinds and other configuration retain seed policy. The original pet renderer is unchanged.
 
-Release handoff: docs/RELEASE-HANDOFF.md.
+The app uses this repository's own update feed; setup, latest.yml and blockmap are provided together. No existing server or launcher was replaced during this task, and no next feature update was started.
 
-## Client asset delivery
-Spell resourcepack and custom VFX data are distributed in a hashed client-assets ZIP and restored to their original relative paths before Java starts. Archive/member SHA256 validation and managed asset repair are separate from personal configuration seed preservation. See docs/RELEASE-HANDOFF.md for verified transfer counts and the remaining publication blocker.
+See [release handoff](docs/RELEASE-HANDOFF.md), [third-party notices](THIRD-PARTY-NOTICES.md) and [payload hashes](manifests/payload-sha256.json). The GPL chat-layout companion's corresponding source is provided in the Release. Complementary Unbound is credited to Complementary Development / EminGTR, with its original license retained.

@@ -27,6 +27,7 @@ def main(inp,payload,out):
  require({m['id'] for m in inventory if not m['excluded']}<={a.get('modId') for a in assets},'Retained mod missing; exclude only Axiom')
  distro=json.loads((ROOT/'distribution-reviewed.json').read_text(encoding='utf-8-sig'))
  server=distro['servers'][0];server.update(name='\ucc28\uce74\ub370\ubbf8',autoconnect=True,mainServer=True)
+ distro['rss']=None;distro.pop('discord',None);server.pop('discord',None)
  fabric=d.get('fabricModule')
  require(fabric and fabric.get('type')=='Fabric','Official verified Fabric module required')
  def official(m):

@@ -1,0 +1,607 @@
+{
+  "version": "1.0.0",
+  "rss": null,
+  "servers": [
+    {
+      "id": "launcher_v2-1.21.4",
+      "name": "차카데미",
+      "description": "Minecraft 1.21.4 (Fabric v0.18.4)",
+      "icon": "https://github.com/mchdistro/zzunwoo/raw/main/server-icon.png",
+      "version": "1.0.0",
+      "address": "스트리머.온라인.한국",
+      "minecraftVersion": "1.21.4",
+      "mainServer": true,
+      "autoconnect": true,
+      "javaOptions": {
+        "supported": "=>21",
+        "suggestedMajor": 21,
+        "platformOptions": [
+          {
+            "platform": "win32",
+            "architecture": "x64",
+            "distribution": "TEMURIN"
+          }
+        ],
+        "ram": {
+          "minimum": 4096,
+          "recommended": 8192
+        }
+      },
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.18.4",
+          "name": "Fabric Loader",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1944518,
+            "MD5": "56c00fa22e0452e8567be1feae73c3b9",
+            "SHA256": "ea300b841949a290641db8c137e3da205462a089a7472d8f1657179fd23bcf4a",
+            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar"
+          },
+          "subModules": [
+            {
+              "id": "fabric-loader-0.18.4-1.21.4",
+              "name": "Official Fabric profile",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2847,
+                "MD5": "791082c6894fc413cd49d8ee987d4bab",
+                "SHA256": "977110a9c838e3062845d29a68dba9ef0623ae730d5640cdb05e0ee4a7b49426",
+                "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.4/0.18.4/profile/json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.9",
+              "name": "asm",
+              "type": "Library",
+              "artifact": {
+                "size": 126122,
+                "MD5": "6d1dd0482c03a6dc1807d9d004456021",
+                "SHA256": "03d99a74ad1ee5c71334ef67437f4ef4fe3488caa7c96d8645abc73c8e2017d4",
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm/9.9/asm-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.9",
+              "name": "asm-analysis",
+              "type": "Library",
+              "artifact": {
+                "size": 35149,
+                "MD5": "f07383cfbd50f097558341a03b8871e1",
+                "SHA256": "6a15d28e8bd29ba4fd5bca4baf9b50e8fba2d7b51fbf78cfa0c875a7214c678b",
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.9",
+              "name": "asm-commons",
+              "type": "Library",
+              "artifact": {
+                "size": 74348,
+                "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
+                "SHA256": "db2f6f26150bbe7c126606b4a1151836bcc22a1e05a423b3585698bece995ff8",
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.9",
+              "name": "asm-tree",
+              "type": "Library",
+              "artifact": {
+                "size": 51947,
+                "MD5": "912eeaba1a63d574ffc66c651c7c6725",
+                "SHA256": "42178f3775c9c63f9e5e1446747d29b4eca4d91bd6e75e5c43cfa372a47d38c6",
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.9",
+              "name": "asm-util",
+              "type": "Library",
+              "artifact": {
+                "size": 94565,
+                "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
+                "SHA256": "3842e13cfe324ee9ab7cdc4914be9943541ead397c17e26daf0b8a755bede717",
+                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.17.0+mixin.0.8.7",
+              "name": "sponge-mixin",
+              "type": "Library",
+              "artifact": {
+                "size": 1505269,
+                "MD5": "d27dcb910788a0bd4bea72942a714093",
+                "SHA256": "e7889fcd185e4199052dcbcf0fe2128581cbf8630aea7feb37429667b1ba49a9",
+                "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.21.4",
+              "name": "intermediary",
+              "type": "Library",
+              "artifact": {
+                "size": 701826,
+                "MD5": "d0f4187a62328d4a95f3428434efbd48",
+                "SHA256": "6aea9971d72e14f03f2c167ee2c24edd5eb0a59fc3eaedcbdf5c2ad0f0c36786",
+                "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "bot.colla:donation:2.0.2@jar",
+          "name": "mods/donation-2.0.2.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 832983,
+            "MD5": "13e5465b5ed84d6b27082119c12e01fa",
+            "SHA256": "a0f145d7d6a2849491ee000656f333854ad86ec08e37d977b618490796bf9c05",
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/launcher_v2-1.21.4/fabricmods/required/donation-fabric-1.21.4-2.0.2.jar"
+          }
+        },
+        {
+          "id": "org.modrinth:nochatreports:1.21.4-v2.11.0@jar",
+          "name": "mods/nochatreports-1.21.4-v2.11.0.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 321286,
+            "MD5": "47bd3acbbaaf09dae1c5142dc5b3f41c",
+            "SHA256": "d633096f0e702ff3f0b0d4841ece0c1c9a63caf3d585b8623f9f5d9d74502702",
+            "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/9xt05630/NoChatReports-FABRIC-1.21.4-v2.11.0.jar"
+          }
+        },
+        {
+          "id": "com.example.keyevent:keyeventmod:1.21.4@jar",
+          "name": "mods/keyeventmod-1.21.4.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5937,
+            "MD5": "ff7141b1402454eddab71fa974d47614",
+            "SHA256": "e55ab1332b0d0647370845b1dcf6746c79299d953a5a989cc865d99daf7ae0ca",
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/launcher_v2-1.21.4/fabricmods/required/KeyChecker-1.21.4.jar"
+          }
+        },
+        {
+          "id": "org.modrinth:koreanpatch:1.8.5+mc1.21.3@jar",
+          "name": "mods/koreanpatch-1.8.5+mc1.21.3.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 578977,
+            "MD5": "fcf0f59c7f45c751af04527080bc4e28",
+            "SHA256": "f9a68b4f43d7ec9ba26cd9e0219b43d36b5e2265f9f850e844d3decd708c8e03",
+            "url": "https://cdn.modrinth.com/data/qyulnpBL/versions/Bch8tAuW/koreanpatch-fabric-1.8.5%2Bmc1.21.3.jar"
+          }
+        },
+        {
+          "id": "org.modrinth:fabric-api:0.119.4+1.21.4@jar",
+          "name": "mods/fabric-api-0.119.4+1.21.4.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2149128,
+            "MD5": "128a8d042180e7c92567342e21a21a6d",
+            "SHA256": "d183bacb845167f09264c2f90322b7ecffe8826debda6f60e597889264bef4af",
+            "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/p96k10UR/fabric-api-0.119.4%2B1.21.4.jar"
+          }
+        },
+        {
+          "id": "org.modrinth:iris:1.8.8+mc1.21.4@jar",
+          "name": "mods/iris-1.8.8+mc1.21.4.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2682702,
+            "MD5": "59d373e4874efbcb8fb426bdefa588d9",
+            "SHA256": "70571b23d4de17ae380515fb4c9dadd82d96f7ec1b573553858a07bb80445da9",
+            "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/Ca054sTe/iris-fabric-1.8.8%2Bmc1.21.4.jar"
+          }
+        },
+        {
+          "id": "org.modrinth:journeymap:1.21.4-6.0.0-beta.47@jar",
+          "name": "mods/journeymap-1.21.4-6.0.0-beta.47.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3514383,
+            "MD5": "8b092f8cca0a96d80eb8eeea24b5ebfd",
+            "SHA256": "30236d6da74c450106e176050f6f257a5a4615ec6aa5db5191bae55e75185739",
+            "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/bjbTbat1/journeymap-fabric-1.21.4-6.0.0-beta.47.jar"
+          }
+        },
+        {
+          "id": "org.modrinth:blurserveraddress:1.2.0+mc1.21.2@jar",
+          "name": "mods/blurserveraddress-1.2.0+mc1.21.2.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11418,
+            "MD5": "1294fe12bfc2d2dbe8e4541c27873fd2",
+            "SHA256": "a140283e286dde01b36c30f92a734bd6397e1548d5a11d9aa09a27e332afbe2a",
+            "url": "https://cdn.modrinth.com/data/559boQnq/versions/VPin7VZe/blurserveraddress-fabric-1.2.0%2Bmc1.21.2.jar"
+          }
+        },
+        {
+          "id": "org.modrinth:authme:9.0.1+1.21.4@jar",
+          "name": "mods/authme-9.0.1+1.21.4.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 376047,
+            "MD5": "3c220399e5c34dae32224818c7acaa6c",
+            "SHA256": "848eaae8ae84b2e3b567df05454d532ece707fa4754addf12d632afee3f645d3",
+            "url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/DfEuMvQ6/authme-fabric-9.0.1%2B1.21.4.jar"
+          }
+        },
+        {
+          "id": "org.modrinth:sodium:0.6.13+mc1.21.4@jar",
+          "name": "mods/sodium-0.6.13+mc1.21.4.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1306799,
+            "MD5": "28922a78d1876ee062e3265f10abcc46",
+            "SHA256": "92b79623fc00f0f948005a0ae416cb42a51646f2423b4036e27e867e4001a47e",
+            "url": "https://cdn.modrinth.com/data/AANobbMI/versions/c3YkZvne/sodium-fabric-0.6.13%2Bmc1.21.4.jar"
+          }
+        },
+        {
+          "id": "net.wurstclient.zoom:wi_zoom:1.6-MC1.21.4@jar",
+          "name": "mods/wi_zoom-1.6-MC1.21.4.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 154830,
+            "MD5": "1062016a1608823555c1bf16fafeb6cd",
+            "SHA256": "5cf262672de0159afec5ade4433d1cbe5efba2a1944cc10399a7c30efbde73a5",
+            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/launcher_v2-1.21.4/fabricmods/required/WI-Zoom-1.6-MC1.21.4.jar"
+          }
+        },
+        {
+          "id": "org.modrinth:plasmovoice:2.1.5@jar",
+          "name": "mods/plasmovoice-2.1.5.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12191569,
+            "MD5": "dde3cf502defa8513b1fb98afbc2dd11",
+            "SHA256": "12f670957dfe838747fce1582b84e8eb70b11556693e27d0ce4dfd8eea539d03",
+            "url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/vBm1h2pZ/plasmovoice-fabric-1.21.4-2.1.5.jar"
+          }
+        },
+        {
+          "id": "org.modrinth:architectury:15.0.3@jar",
+          "name": "mods/architectury-15.0.3-fabric.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 589645,
+            "MD5": "29796a5960d833cf95d6f46668c13d55",
+            "SHA256": "9e11f81ee786401a26de486a9798687559a5329fec3cd415e94fa3c3958352f3",
+            "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/73nlw3WM/architectury-15.0.3-fabric.jar"
+          }
+        },
+        {
+          "id": "kr.chacademi:chacademi_chat_layout:1.3.7@jar",
+          "name": "mods/chacademi-chat-layout-1.3.7.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 94149,
+            "MD5": "2747853688acfb94bca1fc74406203ff",
+            "SHA256": "b84744ab53cd0317379951e0b01986ff183900d4f7dc46fcef4b329ae3aaa8e1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/chacademi-chat-layout-1.3.7.jar"
+          }
+        },
+        {
+          "id": "kr.chacademi:chacademy_motion:0.1.0@jar",
+          "name": "mods/chacademy-motion-0.1.0.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 11416,
+            "MD5": "fd0b7a2cc055f2bb64cf67d312133758",
+            "SHA256": "e989c46d10435b479a3a226b540d35dd1421cda9e61bb48c59a120e96f971782",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/chacademy-motion-0.1.0.jar"
+          }
+        },
+        {
+          "id": "org.modrinth:chatplus:2.8.1@jar",
+          "name": "mods/chatplus-fabric-2.8.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 26907867,
+            "MD5": "b3b0ff00e23c339f939d44ff1bf8a9d8",
+            "SHA256": "8f8509ad9e1c1a52a0efe38c507bfbb710235e2f4d66412ead001d7da7479f9b",
+            "url": "https://cdn.modrinth.com/data/cJlZ132G/versions/87l7ajmu/chatplus-fabric-2.8.1.jar"
+          }
+        },
+        {
+          "id": "org.modrinth:distanthorizons:3.3.2@jar",
+          "name": "mods/DistantHorizons-3.3.2-1.21.4-fabric-neoforge.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 28017817,
+            "MD5": "9c70066bc8a8effbaaac0e1cc42286a3",
+            "SHA256": "4637de9fcc8cb80ddd6b7f4470e4e15b44ff8357ca19970c0e2ae86cb30498c2",
+            "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/t08qeDio/DistantHorizons-3.3.2-1.21.4-fabric-neoforge.jar"
+          }
+        },
+        {
+          "id": "org.modrinth:fabric-language-kotlin:1.13.6+kotlin.2.2.20@jar",
+          "name": "mods/fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7479598,
+            "MD5": "c1d19e5d8b325b55c11c767468005aa2",
+            "SHA256": "62c2773380fae0ce5cd01e6cfbdc34f6a2d42fd0734e5996e261bf7d8bf12ce3",
+            "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/i6MmXDwA/fabric-language-kotlin-1.13.6%2Bkotlin.2.2.20.jar"
+          }
+        },
+        {
+          "id": "org.modrinth:forgeconfigapiport:21.4.3@jar",
+          "name": "mods/ForgeConfigAPIPort-v21.4.3-1.21.4-Fabric.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 644183,
+            "MD5": "dbda05e27f5b2710d991196c66261df1",
+            "SHA256": "4e1c10e96a1a7f80bd988823f151db0da7eb073cf825c1d9ca3140013a638b10",
+            "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/SSKF75hc/ForgeConfigAPIPort-v21.4.3-1.21.4-Fabric.jar"
+          }
+        },
+        {
+          "id": "kr.chacademi:magiccodex:0.39.0-catalog.alpha.2+mc1.21.4@jar",
+          "name": "mods/magic-codex-ui-0.39.0-catalog.alpha.2+mc1.21.4.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 102805195,
+            "MD5": "71c8d10c8ff7b97c2bc0704c6229a641",
+            "SHA256": "68b1093ee8a3c266ee06ceae2aa5143e72398a600eea19af0dd3ba42b73e84a6",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/magic-codex-ui-0.39.0-catalog.alpha.2+mc1.21.4.jar"
+          }
+        },
+        {
+          "id": "org.modrinth:playeranimator:2.0.5+1.21.4@jar",
+          "name": "mods/player-animation-lib-fabric-2.0.5+1.21.4.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 202859,
+            "MD5": "4298800d4a528daa4df8135b1a37721d",
+            "SHA256": "3be94302d070f01222ada581def30a6aad142f36ef83890db5499715aea720d9",
+            "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/ZTeZ33xQ/player-animation-lib-fabric-2.0.5%2B1.21.4.jar"
+          }
+        },
+        {
+          "id": "kr.chacademi:portablevfx:3.2.0-catalog.alpha.4@jar",
+          "name": "mods/portable-vfx-client-3.2.0-catalog.alpha.4.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 363833,
+            "MD5": "6fdb61cb751be241698e4561c12ca711",
+            "SHA256": "b44066b093177501a6c1fa9c78b95296eb1b50928344188af872735e04c9f74d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/portable-vfx-client-3.2.0-catalog.alpha.4.jar"
+          }
+        },
+        {
+          "id": "org.modrinth:shouldersurfing:4.12.0@jar",
+          "name": "mods/ShoulderSurfing-Fabric-1.21.4-4.12.0.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 225894,
+            "MD5": "89e019f9de35d7e87786047580a04431",
+            "SHA256": "4513329b71788a9c4f784437b223d7e39b08292793519177612ac0322bba428d",
+            "url": "https://cdn.modrinth.com/data/kepjj2sy/versions/n8ilV1cO/ShoulderSurfing-Fabric-1.21.4-4.12.0.jar"
+          }
+        },
+        {
+          "id": "chacademi-pet-models.zip",
+          "name": "config/magiccodex/pets/pets-models.zip",
+          "type": "File",
+          "artifact": {
+            "size": 12102506,
+            "MD5": "227e1567f6785cf53d77cacd7c1736f7",
+            "SHA256": "b96250e19438ea24e20cb1d4612d4636428a0f1a2af0e08789766d541f940fe1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/pets-models.zip",
+            "path": "config/magiccodex/pets/pets-models.zip"
+          }
+        },
+        {
+          "id": "chacademi-client-assets.zip",
+          "name": "config/magiccodex/launcher/client-assets.zip",
+          "type": "File",
+          "artifact": {
+            "size": 630158873,
+            "MD5": "a6e1031480bd944c6b04b5aabfc3dc27",
+            "SHA256": "3db443a233ad3d389f4bbbed8d5744f172b2fe7bc934904502140a42ed84d126",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/client-assets.zip",
+            "path": "config/magiccodex/launcher/client-assets.zip"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+          "name": "shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 456332,
+            "MD5": "576ef06da170458879f3a03e685d487a",
+            "SHA256": "61d133b24b6a92e46a3d7df791bb2ff163bbba10eed59df979b9bd727c24fbaf",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/ComplementaryUnbound_r5.5.1.zip",
+            "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
+          }
+        },
+        {
+          "id": "config/chacademi-chat-layout.json",
+          "name": "config/chacademi-chat-layout.json",
+          "type": "File",
+          "artifact": {
+            "size": 480,
+            "MD5": "18bc20fe562b803d8eb9c515d2e7aa4d",
+            "SHA256": "a65f51edcbbe2e8729f01b94957e403c3f8667117cbafa5e7a25912b1d34d29b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/chacademi-chat-layout.json",
+            "path": "config/chacademi-chat-layout.json"
+          },
+          "updatePolicy": "seed"
+        },
+        {
+          "id": "config/chatplus/chatplus-v2.7.0.json",
+          "name": "config/chatplus/chatplus-v2.7.0.json",
+          "type": "File",
+          "artifact": {
+            "size": 16659,
+            "MD5": "6fec3b5682352b6e25bae0179dc5ddec",
+            "SHA256": "996204f73e9d7fe128d8ecfb9fdd335c4e872e72fae71827dfacb5d543bdae1e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/chatplus-v2.7.0.json",
+            "path": "config/chatplus/chatplus-v2.7.0.json"
+          },
+          "updatePolicy": "seed"
+        },
+        {
+          "id": "config/DistantHorizons.toml",
+          "name": "config/DistantHorizons.toml",
+          "type": "File",
+          "artifact": {
+            "size": 37984,
+            "MD5": "cd3689daa6e7bbc7ec8e3c9642082870",
+            "SHA256": "a05f00184c816ed36b5ee453fa427aad99b60e2d4ffe314dab68f119dc1a4ad6",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/DistantHorizons.toml",
+            "path": "config/DistantHorizons.toml"
+          },
+          "updatePolicy": "seed"
+        },
+        {
+          "id": "config/forgeconfigapiport.toml",
+          "name": "config/forgeconfigapiport.toml",
+          "type": "File",
+          "artifact": {
+            "size": 523,
+            "MD5": "80b3cd8edc58e5849bf5a7a0c48bd4ef",
+            "SHA256": "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/forgeconfigapiport.toml",
+            "path": "config/forgeconfigapiport.toml"
+          },
+          "updatePolicy": "seed"
+        },
+        {
+          "id": "config/iris-excluded.json",
+          "name": "config/iris-excluded.json",
+          "type": "File",
+          "artifact": {
+            "size": 31,
+            "MD5": "670592b1394f12ab96d8432f14ac8dd9",
+            "SHA256": "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/iris-excluded.json",
+            "path": "config/iris-excluded.json"
+          },
+          "updatePolicy": "seed"
+        },
+        {
+          "id": "config/iris.properties",
+          "name": "config/iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 313,
+            "MD5": "355c8c062240dee5748e3056ed3cd335",
+            "SHA256": "adbff4dfad7b5f6ba7c33e8c3107018f657b68c3d52f5f53e1634b9973da394a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/iris.properties",
+            "path": "config/iris.properties"
+          },
+          "updatePolicy": "seed"
+        },
+        {
+          "id": "config/koreanpatch.json5",
+          "name": "config/koreanpatch.json5",
+          "type": "File",
+          "artifact": {
+            "size": 1513,
+            "MD5": "db57d63145cae2aa9d67e8b160151008",
+            "SHA256": "0b9f2cbe0343ff078bc1966257f6e30d5ef1a13b77e1ef4e19762d1dd4671dcc",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/koreanpatch.json5",
+            "path": "config/koreanpatch.json5"
+          },
+          "updatePolicy": "seed"
+        },
+        {
+          "id": "config/magiccodex/key-settings.yml",
+          "name": "config/magiccodex/key-settings.yml",
+          "type": "File",
+          "artifact": {
+            "size": 216,
+            "MD5": "e8e909c9d99a030caa57b7af875ab6db",
+            "SHA256": "3933d67ca78c4e52950c8170dab3405d2b8f6fb72c2395901b0238931a48e6e7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/key-settings.yml",
+            "path": "config/magiccodex/key-settings.yml"
+          },
+          "updatePolicy": "seed"
+        },
+        {
+          "id": "config/portablevfx/bloom.properties",
+          "name": "config/portablevfx/bloom.properties",
+          "type": "File",
+          "artifact": {
+            "size": 113,
+            "MD5": "ea90cd1ea7cd290130a1fa5093824840",
+            "SHA256": "f1994fa57a188a84db9462e851e75752bcb2d72bd065cbdff648e835c8011a71",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/bloom.properties",
+            "path": "config/portablevfx/bloom.properties"
+          },
+          "updatePolicy": "seed"
+        },
+        {
+          "id": "config/portablevfx/load-limits.properties",
+          "name": "config/portablevfx/load-limits.properties",
+          "type": "File",
+          "artifact": {
+            "size": 196,
+            "MD5": "c70b2c5538a024389171d41a900f1ec2",
+            "SHA256": "0cb92248de87200a4a850ae0a3cfa5dbd0b6f9b0e7a1da718560093b28c57aec",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/load-limits.properties",
+            "path": "config/portablevfx/load-limits.properties"
+          },
+          "updatePolicy": "seed"
+        },
+        {
+          "id": "config/shouldersurfing-client.toml",
+          "name": "config/shouldersurfing-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 15117,
+            "MD5": "77023e6e3e5e4867e7fc8de09f5719b4",
+            "SHA256": "419bceefc7af8411dd60525682d32bd00d2e40b8743a354ac3ec7ba19c227055",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/shouldersurfing-client.toml",
+            "path": "config/shouldersurfing-client.toml"
+          },
+          "updatePolicy": "seed"
+        },
+        {
+          "id": "config/sodium-mixins.properties",
+          "name": "config/sodium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 258,
+            "MD5": "a5b6a84e034d60be869ae33f2dba4e2b",
+            "SHA256": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/sodium-mixins.properties",
+            "path": "config/sodium-mixins.properties"
+          },
+          "updatePolicy": "seed"
+        },
+        {
+          "id": "config/sodium-options.json",
+          "name": "config/sodium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 685,
+            "MD5": "aa01ef19d7217fbb88ed03f737384c66",
+            "SHA256": "00c7dd465e12693baeb0f9844848eb087f627d98827df51111b080af462d7d73",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/sodium-options.json",
+            "path": "config/sodium-options.json"
+          },
+          "updatePolicy": "seed"
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 7385,
+            "MD5": "3d26c10e5510ff21152d77d1b0ae6c59",
+            "SHA256": "03ca88c66ae4eeb0e00622ed3768b6c4916c6188c02da7ebd7acc9c9c2cd7690",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/options.txt",
+            "path": "options.txt"
+          },
+          "updatePolicy": "seed"
+        }
+      ]
+    }
+  ]
+}

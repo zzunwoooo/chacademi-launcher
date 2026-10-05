@@ -1,9 +1,12 @@
 {
-    "sourceCommit":  "ae3735020ce0309bc80621a9e21ef5b0fff856d9",
-    "hudSha256":  "68B1093EE8A3C266EE06CEAE2AA5143E72398A600EEA19AF0DD3BA42B73E84A6",
-    "bridgeSha256":  "DA81A97FF5687DA506F3B2D42683BD32922A7083497DDF23B7E1A478171B84CF",
-    "clientCopied":  "magic-codex-ui-0.39.0-catalog.alpha.2+mc1.21.4.jar",
-    "serverPluginsCopied":  false,
-    "assetManifestComplete":  false,
-    "releasePublished":  false
+  "status": "final verified distribution",
+  "sourceCommit": "ae3735020ce0309bc80621a9e21ef5b0fff856d9",
+  "hudSha256": "68b1093ee8a3c266ee06ceae2aa5143e72398a600eea19af0dd3ba42b73e84a6",
+  "bridgeSha256": "da81a97ff5687da506f3b2d42683bd32922a7083497ddf23b7e1a478171b84cf",
+  "launcherTag": "v0.1.0",
+  "modules": 40,
+  "retainedMods": 23,
+  "serverPluginsCopied": false,
+  "approvedOriginalResourceFiles": 1261,
+  "actualRestoredFiles": 1260
 }
