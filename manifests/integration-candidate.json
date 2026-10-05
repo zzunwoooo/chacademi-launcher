@@ -4,9 +4,10 @@
   "hudSha256": "68b1093ee8a3c266ee06ceae2aa5143e72398a600eea19af0dd3ba42b73e84a6",
   "bridgeSha256": "da81a97ff5687da506f3b2d42683bd32922a7083497ddf23b7e1a478171b84cf",
   "launcherTag": "v0.1.0",
-  "modules": 40,
   "retainedMods": 23,
   "serverPluginsCopied": false,
   "approvedOriginalResourceFiles": 1261,
-  "actualRestoredFiles": 1260
+  "actualRestoredFiles": 1260,
+  "payloadAssets": 40,
+  "topLevelModules": 41
 }

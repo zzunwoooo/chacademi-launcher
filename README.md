@@ -10,7 +10,7 @@ Temporary Windows x64 launcher for Minecraft 1.21.4 / Fabric 0.18.4, based on He
 
 This distribution uses integrated game source ae3735020ce0309bc80621a9e21ef5b0fff856d9 and the verified MagicCodex UI SHA256 68b1093ee8a3c266ee06ceae2aa5143e72398a600eea19af0dd3ba42b73e84a6. The matching Bridge is a server readiness record and is not installed into the client.
 
-The launcher downloads its 40 verified game modules before Play: 23 retained mods (the original Axiom exclusion), approved configuration, spell resourcepack, custom VFX, 284-model pet bundle and Complementary Unbound r5.5.1. Third-party mods use verified official/original publisher URLs. Project assets use immutable v0.1.0 Release URLs. No login tokens, passwords, API keys, worlds, session logs or private server settings are included.
+The launcher downloads its 40 verified game payload assets plus the official Fabric module and libraries before Play: 23 retained mods (the original Axiom exclusion), approved configuration, spell resourcepack, custom VFX, 284-model pet bundle and Complementary Unbound r5.5.1. Third-party mods use verified official/original publisher URLs. Project assets use immutable v0.1.0 Release URLs. No login tokens, passwords, API keys, worlds, session logs or private server settings are included.
 
 Microsoft authentication retains the original public OAuth client ID and normal login flow. The background remains blank. Spell/VFX data are restored to their original relative paths before Java starts, with archive/member SHA256 checks and managed asset repair. Personal options, keybinds and other configuration retain seed policy. The original pet renderer is unchanged.
 

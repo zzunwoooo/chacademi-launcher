@@ -10,7 +10,7 @@ All 23 retained client mods match original reviewed hashes, with the original Ax
 
 The three approved local resource transfers contain 1,261 files; every size and SHA256 matches the original. Actual archive restoration on hosting also matched all 1,260 resourcepack/VFX files at their original paths. The shader ZIP was verified separately. Spell/VFX archive paths are protected against traversal, links, duplicate/unexpected entries and hash mismatch. Its managed repair does not overwrite personal options or other seed configuration. The separately approved pet ZIP contains 284 existing GUI models and retains the existing renderer.
 
-The installer is the launcher application; its 40 game download modules are fetched automatically before Play. Public distribution.json and manifests/payload-sha256.json record their URLs and hashes. Config/account/login files, credentials, worlds, private server settings and logs are excluded. The original public Microsoft OAuth client ID and normal login flow are retained.
+The installer is the launcher application; its 40 game payload assets, plus the official Fabric module and libraries, are fetched automatically before Play. Public distribution.json and manifests/payload-sha256.json record their URLs and hashes. Config/account/login files, credentials, worlds, private server settings and logs are excluded. The original public Microsoft OAuth client ID and normal login flow are retained.
 
 ## Hosting build and tests
 
@@ -28,7 +28,7 @@ node tools/verify-updater.js dist
 
 For reproduction use a fresh staging output directory: the distribution gate intentionally refuses to overwrite nonempty release-output. Real release inputs and payload stay outside public source Git. Hosting reviewed final feed output is release-output-final; original template RSS/Discord placeholders were removed.
 
-Passed: final privacy/license/hash gate for 40 modules; lint; seven client-asset integration scenarios; five pet-model tests; settings seed/managed/canonical/traversal checks; offline seed cache check; actual original-path restore of 1,260 files; installer/ZIP packaging; updater feed/latest.yml SHA512 and sizes/blockmap; ASAR source matching and private-input exclusion. The integrated game modules previously passed 389 JUnit tests (192/12/185).
+Passed: final privacy/license/hash gate for 40 payload assets; lint; seven client-asset integration scenarios; five pet-model tests; settings seed/managed/canonical/traversal checks; offline seed cache check; actual original-path restore of 1,260 files; installer/ZIP packaging; updater feed/latest.yml SHA512 and sizes/blockmap; ASAR source matching and private-input exclusion. The integrated game modules previously passed 389 JUnit tests (192/12/185).
 
 Not exercised: real Microsoft login, Java game launch/server join, in-game rendering and live automatic installer update. The Windows installer is unsigned (Authenticode NotSigned). All builds/tests ran on hosting; no laptop build/game run occurred. No existing server/launcher replacement, DB account change, migration, restart or next feature update was performed.
 
@@ -42,3 +42,5 @@ Not exercised: real Microsoft login, Java game launch/server join, in-game rende
 [Installer](https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/Chacademi-Launcher-setup-0.1.0.exe) · [ZIP](https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/Chacademi-Launcher-setup-0.1.0.zip) · [SHA256SUMS](https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/SHA256SUMS.txt)
 
 Credit: Helios Launcher / Daniel Scalzi (MIT); Complementary Development / EminGTR (original Complementary license retained). See THIRD-PARTY-NOTICES.md and per-module license/source metadata.
+
+Publication verified: all 29 GitHub Release assets matched original sizes and platform SHA256 digests. Anonymous installer download matched its SHA256. The public game feed matches reviewed content after Git CRLF/LF normalization and has 40 payload assets plus one Fabric module (41 top-level entries). Immutable release tag source: 666c9c3c594a57d885cca1d8aa00af768630e1f9; subsequent changes only clarify documentation/metadata counts.
