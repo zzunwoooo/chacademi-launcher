@@ -19,7 +19,8 @@ extraResources:
   - 'libraries'
 
 # Windows Configuration
-win: 
+win:
+  signAndEditExecutable: false
   target: 
     - target: 'zip'
       arch: 'x64'
