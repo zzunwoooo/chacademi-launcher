@@ -4,7 +4,7 @@ Based on [Helios Launcher by Daniel Scalzi](https://github.com/dscalzi/HeliosLau
 Contains launcher code, not account credentials, worlds, third-party JARs or commercial model sources.
 
 ## Status
-Latest ae3735020ce0309bc80621a9e21ef5b0fff856d9 UI and all three explicitly approved resource transfers are staged and verified. Final release is pending the additional retained VFX client JAR authorization; no incomplete installer has been published.
+Latest ae3735020ce0309bc80621a9e21ef5b0fff856d9 UI and all three explicitly approved resource transfers are staged and verified. Final release is pending the retained chacademy-motion client JAR transfer/publication authorization; no incomplete installer has been published.
 Windows setup and ZIP targets are prepared. Microsoft OAuth remains the normal flow, with no bypass or new registration.
 The installed launcher's public Microsoft client ID matches its original public source. The existing OAuth client ID, scopes and redirect flow are retained for continuity; no new app registration, credential or permission expansion is created.
 Use exact-hash official mod URLs or the original launcher publisher's URLs without rehosting binaries.

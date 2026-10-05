@@ -1,6 +1,6 @@
 # Launcher release handoff
 
-Status: ae373502 UI staged; all three explicitly approved resource transfers are SHA256-verified. Final installer and public Release remain pending the missing portable-vfx-client JAR authorization.
+Status: ae373502 UI and approved resources/VFX client are verified. Final installer/Release awaits the explicit transfer and publication authorization for the retained chacademy-motion client JAR.
 
 ## Installation and updates
 Install the new Chacademi Launcher once. The existing zzunwoo application does not migrate automatically. Normal Microsoft login remains required. The verified existing server domain is retained for automatic connection. The background is blank.
@@ -27,8 +27,10 @@ User approved launcher integration; no production server or existing PC launcher
 
 The resourcepack and VFX effects use a verified client-assets ZIP, extracted to the original resourcepacks/chacademia-spells and config/portablevfx/effects paths before Java starts. Archive and per-member SHA256 are checked, traversal/extra entries/links are rejected, and altered managed assets are repaired. Personal options and other approved configuration retain seed policy. Seven client-asset integration scenarios, five pet bundle tests, settings/offline seed checks and lint passed on hosting.
 
-The staging payload is missing portable-vfx-client-3.2.0-catalog.alpha.4.jar (expected SHA256 b44066b093177501a6c1fa9c78b95296eb1b50928344188af872735e04c9f74d). Automatic permission review rejected an additional local JAR transfer because authorization and public redistribution rights for this fourth item were not confirmed. Additional explicit copy/publication approval is pending. No alternative transfer or replacement VFX build was performed. The final build gate remains intact; no incomplete final Release was published.
+The user directly approved the retained portable-vfx-client JAR transfer/publication; it is now staged and matches SHA256 b44066b093177501a6c1fa9c78b95296eb1b50928344188af872735e04c9f74d. Full inventory verification found one more original client artifact absent from hosting: chacademy-motion-0.1.0.jar, 11,416 bytes, SHA256 e989c46d10435b479a3a226b540d35dd1421cda9e61bb48c59a120e96f971782. Its metadata names Chacademy as author and All-Rights-Reserved as license. Automatic review rejected its additional transfer because specific copy/publication authorization was not confirmed. That direct authorization is pending; no alternate transfer/rebuild was attempted. All 22 staged retained mods match original hashes; Axiom remains the original exclusion. No incomplete installer Release was published.
 
 Do not reinstall or replace the existing server/launcher. No next update work has started. Live Microsoft login, game launch and real updater installation remain unverified.
 
 Actual approved archive restoration also passed: all 1,260 resourcepack/VFX files were installed in an isolated hosting test instance at the original relative paths and matched original per-file SHA256. The shader ZIP was separately included in the 1,261-file transfer verification. No live game or login was launched.
+
+A corresponding-source ZIP for the existing GPL-3.0-only chat layout companion has also been prepared on hosting for the eventual Release, including source, build scripts, LICENSE and NOTICE. No new feature update has started.
