@@ -4,7 +4,7 @@ Based on [Helios Launcher by Daniel Scalzi](https://github.com/dscalzi/HeliosLau
 Contains launcher code, not account credentials, worlds, third-party JARs or commercial model sources.
 
 ## Status
-Historical HUD/Bridge verified against ae8644fe777b06c4fbf80a014394d9b433776032. Final release is held for the new shop UI integration and complete assets. The launcher uses an approved calm, blank background; no generated image is required. No final installer release is published.
+Historical HUD/Bridge verified against ae8644fe777b06c4fbf80a014394d9b433776032. Latest shop UI integration ae3735020ce0309bc80621a9e21ef5b0fff856d9 is approved and staged; final release remains held for complete assets and verified download manifest. The launcher uses an approved calm, blank background; no generated image is required. No final installer release is published.
 Windows setup and ZIP targets are prepared. Microsoft OAuth remains the normal flow, with no bypass or new registration.
 The installed launcher's public Microsoft client ID matches its original public source. The existing OAuth client ID, scopes and redirect flow are retained for continuity; no new app registration, credential or permission expansion is created.
 Use exact-hash official mod URLs or the original launcher publisher's URLs without rehosting binaries.

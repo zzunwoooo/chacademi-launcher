@@ -1,6 +1,6 @@
 # Launcher release handoff
 
-Status: HOLD. Await the parent-approved HUD after the requested shop UI revisions. Historical HUD 131e51df54e42250c020347a9cb788b1b613c3a9886eb8f874e93ef608ff40eb is not the final release candidate.
+Status: latest integration ae3735020ce0309bc80621a9e21ef5b0fff856d9 approved and UI staged. Complete release remains HOLD for missing assets and verified download manifest.
 
 ## Installation and updates
 Install the new Chacademi Launcher once. The existing zzunwoo application does not migrate automatically. Normal Microsoft login remains required. The verified existing server domain is retained for automatic connection. The background is blank.
@@ -16,3 +16,9 @@ Model inventory/hash packaging and five installer-helper tests passed. Personal 
 Isolated installer-smoke produced Setup/ZIP/latest.yml/blockmap. Update feed and SHA512/size passed after matching stable hyphenated artifact names. These are packaging checks, not a final client or live update test. Rebuild from final source and complete asset manifest.
 Remaining exact transfer targets: resourcepacks/chacademia-spells, config/portablevfx/effects, shaderpacks/ComplementaryUnbound_r5.5.1.zip into matching paths under chacademi-host:C:/Chacademi/staging/launcher-20261005-task11/payload/. Resourcepack transfer was denied by automatic approval review; no retry or workaround performed. A general Git/build/documentation update instruction does not specify this payload/destination authorization.
 After new HUD approval and complete assets: freeze hashes/source, run Build-Final.ps1, verify updater metadata and SHA256SUMS, then publish approved Releases and update this MD with verified download links. Parent coordinates the Claude shared destination; do not guess or replace a shared workspace.
+## Latest integrated candidate
+Source: ae3735020ce0309bc80621a9e21ef5b0fff856d9 (codex/shop-ui-refine-20261005).
+UI SHA256: 68b1093ee8a3c266ee06ceae2aa5143e72398a600eea19af0dd3ba42b73e84a6.
+Bridge readiness SHA256: da81a97ff5687da506f3b2d42683bd32922a7083497ddf23b7e1a478171b84cf; server JAR excluded from client.
+389 existing JUnit tests passed (192/12/185); runtime QA remains pending. SHP2 requires matching Bridge/UI.
+User approved launcher integration; no production server or existing PC launcher changes here. No further update work starts after this handoff while waiting for Claude.
