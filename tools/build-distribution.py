@@ -1,6 +1,6 @@
 import json,pathlib,hashlib,re,sys,urllib.parse,zipfile
 ROOT=pathlib.Path(__file__).resolve().parents[2]
-ROLES={'magiccodex','portablevfx','resourcepack','pets-models-bundle','custom-vfx','options','mod-config','shader'}
+ROLES={'magiccodex','portablevfx','resourcepack','pets-models-bundle','custom-vfx','client-assets-bundle','options','mod-config','shader'}
 DENY=re.compile(r'(^|/)(logs?|screenshots|chatlogs|saves|world.*|playerdata|journeymap|waypoints|\.ssh|authme.jsonc|chzzk.json|sodium-fingerprint.json|servers.dat.*|config.json|usercache.json|server.properties|velocity.toml|.*\.(key|pem|pfx|bak))(/|$)',re.I)
 def require(ok,msg):
  if not ok: raise ValueError(msg)
@@ -22,7 +22,7 @@ def main(inp,payload,out):
   if a.get('path','').lower().endswith('.bbmodel') or a.get('role')=='pets-models':
    require(False,'Individual bbmodel artifacts are excluded; use the separate approved ZIP')
 
- require(ROLES<={a.get('role') for a in assets},'Required final HUD/Bridge/assets missing')
+ require((ROLES-{'resourcepack','custom-vfx'})<={a.get('role') for a in assets},'Required final HUD/Bridge/assets missing')
  inventory=json.loads((ROOT/'mod-inventory.json').read_text(encoding='utf-8-sig'))
  require({m['id'] for m in inventory if not m['excluded']}<={a.get('modId') for a in assets},'Retained mod missing; exclude only Axiom')
  distro=json.loads((ROOT/'distribution-reviewed.json').read_text(encoding='utf-8-sig'))
@@ -46,6 +46,21 @@ def main(inp,payload,out):
   u=urllib.parse.urlsplit(a['url'])
   require(u.scheme=='https' and u.hostname and not u.username and not u.password and not u.query and not u.fragment and a.get('downloadAuthorized') is True,'Authorized credential-free HTTPS URL required')
   f=(payload/pathlib.Path(*p.parts)).resolve();require(f.is_relative_to(payload) and f.is_file(),'Missing asset or payload traversal')
+  if a.get('role')=='client-assets-bundle':
+   require(rel=='config/magiccodex/launcher/client-assets.zip' and a.get('id')=='chacademi-client-assets.zip','Client asset bundle contract invalid')
+   with zipfile.ZipFile(f) as pack:
+    manifest=json.loads(pack.read('manifest.json'));names={'manifest.json'};prefixes=set();total=0
+    require(0<len(manifest['files'])<=2000,'Client asset count invalid')
+    for item in manifest['files']:
+     name=item['path'];parts=pathlib.PurePosixPath(name)
+     require(not parts.is_absolute() and '..' not in parts.parts and '\\' not in name and ':' not in name and name not in names,'Unsafe client asset member')
+     prefix=next((x for x in ['resourcepacks/chacademia-spells/','config/portablevfx/effects/'] if name.startswith(x)),None)
+     require(prefix is not None,'Unapproved client asset destination');prefixes.add(prefix);names.add(name)
+     raw=pack.read(name);total+=len(raw)
+     require(len(raw)==item['bytes'] and hashlib.sha256(raw).hexdigest()==item['sha256'],'Client asset member hash mismatch')
+     if parts.suffix.lower() in {'.json','.json5','.jsonc','.properties','.toml','.txt','.yml','.yaml'}:
+      require(not re.search(rb'(?i)(access.?token|refresh.?token|client.?secret|password|forwarding.?secret|private.?key)\s*[" ]*[:=]',raw),'Sensitive client asset field')
+    require(len(prefixes)==2 and total<=1024*1024*1024 and len(pack.namelist())==len(names) and set(pack.namelist())==names,'Client asset bundle incomplete or unexpected members')
   if a.get('role')=='pets-models-bundle':
    require(rel=='config/magiccodex/pets/pets-models.zip' and a.get('id')=='chacademi-pet-models.zip','Pet bundle destination or module ID invalid')
    with zipfile.ZipFile(f) as pack:

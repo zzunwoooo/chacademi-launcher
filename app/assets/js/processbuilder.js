@@ -10,6 +10,7 @@ const path                  = require('path')
 
 const ConfigManager            = require('./configmanager')
 const PetModels = require('./petmodels')
+const ClientAssets = require('./clientassets')
 
 const logger = LoggerUtil.getLogger('ProcessBuilder')
 
@@ -49,6 +50,8 @@ class ProcessBuilder {
         fs.ensureDirSync(this.gameDir)
         const modelModule = this.server.rawServer.modules.find(module => module.id === 'chacademi-pet-models.zip')
         logger.info('Pet model bundle prepared:', PetModels.install(this.gameDir, modelModule))
+        const assetModule = this.server.rawServer.modules.find(module => module.id === 'chacademi-client-assets.zip')
+        logger.info('Spell and VFX assets verified:', ClientAssets.install(this.gameDir, assetModule))
         const tempNativePath = path.join(os.tmpdir(), ConfigManager.getTempNativeFolder(), crypto.pseudoRandomBytes(16).toString('hex'))
         process.throwDeprecation = true
         this.setupLiteLoader()

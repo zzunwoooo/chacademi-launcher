@@ -4,7 +4,7 @@ Based on [Helios Launcher by Daniel Scalzi](https://github.com/dscalzi/HeliosLau
 Contains launcher code, not account credentials, worlds, third-party JARs or commercial model sources.
 
 ## Status
-Historical HUD/Bridge verified against ae8644fe777b06c4fbf80a014394d9b433776032. Latest shop UI integration ae3735020ce0309bc80621a9e21ef5b0fff856d9 is approved and staged; final release remains held for complete assets and verified download manifest. The launcher uses an approved calm, blank background; no generated image is required. No final installer release is published.
+Latest ae3735020ce0309bc80621a9e21ef5b0fff856d9 UI and all three explicitly approved resource transfers are staged and verified. Final release is pending the additional retained VFX client JAR authorization; no incomplete installer has been published.
 Windows setup and ZIP targets are prepared. Microsoft OAuth remains the normal flow, with no bypass or new registration.
 The installed launcher's public Microsoft client ID matches its original public source. The existing OAuth client ID, scopes and redirect flow are retained for continuity; no new app registration, credential or permission expansion is created.
 Use exact-hash official mod URLs or the original launcher publisher's URLs without rehosting binaries.
@@ -28,3 +28,6 @@ Shader credit: Complementary Unbound by EminGTR. See THIRD-PARTY-NOTICES.md.
 Install Chacademi Launcher once; the previous zzunwoo app does not migrate automatically. The new app checks its own GitHub Releases on startup and every 30 minutes. Windows NSIS updates require a newer version, matching latest.yml, setup and blockmap; publication is separate from staging builds. Game artifacts refresh before Play. Personal options and keybind/config files use seed policy and are preserved after first install. Only explicitly marked managed configurations are repaired from the manifest; mods and resources keep hash verification.
 
 Release handoff: docs/RELEASE-HANDOFF.md.
+
+## Client asset delivery
+Spell resourcepack and custom VFX data are distributed in a hashed client-assets ZIP and restored to their original relative paths before Java starts. Archive/member SHA256 validation and managed asset repair are separate from personal configuration seed preservation. See docs/RELEASE-HANDOFF.md for verified transfer counts and the remaining publication blocker.
