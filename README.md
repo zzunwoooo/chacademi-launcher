@@ -23,3 +23,6 @@ The final HUD hash must match the client Magic Codex JAR. The Bridge hash is an 
 The model ZIP is produced with tools/build-pet-bundle.py from the approved GUI model inventory, then delivered as the chacademi-pet-models.zip File module at config/magiccodex/pets/pets-models.zip. Actual model bytes remain outside this Git repository.
 
 Shader credit: Complementary Unbound by EminGTR. See THIRD-PARTY-NOTICES.md.
+
+## Updates
+Install Chacademi Launcher once; the previous zzunwoo app does not migrate automatically. The new app checks its own GitHub Releases on startup and every 30 minutes. Windows NSIS updates require a newer version, matching latest.yml, setup and blockmap; publication is separate from staging builds. Game artifacts refresh before Play. Personal options and keybind/config files use seed policy and are preserved after first install. Only explicitly marked managed configurations are repaired from the manifest; mods and resources keep hash verification.

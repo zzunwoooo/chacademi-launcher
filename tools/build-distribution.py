@@ -61,11 +61,15 @@ def main(inp,payload,out):
   raw=f.read_bytes();sha=hashlib.sha256(raw).hexdigest();require(sha==a['sha256'],'SHA256 mismatch: '+rel)
   if f.suffix in {'.json','.jsonc','.toml','.properties','.txt','.yml','.yaml'}:
    require(not re.search(rb'(?i)(access.?token|refresh.?token|client.?secret|password|forwarding.?secret|private.?key)\s*[" ]*[:=]',raw),'Sensitive field detected')
+  policy=a.get('updatePolicy')
+  personal=rel=='options.txt' or rel.startswith('config/') and not rel.endswith('pets-models.zip') or rel.endswith('.zip.txt')
+  require(not personal or policy in {'seed','managed'},'Configuration update policy required')
+  require(policy!='managed' or bool(a.get('managedReason')),'Managed configuration reason required')
   art={'size':len(raw),'MD5':hashlib.md5(raw).hexdigest(),'SHA256':sha,'url':a['url']}
   typ='FabricMod' if a.get('modId') else 'File';mid=a.get('id',rel)
   if typ=='FabricMod':require(mid.endswith('@jar'),'Maven mod ID ending @jar required')
   else:art['path']=rel
-  server['modules'].append({'id':mid,'name':a.get('name',rel),'type':typ,'artifact':art})
+  server['modules'].append({'id':mid,'name':a.get('name',rel),'type':typ,'artifact':art,**({'updatePolicy':policy} if policy else {})})
   checks.append({'path':rel,'sha256':sha,'url':a['url'],'license':a['license'],'role':a['role']})
  out=pathlib.Path(out);require(not out.exists() or not any(out.iterdir()),'Output must be empty');out.mkdir(parents=True,exist_ok=True)
  for name,data in [('distribution.json',distro),('payload-sha256.json',{'sourceCommit':d['sourceCommit'],'integrationComponents':components,'backgroundMode':'blank','modelPolicy':d['modelPolicy'],'petModelStatus':'approved separate ZIP installed before launch; existing renderer unchanged','assets':checks})]:

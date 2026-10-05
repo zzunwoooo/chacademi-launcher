@@ -56,3 +56,11 @@ linux:
 directories:
   buildResources: 'build'
   output: 'dist'
+
+publish:
+  provider: github
+  owner: zzunwoooo
+  repo: chacademi-launcher
+  releaseType: release
+
+forceCodeSigning: false

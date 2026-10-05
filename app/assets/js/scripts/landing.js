@@ -30,6 +30,7 @@ const {
 // Internal Requirements
 const DiscordWrapper          = require('./assets/js/discordwrapper')
 const ProcessBuilder          = require('./assets/js/processbuilder')
+const SettingsPolicy          = require('./assets/js/settingspolicy')
 
 // Launch Elements
 const launch_content          = document.getElementById('launch_content')
@@ -486,6 +487,7 @@ async function dlAsync(login = true) {
         DistroAPI.isDevMode()
     )
 
+    await DistroAPI.writeDistributionToDisk(await SettingsPolicy.prepare(distro, ConfigManager.getInstanceDirectory()))
     fullRepairModule.spawnReceiver()
 
     fullRepairModule.childProcess.on('error', (err) => {
