@@ -121,13 +121,6 @@
       "role": "mod"
     },
     {
-      "path": "mods/DistantHorizons-3.3.2-1.21.4-fabric-neoforge.jar",
-      "sha256": "4637de9fcc8cb80ddd6b7f4470e4e15b44ff8357ca19970c0e2ae86cb30498c2",
-      "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/t08qeDio/DistantHorizons-3.3.2-1.21.4-fabric-neoforge.jar",
-      "license": "LGPL-3",
-      "role": "mod"
-    },
-    {
       "path": "mods/fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
       "sha256": "62c2773380fae0ce5cd01e6cfbdc34f6a2d42fd0734e5996e261bf7d8bf12ce3",
       "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/i6MmXDwA/fabric-language-kotlin-1.13.6%2Bkotlin.2.2.20.jar",

@@ -306,17 +306,6 @@
           }
         },
         {
-          "id": "org.modrinth:distanthorizons:3.3.2@jar",
-          "name": "mods/DistantHorizons-3.3.2-1.21.4-fabric-neoforge.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 28017817,
-            "MD5": "9c70066bc8a8effbaaac0e1cc42286a3",
-            "SHA256": "4637de9fcc8cb80ddd6b7f4470e4e15b44ff8357ca19970c0e2ae86cb30498c2",
-            "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/t08qeDio/DistantHorizons-3.3.2-1.21.4-fabric-neoforge.jar"
-          }
-        },
-        {
           "id": "org.modrinth:fabric-language-kotlin:1.13.6+kotlin.2.2.20@jar",
           "name": "mods/fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
           "type": "FabricMod",
