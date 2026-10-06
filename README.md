@@ -1,3 +1,8 @@
+## Latest release: v0.1.1
+
+[Setup](https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.1/Chacademi-Launcher-setup-0.1.1.exe) | [ZIP](https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.1/Chacademi-Launcher-setup-0.1.1.zip) | [Release/checksums](https://github.com/zzunwoooo/chacademi-launcher/releases/tag/v0.1.1)
+
+Integrated game source 6f5a59dc2994a20b65127dc5b5d6659bfdd89876. Includes the final lowered gold display, integrated UI/commands/shiny fixes, smooth icons, chat-layout 1.3.8 and its verified corresponding source. Existing VFX/models/shaders/seed configuration are retained; Axiom excluded, background blank. [v0.1.1 handoff](docs/RELEASE-0.1.1.md). v0.1.0 remains available; unchanged assets reuse its immutable URLs.
 # Chacademi Launcher
 
 Temporary Windows x64 launcher for Minecraft 1.21.4 / Fabric 0.18.4, based on Helios Launcher by Daniel Scalzi. Original MIT license and third-party notices are retained.

@@ -273,14 +273,14 @@
           }
         },
         {
-          "id": "kr.chacademi:chacademi_chat_layout:1.3.7@jar",
-          "name": "mods/chacademi-chat-layout-1.3.7.jar",
+          "id": "kr.chacademi:chacademi_chat_layout:1.3.8@jar",
+          "name": "mods/chacademi-chat-layout-1.3.8.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 94149,
-            "MD5": "2747853688acfb94bca1fc74406203ff",
-            "SHA256": "b84744ab53cd0317379951e0b01986ff183900d4f7dc46fcef4b329ae3aaa8e1",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/chacademi-chat-layout-1.3.7.jar"
+            "size": 96462,
+            "MD5": "ff3dc13487fc8f4f9d53de71f0ec284a",
+            "SHA256": "f63aeb997328645e174e9df7ae35331f06bf6f24b7e7ba2ccc088942ec8f3966",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.1/chacademi-chat-layout-1.3.8.jar"
           }
         },
         {
@@ -343,10 +343,10 @@
           "name": "mods/magic-codex-ui-0.39.0-catalog.alpha.2+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 102805195,
-            "MD5": "71c8d10c8ff7b97c2bc0704c6229a641",
-            "SHA256": "68b1093ee8a3c266ee06ceae2aa5143e72398a600eea19af0dd3ba42b73e84a6",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/magic-codex-ui-0.39.0-catalog.alpha.2+mc1.21.4.jar"
+            "size": 102852380,
+            "MD5": "789512a8474829a3ff6306b5d2ac12b1",
+            "SHA256": "173b1eb4f00cb5ac26abf1ae6241d5d88dee3a10a129c2eed54511b5f4c4f1dc",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.1/magic-codex-ui-0.39.0-catalog.alpha.2+mc1.21.4.jar"
           }
         },
         {

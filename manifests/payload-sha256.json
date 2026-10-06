@@ -1,8 +1,8 @@
 {
-  "sourceCommit": "ae3735020ce0309bc80621a9e21ef5b0fff856d9",
+  "sourceCommit": "6f5a59dc2994a20b65127dc5b5d6659bfdd89876",
   "integrationComponents": {
-    "hudSha256": "68b1093ee8a3c266ee06ceae2aa5143e72398a600eea19af0dd3ba42b73e84a6",
-    "bridgeSha256": "da81a97ff5687da506f3b2d42683bd32922a7083497ddf23b7e1a478171b84cf"
+    "hudSha256": "173b1eb4f00cb5ac26abf1ae6241d5d88dee3a10a129c2eed54511b5f4c4f1dc",
+    "bridgeSha256": "f2708a60c7ef4c949d676789749be7ec79671cffafc3767eb5e6fffde6107e35"
   },
   "backgroundMode": "blank",
   "modelPolicy": "bbmodel-bundle",
@@ -100,10 +100,10 @@
       "role": "mod"
     },
     {
-      "path": "mods/chacademi-chat-layout-1.3.7.jar",
-      "sha256": "b84744ab53cd0317379951e0b01986ff183900d4f7dc46fcef4b329ae3aaa8e1",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/chacademi-chat-layout-1.3.7.jar",
-      "license": "project-authorized client distribution",
+      "path": "mods/chacademi-chat-layout-1.3.8.jar",
+      "sha256": "f63aeb997328645e174e9df7ae35331f06bf6f24b7e7ba2ccc088942ec8f3966",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.1/chacademi-chat-layout-1.3.8.jar",
+      "license": "GPL-3.0-only",
       "role": "chacademi_chat_layout"
     },
     {
@@ -143,8 +143,8 @@
     },
     {
       "path": "mods/magic-codex-ui-0.39.0-catalog.alpha.2+mc1.21.4.jar",
-      "sha256": "68b1093ee8a3c266ee06ceae2aa5143e72398a600eea19af0dd3ba42b73e84a6",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/magic-codex-ui-0.39.0-catalog.alpha.2+mc1.21.4.jar",
+      "sha256": "173b1eb4f00cb5ac26abf1ae6241d5d88dee3a10a129c2eed54511b5f4c4f1dc",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.1/magic-codex-ui-0.39.0-catalog.alpha.2+mc1.21.4.jar",
       "license": "project-authorized client distribution",
       "role": "magiccodex"
     },

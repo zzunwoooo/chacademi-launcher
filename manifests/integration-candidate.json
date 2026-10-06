@@ -1,13 +1,11 @@
 {
-  "status": "final verified distribution",
-  "sourceCommit": "ae3735020ce0309bc80621a9e21ef5b0fff856d9",
-  "hudSha256": "68b1093ee8a3c266ee06ceae2aa5143e72398a600eea19af0dd3ba42b73e84a6",
-  "bridgeSha256": "da81a97ff5687da506f3b2d42683bd32922a7083497ddf23b7e1a478171b84cf",
-  "launcherTag": "v0.1.0",
-  "retainedMods": 23,
-  "serverPluginsCopied": false,
-  "approvedOriginalResourceFiles": 1261,
-  "actualRestoredFiles": 1260,
-  "payloadAssets": 40,
-  "topLevelModules": 41
+    "status":  "verified v0.1.1 final integrated gold-position hotfix",
+    "sourceCommit":  "6f5a59dc2994a20b65127dc5b5d6659bfdd89876",
+    "hudSha256":  "173b1eb4f00cb5ac26abf1ae6241d5d88dee3a10a129c2eed54511b5f4c4f1dc",
+    "bridgeSha256":  "f2708a60c7ef4c949d676789749be7ec79671cffafc3767eb5e6fffde6107e35",
+    "launcherTag":  "v0.1.1",
+    "payloadAssets":  40,
+    "retainedMods":  23,
+    "serverPluginsCopied":  false,
+    "publicationApproved":  true
 }

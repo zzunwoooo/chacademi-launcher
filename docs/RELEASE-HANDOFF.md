@@ -1,3 +1,5 @@
+Latest v0.1.1 details: [RELEASE-0.1.1.md](RELEASE-0.1.1.md). The material below records the preserved v0.1.0 release.
+
 # Final launcher release — 2026-10-06 (KST)
 
 Version: v0.1.0, Windows x64. [Release](https://github.com/zzunwoooo/chacademi-launcher/releases/tag/v0.1.0).
