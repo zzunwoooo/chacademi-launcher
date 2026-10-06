@@ -600,6 +600,17 @@
             "path": "options.txt"
           },
           "updatePolicy": "seed"
+        },
+        {
+          "id": "dev.chacademi:starlight_loading:1.0.0@jar",
+          "name": "mods/starlight-loading-1.0.0.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 23982219,
+            "MD5": "96fa2042b9f51994feb328040650869e",
+            "SHA256": "0b048ad02237b0ecc6322e29197f2d86dd21714e18d0d5a14c00a95435d5d528",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.1/starlight-loading-1.0.0.jar"
+          }
         }
       ]
     }

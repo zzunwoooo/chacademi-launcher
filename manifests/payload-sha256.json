@@ -287,6 +287,13 @@
       "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/options.txt",
       "license": "project-authorized client distribution",
       "role": "options"
+    },
+    {
+      "path": "mods/starlight-loading-1.0.0.jar",
+      "sha256": "0b048ad02237b0ecc6322e29197f2d86dd21714e18d0d5a14c00a95435d5d528",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.1/starlight-loading-1.0.0.jar",
+      "license": "All-Rights-Reserved; user-authorized launcher distribution",
+      "role": "mod"
     }
   ]
 }
