@@ -1,3 +1,9 @@
+# Current release: v0.1.2
+
+[Installer](https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.2/Chacademi-Launcher-setup-0.1.2.exe) | [Release and checksums](https://github.com/zzunwoooo/chacademi-launcher/releases/tag/v0.1.2) | [Current release details](docs/RELEASE-0.1.2.md)
+
+The historical release notes below are retained. Current manifests are authoritative.
+
 ## Latest release: v0.1.1
 
 [Setup](https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.1/Chacademi-Launcher-setup-0.1.1.exe) | [ZIP](https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.1/Chacademi-Launcher-setup-0.1.1.zip) | [Release/checksums](https://github.com/zzunwoooo/chacademi-launcher/releases/tag/v0.1.1)

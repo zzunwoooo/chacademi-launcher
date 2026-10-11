@@ -1,11 +1,13 @@
 {
-    "status":  "verified v0.1.1 final integrated gold-position hotfix",
-    "sourceCommit":  "6f5a59dc2994a20b65127dc5b5d6659bfdd89876",
-    "hudSha256":  "173b1eb4f00cb5ac26abf1ae6241d5d88dee3a10a129c2eed54511b5f4c4f1dc",
-    "bridgeSha256":  "f2708a60c7ef4c949d676789749be7ec79671cffafc3767eb5e6fffde6107e35",
-    "launcherTag":  "v0.1.1",
-    "payloadAssets":  40,
-    "retainedMods":  23,
-    "serverPluginsCopied":  false,
-    "publicationApproved":  true
+  "status": "final verified public client artifacts",
+  "sourceCommit": "f44666f689714d5292adfff6e36c8586d27760c0",
+  "hudSha256": "df7987af66d4dbd88f9d6d6092c768ad1f917b90a5d0fe1729591ab26be18251",
+  "bridgeSha256": "11da1e300413bf2c044e13fec1adebb9ed29fcfa3ec9c1c040d4bfa288e4e518",
+  "storySha256": "68d20100535bc1a870997bbe1ea4680368ed5276bed79a82e7d53fe10bef28b6",
+  "chatSha256": "dae2309dbe8e1fc1b56487215ca11f8c08c24e05cf115039957e77794f9091e0",
+  "launcherTag": "v0.1.2",
+  "payloadAssets": 41,
+  "retainedMods": 24,
+  "serverPluginsCopied": false,
+  "publicationApproved": true
 }
