@@ -1,8 +1,8 @@
 {
-  "sourceCommit": "4ad93132baebaf77441845449635b5dabb4b836f",
+  "sourceCommit": "1c7cf990f08e587fbf434daeb8f64c1665af148f",
   "integrationComponents": {
-    "hudSha256": "b32f9d2d99091639adf1ff06a6b69b37dac64ced5af4ba8095aedd88db5035ee",
-    "bridgeSha256": "1901881ce973ee7a32abefbdd0e951cd39ce4063bfd1c386aa4695418e29e4f5",
+    "hudSha256": "8e6855f0848b2ffa3f2c0f780c375dde71eb4dcb1c206eee1590bec413463218",
+    "bridgeSha256": "a7d2a6d4cd48031b92c32137a378b83d2ec52bef6d68d133543ba0d659bdce7b",
     "storySha256": "68d20100535bc1a870997bbe1ea4680368ed5276bed79a82e7d53fe10bef28b6",
     "chatSha256": "c6423eecdbddc4f29b425311dbe9228badbed9923d86322a45d9bc58eec52fc0"
   },
@@ -137,9 +137,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/magic-codex-ui-0.39.0-catalog.alpha.2-chat.3-holytaming.1+mc1.21.4.jar",
-      "sha256": "b32f9d2d99091639adf1ff06a6b69b37dac64ced5af4ba8095aedd88db5035ee",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.3/magic-codex-ui-0.39.0-catalog.alpha.2-chat.3-holytaming.1+mc1.21.4.jar",
+      "path": "mods/magic-codex-ui-0.39.0-catalog.alpha.2-chat.3-holytaming.1-partyhud.1+mc1.21.4.jar",
+      "sha256": "8e6855f0848b2ffa3f2c0f780c375dde71eb4dcb1c206eee1590bec413463218",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.4/magic-codex-ui-0.39.0-catalog.alpha.2-chat.3-holytaming.1-partyhud.1+mc1.21.4.jar",
       "license": "project-authorized client distribution",
       "role": "magiccodex"
     },
