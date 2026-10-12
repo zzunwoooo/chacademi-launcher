@@ -1,10 +1,10 @@
 {
-  "sourceCommit": "f44666f689714d5292adfff6e36c8586d27760c0",
+  "sourceCommit": "4ad93132baebaf77441845449635b5dabb4b836f",
   "integrationComponents": {
-    "hudSha256": "df7987af66d4dbd88f9d6d6092c768ad1f917b90a5d0fe1729591ab26be18251",
-    "bridgeSha256": "11da1e300413bf2c044e13fec1adebb9ed29fcfa3ec9c1c040d4bfa288e4e518",
+    "hudSha256": "b32f9d2d99091639adf1ff06a6b69b37dac64ced5af4ba8095aedd88db5035ee",
+    "bridgeSha256": "1901881ce973ee7a32abefbdd0e951cd39ce4063bfd1c386aa4695418e29e4f5",
     "storySha256": "68d20100535bc1a870997bbe1ea4680368ed5276bed79a82e7d53fe10bef28b6",
-    "chatSha256": "dae2309dbe8e1fc1b56487215ca11f8c08c24e05cf115039957e77794f9091e0"
+    "chatSha256": "c6423eecdbddc4f29b425311dbe9228badbed9923d86322a45d9bc58eec52fc0"
   },
   "backgroundMode": "blank",
   "modelPolicy": "bbmodel-bundle",
@@ -102,9 +102,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/chacademi-chat-layout-1.4.0.jar",
-      "sha256": "dae2309dbe8e1fc1b56487215ca11f8c08c24e05cf115039957e77794f9091e0",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.2/chacademi-chat-layout-1.4.0.jar",
+      "path": "mods/chacademi-chat-layout-1.5.1.jar",
+      "sha256": "c6423eecdbddc4f29b425311dbe9228badbed9923d86322a45d9bc58eec52fc0",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.3/chacademi-chat-layout-1.5.1.jar",
       "license": "GPL-3.0-only",
       "role": "chacademi_chat_layout"
     },
@@ -137,9 +137,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/magic-codex-ui-0.39.0-catalog.alpha.2-chat.2+mc1.21.4.jar",
-      "sha256": "df7987af66d4dbd88f9d6d6092c768ad1f917b90a5d0fe1729591ab26be18251",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.2/magic-codex-ui-0.39.0-catalog.alpha.2-chat.2+mc1.21.4.jar",
+      "path": "mods/magic-codex-ui-0.39.0-catalog.alpha.2-chat.3-holytaming.1+mc1.21.4.jar",
+      "sha256": "b32f9d2d99091639adf1ff06a6b69b37dac64ced5af4ba8095aedd88db5035ee",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.3/magic-codex-ui-0.39.0-catalog.alpha.2-chat.3-holytaming.1+mc1.21.4.jar",
       "license": "project-authorized client distribution",
       "role": "magiccodex"
     },
@@ -173,8 +173,8 @@
     },
     {
       "path": "config/magiccodex/launcher/client-assets.zip",
-      "sha256": "3db443a233ad3d389f4bbbed8d5744f172b2fe7bc934904502140a42ed84d126",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/client-assets.zip",
+      "sha256": "e3d68c65a58cebf8e967a38bd840a4e72173248e955b9acfdd96d2410b74c12e",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.3/client-assets.zip",
       "license": "project-authorized client distribution",
       "role": "client-assets-bundle"
     },

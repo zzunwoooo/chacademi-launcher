@@ -10,3 +10,5 @@ Chat-layout 1.3.8: GPL-3.0-only. Corresponding source is the independently packa
 Starlight Loading 1.0.0: zzunwoo, All-Rights-Reserved. User supplied and explicitly authorized publication for this launcher distribution. Copyright retained; no license change implied.
 
 Chacademy Story 0.1.0: user-authorized public client distribution, paid font excluded; original rights retained. Bundled SnakeYAML license remains in the JAR. Chat Layout 1.4.0: GPL-3.0-only, corresponding source/LICENSE/NOTICE supplied in the v0.1.2 Release.
+
+Chat Layout 1.5.1: GPL-3.0-only; corresponding source, LICENSE and NOTICE supplied in v0.1.3. HolyTaming effects: user-authorized public client distribution, original rights retained.

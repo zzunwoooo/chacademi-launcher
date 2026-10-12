@@ -1,3 +1,7 @@
+# Current release: v0.1.3
+
+[Release](https://github.com/zzunwoooo/chacademi-launcher/releases/tag/v0.1.3) | [Release details](docs/RELEASE-0.1.3.md)
+
 # Current release: v0.1.2
 
 [Installer](https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.2/Chacademi-Launcher-setup-0.1.2.exe) | [Release and checksums](https://github.com/zzunwoooo/chacademi-launcher/releases/tag/v0.1.2) | [Current release details](docs/RELEASE-0.1.2.md)
