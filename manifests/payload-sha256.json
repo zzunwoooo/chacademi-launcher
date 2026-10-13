@@ -1,11 +1,12 @@
 {
-  "sourceCommit": "bd6d6e001c38512569c11fb4db07d069bff110f3",
+  "sourceCommit": "41ee35591d75289f3d9398e58cdea45aa8593115",
   "integrationComponents": {
-    "hudSha256": "4e9f8206b676e0f19485ca292b64c664c42f8f213d44bdbce3d48a524af6c54d",
-    "bridgeSha256": "373749f31e76e1479e05bf512afd607c736b69824daa8785df6da86864980446",
+    "hudSha256": "4db15dc145e419abf3553c3474571122a432dfa04dea703f2fe0bca72770697e",
+    "bridgeSha256": "88f4b83198686307b622f00497107d7aae62d88a48a80ee858232b052103b35f",
     "storySha256": "304444a2e753c717c536de68aa574099cacc31ba330cc86a71c94203038e457f",
     "chatSha256": "c6423eecdbddc4f29b425311dbe9228badbed9923d86322a45d9bc58eec52fc0",
-    "motionSha256": "2561be0b7cbc6ad1c6803d6e851ec31595ee3b1bcf8ac5d1da7d578944faa11c"
+    "motionSha256": "10645660fc7b80395581fe70f9d7cb03a01a142163453427c8e330d864af71b7",
+    "vfxSha256": "f880a9e86a1419ca7e27dd6c97ade65f67b4be20175e3e2c4cb9260f70fd3625"
   },
   "backgroundMode": "blank",
   "modelPolicy": "bbmodel-bundle",
@@ -110,9 +111,9 @@
       "role": "chacademi_chat_layout"
     },
     {
-      "path": "mods/chacademy-motion-0.3.0-codex.2.jar",
-      "sha256": "2561be0b7cbc6ad1c6803d6e851ec31595ee3b1bcf8ac5d1da7d578944faa11c",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.5/chacademy-motion-0.3.0-codex.2.jar",
+      "path": "mods/chacademy-motion-0.3.0-codex.3-hud.2.jar",
+      "sha256": "10645660fc7b80395581fe70f9d7cb03a01a142163453427c8e330d864af71b7",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.6/chacademy-motion-0.3.0-codex.3-hud.2.jar",
       "license": "project-authorized client distribution",
       "role": "chacademy_motion"
     },
@@ -138,9 +139,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/magic-codex-ui-0.39.0-catalog.alpha.2-chat.3-holytaming.1-partyhud.4-taming.1-input.1-journal.1-inventory.2-broom.1-aim.1-review.1+mc1.21.4.jar",
-      "sha256": "4e9f8206b676e0f19485ca292b64c664c42f8f213d44bdbce3d48a524af6c54d",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.5/magic-codex-ui-0.39.0-catalog.alpha.2-chat.3-holytaming.1-partyhud.4-taming.1-input.1-journal.1-inventory.2-broom.1-aim.1-review.1+mc1.21.4.jar",
+      "path": "mods/magic-codex-ui-0.39.0-catalog.alpha.2-chat.3-holytaming.1-partyhud.4-taming.1-input.1-journal.1-inventory.2-broom.1-aim.1-review.2-followup.2+mc1.21.4.jar",
+      "sha256": "4db15dc145e419abf3553c3474571122a432dfa04dea703f2fe0bca72770697e",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.6/magic-codex-ui-0.39.0-catalog.alpha.2-chat.3-holytaming.1-partyhud.4-taming.1-input.1-journal.1-inventory.2-broom.1-aim.1-review.2-followup.2+mc1.21.4.jar",
       "license": "project-authorized client distribution",
       "role": "magiccodex"
     },
@@ -152,9 +153,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/portable-vfx-client-3.2.0-catalog.alpha.4.jar",
-      "sha256": "b44066b093177501a6c1fa9c78b95296eb1b50928344188af872735e04c9f74d",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/portable-vfx-client-3.2.0-catalog.alpha.4.jar",
+      "path": "mods/portable-vfx-client-3.2.0-catalog.alpha.4-opacity.1.jar",
+      "sha256": "f880a9e86a1419ca7e27dd6c97ade65f67b4be20175e3e2c4cb9260f70fd3625",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.6/portable-vfx-client-3.2.0-catalog.alpha.4-opacity.1.jar",
       "license": "project-authorized client distribution",
       "role": "portablevfx"
     },

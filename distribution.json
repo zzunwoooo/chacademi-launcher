@@ -284,14 +284,14 @@
           }
         },
         {
-          "id": "kr.chacademi:chacademy_motion:0.3.0-codex.2@jar",
-          "name": "mods/chacademy-motion-0.3.0-codex.2.jar",
+          "id": "kr.chacademi:chacademy_motion:0.3.0-codex.3-hud.2@jar",
+          "name": "mods/chacademy-motion-0.3.0-codex.3-hud.2.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 1426559,
-            "MD5": "3e7b3e94a852c9b6c928e2be76201e37",
-            "SHA256": "2561be0b7cbc6ad1c6803d6e851ec31595ee3b1bcf8ac5d1da7d578944faa11c",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.5/chacademy-motion-0.3.0-codex.2.jar"
+            "size": 1751637,
+            "MD5": "d9755e8a2334ff2a1b7a60bdce67633e",
+            "SHA256": "10645660fc7b80395581fe70f9d7cb03a01a142163453427c8e330d864af71b7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.6/chacademy-motion-0.3.0-codex.3-hud.2.jar"
           }
         },
         {
@@ -328,14 +328,14 @@
           }
         },
         {
-          "id": "kr.chacademi:magiccodex:0.39.0-catalog.alpha.2-chat.3-holytaming.1-partyhud.4-taming.1-input.1-journal.1-inventory.2-broom.1-aim.1-review.1+mc1.21.4@jar",
-          "name": "mods/magic-codex-ui-0.39.0-catalog.alpha.2-chat.3-holytaming.1-partyhud.4-taming.1-input.1-journal.1-inventory.2-broom.1-aim.1-review.1+mc1.21.4.jar",
+          "id": "kr.chacademi:magiccodex:0.39.0-catalog.alpha.2-chat.3-holytaming.1-partyhud.4-taming.1-input.1-journal.1-inventory.2-broom.1-aim.1-review.2-followup.2+mc1.21.4@jar",
+          "name": "mods/magic-codex-ui-0.39.0-catalog.alpha.2-chat.3-holytaming.1-partyhud.4-taming.1-input.1-journal.1-inventory.2-broom.1-aim.1-review.2-followup.2+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 115234881,
-            "MD5": "a2fadc92c0ceea9823086ab4e8ab3590",
-            "SHA256": "4e9f8206b676e0f19485ca292b64c664c42f8f213d44bdbce3d48a524af6c54d",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.5/magic-codex-ui-0.39.0-catalog.alpha.2-chat.3-holytaming.1-partyhud.4-taming.1-input.1-journal.1-inventory.2-broom.1-aim.1-review.1+mc1.21.4.jar"
+            "size": 126295088,
+            "MD5": "ff2dcfb25e41daf8c3909332be54e290",
+            "SHA256": "4db15dc145e419abf3553c3474571122a432dfa04dea703f2fe0bca72770697e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.6/magic-codex-ui-0.39.0-catalog.alpha.2-chat.3-holytaming.1-partyhud.4-taming.1-input.1-journal.1-inventory.2-broom.1-aim.1-review.2-followup.2+mc1.21.4.jar"
           }
         },
         {
@@ -350,14 +350,14 @@
           }
         },
         {
-          "id": "kr.chacademi:portablevfx:3.2.0-catalog.alpha.4@jar",
-          "name": "mods/portable-vfx-client-3.2.0-catalog.alpha.4.jar",
+          "id": "kr.chacademi:portablevfx:3.2.0-catalog.alpha.4-opacity.1@jar",
+          "name": "mods/portable-vfx-client-3.2.0-catalog.alpha.4-opacity.1.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 363833,
-            "MD5": "6fdb61cb751be241698e4561c12ca711",
-            "SHA256": "b44066b093177501a6c1fa9c78b95296eb1b50928344188af872735e04c9f74d",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/portable-vfx-client-3.2.0-catalog.alpha.4.jar"
+            "size": 370833,
+            "MD5": "4f348b82de660b1c6c475539e899e679",
+            "SHA256": "f880a9e86a1419ca7e27dd6c97ade65f67b4be20175e3e2c4cb9260f70fd3625",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.6/portable-vfx-client-3.2.0-catalog.alpha.4-opacity.1.jar"
           }
         },
         {

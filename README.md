@@ -1,3 +1,7 @@
+# Current release: v0.1.6
+
+[Release and checksums](https://github.com/zzunwoooo/chacademi-launcher/releases/tag/v0.1.6) | [Details](docs/RELEASE-0.1.6.md)
+
 # Current release: v0.1.5
 
 [Release and checksums](https://github.com/zzunwoooo/chacademi-launcher/releases/tag/v0.1.5) | [Details](docs/RELEASE-0.1.5.md)
