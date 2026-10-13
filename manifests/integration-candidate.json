@@ -1,13 +1,18 @@
 {
-  "status": "verified hosting builds; live gameplay pending",
-  "sourceCommit": "1c7cf990f08e587fbf434daeb8f64c1665af148f",
-  "hudSha256": "8e6855f0848b2ffa3f2c0f780c375dde71eb4dcb1c206eee1590bec413463218",
-  "bridgeSha256": "a7d2a6d4cd48031b92c32137a378b83d2ec52bef6d68d133543ba0d659bdce7b",
-  "storySha256": "68d20100535bc1a870997bbe1ea4680368ed5276bed79a82e7d53fe10bef28b6",
-  "chatSha256": "c6423eecdbddc4f29b425311dbe9228badbed9923d86322a45d9bc58eec52fc0",
-  "launcherTag": "v0.1.4",
-  "payloadAssets": 41,
-  "retainedMods": 24,
+  "status": "verified hosting client artifacts; publication pending",
+  "sourceCommit": "bd6d6e001c38512569c11fb4db07d069bff110f3",
+  "launcherTag": "v0.1.5",
+  "payloadAssets": 39,
+  "retainedMods": 23,
   "serverPluginsCopied": false,
-  "publicationApproved": true
+  "publicationApproved": true,
+  "removedModules": "Shoulder Surfing mod and seed config",
+  "changedClientIds": [
+    "magiccodex",
+    "chacademy_motion",
+    "chaca_story"
+  ],
+  "unchangedOtherModules": true,
+  "gameTestsPassed": 710,
+  "gameplayQA": "not performed"
 }

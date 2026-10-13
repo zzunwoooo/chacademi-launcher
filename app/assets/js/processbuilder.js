@@ -11,6 +11,7 @@ const path                  = require('path')
 const ConfigManager            = require('./configmanager')
 const PetModels = require('./petmodels')
 const ClientAssets = require('./clientassets')
+const CameraCompat = require('./cameracompat')
 
 const logger = LoggerUtil.getLogger('ProcessBuilder')
 
@@ -48,6 +49,7 @@ class ProcessBuilder {
      */
     build(){
         fs.ensureDirSync(this.gameDir)
+        logger.info('Camera compatibility backup:', CameraCompat.prepare(this.gameDir))
         const modelModule = this.server.rawServer.modules.find(module => module.id === 'chacademi-pet-models.zip')
         logger.info('Pet model bundle prepared:', PetModels.install(this.gameDir, modelModule))
         const assetModule = this.server.rawServer.modules.find(module => module.id === 'chacademi-client-assets.zip')

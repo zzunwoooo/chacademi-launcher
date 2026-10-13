@@ -284,14 +284,14 @@
           }
         },
         {
-          "id": "kr.chacademi:chacademy_motion:0.1.0@jar",
-          "name": "mods/chacademy-motion-0.1.0.jar",
+          "id": "kr.chacademi:chacademy_motion:0.3.0-codex.2@jar",
+          "name": "mods/chacademy-motion-0.3.0-codex.2.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 11416,
-            "MD5": "fd0b7a2cc055f2bb64cf67d312133758",
-            "SHA256": "e989c46d10435b479a3a226b540d35dd1421cda9e61bb48c59a120e96f971782",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/chacademy-motion-0.1.0.jar"
+            "size": 1426559,
+            "MD5": "3e7b3e94a852c9b6c928e2be76201e37",
+            "SHA256": "2561be0b7cbc6ad1c6803d6e851ec31595ee3b1bcf8ac5d1da7d578944faa11c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.5/chacademy-motion-0.3.0-codex.2.jar"
           }
         },
         {
@@ -328,14 +328,14 @@
           }
         },
         {
-          "id": "kr.chacademi:magiccodex:0.39.0-catalog.alpha.2-chat.3-holytaming.1-partyhud.1@jar",
-          "name": "mods/magic-codex-ui-0.39.0-catalog.alpha.2-chat.3-holytaming.1-partyhud.1+mc1.21.4.jar",
+          "id": "kr.chacademi:magiccodex:0.39.0-catalog.alpha.2-chat.3-holytaming.1-partyhud.4-taming.1-input.1-journal.1-inventory.2-broom.1-aim.1-review.1+mc1.21.4@jar",
+          "name": "mods/magic-codex-ui-0.39.0-catalog.alpha.2-chat.3-holytaming.1-partyhud.4-taming.1-input.1-journal.1-inventory.2-broom.1-aim.1-review.1+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 103479636,
-            "MD5": "40742fd3ef7b582729745c948ae8c09f",
-            "SHA256": "8e6855f0848b2ffa3f2c0f780c375dde71eb4dcb1c206eee1590bec413463218",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.4/magic-codex-ui-0.39.0-catalog.alpha.2-chat.3-holytaming.1-partyhud.1+mc1.21.4.jar"
+            "size": 115234881,
+            "MD5": "a2fadc92c0ceea9823086ab4e8ab3590",
+            "SHA256": "4e9f8206b676e0f19485ca292b64c664c42f8f213d44bdbce3d48a524af6c54d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.5/magic-codex-ui-0.39.0-catalog.alpha.2-chat.3-holytaming.1-partyhud.4-taming.1-input.1-journal.1-inventory.2-broom.1-aim.1-review.1+mc1.21.4.jar"
           }
         },
         {
@@ -358,17 +358,6 @@
             "MD5": "6fdb61cb751be241698e4561c12ca711",
             "SHA256": "b44066b093177501a6c1fa9c78b95296eb1b50928344188af872735e04c9f74d",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/portable-vfx-client-3.2.0-catalog.alpha.4.jar"
-          }
-        },
-        {
-          "id": "org.modrinth:shouldersurfing:4.12.0@jar",
-          "name": "mods/ShoulderSurfing-Fabric-1.21.4-4.12.0.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 225894,
-            "MD5": "89e019f9de35d7e87786047580a04431",
-            "SHA256": "4513329b71788a9c4f784437b223d7e39b08292793519177612ac0322bba428d",
-            "url": "https://cdn.modrinth.com/data/kepjj2sy/versions/n8ilV1cO/ShoulderSurfing-Fabric-1.21.4-4.12.0.jar"
           }
         },
         {
@@ -539,19 +528,6 @@
           "updatePolicy": "seed"
         },
         {
-          "id": "config/shouldersurfing-client.toml",
-          "name": "config/shouldersurfing-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 15117,
-            "MD5": "77023e6e3e5e4867e7fc8de09f5719b4",
-            "SHA256": "419bceefc7af8411dd60525682d32bd00d2e40b8743a354ac3ec7ba19c227055",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/shouldersurfing-client.toml",
-            "path": "config/shouldersurfing-client.toml"
-          },
-          "updatePolicy": "seed"
-        },
-        {
           "id": "config/sodium-mixins.properties",
           "name": "config/sodium-mixins.properties",
           "type": "File",
@@ -602,14 +578,14 @@
           }
         },
         {
-          "id": "kr.chacademi:chaca_story:0.1.0@jar",
-          "name": "mods/chacademy-story-0.1.0.jar",
+          "id": "kr.chacademi:chaca_story:0.1.3-journal.2@jar",
+          "name": "mods/chacademy-story-0.1.3-journal.2.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 443555,
-            "MD5": "fe026a888d2d6f5cff5587e62a487a02",
-            "SHA256": "68d20100535bc1a870997bbe1ea4680368ed5276bed79a82e7d53fe10bef28b6",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.2/chacademy-story-0.1.0.jar"
+            "size": 458358,
+            "MD5": "67a15fbc1bc74bac340cc185f69d0e3c",
+            "SHA256": "304444a2e753c717c536de68aa574099cacc31ba330cc86a71c94203038e457f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.5/chacademy-story-0.1.3-journal.2.jar"
           }
         }
       ]
