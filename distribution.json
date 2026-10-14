@@ -587,6 +587,591 @@
             "SHA256": "304444a2e753c717c536de68aa574099cacc31ba330cc86a71c94203038e457f",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.5/chacademy-story-0.1.3-journal.2.jar"
           }
+        },
+        {
+          "id": "config/chaca_cutscene/ch1_ashen_night/cutscene.yml",
+          "name": "config/chaca_cutscene/ch1_ashen_night/cutscene.yml",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_cutscene/ch1_ashen_night/cutscene.yml",
+            "size": 2665,
+            "MD5": "ed5a9238ed6c0fc5301241b6acb78fc8",
+            "SHA256": "05e43cf8f978f51827fe1e21f460faa87b707d5529e637cccfdaa3073e8b5c1d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__cutscene.yml"
+          }
+        },
+        {
+          "id": "config/chaca_cutscene/ch1_ashen_night/bgm.ogg",
+          "name": "config/chaca_cutscene/ch1_ashen_night/bgm.ogg",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_cutscene/ch1_ashen_night/bgm.ogg",
+            "size": 1853552,
+            "MD5": "d17cb911e2cc080e441a1aa2e4906bbe",
+            "SHA256": "3745bd4b5dab9f5c42282ae83b132a16435ff6e05b7575180b397c620bfd6911",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__bgm.ogg"
+          }
+        },
+        {
+          "id": "config/chaca_cutscene/ch1_ashen_night/s1_1.png",
+          "name": "config/chaca_cutscene/ch1_ashen_night/s1_1.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_cutscene/ch1_ashen_night/s1_1.png",
+            "size": 2228421,
+            "MD5": "66c4d21cf12fdb6d94197a5727a5300d",
+            "SHA256": "2c4b957d314ebf26c922d31d7256b1c72dae842ef30ff8c32d2241209a7ef261",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s1_1.png"
+          }
+        },
+        {
+          "id": "config/chaca_cutscene/ch1_ashen_night/s2_1.png",
+          "name": "config/chaca_cutscene/ch1_ashen_night/s2_1.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_cutscene/ch1_ashen_night/s2_1.png",
+            "size": 2710730,
+            "MD5": "34ee43c68e6a8274d4d1e3c08661120d",
+            "SHA256": "27efa8418c94b473418ff01a2f8d41406ed78e4076838864b194c7697eaacd9e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s2_1.png"
+          }
+        },
+        {
+          "id": "config/chaca_cutscene/ch1_ashen_night/s3_1.png",
+          "name": "config/chaca_cutscene/ch1_ashen_night/s3_1.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_cutscene/ch1_ashen_night/s3_1.png",
+            "size": 2215031,
+            "MD5": "ca7ce4c41d7629d817b4ddb2ed7bc4e5",
+            "SHA256": "53650e999b5ec9d1105f19598a1fd2c994900dee5806493e46d04ed64cba2003",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s3_1.png"
+          }
+        },
+        {
+          "id": "config/chaca_cutscene/ch1_ashen_night/s4_1.png",
+          "name": "config/chaca_cutscene/ch1_ashen_night/s4_1.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_cutscene/ch1_ashen_night/s4_1.png",
+            "size": 2129580,
+            "MD5": "0d3f8b0b23d28d831ed9e557eb6ca9b1",
+            "SHA256": "d5708cb9e430ec3752b0e3b2d9e57424d92c65f74d88dc424d982c7b87659087",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s4_1.png"
+          }
+        },
+        {
+          "id": "config/chaca_cutscene/ch1_ashen_night/s5_1.png",
+          "name": "config/chaca_cutscene/ch1_ashen_night/s5_1.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_cutscene/ch1_ashen_night/s5_1.png",
+            "size": 2289406,
+            "MD5": "463eb512ee5d97bc02d23b9fe05c2e07",
+            "SHA256": "cb6ed8883aace9a929a5371996f8f558c89682124f68ace7a03d3cc59163c5db",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s5_1.png"
+          }
+        },
+        {
+          "id": "config/chaca_cutscene/ch1_ashen_night/s6_1.png",
+          "name": "config/chaca_cutscene/ch1_ashen_night/s6_1.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_cutscene/ch1_ashen_night/s6_1.png",
+            "size": 2418993,
+            "MD5": "f260f574fb9f56e98afb8abe82ccf329",
+            "SHA256": "75f0bf9a7bc5539d707cf2c555c29692da91c5567b285ded3d56d963406c2e53",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s6_1.png"
+          }
+        },
+        {
+          "id": "config/chaca_cutscene/ch1_ashen_night/s7_1.png",
+          "name": "config/chaca_cutscene/ch1_ashen_night/s7_1.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_cutscene/ch1_ashen_night/s7_1.png",
+            "size": 2301729,
+            "MD5": "4a6a4a7a035c10895f3f35062a9a674a",
+            "SHA256": "fbc219711b3c078c32859bbead193171dcc71236316b45c321c3de42b1be207a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s7_1.png"
+          }
+        },
+        {
+          "id": "config/chaca_cutscene/ch1_ashen_night/s8_1.png",
+          "name": "config/chaca_cutscene/ch1_ashen_night/s8_1.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_cutscene/ch1_ashen_night/s8_1.png",
+            "size": 2256448,
+            "MD5": "1062cc4e1831be27f2b453b724a25e0b",
+            "SHA256": "01c164d8a5168bc3b02013098f17adec4042463249ed741dc80b0b3b9d3089bf",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s8_1.png"
+          }
+        },
+        {
+          "id": "config/chaca_cutscene/ch1_ashen_night/s9_1.png",
+          "name": "config/chaca_cutscene/ch1_ashen_night/s9_1.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_cutscene/ch1_ashen_night/s9_1.png",
+            "size": 2131897,
+            "MD5": "f117f6e389cb0cd282eb261629ac56f3",
+            "SHA256": "2de6c0418e7884dd425bcc8d7a0c1a8c85e8c8b563645acce4857ed0b6723ea8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s9_1.png"
+          }
+        },
+        {
+          "id": "config/chaca_cutscene/magic_tutorial/cutscene.yml",
+          "name": "config/chaca_cutscene/magic_tutorial/cutscene.yml",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_cutscene/magic_tutorial/cutscene.yml",
+            "size": 866,
+            "MD5": "13fa932dcde3489b3b34ea03f1387b5b",
+            "SHA256": "7434b3dd52ed0642917002efbe46c0a32acfcf28dfa729d786439f8a8a8ac446",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__magic_tutorial__cutscene.yml"
+          }
+        },
+        {
+          "id": "config/chaca_cutscene/magic_tutorial/s1_1.png",
+          "name": "config/chaca_cutscene/magic_tutorial/s1_1.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_cutscene/magic_tutorial/s1_1.png",
+            "size": 1612097,
+            "MD5": "f57600543f28776cdd0ad5138a80f83c",
+            "SHA256": "d72f7835e660b89798ec02cc291e60e8b4f8483567d321e4efbaf64ed44b0ca0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__magic_tutorial__s1_1.png"
+          }
+        },
+        {
+          "id": "config/chaca_cutscene/magic_tutorial/s2_1.png",
+          "name": "config/chaca_cutscene/magic_tutorial/s2_1.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_cutscene/magic_tutorial/s2_1.png",
+            "size": 2082585,
+            "MD5": "80d2e90d20dd2a727016f9c6bb314fce",
+            "SHA256": "f822c1ad906bfbec264deeba0898c9b9cbdd8ee2b73fb065c45e06e89db229e7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__magic_tutorial__s2_1.png"
+          }
+        },
+        {
+          "id": "config/chaca_cutscene/magic_tutorial/s3_1.png",
+          "name": "config/chaca_cutscene/magic_tutorial/s3_1.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_cutscene/magic_tutorial/s3_1.png",
+            "size": 1606160,
+            "MD5": "82e81a6aa6acdba4904898354983525f",
+            "SHA256": "abaa065768cbc791596181d6e75a9095b24c8e5b356a9caf6efa42a94e1fbb0c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__magic_tutorial__s3_1.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-1/dialogue.yml",
+          "name": "config/chaca_dialogue/ch1-1/dialogue.yml",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-1/dialogue.yml",
+            "size": 533,
+            "MD5": "54863fa1dacf36ca7e76f67fe3f604e0",
+            "SHA256": "b13422bf7d5ee0c0394f6b8ce6d411ff083073e432b8060c9c8befc81cfe2876",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-1__dialogue.yml"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-2/dialogue.yml",
+          "name": "config/chaca_dialogue/ch1-2/dialogue.yml",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-2/dialogue.yml",
+            "size": 2242,
+            "MD5": "d70ab2901eabf8cc6a44030e038f2e9b",
+            "SHA256": "b98d5445505570e6c2169ad8d94da04740c8bc7c9f38d541234a865207752470",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-2__dialogue.yml"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-2/p8_1.png",
+          "name": "config/chaca_dialogue/ch1-2/p8_1.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-2/p8_1.png",
+            "size": 2139833,
+            "MD5": "8f4f87f28394c6a5897082e746dc14a4",
+            "SHA256": "6f48bd626b7980a9192c0ec94686d99d0aa3c29733e5a8ec7f3bc0cd362903c9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-2__p8_1.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-2/p8_2.png",
+          "name": "config/chaca_dialogue/ch1-2/p8_2.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-2/p8_2.png",
+            "size": 1993064,
+            "MD5": "e23a255ab18816f8ee9fefea21be56a5",
+            "SHA256": "ec409558b01d9094c0248f52c84573d16ce31df33c6797f165384338758c7ead",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-2__p8_2.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-2/p8_3.png",
+          "name": "config/chaca_dialogue/ch1-2/p8_3.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-2/p8_3.png",
+            "size": 2016646,
+            "MD5": "b4239b4d51fdc63a5924e4f0d9982248",
+            "SHA256": "84f46142309002dcfdafd0bbe0768143e5d26b3f9b8842f038beb04ed6359c49",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-2__p8_3.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-2/p8_4.png",
+          "name": "config/chaca_dialogue/ch1-2/p8_4.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-2/p8_4.png",
+            "size": 2012227,
+            "MD5": "a790199c168254bd1b801c306febc7d0",
+            "SHA256": "cb53a3e5cf8c11c704249e9dd550371394502a6721c6429a9633221397470dd2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-2__p8_4.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-2/p8_5.png",
+          "name": "config/chaca_dialogue/ch1-2/p8_5.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-2/p8_5.png",
+            "size": 2043015,
+            "MD5": "5e3a342e846040f317372558a679f2de",
+            "SHA256": "39d81361c6f8b2696d7d59ec0ac6400b865000fe9f0d373dfb01ef92d6f84c05",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-2__p8_5.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-2/p8_6.png",
+          "name": "config/chaca_dialogue/ch1-2/p8_6.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-2/p8_6.png",
+            "size": 1998765,
+            "MD5": "16826367af5291ccb002262db170b246",
+            "SHA256": "4c3aa64bc460062c79d99fd9734ec45296d2dcb596b98fb9cc0ebc98e3806986",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-2__p8_6.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-3/dialogue.yml",
+          "name": "config/chaca_dialogue/ch1-3/dialogue.yml",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-3/dialogue.yml",
+            "size": 4017,
+            "MD5": "73241177e39321739d3ca87814b3f862",
+            "SHA256": "3b80d6b0acb4a6ace05107d94c5b29dc0c59aca14f7dd3a16a4012b175884ab7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-3__dialogue.yml"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-3/p8_1.png",
+          "name": "config/chaca_dialogue/ch1-3/p8_1.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-3/p8_1.png",
+            "size": 2139833,
+            "MD5": "8f4f87f28394c6a5897082e746dc14a4",
+            "SHA256": "6f48bd626b7980a9192c0ec94686d99d0aa3c29733e5a8ec7f3bc0cd362903c9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-3__p8_1.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-3/p8_2.png",
+          "name": "config/chaca_dialogue/ch1-3/p8_2.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-3/p8_2.png",
+            "size": 1993064,
+            "MD5": "e23a255ab18816f8ee9fefea21be56a5",
+            "SHA256": "ec409558b01d9094c0248f52c84573d16ce31df33c6797f165384338758c7ead",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-3__p8_2.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-3/p8_3.png",
+          "name": "config/chaca_dialogue/ch1-3/p8_3.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-3/p8_3.png",
+            "size": 2016646,
+            "MD5": "b4239b4d51fdc63a5924e4f0d9982248",
+            "SHA256": "84f46142309002dcfdafd0bbe0768143e5d26b3f9b8842f038beb04ed6359c49",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-3__p8_3.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-3/p8_4.png",
+          "name": "config/chaca_dialogue/ch1-3/p8_4.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-3/p8_4.png",
+            "size": 2012227,
+            "MD5": "a790199c168254bd1b801c306febc7d0",
+            "SHA256": "cb53a3e5cf8c11c704249e9dd550371394502a6721c6429a9633221397470dd2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-3__p8_4.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-3/p8_5.png",
+          "name": "config/chaca_dialogue/ch1-3/p8_5.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-3/p8_5.png",
+            "size": 2043015,
+            "MD5": "5e3a342e846040f317372558a679f2de",
+            "SHA256": "39d81361c6f8b2696d7d59ec0ac6400b865000fe9f0d373dfb01ef92d6f84c05",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-3__p8_5.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-3/p8_6.png",
+          "name": "config/chaca_dialogue/ch1-3/p8_6.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-3/p8_6.png",
+            "size": 1998765,
+            "MD5": "16826367af5291ccb002262db170b246",
+            "SHA256": "4c3aa64bc460062c79d99fd9734ec45296d2dcb596b98fb9cc0ebc98e3806986",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-3__p8_6.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-4/dialogue.yml",
+          "name": "config/chaca_dialogue/ch1-4/dialogue.yml",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-4/dialogue.yml",
+            "size": 1516,
+            "MD5": "4cebf7e2a660f90478bf99671334a25d",
+            "SHA256": "f47f50de3f619f150d058631bd1eb526dfbadbd63000e8d44b427a4213bf4fc1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-4__dialogue.yml"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-4/p8_1.png",
+          "name": "config/chaca_dialogue/ch1-4/p8_1.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-4/p8_1.png",
+            "size": 2139833,
+            "MD5": "8f4f87f28394c6a5897082e746dc14a4",
+            "SHA256": "6f48bd626b7980a9192c0ec94686d99d0aa3c29733e5a8ec7f3bc0cd362903c9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-4__p8_1.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-4/p8_2.png",
+          "name": "config/chaca_dialogue/ch1-4/p8_2.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-4/p8_2.png",
+            "size": 1993064,
+            "MD5": "e23a255ab18816f8ee9fefea21be56a5",
+            "SHA256": "ec409558b01d9094c0248f52c84573d16ce31df33c6797f165384338758c7ead",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-4__p8_2.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-4/p8_3.png",
+          "name": "config/chaca_dialogue/ch1-4/p8_3.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-4/p8_3.png",
+            "size": 2016646,
+            "MD5": "b4239b4d51fdc63a5924e4f0d9982248",
+            "SHA256": "84f46142309002dcfdafd0bbe0768143e5d26b3f9b8842f038beb04ed6359c49",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-4__p8_3.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-4/p8_4.png",
+          "name": "config/chaca_dialogue/ch1-4/p8_4.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-4/p8_4.png",
+            "size": 2012227,
+            "MD5": "a790199c168254bd1b801c306febc7d0",
+            "SHA256": "cb53a3e5cf8c11c704249e9dd550371394502a6721c6429a9633221397470dd2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-4__p8_4.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-4/p8_5.png",
+          "name": "config/chaca_dialogue/ch1-4/p8_5.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-4/p8_5.png",
+            "size": 2043015,
+            "MD5": "5e3a342e846040f317372558a679f2de",
+            "SHA256": "39d81361c6f8b2696d7d59ec0ac6400b865000fe9f0d373dfb01ef92d6f84c05",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-4__p8_5.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-4/p8_6.png",
+          "name": "config/chaca_dialogue/ch1-4/p8_6.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-4/p8_6.png",
+            "size": 1998765,
+            "MD5": "16826367af5291ccb002262db170b246",
+            "SHA256": "4c3aa64bc460062c79d99fd9734ec45296d2dcb596b98fb9cc0ebc98e3806986",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-4__p8_6.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-5/dialogue.yml",
+          "name": "config/chaca_dialogue/ch1-5/dialogue.yml",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-5/dialogue.yml",
+            "size": 2886,
+            "MD5": "89315db605c010854b37088d119b909a",
+            "SHA256": "b6dec25de3495ff24f8c30b34d8dd19bfc9447e1fb04744314da3d621df800ca",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-5__dialogue.yml"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-5/p8_1.png",
+          "name": "config/chaca_dialogue/ch1-5/p8_1.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-5/p8_1.png",
+            "size": 2139833,
+            "MD5": "8f4f87f28394c6a5897082e746dc14a4",
+            "SHA256": "6f48bd626b7980a9192c0ec94686d99d0aa3c29733e5a8ec7f3bc0cd362903c9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-5__p8_1.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-5/p8_2.png",
+          "name": "config/chaca_dialogue/ch1-5/p8_2.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-5/p8_2.png",
+            "size": 1993064,
+            "MD5": "e23a255ab18816f8ee9fefea21be56a5",
+            "SHA256": "ec409558b01d9094c0248f52c84573d16ce31df33c6797f165384338758c7ead",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-5__p8_2.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-5/p8_3.png",
+          "name": "config/chaca_dialogue/ch1-5/p8_3.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-5/p8_3.png",
+            "size": 2016646,
+            "MD5": "b4239b4d51fdc63a5924e4f0d9982248",
+            "SHA256": "84f46142309002dcfdafd0bbe0768143e5d26b3f9b8842f038beb04ed6359c49",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-5__p8_3.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-5/p8_4.png",
+          "name": "config/chaca_dialogue/ch1-5/p8_4.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-5/p8_4.png",
+            "size": 2012227,
+            "MD5": "a790199c168254bd1b801c306febc7d0",
+            "SHA256": "cb53a3e5cf8c11c704249e9dd550371394502a6721c6429a9633221397470dd2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-5__p8_4.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-5/p8_5.png",
+          "name": "config/chaca_dialogue/ch1-5/p8_5.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-5/p8_5.png",
+            "size": 2043015,
+            "MD5": "5e3a342e846040f317372558a679f2de",
+            "SHA256": "39d81361c6f8b2696d7d59ec0ac6400b865000fe9f0d373dfb01ef92d6f84c05",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-5__p8_5.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-5/p8_6.png",
+          "name": "config/chaca_dialogue/ch1-5/p8_6.png",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-5/p8_6.png",
+            "size": 1998765,
+            "MD5": "16826367af5291ccb002262db170b246",
+            "SHA256": "4c3aa64bc460062c79d99fd9734ec45296d2dcb596b98fb9cc0ebc98e3806986",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-5__p8_6.png"
+          }
+        },
+        {
+          "id": "config/chaca_dialogue/ch1-6/dialogue.yml",
+          "name": "config/chaca_dialogue/ch1-6/dialogue.yml",
+          "type": "File",
+          "updatePolicy": "seed",
+          "artifact": {
+            "path": "config/chaca_dialogue/ch1-6/dialogue.yml",
+            "size": 16159,
+            "MD5": "9d8234d074d870656f2728ec60e9f5d1",
+            "SHA256": "28dd826c4fb19e9a531f7b5bb2dca5f345b83863503d655477f7a8c31726cc1f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-6__dialogue.yml"
+          }
         }
       ]
     }
