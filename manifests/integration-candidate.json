@@ -1,18 +1,16 @@
 {
-  "status": "hosting verified; publication pending",
-  "sourceCommit": "41ee35591d75289f3d9398e58cdea45aa8593115",
-  "launcherTag": "v0.1.6",
-  "payloadAssets": 39,
-  "retainedMods": 23,
-  "serverPluginsCopied": false,
-  "publicationApproved": true,
-  "changedClientIds": [
-    "magiccodex",
-    "chacademy_motion",
-    "portablevfx"
+  "status": "prepared; not published",
+  "launcherTag": "v0.1.10",
+  "changedModules": [
+    "kr.chacademi:magiccodex:0.40.0-expansion71.1-artifact.1-unitring.1-summon.2-multi.1+mc1.21.4@jar",
+    "kr.chacademi:portablevfx:3.2.0-catalog.alpha.4-opacity.1-bc7.2@jar",
+    "chacademi-client-assets.zip",
+    "config/portablevfx/load-limits.properties"
   ],
-  "unchangedOtherModules": true,
-  "gameTestsPassed": 321,
-  "gameplayQA": "not performed",
-  "vfx": "reused SHA-verified opacity.1; client/common source unchanged from tested 126fcea; prior 97 passed/3 model fixture skips"
+  "totalPacks": 163,
+  "assetFiles": 2219,
+  "gameVisualQA": "not performed",
+  "backup": "C:\\Chacademi\\staging\\vfx-b0a50cd-20261016-task10\\launcher\\backup",
+  "vfxSourceCommit": "b0a50cdc52d43dbc36197fc3285ddf6e726a9b7b",
+  "artifactSourceCommit": "ac545d0cb100767428ed15ce37d5c532c8774984"
 }

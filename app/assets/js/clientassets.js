@@ -33,7 +33,7 @@ exports.install = function(gameDir, module){
     if(sha(archive) !== artifact.SHA256){ throw new Error('Client asset archive hash mismatch') }
     const zip = new AdmZip(archive)
     const manifest = JSON.parse(zip.readAsText('manifest.json'))
-    if(!Array.isArray(manifest.files) || manifest.files.length === 0 || manifest.files.length > 2000){
+    if(!Array.isArray(manifest.files) || manifest.files.length === 0 || manifest.files.length > 4096){
         throw new Error('Invalid client asset manifest')
     }
     const names = new Set(['manifest.json'])
