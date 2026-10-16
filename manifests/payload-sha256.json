@@ -1,11 +1,11 @@
 {
   "sourceCommit": "41ee35591d75289f3d9398e58cdea45aa8593115",
   "integrationComponents": {
-    "hudSha256": "3de503b52443844667409e2380b8f31f53aaa8b445462b2f050bd84b695d32e3",
+    "hudSha256": "a626c72e4e8097756373e77237ba2352a5a4300508ce57c1d082ce548c201da9",
     "bridgeSha256": "88f4b83198686307b622f00497107d7aae62d88a48a80ee858232b052103b35f",
     "storySha256": "304444a2e753c717c536de68aa574099cacc31ba330cc86a71c94203038e457f",
     "chatSha256": "c6423eecdbddc4f29b425311dbe9228badbed9923d86322a45d9bc58eec52fc0",
-    "motionSha256": "10645660fc7b80395581fe70f9d7cb03a01a142163453427c8e330d864af71b7",
+    "motionSha256": "d4781335f9cf721525e74f833d152f58e22acd5ac19f18d423bbc8222fc220f5",
     "vfxSha256": "11dcd1068251cbd772d52b371ac96a6f8d078c69b8eb5d9f16b2469aaf1426f8"
   },
   "backgroundMode": "blank",
@@ -111,9 +111,9 @@
       "role": "chacademi_chat_layout"
     },
     {
-      "path": "mods/chacademy-motion-0.3.0-codex.3-hud.2.jar",
-      "sha256": "10645660fc7b80395581fe70f9d7cb03a01a142163453427c8e330d864af71b7",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.6/chacademy-motion-0.3.0-codex.3-hud.2.jar",
+      "path": "mods/chacademy-motion-0.3.0-codex.3-hud.2-trails.2-brooms30.2.jar",
+      "sha256": "d4781335f9cf721525e74f833d152f58e22acd5ac19f18d423bbc8222fc220f5",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.11/chacademy-motion-0.3.0-codex.3-hud.2-trails.2-brooms30.2.jar",
       "license": "project-authorized client distribution",
       "role": "chacademy_motion"
     },
@@ -139,9 +139,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/magic-codex-ui-0.40.0-expansion71.1-artifact.1-unitring.1-summon.2-multi.1+mc1.21.4.jar",
-      "sha256": "3de503b52443844667409e2380b8f31f53aaa8b445462b2f050bd84b695d32e3",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.10/magic-codex-ui-0.40.0-expansion71.1-artifact.1-unitring.1-summon.2-multi.1+mc1.21.4.jar",
+      "path": "mods/magic-codex-ui-0.40.0-expansion71.1-artifact.1-unitring.1-summon.2-multi.1-alchemy.1-brooms30.1-partyui.1-menu.1-icons.1-menuclick.1+mc1.21.4.jar",
+      "sha256": "a626c72e4e8097756373e77237ba2352a5a4300508ce57c1d082ce548c201da9",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.11/magic-codex-ui-0.40.0-expansion71.1-artifact.1-unitring.1-summon.2-multi.1-alchemy.1-brooms30.1-partyui.1-menu.1-icons.1-menuclick.1+mc1.21.4.jar",
       "license": "project-authorized client distribution",
       "role": "magiccodex"
     },
@@ -168,8 +168,8 @@
     },
     {
       "path": "config/magiccodex/launcher/client-assets.zip",
-      "sha256": "7546d7ac457f8001840e984125d49490c9c755da54a7e806706f33ba43ffd520",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.10/client-assets.zip",
+      "sha256": "b7eb1092d6afc0b503f3cc0a9cc6ee12cb92db2f879d130729755df4aa53db09",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.11/client-assets.zip",
       "license": "project-authorized client distribution",
       "role": "client-assets-bundle"
     },

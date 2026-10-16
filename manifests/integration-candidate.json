@@ -1,16 +1,171 @@
 {
-  "status": "prepared; not published",
-  "launcherTag": "v0.1.10",
+  "launcherTag": "v0.1.11",
+  "baselineCommit": "139670f",
   "changedModules": [
-    "kr.chacademi:magiccodex:0.40.0-expansion71.1-artifact.1-unitring.1-summon.2-multi.1+mc1.21.4@jar",
-    "kr.chacademi:portablevfx:3.2.0-catalog.alpha.4-opacity.1-bc7.2@jar",
-    "chacademi-client-assets.zip",
-    "config/portablevfx/load-limits.properties"
+    "kr.chacademi:magiccodex:0.40.0-expansion71.1-artifact.1-unitring.1-summon.2-multi.1-alchemy.1-brooms30.1-partyui.1-menu.1-icons.1-menuclick.1+mc1.21.4@jar",
+    "kr.chacademi:chacademy_motion:0.3.0-codex.3-hud.2-trails.2-brooms30.2@jar",
+    "chacademi-client-assets.zip"
   ],
-  "totalPacks": 163,
-  "assetFiles": 2219,
+  "totalPacks": 167,
+  "assetFiles": 2257,
+  "retainedBaselineFiles": 2219,
+  "broomFiles": [
+    {
+      "path": "config/portablevfx/effects/BroomTrails/textures/T_Dot.png",
+      "sha256": "04f036d1542a03c53722f81bec45ba565c842455e58b5638dd6f92dadf2e1549"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrails/textures/T_Glow.png",
+      "sha256": "e1e2b607ff15171631afd178ad3ae8176f49d5a8664674ab7df078eb159fa924"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrails/textures/T_Ripple.png",
+      "sha256": "03d63c5e525e94e5b8785b8b245bca95ffd83faccaf8b57f514d42625b335fdf"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrails/textures/T_Star4.png",
+      "sha256": "8c0e3ce582edf9ee4650e9fb6b6a4f774d8917955efdb2bbd71eb0f84933371b"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrails/textures/T_TrailStreak.png",
+      "sha256": "eb4cbe14c8242102e7e0f6f40d42d808d344a9f3a5f677a3d2d67a73b2653b12"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrails/textures/T_WaveStreak.png",
+      "sha256": "6aee1116ae4bf95d4da608601227706b7619d54d31ea3d5683246dcea56c1987"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrails/vfx.json",
+      "sha256": "70c4820281af46fec0a16a83a1a9fb0f64f1af93a291106b4a65cac0141b4e2c"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsLegend/textures/T_Butterfly.png",
+      "sha256": "03ac502654e3deaac7f14b46f86d8ed01eb83e3a53692273114b6660c1a1b1b5"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsLegend/textures/T_Confetti.png",
+      "sha256": "2ece14dd1106c333bb8c8f32216f9f8da782f5309cfbe47158cf8da632a1183d"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsLegend/textures/T_Dot.png",
+      "sha256": "04f036d1542a03c53722f81bec45ba565c842455e58b5638dd6f92dadf2e1549"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsLegend/textures/T_Feather.png",
+      "sha256": "445d42bf37f2bbf91b8d76ea7d42ca4bc1e20b3af585720180a216c4d15c7200"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsLegend/textures/T_Flame.png",
+      "sha256": "5cd5ba53a8ad8f431e478f9809a45edac03503a83a9b22edb573ecaeaa261767"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsLegend/textures/T_Glow.png",
+      "sha256": "e1e2b607ff15171631afd178ad3ae8176f49d5a8664674ab7df078eb159fa924"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsLegend/textures/T_HeartDark.png",
+      "sha256": "cddecac45c38f95ec58eef46a4f1bc74645bdd2724e8559c309c522c9f964e8a"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsLegend/textures/T_HeartGlow.png",
+      "sha256": "61166d91417442268d75f76666fbdd180a8c1999cfe17fa2e37f582818957db6"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsLegend/textures/T_Nebula.png",
+      "sha256": "02c7e9273f38ebbb6d275facda44c895387b486f4e26e3807883a2a67ad70010"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsLegend/textures/T_Star4.png",
+      "sha256": "8c0e3ce582edf9ee4650e9fb6b6a4f774d8917955efdb2bbd71eb0f84933371b"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsLegend/textures/T_TrailStreak.png",
+      "sha256": "eb4cbe14c8242102e7e0f6f40d42d808d344a9f3a5f677a3d2d67a73b2653b12"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsLegend/vfx.json",
+      "sha256": "542f1b93b71bd30396f5f6404b7b185fd53797c600c94d498866d2bb54ebe966"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsUnique/textures/T_Dot.png",
+      "sha256": "04f036d1542a03c53722f81bec45ba565c842455e58b5638dd6f92dadf2e1549"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsUnique/textures/T_HoloGlyph.png",
+      "sha256": "6743e291d27814a77af3bef731ad9f1c2edc74e1511ebc994bff925239f15568"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsUnique/textures/T_HoloWave.png",
+      "sha256": "2dc6e355c6cd8e25d89bad5acb9698fbe8024c0fc1b35bc734ad2b622227b3f0"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsUnique/textures/T_Nebula.png",
+      "sha256": "02c7e9273f38ebbb6d275facda44c895387b486f4e26e3807883a2a67ad70010"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsUnique/textures/T_Ring.png",
+      "sha256": "17ffc898b2eca98447b54a7604295e69a16a4dd1d7d156bf69bed8556be0a45c"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsUnique/textures/T_ShockRing.png",
+      "sha256": "921759b7da6fdd4dad6dd4d6a59d3992579f8a5f66353be06f2067296c35aaa9"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsUnique/textures/T_Star4.png",
+      "sha256": "8c0e3ce582edf9ee4650e9fb6b6a4f774d8917955efdb2bbd71eb0f84933371b"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsUnique/textures/T_TrailStreak.png",
+      "sha256": "eb4cbe14c8242102e7e0f6f40d42d808d344a9f3a5f677a3d2d67a73b2653b12"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsUnique/vfx.json",
+      "sha256": "3bf991748e889f5687ab6e3111e72ccec1b31de17c1a129a514b4cf1d3c1643e"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsWood/textures/T_Dot.png",
+      "sha256": "04f036d1542a03c53722f81bec45ba565c842455e58b5638dd6f92dadf2e1549"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsWood/textures/T_Leaf_Bamboo.png",
+      "sha256": "ccb403772107004d54f18a03aef5444ef398ca6b323a868f6aec5a5ba0902b00"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsWood/textures/T_Leaf_Birch.png",
+      "sha256": "1d201bb4ab88cc0375fa4ea6eb3eeec228971cafb7d6ff45c0513d358da94426"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsWood/textures/T_Leaf_Cherry.png",
+      "sha256": "116c859dfc128321b773f8764da66169bc9b197df7689338f89fd41a605484ed"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsWood/textures/T_Leaf_Mahogany.png",
+      "sha256": "de70fe51d99e37cc3767a64e0bec25ec3879c25af85d4c07b83daa362e704bb0"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsWood/textures/T_Leaf_Oak.png",
+      "sha256": "23cd969bdadd36ee3f42f4ad842afae9d72cd8c4bd16a504bbf962610353fe36"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsWood/textures/T_Nebula.png",
+      "sha256": "02c7e9273f38ebbb6d275facda44c895387b486f4e26e3807883a2a67ad70010"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsWood/textures/T_Star4.png",
+      "sha256": "8c0e3ce582edf9ee4650e9fb6b6a4f774d8917955efdb2bbd71eb0f84933371b"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsWood/textures/T_TrailStreak.png",
+      "sha256": "eb4cbe14c8242102e7e0f6f40d42d808d344a9f3a5f677a3d2d67a73b2653b12"
+    },
+    {
+      "path": "config/portablevfx/effects/BroomTrailsWood/vfx.json",
+      "sha256": "94dc93c503c53189f061061d704c189cd5e15043fa5d0019436d4722b210217e"
+    }
+  ],
+  "testsPassed": 396,
+  "serverPluginsCopied": false,
+  "personalSettingsCopied": false,
   "gameVisualQA": "not performed",
-  "backup": "C:\\Chacademi\\staging\\vfx-b0a50cd-20261016-task10\\launcher\\backup",
-  "vfxSourceCommit": "b0a50cdc52d43dbc36197fc3285ddf6e726a9b7b",
-  "artifactSourceCommit": "ac545d0cb100767428ed15ce37d5c532c8774984"
+  "existingResourcesPreserved": true
 }

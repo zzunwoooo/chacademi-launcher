@@ -284,14 +284,14 @@
           }
         },
         {
-          "id": "kr.chacademi:chacademy_motion:0.3.0-codex.3-hud.2@jar",
-          "name": "mods/chacademy-motion-0.3.0-codex.3-hud.2.jar",
+          "id": "kr.chacademi:chacademy_motion:0.3.0-codex.3-hud.2-trails.2-brooms30.2@jar",
+          "name": "mods/chacademy-motion-0.3.0-codex.3-hud.2-trails.2-brooms30.2.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 1751637,
-            "MD5": "d9755e8a2334ff2a1b7a60bdce67633e",
-            "SHA256": "10645660fc7b80395581fe70f9d7cb03a01a142163453427c8e330d864af71b7",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.6/chacademy-motion-0.3.0-codex.3-hud.2.jar"
+            "size": 1981086,
+            "MD5": "1c35a94ceb6ba95782df53803da2cd70",
+            "SHA256": "d4781335f9cf721525e74f833d152f58e22acd5ac19f18d423bbc8222fc220f5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.11/chacademy-motion-0.3.0-codex.3-hud.2-trails.2-brooms30.2.jar"
           }
         },
         {
@@ -328,14 +328,14 @@
           }
         },
         {
-          "id": "kr.chacademi:magiccodex:0.40.0-expansion71.1-artifact.1-unitring.1-summon.2-multi.1+mc1.21.4@jar",
-          "name": "mods/magic-codex-ui-0.40.0-expansion71.1-artifact.1-unitring.1-summon.2-multi.1+mc1.21.4.jar",
+          "id": "kr.chacademi:magiccodex:0.40.0-expansion71.1-artifact.1-unitring.1-summon.2-multi.1-alchemy.1-brooms30.1-partyui.1-menu.1-icons.1-menuclick.1+mc1.21.4@jar",
+          "name": "mods/magic-codex-ui-0.40.0-expansion71.1-artifact.1-unitring.1-summon.2-multi.1-alchemy.1-brooms30.1-partyui.1-menu.1-icons.1-menuclick.1+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 136347947,
-            "MD5": "c8f6984a0a560b6a537fc427c969f306",
-            "SHA256": "3de503b52443844667409e2380b8f31f53aaa8b445462b2f050bd84b695d32e3",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.10/magic-codex-ui-0.40.0-expansion71.1-artifact.1-unitring.1-summon.2-multi.1+mc1.21.4.jar"
+            "size": 151953284,
+            "MD5": "99fe1134f0406ea6d639fcbaa0b2a64a",
+            "SHA256": "a626c72e4e8097756373e77237ba2352a5a4300508ce57c1d082ce548c201da9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.11/magic-codex-ui-0.40.0-expansion71.1-artifact.1-unitring.1-summon.2-multi.1-alchemy.1-brooms30.1-partyui.1-menu.1-icons.1-menuclick.1+mc1.21.4.jar"
           }
         },
         {
@@ -377,10 +377,10 @@
           "name": "config/magiccodex/launcher/client-assets.zip",
           "type": "File",
           "artifact": {
-            "size": 710461973,
-            "MD5": "9f27bc167a060cc79a41d9e5efe408d3",
-            "SHA256": "7546d7ac457f8001840e984125d49490c9c755da54a7e806706f33ba43ffd520",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.10/client-assets.zip",
+            "size": 710745864,
+            "MD5": "e9a0325ea0682344e1a3907e1cf236c7",
+            "SHA256": "b7eb1092d6afc0b503f3cc0a9cc6ee12cb92db2f879d130729755df4aa53db09",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.11/client-assets.zip",
             "path": "config/magiccodex/launcher/client-assets.zip"
           },
           "updatePolicy": "managed"
