@@ -284,14 +284,14 @@
           }
         },
         {
-          "id": "kr.chacademi:chacademy_motion:0.3.0-codex.3-hud.2-trails.2-brooms30.2@jar",
-          "name": "mods/chacademy-motion-0.3.0-codex.3-hud.2-trails.2-brooms30.2.jar",
+          "id": "kr.chacademi:chacademy_motion:0.3.1-integrated-20261018.1@jar",
+          "name": "mods/chacademy-motion-0.3.1-integrated-20261018.1.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 1981086,
-            "MD5": "1c35a94ceb6ba95782df53803da2cd70",
-            "SHA256": "d4781335f9cf721525e74f833d152f58e22acd5ac19f18d423bbc8222fc220f5",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.11/chacademy-motion-0.3.0-codex.3-hud.2-trails.2-brooms30.2.jar"
+            "size": 1983081,
+            "MD5": "87fd55af6af75dcfd535e122fae5f905",
+            "SHA256": "174366031958d8c2ace84498fd155bf562f9cb3ea4ff9be367d9bddb4b9fddfb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.12/chacademy-motion-0.3.1-integrated-20261018.1.jar"
           }
         },
         {
@@ -328,14 +328,14 @@
           }
         },
         {
-          "id": "kr.chacademi:magiccodex:0.40.0-expansion71.1-artifact.1-unitring.1-summon.2-multi.1-alchemy.1-brooms30.1-partyui.1-menu.1-icons.1-menuclick.1+mc1.21.4@jar",
-          "name": "mods/magic-codex-ui-0.40.0-expansion71.1-artifact.1-unitring.1-summon.2-multi.1-alchemy.1-brooms30.1-partyui.1-menu.1-icons.1-menuclick.1+mc1.21.4.jar",
+          "id": "kr.chacademi:magiccodex:0.40.1-integrated-20261018.1+mc1.21.4@jar",
+          "name": "mods/magic-codex-ui-0.40.1-integrated-20261018.1+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 151953284,
-            "MD5": "99fe1134f0406ea6d639fcbaa0b2a64a",
-            "SHA256": "a626c72e4e8097756373e77237ba2352a5a4300508ce57c1d082ce548c201da9",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.11/magic-codex-ui-0.40.0-expansion71.1-artifact.1-unitring.1-summon.2-multi.1-alchemy.1-brooms30.1-partyui.1-menu.1-icons.1-menuclick.1+mc1.21.4.jar"
+            "size": 199473527,
+            "MD5": "881bc2acca5b423a4677e7d4f6dd3d93",
+            "SHA256": "9189b32dc5f9e6b765a7663e8066bc461419d99793546a80db6dc187c2e65ae8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.12/magic-codex-ui-0.40.1-integrated-20261018.1+mc1.21.4.jar"
           }
         },
         {
@@ -380,7 +380,7 @@
             "size": 710745864,
             "MD5": "e9a0325ea0682344e1a3907e1cf236c7",
             "SHA256": "b7eb1092d6afc0b503f3cc0a9cc6ee12cb92db2f879d130729755df4aa53db09",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.11/client-assets.zip",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.12/client-assets.zip",
             "path": "config/magiccodex/launcher/client-assets.zip"
           },
           "updatePolicy": "managed"
@@ -559,10 +559,10 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 7385,
-            "MD5": "3d26c10e5510ff21152d77d1b0ae6c59",
-            "SHA256": "03ca88c66ae4eeb0e00622ed3768b6c4916c6188c02da7ebd7acc9c9c2cd7690",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/options.txt",
+            "size": 7588,
+            "MD5": "d4707b0a57e5ff5d0acddd9af4c886c4",
+            "SHA256": "4cda145f36aff7e2eb482ee5e4fdea4c890fb4406a650b064f54dfae323a1e5e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.12/options.txt",
             "path": "options.txt"
           },
           "updatePolicy": "seed"
