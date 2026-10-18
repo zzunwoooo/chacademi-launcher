@@ -1,5 +1,6 @@
-# Chacademi Launcher v0.1.12 candidate
-NOT PUBLISHED. Coordinated server deployment awaits database schema approval.
+# Chacademi Launcher v0.1.12
+PUBLISHED: https://github.com/zzunwoooo/chacademi-launcher/releases/tag/v0.1.12
+Coordinated personal and server deployment completed; additive schema and all four server startups verified.
 
 Source integration: zzunwoooo/chacademi-magiccodex-source codex/operating-latest-20261018 @ 4df0fad21d0bc2dc3f12e6ff3f5a16ecae0ef866.
 Latest duel/Kyudichi lobby and eight original owner PNG icons; rebindable UI shortcuts; updated broom controls; shop item notices; shared alchemy configuration. Existing housing, crosshair, thirty brooms, barrel roll, artifact ownership and administration preserved.
