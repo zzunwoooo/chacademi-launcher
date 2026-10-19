@@ -139,9 +139,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/magic-codex-ui-0.40.1-integrated-20261018.1-statushud.3-lobbypolish.1+mc1.21.4.jar",
-      "sha256": "56d65a4b8ee9c800d4819229d29e8398095892b73479bb1f1bc57c73721761a0",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.14/magic-codex-ui-0.40.1-integrated-20261018.1-statushud.3-lobbypolish.1+mc1.21.4.jar",
+      "path": "mods/magic-codex-ui-0.40.1-integrated-20261019.1-statushud.3-lobbyfix.1+mc1.21.4.jar",
+      "sha256": "c3164e88e344c1a785a6772da4ab4a77fb2946e550a922b415efb65b29731dce",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.15/magic-codex-ui-0.40.1-integrated-20261019.1-statushud.3-lobbyfix.1+mc1.21.4.jar",
       "license": "project-authorized client distribution",
       "role": "magiccodex"
     },
