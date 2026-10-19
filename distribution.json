@@ -328,14 +328,14 @@
           }
         },
         {
-          "id": "kr.chacademi:magiccodex:0.40.1-integrated-20261018.1-statushud.1-lobbypolish.1+mc1.21.4@jar",
-          "name": "mods/magic-codex-ui-0.40.1-integrated-20261018.1-statushud.1-lobbypolish.1+mc1.21.4.jar",
+          "id": "kr.chacademi:magiccodex:0.40.1-integrated-20261018.1-statushud.3-lobbypolish.1+mc1.21.4@jar",
+          "name": "mods/magic-codex-ui-0.40.1-integrated-20261018.1-statushud.3-lobbypolish.1+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 200130760,
-            "MD5": "3bc12693a87535e9a08616aa1be5640d",
-            "SHA256": "53115bcfae26edb072f70158e338227f2bc4b46a7db20dd7db3e71390d1cdaaf",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.14/magic-codex-ui-0.40.1-integrated-20261018.1-statushud.1-lobbypolish.1+mc1.21.4.jar"
+            "size": 200657736,
+            "MD5": "4c4f8cf4d55d02fca3eb5d261b3159f5",
+            "SHA256": "56d65a4b8ee9c800d4819229d29e8398095892b73479bb1f1bc57c73721761a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.14/magic-codex-ui-0.40.1-integrated-20261018.1-statushud.3-lobbypolish.1+mc1.21.4.jar"
           }
         },
         {
