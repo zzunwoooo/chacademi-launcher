@@ -328,14 +328,14 @@
           }
         },
         {
-          "id": "kr.chacademi:magiccodex:0.40.1-integrated-20261019.3-final.1+mc1.21.4@jar",
-          "name": "mods/magic-codex-ui-0.40.1-integrated-20261019.3-final.1+mc1.21.4.jar",
+          "id": "kr.chacademi:magiccodex:0.40.1-integrated-20261020.1-fishing-icons22.1+mc1.21.4@jar",
+          "name": "mods/magic-codex-ui-0.40.1-integrated-20261020.1-fishing-icons22.1+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 200714008,
-            "MD5": "9a926b5f5abbbddc7395633d529ca9f3",
-            "SHA256": "de55228814c2fc7706b5bc70ceeb185f65534b4cf5d6d5e019beaaae1de6dd01",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/magic-codex-ui-0.40.1-integrated-20261019.3-final.1+mc1.21.4.jar"
+            "size": 258107759,
+            "MD5": "a544a8a02b52114c0f43100313971678",
+            "SHA256": "0ba290808297f7cb842d748cf88feefa4e0f93a5650180b0f36007170de33a5e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/magic-codex-ui-0.40.1-integrated-20261020.1-fishing-icons22.1+mc1.21.4.jar"
           }
         },
         {
@@ -350,14 +350,14 @@
           }
         },
         {
-          "id": "kr.chacademi:portablevfx:3.2.0-catalog.alpha.4-opacity.1-bc7.2@jar",
-          "name": "mods/portable-vfx-client-3.2.0-catalog.alpha.4-opacity.1-bc7.2.jar",
+          "id": "kr.chacademi:portablevfx:3.2.1-integrated-20261019.1-audited.1@jar",
+          "name": "mods/portable-vfx-client-3.2.1-integrated-20261019.1-audited.1.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 393060,
-            "MD5": "a1e8e4eb63996affed303a09aac331f9",
-            "SHA256": "11dcd1068251cbd772d52b371ac96a6f8d078c69b8eb5d9f16b2469aaf1426f8",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.10/portable-vfx-client-3.2.0-catalog.alpha.4-opacity.1-bc7.2.jar"
+            "size": 395776,
+            "MD5": "08505f1505efba59b57296bf2d25bad9",
+            "SHA256": "d3a7ec07aa9ee41c33a812e9ff78d47bb714c4748fb06e14beea8db0c791bc6d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/portable-vfx-client-3.2.1-integrated-20261019.1-audited.1.jar"
           }
         },
         {
@@ -377,9 +377,9 @@
           "name": "config/magiccodex/launcher/client-assets.zip",
           "type": "File",
           "artifact": {
-            "size": 736368639,
-            "MD5": "41783d57d6510d51aa63a21891a18cb1",
-            "SHA256": "3d04be4f159d739895d06aeb7fc5fb6c4627153241d9d3c5a55f59ccd408a48a",
+            "size": 748660980,
+            "MD5": "64b066da50c5249249a58f8ebd8128e8",
+            "SHA256": "b9386397746b266ffc1cb82bd6c23749e7eb10885b709d9468ff9dffa109d761",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/client-assets.zip",
             "path": "config/magiccodex/launcher/client-assets.zip"
           },
@@ -519,16 +519,16 @@
           "name": "config/portablevfx/load-limits.properties",
           "type": "File",
           "artifact": {
-            "size": 130,
-            "MD5": "e950828f3f2dc22e1296afac0c95565c",
-            "SHA256": "fb517b33d263d09678be970d775e66274a3067ef7a3223b760691e86ea488a24",
+            "size": 124,
+            "MD5": "c69e2fa860788db9b5c1259423a1a2a8",
+            "SHA256": "93a7a77d92bf2a4aa8ecaf1a99ce898afc9cbe86a9a5386d94b31fd3ca1032c1",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/load-limits.properties",
             "path": "config/portablevfx/load-limits.properties"
           },
           "updatePolicy": "seed",
           "vfxCatalogLimits": {
             "encodedCacheMiB": 512,
-            "systems": 1038
+            "systems": 1237
           }
         },
         {

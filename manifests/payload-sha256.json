@@ -139,9 +139,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/magic-codex-ui-0.40.1-integrated-20261019.3-final.1+mc1.21.4.jar",
-      "sha256": "de55228814c2fc7706b5bc70ceeb185f65534b4cf5d6d5e019beaaae1de6dd01",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/magic-codex-ui-0.40.1-integrated-20261019.3-final.1+mc1.21.4.jar",
+      "path": "mods/magic-codex-ui-0.40.1-integrated-20261020.1-fishing-icons22.1+mc1.21.4.jar",
+      "sha256": "0ba290808297f7cb842d748cf88feefa4e0f93a5650180b0f36007170de33a5e",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/magic-codex-ui-0.40.1-integrated-20261020.1-fishing-icons22.1+mc1.21.4.jar",
       "license": "project-authorized client distribution",
       "role": "magiccodex"
     },
@@ -153,9 +153,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/portable-vfx-client-3.2.0-catalog.alpha.4-opacity.1-bc7.2.jar",
-      "sha256": "11dcd1068251cbd772d52b371ac96a6f8d078c69b8eb5d9f16b2469aaf1426f8",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.10/portable-vfx-client-3.2.0-catalog.alpha.4-opacity.1-bc7.2.jar",
+      "path": "mods/portable-vfx-client-3.2.1-integrated-20261019.1-audited.1.jar",
+      "sha256": "d3a7ec07aa9ee41c33a812e9ff78d47bb714c4748fb06e14beea8db0c791bc6d",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/portable-vfx-client-3.2.1-integrated-20261019.1-audited.1.jar",
       "license": "project-authorized client distribution",
       "role": "portablevfx"
     },
@@ -168,7 +168,7 @@
     },
     {
       "path": "config/magiccodex/launcher/client-assets.zip",
-      "sha256": "3d04be4f159d739895d06aeb7fc5fb6c4627153241d9d3c5a55f59ccd408a48a",
+      "sha256": "b9386397746b266ffc1cb82bd6c23749e7eb10885b709d9468ff9dffa109d761",
       "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/client-assets.zip",
       "license": "project-authorized client distribution",
       "role": "client-assets-bundle"
@@ -245,7 +245,7 @@
     },
     {
       "path": "config/portablevfx/load-limits.properties",
-      "sha256": "fb517b33d263d09678be970d775e66274a3067ef7a3223b760691e86ea488a24",
+      "sha256": "93a7a77d92bf2a4aa8ecaf1a99ce898afc9cbe86a9a5386d94b31fd3ca1032c1",
       "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/load-limits.properties",
       "license": "project-authorized client distribution",
       "role": "mod-config"
