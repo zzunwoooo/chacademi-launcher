@@ -328,14 +328,14 @@
           }
         },
         {
-          "id": "kr.chacademi:magiccodex:0.40.1-integrated-20261018.1+mc1.21.4@jar",
-          "name": "mods/magic-codex-ui-0.40.1-integrated-20261018.1+mc1.21.4.jar",
+          "id": "kr.chacademi:magiccodex:0.40.1-integrated-20261018.1-statushud.1+mc1.21.4@jar",
+          "name": "mods/magic-codex-ui-0.40.1-integrated-20261018.1-statushud.1+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 199473527,
-            "MD5": "881bc2acca5b423a4677e7d4f6dd3d93",
-            "SHA256": "9189b32dc5f9e6b765a7663e8066bc461419d99793546a80db6dc187c2e65ae8",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.12/magic-codex-ui-0.40.1-integrated-20261018.1+mc1.21.4.jar"
+            "size": 200129400,
+            "MD5": "7c885be11207361a503ca5a47cca3b4d",
+            "SHA256": "8cec1365381adc9eef3e5a4410185a76e8a1f9952543a11de7b82261f6ab426c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.13/magic-codex-ui-0.40.1-integrated-20261018.1-statushud.1+mc1.21.4.jar"
           }
         },
         {
