@@ -328,14 +328,14 @@
           }
         },
         {
-          "id": "kr.chacademi:magiccodex:0.40.1-integrated-20261020.1-fishing-icons22.1+mc1.21.4@jar",
-          "name": "mods/magic-codex-ui-0.40.1-integrated-20261020.1-fishing-icons22.1+mc1.21.4.jar",
+          "id": "kr.chacademi:magiccodex:0.40.1-integrated-20261020.2-mobicons24v2.1+mc1.21.4@jar",
+          "name": "mods/magic-codex-ui-0.40.1-integrated-20261020.2-mobicons24v2.1+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 258107759,
-            "MD5": "a544a8a02b52114c0f43100313971678",
-            "SHA256": "0ba290808297f7cb842d748cf88feefa4e0f93a5650180b0f36007170de33a5e",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/magic-codex-ui-0.40.1-integrated-20261020.1-fishing-icons22.1+mc1.21.4.jar"
+            "size": 292303047,
+            "MD5": "cfdfff591f9536910c7f7001eb007625",
+            "SHA256": "384ae4f5ad95922c8282dc8cbc2227982b4f3aa7eff465df458faf136e49f7fb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.17/magic-codex-ui-0.40.1-integrated-20261020.2-mobicons24v2.1+mc1.21.4.jar"
           }
         },
         {

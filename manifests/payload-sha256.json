@@ -139,9 +139,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/magic-codex-ui-0.40.1-integrated-20261020.1-fishing-icons22.1+mc1.21.4.jar",
-      "sha256": "0ba290808297f7cb842d748cf88feefa4e0f93a5650180b0f36007170de33a5e",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/magic-codex-ui-0.40.1-integrated-20261020.1-fishing-icons22.1+mc1.21.4.jar",
+      "path": "mods/magic-codex-ui-0.40.1-integrated-20261020.2-mobicons24v2.1+mc1.21.4.jar",
+      "sha256": "384ae4f5ad95922c8282dc8cbc2227982b4f3aa7eff465df458faf136e49f7fb",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.17/magic-codex-ui-0.40.1-integrated-20261020.2-mobicons24v2.1+mc1.21.4.jar",
       "license": "project-authorized client distribution",
       "role": "magiccodex"
     },
