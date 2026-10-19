@@ -328,14 +328,14 @@
           }
         },
         {
-          "id": "kr.chacademi:magiccodex:0.40.1-integrated-20261019.2-statushud.3-lobbyfix.1-aim.1+mc1.21.4@jar",
-          "name": "mods/magic-codex-ui-0.40.1-integrated-20261019.2-statushud.3-lobbyfix.1-aim.1+mc1.21.4.jar",
+          "id": "kr.chacademi:magiccodex:0.40.1-integrated-20261019.3-final.1+mc1.21.4@jar",
+          "name": "mods/magic-codex-ui-0.40.1-integrated-20261019.3-final.1+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 200663835,
-            "MD5": "e89fa5dfc7ae4b28e36eb2c1c96bb539",
-            "SHA256": "e78325b5dd0c6acdae54fa198fa4f2902c7e260dc402f30e4ba2fcfdf8f11114",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/magic-codex-ui-0.40.1-integrated-20261019.2-statushud.3-lobbyfix.1-aim.1+mc1.21.4.jar"
+            "size": 200714008,
+            "MD5": "9a926b5f5abbbddc7395633d529ca9f3",
+            "SHA256": "de55228814c2fc7706b5bc70ceeb185f65534b4cf5d6d5e019beaaae1de6dd01",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/magic-codex-ui-0.40.1-integrated-20261019.3-final.1+mc1.21.4.jar"
           }
         },
         {
@@ -377,10 +377,10 @@
           "name": "config/magiccodex/launcher/client-assets.zip",
           "type": "File",
           "artifact": {
-            "size": 710745864,
-            "MD5": "e9a0325ea0682344e1a3907e1cf236c7",
-            "SHA256": "b7eb1092d6afc0b503f3cc0a9cc6ee12cb92db2f879d130729755df4aa53db09",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.12/client-assets.zip",
+            "size": 736368639,
+            "MD5": "41783d57d6510d51aa63a21891a18cb1",
+            "SHA256": "3d04be4f159d739895d06aeb7fc5fb6c4627153241d9d3c5a55f59ccd408a48a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/client-assets.zip",
             "path": "config/magiccodex/launcher/client-assets.zip"
           },
           "updatePolicy": "managed"
@@ -519,14 +519,17 @@
           "name": "config/portablevfx/load-limits.properties",
           "type": "File",
           "artifact": {
-            "size": 198,
-            "MD5": "86476a3324d4392bb421fee04157cdc7",
-            "SHA256": "672fc737effd31941247b50e8b934947d36ac511f8e3582dfd3905edd202a2b4",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.10/load-limits.properties",
+            "size": 130,
+            "MD5": "e950828f3f2dc22e1296afac0c95565c",
+            "SHA256": "fb517b33d263d09678be970d775e66274a3067ef7a3223b760691e86ea488a24",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/load-limits.properties",
             "path": "config/portablevfx/load-limits.properties"
           },
           "updatePolicy": "seed",
-          "bc7SystemLimit": 1024
+          "vfxCatalogLimits": {
+            "encodedCacheMiB": 512,
+            "systems": 1038
+          }
         },
         {
           "id": "config/sodium-mixins.properties",

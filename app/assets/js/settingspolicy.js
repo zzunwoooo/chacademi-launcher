@@ -25,6 +25,9 @@ exports.prepare = async function(distribution, instanceDirectory){
                         if(!stat.isFile() || stat.isSymbolicLink()){
                             throw new Error('Seed target must be an ordinary file')
                         }
+                        if(relative === 'config/portablevfx/load-limits.properties' && module.vfxCatalogLimits){
+                            await require('./vfxlimits').migrate(target, module.vfxCatalogLimits)
+                        }
                         if(relative === 'config/portablevfx/load-limits.properties' && module.bc7SystemLimit === 1024){
                             await require('./bc7limits').migrate(target)
                         }

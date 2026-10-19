@@ -139,9 +139,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/magic-codex-ui-0.40.1-integrated-20261019.2-statushud.3-lobbyfix.1-aim.1+mc1.21.4.jar",
-      "sha256": "e78325b5dd0c6acdae54fa198fa4f2902c7e260dc402f30e4ba2fcfdf8f11114",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/magic-codex-ui-0.40.1-integrated-20261019.2-statushud.3-lobbyfix.1-aim.1+mc1.21.4.jar",
+      "path": "mods/magic-codex-ui-0.40.1-integrated-20261019.3-final.1+mc1.21.4.jar",
+      "sha256": "de55228814c2fc7706b5bc70ceeb185f65534b4cf5d6d5e019beaaae1de6dd01",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/magic-codex-ui-0.40.1-integrated-20261019.3-final.1+mc1.21.4.jar",
       "license": "project-authorized client distribution",
       "role": "magiccodex"
     },
@@ -168,8 +168,8 @@
     },
     {
       "path": "config/magiccodex/launcher/client-assets.zip",
-      "sha256": "b7eb1092d6afc0b503f3cc0a9cc6ee12cb92db2f879d130729755df4aa53db09",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.12/client-assets.zip",
+      "sha256": "3d04be4f159d739895d06aeb7fc5fb6c4627153241d9d3c5a55f59ccd408a48a",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/client-assets.zip",
       "license": "project-authorized client distribution",
       "role": "client-assets-bundle"
     },
@@ -245,8 +245,8 @@
     },
     {
       "path": "config/portablevfx/load-limits.properties",
-      "sha256": "672fc737effd31941247b50e8b934947d36ac511f8e3582dfd3905edd202a2b4",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.10/load-limits.properties",
+      "sha256": "fb517b33d263d09678be970d775e66274a3067ef7a3223b760691e86ea488a24",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/load-limits.properties",
       "license": "project-authorized client distribution",
       "role": "mod-config"
     },
