@@ -217,8 +217,8 @@
     },
     {
       "path": "config/iris.properties",
-      "sha256": "adbff4dfad7b5f6ba7c33e8c3107018f657b68c3d52f5f53e1634b9973da394a",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/iris.properties",
+      "sha256": "d1b0050b3955f6823a7a42d88896dc71d1935260789b4b39334dab19be2da584",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.22/iris.properties",
       "license": "project-authorized client distribution",
       "role": "mod-config"
     },
@@ -599,6 +599,20 @@
       "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-6__dialogue.yml",
       "license": "User-authorized Chacademi content",
       "role": "story-content"
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
+      "sha256": "d9a586507270a03fc9d6e8f074a87a9d183eabe2b265502405ed36e47bff185b",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.22/ComplementaryUnbound_r5.5.1.zip.txt",
+      "license": "user-authorized shader configuration and project migration policy",
+      "role": "mod-config"
+    },
+    {
+      "path": "config/magiccodex/launcher/shader-defaults-20261020.json",
+      "sha256": "f01b8b8c86212889b10cf5c37f4afc2f0d4b21c76b5e565f89deb67528f0b4c2",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.22/shader-defaults-20261020.json",
+      "license": "user-authorized shader configuration and project migration policy",
+      "role": "mod-config"
     }
   ],
   "bc7SourceCommit": "b0a50cdc52d43dbc36197fc3285ddf6e726a9b7b",

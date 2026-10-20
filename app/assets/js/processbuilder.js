@@ -11,6 +11,7 @@ const path                  = require('path')
 const ConfigManager            = require('./configmanager')
 const PetModels = require('./petmodels')
 const ClientAssets = require('./clientassets')
+const ShaderDefaults = require('./shaderdefaults')
 const CameraCompat = require('./cameracompat')
 
 const logger = LoggerUtil.getLogger('ProcessBuilder')
@@ -54,6 +55,8 @@ class ProcessBuilder {
         logger.info('Pet model bundle prepared:', PetModels.install(this.gameDir, modelModule))
         const assetModule = this.server.rawServer.modules.find(module => module.id === 'chacademi-client-assets.zip')
         logger.info('Spell and VFX assets verified:', ClientAssets.install(this.gameDir, assetModule))
+        const shaderPolicy = this.server.rawServer.modules.find(module => module.id === ShaderDefaults.MODULE_ID)
+        logger.info('One-time shader defaults:', ShaderDefaults.apply(this.gameDir, shaderPolicy))
         const tempNativePath = path.join(os.tmpdir(), ConfigManager.getTempNativeFolder(), crypto.pseudoRandomBytes(16).toString('hex'))
         process.throwDeprecation = true
         this.setupLiteLoader()

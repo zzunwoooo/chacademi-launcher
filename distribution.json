@@ -467,11 +467,11 @@
           "name": "config/iris.properties",
           "type": "File",
           "artifact": {
-            "size": 313,
-            "MD5": "355c8c062240dee5748e3056ed3cd335",
-            "SHA256": "adbff4dfad7b5f6ba7c33e8c3107018f657b68c3d52f5f53e1634b9973da394a",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/iris.properties",
-            "path": "config/iris.properties"
+            "path": "config/iris.properties",
+            "size": 312,
+            "MD5": "6b0a86937c994275598923efaece6077",
+            "SHA256": "d1b0050b3955f6823a7a42d88896dc71d1935260789b4b39334dab19be2da584",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.22/iris.properties"
           },
           "updatePolicy": "seed"
         },
@@ -1176,6 +1176,33 @@
             "SHA256": "28dd826c4fb19e9a531f7b5bb2dca5f345b83863503d655477f7a8c31726cc1f",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_dialogue__ch1-6__dialogue.yml"
           }
+        },
+        {
+          "id": "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
+          "name": "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
+          "type": "File",
+          "artifact": {
+            "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
+            "size": 278,
+            "MD5": "1f19926f5614f0196ba4f47eba958bf6",
+            "SHA256": "d9a586507270a03fc9d6e8f074a87a9d183eabe2b265502405ed36e47bff185b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.22/ComplementaryUnbound_r5.5.1.zip.txt"
+          },
+          "updatePolicy": "seed"
+        },
+        {
+          "id": "config/magiccodex/launcher/shader-defaults-20261020.json",
+          "name": "config/magiccodex/launcher/shader-defaults-20261020.json",
+          "type": "File",
+          "artifact": {
+            "path": "config/magiccodex/launcher/shader-defaults-20261020.json",
+            "size": 701,
+            "MD5": "777c9ff29653106f9fc5bbf78c66171e",
+            "SHA256": "f01b8b8c86212889b10cf5c37f4afc2f0d4b21c76b5e565f89deb67528f0b4c2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.22/shader-defaults-20261020.json"
+          },
+          "updatePolicy": "managed",
+          "managedReason": "Immutable one-time shader migration input. User shader settings remain seed-managed; a per-revision marker prevents repeated overrides."
         }
       ]
     }

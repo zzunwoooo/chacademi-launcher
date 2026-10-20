@@ -1,0 +1,11 @@
+{
+  "revision": "complementary-unbound-551-defaults-20261020",
+  "pack": "ComplementaryUnbound_r5.5.1.zip",
+  "packSha256": "61d133b24b6a92e46a3d7df791bb2ff163bbba10eed59df979b9bd727c24fbaf",
+  "presetSha256": "d9a586507270a03fc9d6e8f074a87a9d183eabe2b265502405ed36e47bff185b",
+  "presetText": "#Tue Oct 06 14:36:45 KST 2026\r\nATM_FOG_ALTITUDE=300\r\nATM_FOG_DISTANCE=10\r\nBLOCK_REFLECT_QUALITY=1\r\nBORDER_FOG=false\r\nCAVE_FOG=false\r\nCLOUD_ALT1=352\r\nLIGHTSHAFT_BEHAVIOUR=0\r\nLIGHTSHAFT_QUALI_DEFINE=1\r\nRAIN_STYLE=2\r\nSHADOW_QUALITY=1\r\nWEATHER_TEX_OPACITY=25\r\nshadowDistance=128.0\r\n",
+  "iris": {
+    "shaderPack": "ComplementaryUnbound_r5.5.1.zip",
+    "enableShaders": "true"
+  }
+}

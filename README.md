@@ -52,3 +52,8 @@ Microsoft authentication retains the original public OAuth client ID and normal 
 The app uses this repository's own update feed; setup, latest.yml and blockmap are provided together. No existing server or launcher was replaced during this task, and no next feature update was started.
 
 See [release handoff](docs/RELEASE-HANDOFF.md), [third-party notices](THIRD-PARTY-NOTICES.md) and [payload hashes](manifests/payload-sha256.json). The GPL chat-layout companion's corresponding source is provided in the Release. Complementary Unbound is credited to Complementary Development / EminGTR, with its original license retained.
+
+
+## Launcher 0.1.22 shader defaults
+
+Complementary Unbound r5.5.1 by Complementary Development / EminGTR (https://www.complementary.dev/) is selected and enabled once with the user-supplied preset. The original shader ZIP and License.txt remain unchanged; the modpack maintainer accepts responsibility for pack integration issues. Existing settings are backed up and only the requested shader keys are merged once. Later user changes are preserved. See [shader policy and validation](docs/SHADER_DEFAULTS_20261020.md).
