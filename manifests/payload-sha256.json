@@ -168,8 +168,8 @@
     },
     {
       "path": "config/magiccodex/launcher/client-assets.zip",
-      "sha256": "037b99a717deb11b636caef15671678b4c397e4c8b99d2b75b197055570f4152",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.21/client-assets.zip",
+      "sha256": "87f00418c642a2942cfd3df72f1ac419fcd44b5d57a0b5669a64330a7e2268c8",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.21/client-assets-manifest-fix-20261020.zip",
       "license": "project-authorized client distribution",
       "role": "client-assets-bundle"
     },

@@ -1,0 +1,71 @@
+{
+  "status": "BUILT_AND_ALL_MEMBERS_VERIFIED",
+  "files": 3682,
+  "zipEntries": 3683,
+  "preserved": 3675,
+  "oldSharedManifestMismatches": 5,
+  "size": 752775023,
+  "expandedBytes": 865817019,
+  "sha256": "87f00418c642a2942cfd3df72f1ac419fcd44b5d57a0b5669a64330a7e2268c8",
+  "md5": "9f7403500c5a1524fa79264671d0938b",
+  "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.21/client-assets-manifest-fix-20261020.zip",
+  "oldSha256": "037b99a717deb11b636caef15671678b4c397e4c8b99d2b75b197055570f4152",
+  "restored": [
+    {
+      "path": "config/portablevfx/effects/ElementReactions/textures/T_Crack.png",
+      "sha256": "936059644056a01c476d938f06afa05106e5a4ebf4104cff7291710a831754f4",
+      "bytes": 18922
+    },
+    {
+      "path": "config/portablevfx/effects/ElementReactions/textures/T_Puff_Sheet.png",
+      "sha256": "ca77576c11f305744b7ed87972a9fdf07ea3ce705a31c374f17a3ff1c5a6094f",
+      "bytes": 26779
+    },
+    {
+      "path": "config/portablevfx/effects/ElementReactions/textures/T_Rift.png",
+      "sha256": "3285016c5b53307a07f221f7a751aa3f2025a0cbf29303e7d62d4f2c72538849",
+      "bytes": 12287
+    },
+    {
+      "path": "config/portablevfx/effects/ElementReactions/textures/T_Ring.png",
+      "sha256": "42da44b74bbe32aecd2176eb1f071a4fb1ecd0722ab38fc9da58afb0bd93a814",
+      "bytes": 26236
+    },
+    {
+      "path": "config/portablevfx/effects/ElementReactions/textures/T_Shard.png",
+      "sha256": "e410cda81c9f65c3279970558390135626b377ef026d8477f75dd7d1b3ad0cbd",
+      "bytes": 3669
+    },
+    {
+      "path": "config/portablevfx/effects/ElementReactions/textures/T_Sigil.png",
+      "sha256": "bc05c5104d47c9e823761e7f40e1c5e61ce23513e1ba0e8c2ddaaf177e54fffd",
+      "bytes": 41182
+    },
+    {
+      "path": "config/portablevfx/effects/ElementReactions/textures/T_Swirl.png",
+      "sha256": "5e5d2d087ce26ff3ac6fee21dce60eb700fd4a2ced2304a5bd0fa3793bafa5fe",
+      "bytes": 24381
+    }
+  ],
+  "launcherValidation": {
+    "status": "PASS",
+    "oldArchiveRejected": true,
+    "oldCacheQueuedForDownload": 1,
+    "downloadedBytes": 752775023,
+    "correctedCacheValid": true,
+    "installed": {
+      "verified": 3682,
+      "installed": 3682
+    },
+    "repeated": {
+      "verified": 3682,
+      "installed": 0
+    },
+    "repaired": {
+      "verified": 3682,
+      "installed": 1
+    }
+  },
+  "runtimeSourceUnchanged": true,
+  "actualUserPCExecutionVerified": false
+}

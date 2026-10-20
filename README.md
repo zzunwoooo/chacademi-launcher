@@ -1,3 +1,7 @@
+# v0.1.21 asset manifest hotfix
+
+The Play-stage asset validation failure is corrected in the current feed. Restart the launcher online and press Play to replace the failed managed ZIP automatically. No reinstall or manual cache deletion is needed. [Details and verification](docs/RELEASE-0.1.21-ASSETS-FIX.md).
+
 # Current release: v0.1.11
 
 [Release](https://github.com/zzunwoooo/chacademi-launcher/releases/tag/v0.1.11) | [Details](docs/RELEASE-0.1.11.md)
