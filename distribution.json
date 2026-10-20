@@ -328,14 +328,14 @@
           }
         },
         {
-          "id": "kr.chacademi:magiccodex:0.40.2-integrated-20261020.4-fishing-v2.1+mc1.21.4@jar",
-          "name": "mods/magic-codex-ui-0.40.2-integrated-20261020.4-fishing-v2.1+mc1.21.4.jar",
+          "id": "kr.chacademi:magiccodex:0.40.3-integrated-20261020.1-gimmick.1+mc1.21.4@jar",
+          "name": "mods/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 310026932,
-            "MD5": "77186df71daef7b17e1177e863b220bf",
-            "SHA256": "3e84fb354a94aa295998f218f455986bd48c8da544cee1117b4099c45e2034c9",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.20/magic-codex-ui-0.40.2-integrated-20261020.4-fishing-v2.1+mc1.21.4.jar"
+            "size": 309980002,
+            "MD5": "0ad85402dcd2937ad6ad43bbc0dad4f4",
+            "SHA256": "6d8d29f1143a347c67047592cc0dcaa0dd2fa9aa5eb753916b050d11e51d960d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.21/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1+mc1.21.4.jar"
           }
         },
         {
@@ -377,10 +377,10 @@
           "name": "config/magiccodex/launcher/client-assets.zip",
           "type": "File",
           "artifact": {
-            "size": 748660980,
-            "MD5": "64b066da50c5249249a58f8ebd8128e8",
-            "SHA256": "b9386397746b266ffc1cb82bd6c23749e7eb10885b709d9468ff9dffa109d761",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/client-assets.zip",
+            "size": 752576887,
+            "MD5": "d2548313715e98b2f24f0b093cc08c98",
+            "SHA256": "037b99a717deb11b636caef15671678b4c397e4c8b99d2b75b197055570f4152",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.21/client-assets.zip",
             "path": "config/magiccodex/launcher/client-assets.zip"
           },
           "updatePolicy": "managed"

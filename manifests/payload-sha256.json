@@ -139,9 +139,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/magic-codex-ui-0.40.2-integrated-20261020.4-fishing-v2.1+mc1.21.4.jar",
-      "sha256": "3e84fb354a94aa295998f218f455986bd48c8da544cee1117b4099c45e2034c9",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.20/magic-codex-ui-0.40.2-integrated-20261020.4-fishing-v2.1+mc1.21.4.jar",
+      "path": "mods/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1+mc1.21.4.jar",
+      "sha256": "6d8d29f1143a347c67047592cc0dcaa0dd2fa9aa5eb753916b050d11e51d960d",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.21/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1+mc1.21.4.jar",
       "license": "project-authorized client distribution",
       "role": "magiccodex"
     },
@@ -168,8 +168,8 @@
     },
     {
       "path": "config/magiccodex/launcher/client-assets.zip",
-      "sha256": "b9386397746b266ffc1cb82bd6c23749e7eb10885b709d9468ff9dffa109d761",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/client-assets.zip",
+      "sha256": "037b99a717deb11b636caef15671678b4c397e4c8b99d2b75b197055570f4152",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.21/client-assets.zip",
       "license": "project-authorized client distribution",
       "role": "client-assets-bundle"
     },
