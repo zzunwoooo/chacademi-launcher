@@ -153,9 +153,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/portable-vfx-client-3.2.1-integrated-20261019.1-audited.1.jar",
-      "sha256": "d3a7ec07aa9ee41c33a812e9ff78d47bb714c4748fb06e14beea8db0c791bc6d",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/portable-vfx-client-3.2.1-integrated-20261019.1-audited.1.jar",
+      "path": "mods/portable-vfx-client-3.2.2-integrated-20261020.1-readychunks.1.jar",
+      "sha256": "2c4a83f13cdb716660824315b1da795c9c539ed3c274a87b2f3921d9e30bc969",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.19/portable-vfx-client-3.2.2-integrated-20261020.1-readychunks.1.jar",
       "license": "project-authorized client distribution",
       "role": "portablevfx"
     },
@@ -245,8 +245,8 @@
     },
     {
       "path": "config/portablevfx/load-limits.properties",
-      "sha256": "93a7a77d92bf2a4aa8ecaf1a99ce898afc9cbe86a9a5386d94b31fd3ca1032c1",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/load-limits.properties",
+      "sha256": "07e513140ccbf6e80decbe9bf6702d63c7f9042d4a79ba5e425a4067b4bb1105",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.19/load-limits.properties",
       "license": "project-authorized client distribution",
       "role": "mod-config"
     },

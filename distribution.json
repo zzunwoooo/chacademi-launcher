@@ -350,14 +350,14 @@
           }
         },
         {
-          "id": "kr.chacademi:portablevfx:3.2.1-integrated-20261019.1-audited.1@jar",
-          "name": "mods/portable-vfx-client-3.2.1-integrated-20261019.1-audited.1.jar",
+          "id": "kr.chacademi:portablevfx:3.2.2-integrated-20261020.1-readychunks.1@jar",
+          "name": "mods/portable-vfx-client-3.2.2-integrated-20261020.1-readychunks.1.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 395776,
-            "MD5": "08505f1505efba59b57296bf2d25bad9",
-            "SHA256": "d3a7ec07aa9ee41c33a812e9ff78d47bb714c4748fb06e14beea8db0c791bc6d",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/portable-vfx-client-3.2.1-integrated-20261019.1-audited.1.jar"
+            "size": 411903,
+            "MD5": "b5b7c24d73d1c25a41267563a71ebd07",
+            "SHA256": "2c4a83f13cdb716660824315b1da795c9c539ed3c274a87b2f3921d9e30bc969",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.19/portable-vfx-client-3.2.2-integrated-20261020.1-readychunks.1.jar"
           }
         },
         {
@@ -519,16 +519,16 @@
           "name": "config/portablevfx/load-limits.properties",
           "type": "File",
           "artifact": {
-            "size": 124,
-            "MD5": "c69e2fa860788db9b5c1259423a1a2a8",
-            "SHA256": "93a7a77d92bf2a4aa8ecaf1a99ce898afc9cbe86a9a5386d94b31fd3ca1032c1",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.16/load-limits.properties",
+            "size": 205,
+            "MD5": "bad1d853d68242032ad5399657aa3e4c",
+            "SHA256": "07e513140ccbf6e80decbe9bf6702d63c7f9042d4a79ba5e425a4067b4bb1105",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.19/load-limits.properties",
             "path": "config/portablevfx/load-limits.properties"
           },
           "updatePolicy": "seed",
           "vfxCatalogLimits": {
             "encodedCacheMiB": 512,
-            "systems": 1237
+            "systems": 4096
           }
         },
         {
