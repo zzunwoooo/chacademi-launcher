@@ -284,14 +284,14 @@
           }
         },
         {
-          "id": "kr.chacademi:chacademy_motion:0.3.1-integrated-20261018.1@jar",
-          "name": "mods/chacademy-motion-0.3.1-integrated-20261018.1.jar",
+          "id": "kr.chacademi:chacademy_motion:0.3.1-integrated-20261018.1-followups.1@jar",
+          "name": "mods/chacademy-motion-0.3.1-integrated-20261018.1-followups.1.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 1983081,
-            "MD5": "87fd55af6af75dcfd535e122fae5f905",
-            "SHA256": "174366031958d8c2ace84498fd155bf562f9cb3ea4ff9be367d9bddb4b9fddfb",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.12/chacademy-motion-0.3.1-integrated-20261018.1.jar"
+            "size": 1986083,
+            "MD5": "f00464fd2bc07f946867415be1401464",
+            "SHA256": "a732d523843c3efaf5994155736f146d222aac4f00bfa6610e73fc6f0e675321",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-followups-20261020/chacademy-motion-0.3.1-integrated-20261018.1-followups.1.jar"
           }
         },
         {
@@ -328,14 +328,14 @@
           }
         },
         {
-          "id": "kr.chacademi:magiccodex:0.40.3-integrated-20261020.1-gimmick.1-commands.1+mc1.21.4@jar",
-          "name": "mods/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1+mc1.21.4.jar",
+          "id": "kr.chacademi:magiccodex:0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1+mc1.21.4@jar",
+          "name": "mods/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 309985988,
-            "MD5": "9606e1727bfad6693194233237a5cffb",
-            "SHA256": "be4544c2a7f4073f991ba4d9c14bacc53d47844dcf6093d731713606b274dc2b",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-commands-20261020/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1+mc1.21.4.jar"
+            "size": 322202639,
+            "MD5": "487b000c069d33412a21321ae631bfc4",
+            "SHA256": "22844a5e0190fb0b67665b4201278ca48116e7ed630ab391a1a052fec8360ac6",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-followups-20261020/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1+mc1.21.4.jar"
           }
         },
         {
