@@ -328,14 +328,14 @@
           }
         },
         {
-          "id": "kr.chacademi:magiccodex:0.40.1-integrated-20261020.2-mobicons24v2.1+mc1.21.4@jar",
-          "name": "mods/magic-codex-ui-0.40.1-integrated-20261020.2-mobicons24v2.1+mc1.21.4.jar",
+          "id": "kr.chacademi:magiccodex:0.40.1-integrated-20261020.3-fishshop-tank.1+mc1.21.4@jar",
+          "name": "mods/magic-codex-ui-0.40.1-integrated-20261020.3-fishshop-tank.1+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 292303047,
-            "MD5": "cfdfff591f9536910c7f7001eb007625",
-            "SHA256": "384ae4f5ad95922c8282dc8cbc2227982b4f3aa7eff465df458faf136e49f7fb",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.17/magic-codex-ui-0.40.1-integrated-20261020.2-mobicons24v2.1+mc1.21.4.jar"
+            "size": 312799462,
+            "MD5": "e9abae716b145de4844b176648d131e3",
+            "SHA256": "eb55703233898d4974783852afa9123e9cc52e317712f33069d84cadbc741313",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.18/magic-codex-ui-0.40.1-integrated-20261020.3-fishshop-tank.1+mc1.21.4.jar"
           }
         },
         {
