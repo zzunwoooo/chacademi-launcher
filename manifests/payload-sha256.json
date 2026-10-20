@@ -1,8 +1,8 @@
 {
-  "sourceCommit": "41ee35591d75289f3d9398e58cdea45aa8593115",
+  "sourceCommit": "8e8cc23f173e68a7d60671369eb969c5df1c8b30",
   "integrationComponents": {
-    "hudSha256": "a626c72e4e8097756373e77237ba2352a5a4300508ce57c1d082ce548c201da9",
-    "bridgeSha256": "88f4b83198686307b622f00497107d7aae62d88a48a80ee858232b052103b35f",
+    "hudSha256": "be4544c2a7f4073f991ba4d9c14bacc53d47844dcf6093d731713606b274dc2b",
+    "bridgeSha256": "d0114232464c85e72c605a86a9b56611fafd7bdf7582f72f380615876a48e7b8",
     "storySha256": "304444a2e753c717c536de68aa574099cacc31ba330cc86a71c94203038e457f",
     "chatSha256": "c6423eecdbddc4f29b425311dbe9228badbed9923d86322a45d9bc58eec52fc0",
     "motionSha256": "d4781335f9cf721525e74f833d152f58e22acd5ac19f18d423bbc8222fc220f5",
@@ -104,9 +104,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/chacademi-chat-layout-1.5.1.jar",
-      "sha256": "c6423eecdbddc4f29b425311dbe9228badbed9923d86322a45d9bc58eec52fc0",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.3/chacademi-chat-layout-1.5.1.jar",
+      "path": "mods/chacademi-chat-layout-1.6.0-commands.1.jar",
+      "sha256": "43a196dec5f6d1ccd648a648525bbb219337d85619f897882cd44f0d9125955b",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-commands-20261020/chacademi-chat-layout-1.6.0-commands.1.jar",
       "license": "GPL-3.0-only",
       "role": "chacademi_chat_layout"
     },
@@ -139,9 +139,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1+mc1.21.4.jar",
-      "sha256": "6d8d29f1143a347c67047592cc0dcaa0dd2fa9aa5eb753916b050d11e51d960d",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.21/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1+mc1.21.4.jar",
+      "path": "mods/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1+mc1.21.4.jar",
+      "sha256": "be4544c2a7f4073f991ba4d9c14bacc53d47844dcf6093d731713606b274dc2b",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-commands-20261020/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1+mc1.21.4.jar",
       "license": "project-authorized client distribution",
       "role": "magiccodex"
     },
@@ -154,8 +154,8 @@
     },
     {
       "path": "mods/portable-vfx-client-3.2.2-integrated-20261020.1-readychunks.1.jar",
-      "sha256": "2c4a83f13cdb716660824315b1da795c9c539ed3c274a87b2f3921d9e30bc969",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.19/portable-vfx-client-3.2.2-integrated-20261020.1-readychunks.1.jar",
+      "sha256": "29571ea06d001d98995fe17b06abb2f91e026dbf677147aa10f44e1926396d8b",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-commands-20261020/portable-vfx-client-3.2.2-integrated-20261020.1-readychunks.1.jar",
       "license": "project-authorized client distribution",
       "role": "portablevfx"
     },
@@ -280,8 +280,8 @@
     },
     {
       "path": "mods/chacademy-story-0.1.3-journal.2.jar",
-      "sha256": "304444a2e753c717c536de68aa574099cacc31ba330cc86a71c94203038e457f",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.5/chacademy-story-0.1.3-journal.2.jar",
+      "sha256": "01fc38f3fe515b9f9a112f2e93e2609d59674684730fd2d011619ae0ddb486cd",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-commands-20261020/chacademy-story-0.1.3-journal.2.jar",
       "license": "All-Rights-Reserved; user-authorized public launcher distribution; paid font excluded",
       "role": "mod"
     },
