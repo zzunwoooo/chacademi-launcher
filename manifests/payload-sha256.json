@@ -1,7 +1,7 @@
 {
   "sourceCommit": "0cd1454fac569f7c98a7b0247990aecfd6039ffc",
   "integrationComponents": {
-    "hudSha256": "22844a5e0190fb0b67665b4201278ca48116e7ed630ab391a1a052fec8360ac6",
+    "hudSha256": "53d0e0fd6e728da1b78ed14838d5be002b17807beb0da22fab2654367d3c612d",
     "bridgeSha256": "d9ef1c5f9a0a46860a297b66bbc7c91a518efaad22cde97da068f745b17bef68",
     "storySha256": "304444a2e753c717c536de68aa574099cacc31ba330cc86a71c94203038e457f",
     "chatSha256": "c6423eecdbddc4f29b425311dbe9228badbed9923d86322a45d9bc58eec52fc0",
@@ -139,9 +139,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1+mc1.21.4.jar",
-      "sha256": "22844a5e0190fb0b67665b4201278ca48116e7ed630ab391a1a052fec8360ac6",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-followups-20261020/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1+mc1.21.4.jar",
+      "path": "mods/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1+mc1.21.4.jar",
+      "sha256": "53d0e0fd6e728da1b78ed14838d5be002b17807beb0da22fab2654367d3c612d",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-tooltip-rarity-20261021/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1+mc1.21.4.jar",
       "license": "project-authorized client distribution",
       "role": "magiccodex"
     },
@@ -644,5 +644,21 @@
     }
   ],
   "bc7SourceCommit": "b0a50cdc52d43dbc36197fc3285ddf6e726a9b7b",
-  "artifactSourceCommit": "ac545d0cb100767428ed15ce37d5c532c8774984"
+  "artifactSourceCommit": "ac545d0cb100767428ed15ce37d5c532c8774984",
+  "tooltipRarityOverlay": {
+    "sourceCommit": "8fa1655ce58771b38eefd58d601f0d1cd11903fa",
+    "integrationBranch": "codex/tooltip-rarity-20261021-task16",
+    "baselineUiSha256": "22844a5e0190fb0b67665b4201278ca48116e7ed630ab391a1a052fec8360ac6",
+    "changedEntries": [
+      "fabric.mod.json",
+      "school/magiccodex/client/ItemTooltipRenderer.class",
+      "school/magiccodex/client/ManaCoreTooltip.class"
+    ],
+    "addedEntries": [
+      "school/magiccodex/client/TooltipRarity.class",
+      "school/magiccodex/client/TooltipRarity$Grade.class",
+      "school/magiccodex/client/TooltipRarity$Lore.class"
+    ],
+    "scope": "client tooltip only; all other current public JAR entries unchanged"
+  }
 }
