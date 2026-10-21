@@ -18,8 +18,8 @@ function pack(files, extra){
 const resource = 'resourcepacks/chacademia-spells/pack.mcmeta', effect = 'config/portablevfx/effects/test/effect.json'
 scenario('original paths restored and repeated install verified', () => {
     const module = pack([[resource, Buffer.from('pack')], [effect, Buffer.from('effect')]])
-    assert.deepEqual(helper.install(root, module), { verified: 2, installed: 2 })
-    assert.deepEqual(helper.install(root, module), { verified: 2, installed: 0 })
+    assert.deepEqual(helper.install(root, module), { verified: 2, installed: 2, mode: 'full', quarantined: 0 })
+    assert.deepEqual(helper.install(root, module), { verified: 2, installed: 0, mode: 'stamp', quarantined: 0 })
     assert.equal(fs.readFileSync(path.join(root, resource), 'utf8'), 'pack')
 })
 scenario('managed resource repair preserves personal options', () => {

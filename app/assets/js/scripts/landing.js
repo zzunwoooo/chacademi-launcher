@@ -31,6 +31,7 @@ const {
 const DiscordWrapper          = require('./assets/js/discordwrapper')
 const ProcessBuilder          = require('./assets/js/processbuilder')
 const SettingsPolicy          = require('./assets/js/settingspolicy')
+const ClientAssets            = require('./assets/js/clientassets')
 
 // Launch Elements
 const launch_content          = document.getElementById('launch_content')
@@ -554,6 +555,24 @@ async function dlAsync(login = true) {
     const versionData = await mojangIndexProcessor.getVersionJson()
 
     if(login) {
+        // Verify spell/VFX assets here with yielding so the window keeps painting. ProcessBuilder.build()
+        // repeats the call synchronously, which then only hits the install stamp (stat checks).
+        setLaunchDetails(Lang.queryJS('landing.dlAsync.verifyingClientAssets'))
+        setLaunchPercentage(0)
+        try {
+            const assetModule = serv.rawServer.modules.find(entry => entry.id === 'chacademi-client-assets.zip')
+            const assetResult = await ClientAssets.installAsync(path.join(ConfigManager.getInstanceDirectory(), serv.rawServer.id), assetModule, {
+                onProgress: (done, total) => setLaunchPercentage(Math.floor(done * 100 / total))
+            })
+            loggerLaunchSuite.info('Spell and VFX assets prepared:', assetResult)
+        } catch(err) {
+            loggerLaunchSuite.error('Error while verifying spell and VFX assets.', err)
+            showLaunchFailure(Lang.queryJS('landing.dlAsync.errorDuringLaunchTitle'), Lang.queryJS('landing.dlAsync.checkConsoleForDetails'))
+            return
+        }
+        setLaunchPercentage(100)
+        setLaunchDetails(Lang.queryJS('landing.dlAsync.preparingToLaunch'))
+
         const authUser = ConfigManager.getSelectedAccount()
         loggerLaunchSuite.info(`Sending selected account (${authUser.displayName}) to ProcessBuilder.`)
         let pb = new ProcessBuilder(serv, versionData, modLoaderData, authUser, remote.app.getVersion())
