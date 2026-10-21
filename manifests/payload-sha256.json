@@ -4,7 +4,7 @@
     "hudSha256": "53d0e0fd6e728da1b78ed14838d5be002b17807beb0da22fab2654367d3c612d",
     "bridgeSha256": "d9ef1c5f9a0a46860a297b66bbc7c91a518efaad22cde97da068f745b17bef68",
     "storySha256": "304444a2e753c717c536de68aa574099cacc31ba330cc86a71c94203038e457f",
-    "chatSha256": "c6423eecdbddc4f29b425311dbe9228badbed9923d86322a45d9bc58eec52fc0",
+    "chatSha256": "43a196dec5f6d1ccd648a648525bbb219337d85619f897882cd44f0d9125955b",
     "motionSha256": "d4781335f9cf721525e74f833d152f58e22acd5ac19f18d423bbc8222fc220f5",
     "vfxSha256": "11dcd1068251cbd772d52b371ac96a6f8d078c69b8eb5d9f16b2469aaf1426f8"
   },
@@ -106,7 +106,7 @@
     {
       "path": "mods/chacademi-chat-layout-1.6.0-commands.1.jar",
       "sha256": "43a196dec5f6d1ccd648a648525bbb219337d85619f897882cd44f0d9125955b",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-commands-20261020/chacademi-chat-layout-1.6.0-commands.1.jar",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-chat-commands-20261022-task5/chacademi-chat-layout-1.6.0-commands.1.jar",
       "license": "GPL-3.0-only",
       "role": "chacademi_chat_layout"
     },
@@ -661,5 +661,6 @@
     ],
     "scope": "client tooltip only; all other current public JAR entries unchanged"
   },
-  "storyClientSourceCommit": "d03aa35aa60f1f2dcbc7ca9f10eb3e3df75a93ba"
+  "storyClientSourceCommit": "d03aa35aa60f1f2dcbc7ca9f10eb3e3df75a93ba",
+  "chatClientSourceCommit": "d03aa35aa60f1f2dcbc7ca9f10eb3e3df75a93ba"
 }
