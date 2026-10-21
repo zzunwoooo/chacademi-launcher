@@ -613,6 +613,34 @@
       "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.22/shader-defaults-20261020.json",
       "license": "user-authorized shader configuration and project migration policy",
       "role": "mod-config"
+    },
+    {
+      "path": "mods/chacademi-npc-model-0.1.0-npcmodel.1.jar",
+      "sha256": "eb83c24c1dcd417da74d64e28ccbbd778e4c18b04a09525b109812933691ea82",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-model-20261021/chacademi-npc-model-0.1.0-npcmodel.1.jar",
+      "license": "Chacademi project asset",
+      "role": "mod"
+    },
+    {
+      "path": "chacademi/npc-models/models.json",
+      "sha256": "dd020bcc71e0bbc13ee793d85b09f2822a94244703070ef50db6d3e6d66215c3",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-model-20261021/models.json",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/luka.glb",
+      "sha256": "ef446e711624bdc43a675b98719dfda51c3e38f3cda347a5a7a32f59651de574",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-model-20261021/luka.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/ria.glb",
+      "sha256": "0f4bb47b8e6bed32a47cc4c7a207b69edcf30ef52efc2fb7e0f3d19fa32a6444",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-model-20261021/ria.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
     }
   ],
   "bc7SourceCommit": "b0a50cdc52d43dbc36197fc3285ddf6e726a9b7b",

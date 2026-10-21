@@ -1203,6 +1203,56 @@
           },
           "updatePolicy": "managed",
           "managedReason": "Immutable one-time shader migration input. User shader settings remain seed-managed; a per-revision marker prevents repeated overrides."
+        },
+        {
+          "id": "kr.chacademi:chacademi_npc_model:0.1.0-npcmodel.1@jar",
+          "name": "mods/chacademi-npc-model-0.1.0-npcmodel.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 136750,
+            "MD5": "d9e0815b7e594d6b641c1b5c5a80ff22",
+            "SHA256": "eb83c24c1dcd417da74d64e28ccbbd778e4c18b04a09525b109812933691ea82",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-model-20261021/chacademi-npc-model-0.1.0-npcmodel.1.jar"
+          }
+        },
+        {
+          "id": "chacademi/npc-models/models.json",
+          "name": "chacademi/npc-models/models.json",
+          "type": "File",
+          "artifact": {
+            "size": 753,
+            "MD5": "8b5834f94245c8386c3c627a7936e57f",
+            "SHA256": "dd020bcc71e0bbc13ee793d85b09f2822a94244703070ef50db6d3e6d66215c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-model-20261021/models.json",
+            "path": "chacademi/npc-models/models.json"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "chacademi/npc-models/luka.glb",
+          "name": "chacademi/npc-models/luka.glb",
+          "type": "File",
+          "artifact": {
+            "size": 3436372,
+            "MD5": "4a097f7d7663b390b6f0d9ae9fe37f3f",
+            "SHA256": "ef446e711624bdc43a675b98719dfda51c3e38f3cda347a5a7a32f59651de574",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-model-20261021/luka.glb",
+            "path": "chacademi/npc-models/luka.glb"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "chacademi/npc-models/ria.glb",
+          "name": "chacademi/npc-models/ria.glb",
+          "type": "File",
+          "artifact": {
+            "size": 3280636,
+            "MD5": "4f51f9c0221f464508da75623626cd43",
+            "SHA256": "0f4bb47b8e6bed32a47cc4c7a207b69edcf30ef52efc2fb7e0f3d19fa32a6444",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-model-20261021/ria.glb",
+            "path": "chacademi/npc-models/ria.glb"
+          },
+          "updatePolicy": "managed"
         }
       ]
     }
