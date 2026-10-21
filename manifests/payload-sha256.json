@@ -279,9 +279,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/chacademy-story-0.1.3-journal.2.jar",
-      "sha256": "01fc38f3fe515b9f9a112f2e93e2609d59674684730fd2d011619ae0ddb486cd",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-commands-20261020/chacademy-story-0.1.3-journal.2.jar",
+      "path": "mods/chacademy-story-0.1.4-quest.3-portal.1.jar",
+      "sha256": "05b9add26188a012c70cd5452042de9e00448c7a1fbcf26182e1262a58ff738f",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-quest-20261022-task4/chacademy-story-0.1.4-quest.3-portal.1.jar",
       "license": "All-Rights-Reserved; user-authorized public launcher distribution; paid font excluded",
       "role": "mod"
     },
@@ -660,5 +660,6 @@
       "school/magiccodex/client/TooltipRarity$Lore.class"
     ],
     "scope": "client tooltip only; all other current public JAR entries unchanged"
-  }
+  },
+  "storyClientSourceCommit": "d03aa35aa60f1f2dcbc7ca9f10eb3e3df75a93ba"
 }
