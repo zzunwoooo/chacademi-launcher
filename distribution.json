@@ -842,10 +842,10 @@
           "name": "chacademi/npc-models/models.json",
           "type": "File",
           "artifact": {
-            "size": 2292,
-            "MD5": "1295688d12006ca1b542770c50140c3d",
-            "SHA256": "e8c9ea355a9909d2a81f84a1e8f2c5e031322df1f7040620a8a358d719e15aee",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/models.json",
+            "size": 2998,
+            "MD5": "92428fc2ab1e2181d933ebb0d9406a68",
+            "SHA256": "291d0412dfd3544c3aba9cce6799adc898eb4e917d242d4d5d6d9ea5718405cd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-lowell-pipi-20261022-task7/models.json",
             "path": "chacademi/npc-models/models.json"
           },
           "updatePolicy": "managed"
@@ -2255,23 +2255,23 @@
           "name": "chacademi/npc-models/pipi.glb",
           "type": "File",
           "artifact": {
-            "size": 3222984,
-            "MD5": "93ca5f1de760edd067dd50ac0fece3d2",
-            "SHA256": "a45625cbd5313bb1a622b07afc63ce8edaf5f7d04026811a18096d0ba3050131",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/pipi.glb",
+            "size": 4274848,
+            "MD5": "5a9fc60f7a19005f5c25c97dd0162c47",
+            "SHA256": "28800e9c4dec368e48360032af1142115af7f5b077c04d3ad75df9b27a35337d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-lowell-pipi-20261022-task7/pipi.glb",
             "path": "chacademi/npc-models/pipi.glb"
           }
         },
         {
-          "id": "chacademi/npc-models/teacher_ellna_idle.glb",
-          "name": "chacademi/npc-models/teacher_ellna_idle.glb",
+          "id": "chacademi/npc-models/dorm_lowell.glb",
+          "name": "chacademi/npc-models/dorm_lowell.glb",
           "type": "File",
           "artifact": {
-            "size": 3156244,
-            "MD5": "9e46b98ec84a36d6b32d92431324d930",
-            "SHA256": "a2191c2ab1407b32744d8130d6b7d20be4f3ffe62a39c8cb51002089baeec7b0",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/teacher_ellna_idle.glb",
-            "path": "chacademi/npc-models/teacher_ellna_idle.glb"
+            "size": 2697960,
+            "MD5": "b4c6576da1188175a22296b65ad60e22",
+            "SHA256": "3369e416d8d7d6cd9295951ec56a1c2f30e424ace1c0c6d668073b19019a1ad9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-lowell-pipi-20261022-task7/dorm_lowell.glb",
+            "path": "chacademi/npc-models/dorm_lowell.glb"
           }
         }
       ]
