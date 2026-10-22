@@ -1,16 +1,16 @@
 {
   "sourceCommit": "c7eb9d82327ff8556568e59d54606e97de592e46",
   "integrationComponents": {
-    "hudSha256": "1c1024d2bbf04b42b4f8dc4beb0c077c7d806f85e353174f5ab406eb64f07cc0",
-    "bridgeSha256": "d5eb700ce9adc67fcab23c5b627f7dac81ba5d4bd60db5dc111f4448a7785d5c",
+    "hudSha256": "2a23f54eaae61fade24c1dff5d5dfbf6e642653503fe3c0a62ba7dbe5ddda8f3",
+    "bridgeSha256": "247ab08d6129700aebc0e2c354966bf80dced4be6277da8a7be25039aebc30d0",
     "storySha256": "1b400cef5a36dbfb12caefab27cb1553c4f7664a269132eb19bdbb91ed861de2",
     "chatSha256": "43a196dec5f6d1ccd648a648525bbb219337d85619f897882cd44f0d9125955b",
     "motionSha256": "d4781335f9cf721525e74f833d152f58e22acd5ac19f18d423bbc8222fc220f5",
     "vfxSha256": "11dcd1068251cbd772d52b371ac96a6f8d078c69b8eb5d9f16b2469aaf1426f8",
     "bridgeSha256ByServer": {
-      "school": "d5eb700ce9adc67fcab23c5b627f7dac81ba5d4bd60db5dc111f4448a7785d5c",
-      "wild": "7deec62fa4b1299b135e6e856c2636017e8260e1a42f0ad5d2d947a94ae32eda",
-      "arena": "a5bad235f1ba3f8ec11d1ea2f7389f55eb91a5c88b57c413db7aa23e4f9159a7"
+      "school": "247ab08d6129700aebc0e2c354966bf80dced4be6277da8a7be25039aebc30d0",
+      "wild": "c74b1f78a3b1a35296a75b75c021e7af1207b42c63513edfc6a3a5f5fdc8cd7a",
+      "arena": "0d909015bbc207b04518f6549aee301246f96203c967181082ca170a155c4e82"
     }
   },
   "backgroundMode": "blank",
@@ -145,11 +145,11 @@
     },
     {
       "path": "mods/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1-nameplates.2-titles.1-ready.1+mc1.21.4.jar",
-      "sha256": "1c1024d2bbf04b42b4f8dc4beb0c077c7d806f85e353174f5ab406eb64f07cc0",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-ready-ui-story-20261022-task7/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1-nameplates.2-titles.1-ready.1+mc1.21.4.jar",
+      "sha256": "2a23f54eaae61fade24c1dff5d5dfbf6e642653503fe3c0a62ba7dbe5ddda8f3",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-ready-ui-story-20261022-task7-v2/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1-nameplates.2-titles.1-ready.1%2Bmc1.21.4.jar",
       "license": "project-authorized client distribution",
       "role": "magiccodex",
-      "size": 332730896
+      "size": 332733504
     },
     {
       "path": "mods/player-animation-lib-fabric-2.0.5+1.21.4.jar",
@@ -287,7 +287,7 @@
     {
       "path": "mods/chacademy-story-0.1.4-quest.5-ch1.1-hudcursor.1.jar",
       "sha256": "1b400cef5a36dbfb12caefab27cb1553c4f7664a269132eb19bdbb91ed861de2",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-ready-ui-story-20261022-task7/chacademy-story-0.1.4-quest.5-ch1.1-hudcursor.1.jar",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-ready-ui-story-20261022-task7-v2/chacademy-story-0.1.4-quest.5-ch1.1-hudcursor.1.jar",
       "license": "All-Rights-Reserved; user-authorized public launcher distribution; paid font excluded",
       "role": "mod",
       "size": 924363

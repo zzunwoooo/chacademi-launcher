@@ -332,10 +332,10 @@
           "name": "mods/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1-nameplates.2-titles.1-ready.1+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 332730896,
-            "MD5": "e67f43d3c294fd0363a9e3bfc678ce43",
-            "SHA256": "1c1024d2bbf04b42b4f8dc4beb0c077c7d806f85e353174f5ab406eb64f07cc0",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-ready-ui-story-20261022-task7/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1-nameplates.2-titles.1-ready.1+mc1.21.4.jar"
+            "size": 332733504,
+            "MD5": "6ced962b47fe4b0d02a7b4c970b6afd5",
+            "SHA256": "2a23f54eaae61fade24c1dff5d5dfbf6e642653503fe3c0a62ba7dbe5ddda8f3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-ready-ui-story-20261022-task7-v2/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1-nameplates.2-titles.1-ready.1%2Bmc1.21.4.jar"
           }
         },
         {
@@ -589,7 +589,7 @@
             "size": 924363,
             "MD5": "8908a650b9a406c6d28afe6117024b05",
             "SHA256": "1b400cef5a36dbfb12caefab27cb1553c4f7664a269132eb19bdbb91ed861de2",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-ready-ui-story-20261022-task7/chacademy-story-0.1.4-quest.5-ch1.1-hudcursor.1.jar"
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-ready-ui-story-20261022-task7-v2/chacademy-story-0.1.4-quest.5-ch1.1-hudcursor.1.jar"
           }
         },
         {
