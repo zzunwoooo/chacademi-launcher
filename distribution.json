@@ -328,14 +328,14 @@
           }
         },
         {
-          "id": "kr.chacademi:magiccodex:0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1-nameplates.2-titles.1+mc1.21.4@jar",
-          "name": "mods/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1-nameplates.2-titles.1+mc1.21.4.jar",
+          "id": "kr.chacademi:magiccodex:0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1-nameplates.2-titles.1-ready.1+mc1.21.4@jar",
+          "name": "mods/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1-nameplates.2-titles.1-ready.1+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 332372799,
-            "MD5": "2fe0539d0e08d1aecc61420baab1a31f",
-            "SHA256": "de18afc1dacb13a43468b91a898b04dbbec98e32150c62af4459d4bf3fa15000",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-nameplates-models-20261022-task7/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1-nameplates.2-titles.1+mc1.21.4.jar"
+            "size": 332730896,
+            "MD5": "e67f43d3c294fd0363a9e3bfc678ce43",
+            "SHA256": "1c1024d2bbf04b42b4f8dc4beb0c077c7d806f85e353174f5ab406eb64f07cc0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-ready-ui-story-20261022-task7/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1-nameplates.2-titles.1-ready.1+mc1.21.4.jar"
           }
         },
         {
@@ -582,14 +582,14 @@
           }
         },
         {
-          "id": "kr.chacademi:chaca_story:0.1.4-quest.5-ch1.1@jar",
-          "name": "mods/chacademy-story-0.1.4-quest.5-ch1.1.jar",
+          "id": "kr.chacademi:chaca_story:0.1.4-quest.5-ch1.1-hudcursor.1@jar",
+          "name": "mods/chacademy-story-0.1.4-quest.5-ch1.1-hudcursor.1.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 925486,
-            "MD5": "44119d0845abf4310d473263776224f1",
-            "SHA256": "373d235ed2073adcdf2d561dab19a5b9c2b79b05a4f3b4eed0a28e1b9a7cec4b",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-nameplates-models-20261022-task7/chacademy-story-0.1.4-quest.5-ch1.1.jar"
+            "size": 924363,
+            "MD5": "8908a650b9a406c6d28afe6117024b05",
+            "SHA256": "1b400cef5a36dbfb12caefab27cb1553c4f7664a269132eb19bdbb91ed861de2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-ready-ui-story-20261022-task7/chacademy-story-0.1.4-quest.5-ch1.1-hudcursor.1.jar"
           }
         },
         {
