@@ -328,14 +328,14 @@
           }
         },
         {
-          "id": "kr.chacademi:magiccodex:0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1+mc1.21.4@jar",
-          "name": "mods/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1+mc1.21.4.jar",
+          "id": "kr.chacademi:magiccodex:0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1-nameplates.1+mc1.21.4@jar",
+          "name": "mods/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1-nameplates.1+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 322155586,
-            "MD5": "83a4c2adab2c59ac4aa9b2bf26d53e8f",
-            "SHA256": "53d0e0fd6e728da1b78ed14838d5be002b17807beb0da22fab2654367d3c612d",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-tooltip-rarity-20261021/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1+mc1.21.4.jar"
+            "size": 332367227,
+            "MD5": "6a6db40f224766506c961f4210b168e2",
+            "SHA256": "252a959f0c7a9efd169b4fe62f3eb508c739a0d517ecd3a78d75a8cf4757ae8e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nameplates-20261022-task7/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1-nameplates.1+mc1.21.4.jar"
           }
         },
         {

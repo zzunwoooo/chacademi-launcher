@@ -1,7 +1,7 @@
 {
-  "sourceCommit": "0cd1454fac569f7c98a7b0247990aecfd6039ffc",
+  "sourceCommit": "36780a031155f21dc4e743a77f785ced3558f14e",
   "integrationComponents": {
-    "hudSha256": "53d0e0fd6e728da1b78ed14838d5be002b17807beb0da22fab2654367d3c612d",
+    "hudSha256": "252a959f0c7a9efd169b4fe62f3eb508c739a0d517ecd3a78d75a8cf4757ae8e",
     "bridgeSha256": "d9ef1c5f9a0a46860a297b66bbc7c91a518efaad22cde97da068f745b17bef68",
     "storySha256": "304444a2e753c717c536de68aa574099cacc31ba330cc86a71c94203038e457f",
     "chatSha256": "43a196dec5f6d1ccd648a648525bbb219337d85619f897882cd44f0d9125955b",
@@ -139,9 +139,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1+mc1.21.4.jar",
-      "sha256": "53d0e0fd6e728da1b78ed14838d5be002b17807beb0da22fab2654367d3c612d",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-tooltip-rarity-20261021/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1+mc1.21.4.jar",
+      "path": "mods/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1-nameplates.1+mc1.21.4.jar",
+      "sha256": "252a959f0c7a9efd169b4fe62f3eb508c739a0d517ecd3a78d75a8cf4757ae8e",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nameplates-20261022-task7/magic-codex-ui-0.40.3-integrated-20261020.1-gimmick.1-commands.1-followups.1-tooltip.1-nameplates.1+mc1.21.4.jar",
       "license": "project-authorized client distribution",
       "role": "magiccodex"
     },
