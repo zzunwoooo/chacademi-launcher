@@ -1323,7 +1323,7 @@
       "path": "chacademi/npc-models/teacher_ellna.glb",
       "sha256": "a0540634047d6e21485e51267fa26c09617f1b1b45f90d2fd04cd5e552fafdbe",
       "size": 3167272,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7/teacher_ellna.glb",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/teacher_ellna.glb",
       "license": "Chacademi project asset",
       "role": "npc-model"
     },
@@ -1331,7 +1331,7 @@
       "path": "chacademi/npc-models/captain_bram.glb",
       "sha256": "6ca32b58d299b4716e6c3540bd7a18fbe0dad6d85373fd386dbfce374a7cf52a",
       "size": 3081580,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7/captain_bram.glb",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/captain_bram.glb",
       "license": "Chacademi project asset",
       "role": "npc-model"
     },
@@ -1339,15 +1339,23 @@
       "path": "chacademi/npc-models/pipi.glb",
       "sha256": "a45625cbd5313bb1a622b07afc63ce8edaf5f7d04026811a18096d0ba3050131",
       "size": 3222984,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7/pipi.glb",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/pipi.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/teacher_ellna_idle.glb",
+      "sha256": "a2191c2ab1407b32744d8130d6b7d20be4f3ffe62a39c8cb51002089baeec7b0",
+      "size": 3156244,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/teacher_ellna_idle.glb",
       "license": "Chacademi project asset",
       "role": "npc-model"
     },
     {
       "path": "chacademi/npc-models/models.json",
-      "sha256": "f2df664659aad98e592c420f6dd865ae1f64c91e3a6eb8594f2a7f1a59f85de6",
-      "size": 2301,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7/models.json",
+      "sha256": "e8c9ea355a9909d2a81f84a1e8f2c5e031322df1f7040620a8a358d719e15aee",
+      "size": 2292,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/models.json",
       "license": "Chacademi project asset",
       "role": "npc-model"
     }

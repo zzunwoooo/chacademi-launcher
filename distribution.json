@@ -833,7 +833,7 @@
             "size": 3081580,
             "MD5": "6f03f6d4c46c59fbcfc7494d50c824e1",
             "SHA256": "6ca32b58d299b4716e6c3540bd7a18fbe0dad6d85373fd386dbfce374a7cf52a",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7/captain_bram.glb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/captain_bram.glb",
             "path": "chacademi/npc-models/captain_bram.glb"
           }
         },
@@ -842,10 +842,10 @@
           "name": "chacademi/npc-models/models.json",
           "type": "File",
           "artifact": {
-            "size": 2301,
-            "MD5": "f3c549e6fd7fcebb07470461f465d142",
-            "SHA256": "f2df664659aad98e592c420f6dd865ae1f64c91e3a6eb8594f2a7f1a59f85de6",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7/models.json",
+            "size": 2292,
+            "MD5": "1295688d12006ca1b542770c50140c3d",
+            "SHA256": "e8c9ea355a9909d2a81f84a1e8f2c5e031322df1f7040620a8a358d719e15aee",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/models.json",
             "path": "chacademi/npc-models/models.json"
           },
           "updatePolicy": "managed"
@@ -871,7 +871,7 @@
             "size": 3167272,
             "MD5": "33f498a14f50528a13471c33efc06aac",
             "SHA256": "a0540634047d6e21485e51267fa26c09617f1b1b45f90d2fd04cd5e552fafdbe",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7/teacher_ellna.glb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/teacher_ellna.glb",
             "path": "chacademi/npc-models/teacher_ellna.glb"
           }
         },
@@ -2258,8 +2258,20 @@
             "size": 3222984,
             "MD5": "93ca5f1de760edd067dd50ac0fece3d2",
             "SHA256": "a45625cbd5313bb1a622b07afc63ce8edaf5f7d04026811a18096d0ba3050131",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7/pipi.glb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/pipi.glb",
             "path": "chacademi/npc-models/pipi.glb"
+          }
+        },
+        {
+          "id": "chacademi/npc-models/teacher_ellna_idle.glb",
+          "name": "chacademi/npc-models/teacher_ellna_idle.glb",
+          "type": "File",
+          "artifact": {
+            "size": 3156244,
+            "MD5": "9e46b98ec84a36d6b32d92431324d930",
+            "SHA256": "a2191c2ab1407b32744d8130d6b7d20be4f3ffe62a39c8cb51002089baeec7b0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/teacher_ellna_idle.glb",
+            "path": "chacademi/npc-models/teacher_ellna_idle.glb"
           }
         }
       ]
