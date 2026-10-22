@@ -350,14 +350,14 @@
           }
         },
         {
-          "id": "kr.chacademi:portablevfx:3.2.2-integrated-20261020.1-readychunks.1@jar",
-          "name": "mods/portable-vfx-client-3.2.2-integrated-20261020.1-readychunks.1.jar",
+          "id": "kr.chacademi:portablevfx:3.2.4-drop-rarity.1@jar",
+          "name": "mods/portable-vfx-client-3.2.4-drop-rarity.1.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 412224,
-            "MD5": "db463887ac6cad10a48a1393f3d2a82a",
-            "SHA256": "29571ea06d001d98995fe17b06abb2f91e026dbf677147aa10f44e1926396d8b",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-commands-20261020/portable-vfx-client-3.2.2-integrated-20261020.1-readychunks.1.jar"
+            "size": 419972,
+            "MD5": "dc4dbe340e728af68ed8658e35c1e30c",
+            "SHA256": "8f615ec14443e72a6a67070414964910b1de73fa5e2b548b60a870aca9143733",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/portable-vfx-client-3.2.4-drop-rarity.1.jar"
           }
         },
         {
@@ -2284,6 +2284,498 @@
             "SHA256": "def88e0f01b095b82185990a3ceb725ba816154d3b3fee7fa3faf0d03f7bd743",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-wizard-statue-20261022-task7/wizard_statue.glb",
             "path": "chacademi/npc-models/wizard_statue.glb"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CommonDrop/NOTES.md",
+          "name": "config/portablevfx/effects/CommonDrop/NOTES.md",
+          "type": "File",
+          "artifact": {
+            "size": 725,
+            "SHA256": "cfd1a1c20efed713bacf016c708bab36ebdf0f47180a5261c8941dc819c5b6ef",
+            "MD5": "894abce0b3c22dbc69a9929bde57c630",
+            "path": "config/portablevfx/effects/CommonDrop/NOTES.md",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__NOTES.md"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CommonDrop/textures/T_Beam.png",
+          "name": "config/portablevfx/effects/CommonDrop/textures/T_Beam.png",
+          "type": "File",
+          "artifact": {
+            "size": 17856,
+            "SHA256": "27c6d6a44d6e96b0c987fef9ca6aeee86d04b3518849bfaf221f8687d6045afc",
+            "MD5": "a4081403c97b84f09d442e1fd115e1cf",
+            "path": "config/portablevfx/effects/CommonDrop/textures/T_Beam.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__textures__T_Beam.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CommonDrop/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/CommonDrop/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 3039,
+            "SHA256": "36fa041c3d036aa58412cfe53373ba263a72b2b42756658bae0e676f871543fb",
+            "MD5": "81ecde7874838aa30e39e2546b80d6db",
+            "path": "config/portablevfx/effects/CommonDrop/textures/T_Dot.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__textures__T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CommonDrop/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/CommonDrop/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 4770,
+            "SHA256": "e1e2b607ff15171631afd178ad3ae8176f49d5a8664674ab7df078eb159fa924",
+            "MD5": "20765eb333dc5133d2d8085d69807d20",
+            "path": "config/portablevfx/effects/CommonDrop/textures/T_Glow.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__textures__T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CommonDrop/textures/T_Line.png",
+          "name": "config/portablevfx/effects/CommonDrop/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 295,
+            "SHA256": "ac43e5d23d530cee01e59e208c9d05ffad4a54337b21b386d66c0f8f34742196",
+            "MD5": "f13136712c434ec99911c3387a7caf07",
+            "path": "config/portablevfx/effects/CommonDrop/textures/T_Line.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__textures__T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CommonDrop/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/CommonDrop/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 69870,
+            "SHA256": "adf339b182f4262929bf757c6913407bd01cef13df8552375dbaca0c394d6d94",
+            "MD5": "b7d1f256ea85aff2077344a1ee114338",
+            "path": "config/portablevfx/effects/CommonDrop/textures/T_Sigil.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__textures__T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CommonDrop/textures/T_Star4.png",
+          "name": "config/portablevfx/effects/CommonDrop/textures/T_Star4.png",
+          "type": "File",
+          "artifact": {
+            "size": 6024,
+            "SHA256": "ae1c3de00fe942c51b3b59b692e9a93c59bac9f6b37d75c86a9407f71724b146",
+            "MD5": "8787a5a4300b49c4bc92c51fb66e6764",
+            "path": "config/portablevfx/effects/CommonDrop/textures/T_Star4.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__textures__T_Star4.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CommonDrop/vfx.json",
+          "name": "config/portablevfx/effects/CommonDrop/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 86726,
+            "SHA256": "d88b20b459387c2f88960593139905b8bd64508ab7788f2f80c537114d0530f3",
+            "MD5": "cea68ceb3292bb74cbd7fe7766f202e0",
+            "path": "config/portablevfx/effects/CommonDrop/vfx.json",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/RareDrop/NOTES.md",
+          "name": "config/portablevfx/effects/RareDrop/NOTES.md",
+          "type": "File",
+          "artifact": {
+            "size": 721,
+            "SHA256": "d8e44b89ddf15dae50ff4f496c0b4c2b2ccdb5055ebbc981c9f7b5516f8229a1",
+            "MD5": "8d77245bbf19529f43a701db9e0382ce",
+            "path": "config/portablevfx/effects/RareDrop/NOTES.md",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__NOTES.md"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/RareDrop/textures/T_Beam.png",
+          "name": "config/portablevfx/effects/RareDrop/textures/T_Beam.png",
+          "type": "File",
+          "artifact": {
+            "size": 18819,
+            "SHA256": "b3f439b340f2ddc1be6956b1b05dc840068b6e26ac4938fb62d691e21601c933",
+            "MD5": "01f015af752d0bb31d5235bde578f30c",
+            "path": "config/portablevfx/effects/RareDrop/textures/T_Beam.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Beam.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/RareDrop/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/RareDrop/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 3039,
+            "SHA256": "36fa041c3d036aa58412cfe53373ba263a72b2b42756658bae0e676f871543fb",
+            "MD5": "81ecde7874838aa30e39e2546b80d6db",
+            "path": "config/portablevfx/effects/RareDrop/textures/T_Dot.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/RareDrop/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/RareDrop/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 4770,
+            "SHA256": "e1e2b607ff15171631afd178ad3ae8176f49d5a8664674ab7df078eb159fa924",
+            "MD5": "20765eb333dc5133d2d8085d69807d20",
+            "path": "config/portablevfx/effects/RareDrop/textures/T_Glow.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/RareDrop/textures/T_Line.png",
+          "name": "config/portablevfx/effects/RareDrop/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 303,
+            "SHA256": "593c9667bba569dc2864249df213b029cbdc683938ad12ee7288325fa59e45c6",
+            "MD5": "3f3f52f0b261b235f9a1bb16f74f57d2",
+            "path": "config/portablevfx/effects/RareDrop/textures/T_Line.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/RareDrop/textures/T_Ornament.png",
+          "name": "config/portablevfx/effects/RareDrop/textures/T_Ornament.png",
+          "type": "File",
+          "artifact": {
+            "size": 45748,
+            "SHA256": "ef66568445e966c7e2e386ea9528d5e1757e1e8724574d088b89c32be50e6603",
+            "MD5": "405b64ca5fadbc34915719b4804b54cc",
+            "path": "config/portablevfx/effects/RareDrop/textures/T_Ornament.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Ornament.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/RareDrop/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/RareDrop/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 72695,
+            "SHA256": "e08ee2dba1a1c385b6be427d7424e87e4003352be7a01329b4bbe5bf69f6e302",
+            "MD5": "683e3b43e97547d2ab9b1b4532b0a7f1",
+            "path": "config/portablevfx/effects/RareDrop/textures/T_Sigil.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/RareDrop/textures/T_Star4.png",
+          "name": "config/portablevfx/effects/RareDrop/textures/T_Star4.png",
+          "type": "File",
+          "artifact": {
+            "size": 6156,
+            "SHA256": "67ff81db9a54694674bee50896e9d8461ffdd56f72fc3446dd948c1724b5cff0",
+            "MD5": "6fb7fee29ecb9f4048a67b86c08ccd9f",
+            "path": "config/portablevfx/effects/RareDrop/textures/T_Star4.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Star4.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/RareDrop/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/RareDrop/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2416,
+            "SHA256": "8b9a4f295c03b40243d61771fd93ab8afa8e5e0e615985cbd86098440fcd2bd8",
+            "MD5": "d7542c5e9d9186e5c3ba400263cd225e",
+            "path": "config/portablevfx/effects/RareDrop/textures/T_Streak.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/RareDrop/vfx.json",
+          "name": "config/portablevfx/effects/RareDrop/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 191172,
+            "SHA256": "ccf2d8d99f0214f73a78dde6863f7ca2ad7cfcff6d95ca46004631f86d901059",
+            "MD5": "2723d72fff6327dad2b7f892a0c07ca8",
+            "path": "config/portablevfx/effects/RareDrop/vfx.json",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/UniqueDrop/NOTES.md",
+          "name": "config/portablevfx/effects/UniqueDrop/NOTES.md",
+          "type": "File",
+          "artifact": {
+            "size": 725,
+            "SHA256": "7271b17f0334b6f51a6afdcb54cf2a6710aab029971286518409821011f20128",
+            "MD5": "e60cf22b57903eb6ec60813095c3d322",
+            "path": "config/portablevfx/effects/UniqueDrop/NOTES.md",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__NOTES.md"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/UniqueDrop/textures/T_Beam.png",
+          "name": "config/portablevfx/effects/UniqueDrop/textures/T_Beam.png",
+          "type": "File",
+          "artifact": {
+            "size": 18340,
+            "SHA256": "2f2e65cc2f706feae6d987832d16e8e50afa36c76499e79a3ff0037a4e3be95c",
+            "MD5": "63413bfc6d6061e62c7ddd901123827b",
+            "path": "config/portablevfx/effects/UniqueDrop/textures/T_Beam.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Beam.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/UniqueDrop/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/UniqueDrop/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 3039,
+            "SHA256": "36fa041c3d036aa58412cfe53373ba263a72b2b42756658bae0e676f871543fb",
+            "MD5": "81ecde7874838aa30e39e2546b80d6db",
+            "path": "config/portablevfx/effects/UniqueDrop/textures/T_Dot.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/UniqueDrop/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/UniqueDrop/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 4770,
+            "SHA256": "e1e2b607ff15171631afd178ad3ae8176f49d5a8664674ab7df078eb159fa924",
+            "MD5": "20765eb333dc5133d2d8085d69807d20",
+            "path": "config/portablevfx/effects/UniqueDrop/textures/T_Glow.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/UniqueDrop/textures/T_Line.png",
+          "name": "config/portablevfx/effects/UniqueDrop/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 295,
+            "SHA256": "ecfcf06e3c21940dfcc5b96c10795f3a8092139e33b8017a157ddf2fece2cdfb",
+            "MD5": "04be6fbc1e582f5640588524580b0628",
+            "path": "config/portablevfx/effects/UniqueDrop/textures/T_Line.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/UniqueDrop/textures/T_Ornament.png",
+          "name": "config/portablevfx/effects/UniqueDrop/textures/T_Ornament.png",
+          "type": "File",
+          "artifact": {
+            "size": 46019,
+            "SHA256": "5c2f9785df9715766ee4f7ed0fe78f3b5a0253f100049fb9ddabf959423e860f",
+            "MD5": "83bcce985cc642671055410e330299cf",
+            "path": "config/portablevfx/effects/UniqueDrop/textures/T_Ornament.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Ornament.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/UniqueDrop/textures/T_Runes.png",
+          "name": "config/portablevfx/effects/UniqueDrop/textures/T_Runes.png",
+          "type": "File",
+          "artifact": {
+            "size": 28331,
+            "SHA256": "833420f43317e182bd4a0dba110f74de02f5f9eec518d5a0194a1226db37af09",
+            "MD5": "7713078a31162af68c3fb5476b5b404a",
+            "path": "config/portablevfx/effects/UniqueDrop/textures/T_Runes.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Runes.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/UniqueDrop/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/UniqueDrop/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 71889,
+            "SHA256": "3b396d03a00f3d2f3cd1ff1634fce8280e2a26b80eaada0bd53ca7498229f6b8",
+            "MD5": "636134b13071a70de08a3b1944f1c8eb",
+            "path": "config/portablevfx/effects/UniqueDrop/textures/T_Sigil.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/UniqueDrop/textures/T_Star4.png",
+          "name": "config/portablevfx/effects/UniqueDrop/textures/T_Star4.png",
+          "type": "File",
+          "artifact": {
+            "size": 5889,
+            "SHA256": "f30244d9fd89d4b08d8d1d11878f6309fa2f4b934bd95551f4ae5a011b881937",
+            "MD5": "4c030b60bdb4bbc79374c2a262c1ad82",
+            "path": "config/portablevfx/effects/UniqueDrop/textures/T_Star4.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Star4.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/UniqueDrop/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/UniqueDrop/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2150,
+            "SHA256": "461f9d0611512c41bfcf6216f5a590f2a49dc30fbd218adf97cd11d590329ab2",
+            "MD5": "aacb49ad8995faa28f786c6828354984",
+            "path": "config/portablevfx/effects/UniqueDrop/textures/T_Streak.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/UniqueDrop/vfx.json",
+          "name": "config/portablevfx/effects/UniqueDrop/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 283230,
+            "SHA256": "92b93709b03d2b063b2b5794054565a2cd7ca3bef0174ce6a92ea417c13d6160",
+            "MD5": "31bf604314075ec86ab723f49f60d3e3",
+            "path": "config/portablevfx/effects/UniqueDrop/vfx.json",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LegendaryDrop/NOTES.md",
+          "name": "config/portablevfx/effects/LegendaryDrop/NOTES.md",
+          "type": "File",
+          "artifact": {
+            "size": 936,
+            "SHA256": "48551e834cc829b2c99e47a5eda03565d2b39f3a21f860229de5d7430c8104de",
+            "MD5": "7078facbf0633bea427c8672a6d3504e",
+            "path": "config/portablevfx/effects/LegendaryDrop/NOTES.md",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__NOTES.md"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Beam.png",
+          "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Beam.png",
+          "type": "File",
+          "artifact": {
+            "size": 17648,
+            "SHA256": "7c4d8f59f4a0e31381328d6098e5abda1d5a26234467f4a857021db9ee0650ce",
+            "MD5": "aa826f5205ca581b05e4f177445868d5",
+            "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Beam.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Beam.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 3039,
+            "SHA256": "36fa041c3d036aa58412cfe53373ba263a72b2b42756658bae0e676f871543fb",
+            "MD5": "81ecde7874838aa30e39e2546b80d6db",
+            "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Dot.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 4770,
+            "SHA256": "e1e2b607ff15171631afd178ad3ae8176f49d5a8664674ab7df078eb159fa924",
+            "MD5": "20765eb333dc5133d2d8085d69807d20",
+            "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Glow.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Line.png",
+          "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 278,
+            "SHA256": "0690a4f52b0654e5cf2bb69d48772fdf1c579bb5c98f9f7747fc964b6e700245",
+            "MD5": "b21da371e1760600a50bcbf392440f7c",
+            "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Line.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Ornament.png",
+          "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Ornament.png",
+          "type": "File",
+          "artifact": {
+            "size": 43044,
+            "SHA256": "50426bdb763803a35f79843d7d9f085d367889e20685a9299899f1917e059134",
+            "MD5": "de6ed36995729327667e4ce448b6a60a",
+            "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Ornament.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Ornament.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Runes.png",
+          "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Runes.png",
+          "type": "File",
+          "artifact": {
+            "size": 27685,
+            "SHA256": "66a89d8f9a4c39ac8a684900493b7ae288c7ea6cca7b78fa9807114830a2c28a",
+            "MD5": "feb4cf5f41e971395d92eb0be1f31c19",
+            "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Runes.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Runes.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 69794,
+            "SHA256": "5628446e1a6e66276a4133a5f7c3269b946c7351bf07fda70567774d935202ad",
+            "MD5": "2982a754a33d34206f2a77eb588e7283",
+            "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Sigil.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Star4.png",
+          "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Star4.png",
+          "type": "File",
+          "artifact": {
+            "size": 5819,
+            "SHA256": "3ee122cc475ff85325645bfffb4570693ea0d513a845a33de597d07f3ad99267",
+            "MD5": "bef55158739fd1babc49c9a128a2a5ab",
+            "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Star4.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Star4.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2039,
+            "SHA256": "2da03e778b1eb9a4a9f0996f7f933ca66022543c5ca00130e167c4a02a1dffbf",
+            "MD5": "8152594714797c532c771c4bea4daa17",
+            "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Streak.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Wisp_Sheet.png",
+          "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Wisp_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 58534,
+            "SHA256": "ba352a471a84f75c3b611eeadcf0beb2a28c35b7828e5f3270a17b9e92ba53c9",
+            "MD5": "ec743f1dd18b0e9c75b44efd88ee43d3",
+            "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Wisp_Sheet.png",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Wisp_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LegendaryDrop/vfx.json",
+          "name": "config/portablevfx/effects/LegendaryDrop/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 369197,
+            "SHA256": "a63386571084f126e1c9828a463017a8b83d823f5183a4a1e26135f9f833ebfc",
+            "MD5": "4f9c7401e17b05ec4a357165b0bd1a73",
+            "path": "config/portablevfx/effects/LegendaryDrop/vfx.json",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__vfx.json"
           }
         }
       ]
