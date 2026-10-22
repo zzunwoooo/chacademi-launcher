@@ -582,14 +582,14 @@
           }
         },
         {
-          "id": "kr.chacademi:chaca_story:0.1.4-quest.3-portal.1@jar",
-          "name": "mods/chacademy-story-0.1.4-quest.3-portal.1.jar",
+          "id": "kr.chacademi:chaca_story:0.1.4-quest.4-visual.1@jar",
+          "name": "mods/chacademy-story-0.1.4-quest.4-visual.1.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 858855,
-            "MD5": "cce45a2a9f33ef273f451fcd866691a9",
-            "SHA256": "05b9add26188a012c70cd5452042de9e00448c7a1fbcf26182e1262a58ff738f",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-quest-20261022-task4/chacademy-story-0.1.4-quest.3-portal.1.jar"
+            "size": 925478,
+            "MD5": "f67a568324d06993e05cef0c5130e31d",
+            "SHA256": "359385ab72eb5a2c15963f0361e1ebe697db3edbc35b9d7eea3b2e9114ba4133",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-visual-20261022-task4/chacademy-story-0.1.4-quest.4-visual.1.jar"
           }
         },
         {

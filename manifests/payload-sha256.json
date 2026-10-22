@@ -279,9 +279,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/chacademy-story-0.1.4-quest.3-portal.1.jar",
-      "sha256": "05b9add26188a012c70cd5452042de9e00448c7a1fbcf26182e1262a58ff738f",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-quest-20261022-task4/chacademy-story-0.1.4-quest.3-portal.1.jar",
+      "path": "mods/chacademy-story-0.1.4-quest.4-visual.1.jar",
+      "sha256": "359385ab72eb5a2c15963f0361e1ebe697db3edbc35b9d7eea3b2e9114ba4133",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-visual-20261022-task4/chacademy-story-0.1.4-quest.4-visual.1.jar",
       "license": "All-Rights-Reserved; user-authorized public launcher distribution; paid font excluded",
       "role": "mod"
     },
@@ -661,6 +661,6 @@
     ],
     "scope": "client tooltip only; all other current public JAR entries unchanged"
   },
-  "storyClientSourceCommit": "d03aa35aa60f1f2dcbc7ca9f10eb3e3df75a93ba",
+  "storyClientSourceCommit": "2e4e48a1585b9c512bdc31db7474cd5265ca2415",
   "chatClientSourceCommit": "d03aa35aa60f1f2dcbc7ca9f10eb3e3df75a93ba"
 }
