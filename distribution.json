@@ -842,10 +842,10 @@
           "name": "chacademi/npc-models/models.json",
           "type": "File",
           "artifact": {
-            "size": 2998,
-            "MD5": "92428fc2ab1e2181d933ebb0d9406a68",
-            "SHA256": "291d0412dfd3544c3aba9cce6799adc898eb4e917d242d4d5d6d9ea5718405cd",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-lowell-pipi-20261022-task7/models.json",
+            "size": 3373,
+            "MD5": "570e40acaa011c518426788da1b54d19",
+            "SHA256": "b384712da3b0f98c61b6b95493181bc7d55d0f558de8438eb418d8a35606aca9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-wizard-statue-20261022-task7/models.json",
             "path": "chacademi/npc-models/models.json"
           },
           "updatePolicy": "managed"
@@ -2272,6 +2272,18 @@
             "SHA256": "3369e416d8d7d6cd9295951ec56a1c2f30e424ace1c0c6d668073b19019a1ad9",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-lowell-pipi-20261022-task7/dorm_lowell.glb",
             "path": "chacademi/npc-models/dorm_lowell.glb"
+          }
+        },
+        {
+          "id": "chacademi/npc-models/wizard_statue.glb",
+          "name": "chacademi/npc-models/wizard_statue.glb",
+          "type": "File",
+          "artifact": {
+            "size": 1763852,
+            "MD5": "c79e5c1a5404ade8250154dab24b562f",
+            "SHA256": "def88e0f01b095b82185990a3ceb725ba816154d3b3fee7fa3faf0d03f7bd743",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-wizard-statue-20261022-task7/wizard_statue.glb",
+            "path": "chacademi/npc-models/wizard_statue.glb"
           }
         }
       ]

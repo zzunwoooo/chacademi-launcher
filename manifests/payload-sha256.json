@@ -1339,14 +1339,6 @@
       "role": "npc-model"
     },
     {
-      "path": "chacademi/npc-models/models.json",
-      "sha256": "291d0412dfd3544c3aba9cce6799adc898eb4e917d242d4d5d6d9ea5718405cd",
-      "size": 2998,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-lowell-pipi-20261022-task7/models.json",
-      "license": "Chacademi project asset",
-      "role": "npc-model"
-    },
-    {
       "path": "chacademi/npc-models/dorm_lowell.glb",
       "sha256": "3369e416d8d7d6cd9295951ec56a1c2f30e424ace1c0c6d668073b19019a1ad9",
       "size": 2697960,
@@ -1359,6 +1351,22 @@
       "sha256": "28800e9c4dec368e48360032af1142115af7f5b077c04d3ad75df9b27a35337d",
       "size": 4274848,
       "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-lowell-pipi-20261022-task7/pipi.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/wizard_statue.glb",
+      "sha256": "def88e0f01b095b82185990a3ceb725ba816154d3b3fee7fa3faf0d03f7bd743",
+      "size": 1763852,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-wizard-statue-20261022-task7/wizard_statue.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/models.json",
+      "sha256": "b384712da3b0f98c61b6b95493181bc7d55d0f558de8438eb418d8a35606aca9",
+      "size": 3373,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-wizard-statue-20261022-task7/models.json",
       "license": "Chacademi project asset",
       "role": "npc-model"
     }
