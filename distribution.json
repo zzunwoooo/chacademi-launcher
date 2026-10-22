@@ -802,14 +802,14 @@
           "managedReason": "Immutable one-time shader migration input. User shader settings remain seed-managed; a per-revision marker prevents repeated overrides."
         },
         {
-          "id": "kr.chacademi:chacademi_npc_model:0.1.1-npcmodel.2@jar",
-          "name": "mods/chacademi-npc-model-0.1.1-npcmodel.2.jar",
+          "id": "kr.chacademi:chacademi_npc_model:0.1.1-npcmodel.3@jar",
+          "name": "mods/chacademi-npc-model-0.1.1-npcmodel.3.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 155340,
-            "MD5": "a7fc93f9cddc938a0a0c49e779dd952b",
-            "SHA256": "45422cc05798f0a399581c007692b103619d0994ebd5c16d88bf70b923572203",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-model-20261022-task6/chacademi-npc-model-0.1.1-npcmodel.2.jar"
+            "size": 158910,
+            "MD5": "ef317aa19db7acccadd32ee44404915d",
+            "SHA256": "d6b88c3f0f8ab8f4a70e4935dc48394ce84a7201f4c849a84dc0ed0d2d0d882e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-scale10-20261022-task7/chacademi-npc-model-0.1.1-npcmodel.3.jar"
           }
         },
         {
