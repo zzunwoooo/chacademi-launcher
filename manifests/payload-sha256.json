@@ -615,9 +615,9 @@
       "role": "mod-config"
     },
     {
-      "path": "mods/chacademi-npc-model-0.1.0-npcmodel.1.jar",
-      "sha256": "eb83c24c1dcd417da74d64e28ccbbd778e4c18b04a09525b109812933691ea82",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-model-20261021/chacademi-npc-model-0.1.0-npcmodel.1.jar",
+      "path": "mods/chacademi-npc-model-0.1.1-npcmodel.2.jar",
+      "sha256": "45422cc05798f0a399581c007692b103619d0994ebd5c16d88bf70b923572203",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-model-20261022-task6/chacademi-npc-model-0.1.1-npcmodel.2.jar",
       "license": "Chacademi project asset",
       "role": "mod"
     },
