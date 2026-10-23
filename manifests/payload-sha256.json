@@ -1,7 +1,7 @@
 {
   "sourceCommit": "d6238f3aa941d6600b701b7df07ecab463cb43ab",
   "integrationComponents": {
-    "hudSha256": "e700d3c6986a04cbdc80570506b7fd436ffc055ac75cc04f62fdb98e33186853",
+    "hudSha256": "ab0c1aa3540982e3d80eb851152ec3dd2358672ea222ecdffa9d58c738c15d58",
     "bridgeSha256": "ad2ed31181b85a45a816ec40bc0cf761a82770a6f4c475e93df3c910dc36a3d9",
     "storySha256": "6116c6b9dde2d15c50ef08140c47b161dfa8da470192e214afb0e8519d3022f4",
     "chatSha256": "229c7cea170347fd72c9b4abc52dfdce0ff6b13ce0486528420374daff0e1c98",
@@ -16,6 +16,11 @@
       "baseUIsha256": "fc09cc5ef816171cceca9f3d3225e82d5a07ace23abb628ac47e34980e16f8ce",
       "removedUnexpectedCall": "CastAimClient.initialize",
       "changedEntries": 2
+    },
+    "affinityCandidate": {
+      "sourceCommit": "16e80e7fd26525e42eeb066ee451dd696894b551",
+      "status": "PREPARATION_ONLY_PENDING_PARENT_FINAL_SERVER_READY",
+      "uiSHA256": "ab0c1aa3540982e3d80eb851152ec3dd2358672ea222ecdffa9d58c738c15d58"
     }
   },
   "backgroundMode": "final-library-image",
@@ -149,9 +154,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/magic-codex-ui-0.40.3-integrated.20261023-hudpresets-search-hires.2-book.1-startupfix.1+mc1.21.4.jar",
-      "sha256": "e700d3c6986a04cbdc80570506b7fd436ffc055ac75cc04f62fdb98e33186853",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.26/magic-codex-ui-0.40.3-integrated.20261023-hudpresets-search-hires.2-book.1-startupfix.1%2Bmc1.21.4.jar",
+      "path": "mods/magic-codex-ui-0.40.3-integrated.20261023-book-startupfix-affinity.1+mc1.21.4.jar",
+      "sha256": "ab0c1aa3540982e3d80eb851152ec3dd2358672ea222ecdffa9d58c738c15d58",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.27/magic-codex-ui-0.40.3-integrated.20261023-book-startupfix-affinity.1%2Bmc1.21.4.jar",
       "license": "project-authorized client distribution",
       "role": "magiccodex",
       "size": 332733504
