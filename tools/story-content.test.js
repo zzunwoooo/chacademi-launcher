@@ -13,7 +13,8 @@ const records = source.servers[0].modules.filter(module => /^config\/chaca_(cuts
     bytes:module.artifact.size, sha256:module.artifact.SHA256, md5:module.artifact.MD5,
     url:module.artifact.url
 }))
-for(const record of historicalRecords){ assert.ok(records.some(current => current.path === record.path), record.path) }
+const retired = require('../app/assets/js/story-retirement.json').retired
+for(const record of historicalRecords){ assert.ok(records.some(current => current.path === record.path) || retired.some(old => old.path === record.path), record.path) }
 const digest = (b, algo) => crypto.createHash(algo).update(b).digest('hex')
 test('story content: exact allowlist, new/existing downloads, repeat launch and progress preservation', async () => {
     const root = await fs.mkdtemp(path.resolve('../tests/story-content-'))
