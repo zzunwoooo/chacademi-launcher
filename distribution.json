@@ -328,14 +328,14 @@
           }
         },
         {
-          "id": "kr.chacademi:magiccodex:0.40.3-integrated.20261023-hudpresets-search-hires.2+mc1.21.4@jar",
-          "name": "mods/magic-codex-ui-0.40.3-integrated.20261023-hudpresets-search-hires.2+mc1.21.4.jar",
+          "id": "kr.chacademi:magiccodex:0.40.3-integrated.20261023-hudpresets-search-hires.2-book.1+mc1.21.4@jar",
+          "name": "mods/magic-codex-ui-0.40.3-integrated.20261023-hudpresets-search-hires.2-book.1+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 334934160,
-            "MD5": "80e4ed2855d3e00dac17086b2f0a0a66",
-            "SHA256": "ea4fa24edc1f9c450a45440eae99eb34f0e180bc8b8f740fb3f9736b273fae37",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/magic-codex-ui-0.40.3-integrated.20261023-hudpresets-search-hires.2%2Bmc1.21.4.jar"
+            "size": 336701357,
+            "MD5": "0d05721f9c598571086a3d9828841de9",
+            "SHA256": "fc09cc5ef816171cceca9f3d3225e82d5a07ace23abb628ac47e34980e16f8ce",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.25/magic-codex-ui-0.40.3-integrated.20261023-hudpresets-search-hires.2-book.1%2Bmc1.21.4.jar"
           }
         },
         {

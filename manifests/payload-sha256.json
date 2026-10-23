@@ -1,15 +1,15 @@
 {
-  "sourceCommit": "af1ed3ec297f2d0630a4b416adb41c658ec0dff5",
+  "sourceCommit": "d6238f3aa941d6600b701b7df07ecab463cb43ab",
   "integrationComponents": {
-    "hudSha256": "ea4fa24edc1f9c450a45440eae99eb34f0e180bc8b8f740fb3f9736b273fae37",
-    "bridgeSha256": "a693cec4c7b1b7692c30f93ee7f21be84ec67f8b070654c68009c4459279708a",
+    "hudSha256": "fc09cc5ef816171cceca9f3d3225e82d5a07ace23abb628ac47e34980e16f8ce",
+    "bridgeSha256": "fab0dbdbd296facb527608c4cb2a756858bc340525e3e8974972613fcb52dad6",
     "storySha256": "6116c6b9dde2d15c50ef08140c47b161dfa8da470192e214afb0e8519d3022f4",
     "chatSha256": "229c7cea170347fd72c9b4abc52dfdce0ff6b13ce0486528420374daff0e1c98",
     "motionSha256": "d4781335f9cf721525e74f833d152f58e22acd5ac19f18d423bbc8222fc220f5",
     "vfxSha256": "6088bbfd8c844512f6015eccfb496ae55bb84989c459f2834682b4f8bf24a318",
     "bridgeSha256ByServer": {
-      "school": "a693cec4c7b1b7692c30f93ee7f21be84ec67f8b070654c68009c4459279708a",
-      "wild": "9fcfdce52af7a040b7d9e21a5dd5939b100d6848fef53c8266b7e4dddbb055c1",
+      "school": "fab0dbdbd296facb527608c4cb2a756858bc340525e3e8974972613fcb52dad6",
+      "wild": "8a6eca8aa8a8d56cb108dfd5dc659fbf2c385fefc28d0c4b6ba0e170dca2c9d2",
       "arena": "63938bb6a31d41d873a5506b36fbb4efeddb369af032e4fa381777b0f862141f"
     }
   },
@@ -144,9 +144,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/magic-codex-ui-0.40.3-integrated.20261023-hudpresets-search-hires.2+mc1.21.4.jar",
-      "sha256": "ea4fa24edc1f9c450a45440eae99eb34f0e180bc8b8f740fb3f9736b273fae37",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/magic-codex-ui-0.40.3-integrated.20261023-hudpresets-search-hires.2%2Bmc1.21.4.jar",
+      "path": "mods/magic-codex-ui-0.40.3-integrated.20261023-hudpresets-search-hires.2-book.1+mc1.21.4.jar",
+      "sha256": "fc09cc5ef816171cceca9f3d3225e82d5a07ace23abb628ac47e34980e16f8ce",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.25/magic-codex-ui-0.40.3-integrated.20261023-hudpresets-search-hires.2-book.1%2Bmc1.21.4.jar",
       "license": "project-authorized client distribution",
       "role": "magiccodex",
       "size": 332733504
