@@ -658,7 +658,7 @@ async function dlAsync(login = true) {
                 launchBusy = false
                 setLaunchEnabled(true)
                 toggleLaunchArea(false)
-                if(!launchFailureShown && (code !== 0 || !bootstrapSeen)){
+                if(!launchFailureShown && code !== 0){
                     launchFailureShown = true
                     loggerLaunchSuite.error('Minecraft process exited before normal completion:', code, signal)
                     showLaunchFailure('마인크래프트 실행 중 종료', `게임 프로세스가 종료되었습니다 (코드: ${code}, 신호: ${signal || '없음'}). 런처 콘솔과 게임 logs/latest.log의 오류를 확인해 주세요.`)
