@@ -593,14 +593,19 @@ async function dlAsync(login = true) {
         // const SERVER_JOINED_REGEX = /\[.+\]: \[CHAT\] [a-zA-Z0-9_]{1,16} joined the game/
         const SERVER_JOINED_REGEX = new RegExp(`\\[.+\\]: \\[CHAT\\] ${authUser.displayName} joined the game`)
 
+        let activeProcess = null
+        let launchCompleteTimer = null
+        let bootstrapSeen = false
+        let launchFailureShown = false
         const onLoadComplete = () => {
+            if(activeProcess == null || proc !== activeProcess){ return }
             toggleLaunchArea(false)
             if(hasRPC){
                 DiscordWrapper.updateDetails(Lang.queryJS('landing.discord.loading'))
-                proc.stdout.on('data', gameStateChange)
+                activeProcess.stdout.on('data', gameStateChange)
             }
-            proc.stdout.removeListener('data', tempListener)
-            proc.stderr.removeListener('data', gameErrorListener)
+            activeProcess.stdout.removeListener('data', tempListener)
+            activeProcess.stderr.removeListener('data', gameErrorListener)
         }
         const start = Date.now()
 
@@ -609,11 +614,12 @@ async function dlAsync(login = true) {
         // the client application has started, and we can hide
         // the progress bar stuff.
         const tempListener = function(data){
-            if(GAME_LAUNCH_REGEX.test(data.trim())){
+            if(!bootstrapSeen && GAME_LAUNCH_REGEX.test(data.trim())){
+                bootstrapSeen = true
                 preparationTimer.mark('java-bootstrap-only')
                 const diff = Date.now()-start
                 if(diff < MIN_LINGER) {
-                    setTimeout(onLoadComplete, MIN_LINGER-diff)
+                    launchCompleteTimer = setTimeout(onLoadComplete, MIN_LINGER-diff)
                 } else {
                     onLoadComplete()
                 }
@@ -633,6 +639,7 @@ async function dlAsync(login = true) {
         const gameErrorListener = function(data){
             data = data.trim()
             if(data.indexOf('Could not find or load main class net.minecraft.launchwrapper.Launch') > -1){
+                launchFailureShown = true
                 loggerLaunchSuite.error('Game launch failed, LaunchWrapper was not downloaded properly.')
                 showLaunchFailure(Lang.queryJS('landing.dlAsync.errorDuringLaunchTitle'), Lang.queryJS('landing.dlAsync.launchWrapperNotDownloaded'))
             }
@@ -641,15 +648,26 @@ async function dlAsync(login = true) {
         try {
             // Build Minecraft process.
             proc = pb.build()
+            activeProcess = proc
+            const launchedProcess = proc
             preparationTimer.mark('archive-install-and-spawn')
-            proc.once('close', () => {
+            proc.once('close', (code, signal) => {
+                if(launchCompleteTimer != null){ clearTimeout(launchCompleteTimer) }
+                if(proc != null && proc !== launchedProcess){ return }
                 proc = null
                 launchBusy = false
                 setLaunchEnabled(true)
                 toggleLaunchArea(false)
+                if(!launchFailureShown && (code !== 0 || !bootstrapSeen)){
+                    launchFailureShown = true
+                    loggerLaunchSuite.error('Minecraft process exited before normal completion:', code, signal)
+                    showLaunchFailure('마인크래프트 실행 중 종료', `게임 프로세스가 종료되었습니다 (코드: ${code}, 신호: ${signal || '없음'}). 런처 콘솔과 게임 logs/latest.log의 오류를 확인해 주세요.`)
+                }
             })
             proc.once('error', err => {
-                proc = null
+                if(launchCompleteTimer != null){ clearTimeout(launchCompleteTimer) }
+                if(proc === launchedProcess){ proc = null }
+                launchFailureShown = true
                 showLaunchFailure('게임 실행 실패', err.message)
             })
 
