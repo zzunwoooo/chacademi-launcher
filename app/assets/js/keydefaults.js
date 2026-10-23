@@ -14,6 +14,22 @@ const DEFAULTS = {
     'key_key.journeymap.map_toggle_alt':'key.keyboard.j',
     'key_key.plasmovoice.settings':'key.keyboard.n'
 }
+// Only known shipped defaults are released, only for a fresh instance.
+// These features remain available for the user to assign another key in Controls.
+const CONFLICTING_DEFAULTS = {
+    'key_key.socialInteractions':'key.keyboard.p',
+    'key_key.loadToolbarActivator':'key.keyboard.x',
+    'key_key.advancements':'key.keyboard.l',
+    'key_key.wi_zoom.zoom':'key.keyboard.z',
+    'key_key.journeymap.minimap_preset':'key.keyboard.backslash',
+    'key_key.journeymap.fullscreen_chat_position':'key.keyboard.c',
+    'key_key.journeymap.fullscreen_waypoints':'key.keyboard.n',
+    'key_key.journeymap.fullscreen_options':'key.keyboard.o',
+    'key_key.koreanpatch.toggle_ime':'key.keyboard.i',
+    'key_key.shouldersurfing.swap_shoulder':'key.keyboard.o',
+    'key_iris.keybind.toggleShaders':'key.keyboard.k',
+    'key_iris.keybind.shaderPackSelection':'key.keyboard.o'
+}
 // P/L/Backslash/Ctrl belong to UiKeys, whose shipped defaults already match the image.
 // Preserve ui-keys.properties and spell key-settings.yml, including collision protection.
 exports.capture = root => ({fresh: !fs.existsSync(path.join(root, 'options.txt'))})
@@ -29,7 +45,11 @@ exports.apply = (root, state) => {
     const result = lines.map(line => {
         const separator = line.indexOf(':')
         const key = line.slice(0, separator)
-        if(separator < 0 || !Object.hasOwn(DEFAULTS, key)){ return line }
+        if(separator < 0){ return line }
+        if(state.fresh && Object.hasOwn(CONFLICTING_DEFAULTS, key) && line.slice(separator + 1).replace(/\r+$/,'') === CONFLICTING_DEFAULTS[key]){
+            return key + ':key.keyboard.unknown'
+        }
+        if(!Object.hasOwn(DEFAULTS, key)){ return line }
         seen.add(key)
         return state.fresh ? key + ':' + DEFAULTS[key] : line
     })
