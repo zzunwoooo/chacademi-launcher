@@ -1422,10 +1422,10 @@
           "type": "File",
           "artifact": {
             "path": "resourcepacks/chacademia-integrated-20261023.zip",
-            "size": 81459077,
-            "MD5": "e2a2572c4f2a16032ad5cbe0b45672ba",
-            "SHA256": "b02c3f75e467ad06a661d4c7590be5ae4e20c83565773c3ee96513ac307e921b",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/chacademia-integrated-20261023.zip"
+            "size": 82279633,
+            "MD5": "ef9b476b60426f3680cea13220c43bba",
+            "SHA256": "d3c50276fc44966bd68ee154174bc291cfa20837c144f0c885e9ff6713c702b2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.28/chacademia-integrated-20261023.zip"
           },
           "updatePolicy": "managed"
         }

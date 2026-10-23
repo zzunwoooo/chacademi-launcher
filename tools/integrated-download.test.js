@@ -20,7 +20,7 @@ test('integrated pack: real distribution processor queues exact path, repairs co
         const target=path.join(game,'resourcepacks/chacademia-integrated-20261023.zip')
         const first=await queue();assert.equal(first.length,1);assert.equal(first[0].path,target)
         await fs.outputFile(target,'corrupt');assert.equal((await queue()).length,1)
-        await fs.copy('C:/Chacademi/artifacts/integrated-release-20261023-task7/chacademia-integrated-20261023.zip',target)
+        await fs.copy(process.env.CHACADEMI_INTEGRATED_PACK_FIXTURE || 'C:/Chacademi/artifacts/integrated-release-20261023-task7/chacademia-integrated-20261023.zip',target)
         assert.equal((await queue()).length,0)
         require('../app/assets/js/integratedcontent').prepare(game,source.servers[0].modules)
         assert.deepEqual(JSON.parse((await fs.readFile(path.join(game,'options.txt'),'utf8')).split('resourcePacks:')[1]),['file/chacademia-integrated-20261023.zip'])

@@ -19,7 +19,7 @@ function moduleFor(bytes){const m=structuredClone(original);m.artifact.SHA256=ha
 function rejectWithoutOptionsChange(root,before,modules,pattern){assert.throws(()=>prepare(root,modules),pattern);assert.deepEqual(fs.readFileSync(path.join(root,'options.txt')),before)}
 test('original 0.1.27 archive remains valid',()=>fixture(root=>{
     fs.outputFileSync(path.join(root,relative),old)
-    assert.equal(prepare(root,[original]).active,true)
+    assert.equal(prepare(root,[moduleFor(old)]).active,true)
 }))
 test('a new valid archive uses the selected module hash and preserves options',()=>fixture(root=>{
     // A standard ZIP comment changes the version bytes without changing any asset.

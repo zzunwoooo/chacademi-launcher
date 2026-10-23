@@ -9,7 +9,7 @@ const relative='resourcepacks/chacademia-integrated-20261023.zip'
 const modules=require('../distribution.json').servers[0].modules
 const write=(p,b)=>{fs.ensureDirSync(path.dirname(path.join(root,p)));fs.writeFileSync(path.join(root,p),b)}
 try{
-    const pack=path.join('C:/Chacademi/artifacts/integrated-release-20261023-task7',path.basename(relative))
+    const pack=process.env.CHACADEMI_INTEGRATED_PACK_FIXTURE || path.join('C:/Chacademi/artifacts/integrated-release-20261023-task7',path.basename(relative))
     write(relative,fs.readFileSync(pack))
     write('options.txt','music:0.3\r\nresourcePacks:["vanilla","file/user.zip"]\r\nkey_key.forward:key.keyboard.up\r\n')
     write('config/chaca_dialogue/ch1-1/dialogue.yml','user modified')

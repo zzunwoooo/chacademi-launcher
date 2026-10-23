@@ -30,6 +30,13 @@
         ]
       },
       "npcSHA256": "a98a4d619e10d2b2a489d08e6abe3c769d5a39f09a6e1940acec2fdad144ff18"
+    },
+    "giftPackBatch": {
+      "count": 10,
+      "basePackSHA256": "b02c3f75e467ad06a661d4c7590be5ae4e20c83565773c3ee96513ac307e921b",
+      "packSHA256": "d3c50276fc44966bd68ee154174bc291cfa20837c144f0c885e9ff6713c702b2",
+      "snapshotSHA256": "ee1e697ad7644556cb29c663164a72c3b9ae8b25e6dd9a804c45bb1debb624a2",
+      "launcherPackValidation": "Selected distribution SHA256 and size; fixed path; fail closed"
     }
   },
   "backgroundMode": "final-library-image",
@@ -833,8 +840,8 @@
     },
     {
       "path": "resourcepacks/chacademia-integrated-20261023.zip",
-      "sha256": "b02c3f75e467ad06a661d4c7590be5ae4e20c83565773c3ee96513ac307e921b",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/chacademia-integrated-20261023.zip",
+      "sha256": "d3c50276fc44966bd68ee154174bc291cfa20837c144f0c885e9ff6713c702b2",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.28/chacademia-integrated-20261023.zip",
       "role": "resourcepack",
       "license": "server managed"
     }
