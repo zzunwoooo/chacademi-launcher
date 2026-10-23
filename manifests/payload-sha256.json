@@ -2,15 +2,15 @@
   "sourceCommit": "d6238f3aa941d6600b701b7df07ecab463cb43ab",
   "integrationComponents": {
     "hudSha256": "ab0c1aa3540982e3d80eb851152ec3dd2358672ea222ecdffa9d58c738c15d58",
-    "bridgeSha256": "ad2ed31181b85a45a816ec40bc0cf761a82770a6f4c475e93df3c910dc36a3d9",
+    "bridgeSha256": "4fd8bc1f46025f117198d99e51bf33476e5b44e634b56b34458a9ba5b77d30c1",
     "storySha256": "6116c6b9dde2d15c50ef08140c47b161dfa8da470192e214afb0e8519d3022f4",
     "chatSha256": "229c7cea170347fd72c9b4abc52dfdce0ff6b13ce0486528420374daff0e1c98",
     "motionSha256": "d4781335f9cf721525e74f833d152f58e22acd5ac19f18d423bbc8222fc220f5",
     "vfxSha256": "6088bbfd8c844512f6015eccfb496ae55bb84989c459f2834682b4f8bf24a318",
     "bridgeSha256ByServer": {
-      "school": "ad2ed31181b85a45a816ec40bc0cf761a82770a6f4c475e93df3c910dc36a3d9",
-      "wild": "39791e2db7ab92fe35d4a0c0789da6e60cb7fe476fc423455efaba6745ec4a17",
-      "arena": "63938bb6a31d41d873a5506b36fbb4efeddb369af032e4fa381777b0f862141f"
+      "school": "4fd8bc1f46025f117198d99e51bf33476e5b44e634b56b34458a9ba5b77d30c1",
+      "wild": "2f164474c1f7bf5e592ca2d5025c1b90bd9f2e34acb1952f2a8bd7823bf62812",
+      "arena": "0ad43d8dc33061ea74d013e20f583c64e384fd56a4a08c2845abb20306b12e96"
     },
     "uiPackagingHotfix": {
       "baseUIsha256": "fc09cc5ef816171cceca9f3d3225e82d5a07ace23abb628ac47e34980e16f8ce",
@@ -19,8 +19,17 @@
     },
     "affinityCandidate": {
       "sourceCommit": "16e80e7fd26525e42eeb066ee451dd696894b551",
-      "status": "PREPARATION_ONLY_PENDING_PARENT_FINAL_SERVER_READY",
-      "uiSHA256": "ab0c1aa3540982e3d80eb851152ec3dd2358672ea222ecdffa9d58c738c15d58"
+      "status": "FINAL_COORDINATED_READY_NOT_DEPLOYED",
+      "uiSHA256": "ab0c1aa3540982e3d80eb851152ec3dd2358672ea222ecdffa9d58c738c15d58",
+      "protocols": {
+        "npcTalk": 2,
+        "journalWrite": 2,
+        "journalRead": [
+          1,
+          2
+        ]
+      },
+      "npcSHA256": "a98a4d619e10d2b2a489d08e6abe3c769d5a39f09a6e1940acec2fdad144ff18"
     }
   },
   "backgroundMode": "final-library-image",
