@@ -44,6 +44,7 @@ function switchView(current, next, currentFadeTime = 500, nextFadeTime = 500, on
         await onCurrentFade()
         $(`${next}`).fadeIn(nextFadeTime, async () => {
             await onNextFade()
+            if(next === VIEWS.landing){ requestAutomaticLaunch() }
         })
     })
 }
@@ -69,24 +70,17 @@ async function showMainUI(data){
     refreshServerStatus()
     setTimeout(() => {
         document.getElementById('frameBar').style.backgroundColor = 'rgba(0, 0, 0, 0.5)'
-        document.body.style.backgroundImage = 'linear-gradient(180deg, rgba(5, 12, 28, 0.12), rgba(5, 12, 28, 0.70)), url(\'assets/images/backgrounds/chacademi-background.png\')'
+        document.body.style.backgroundImage = 'linear-gradient(180deg, rgba(5, 12, 28, 0.12), rgba(5, 12, 28, 0.70)), url(\'assets/images/chacademi-final-background.png\')'
         $('#main').show()
 
         const isLoggedIn = Object.keys(ConfigManager.getAuthAccounts()).length > 0
 
-        // If this is enabled in a development environment we'll get ratelimited.
-        // The relaunch frequency is usually far too high.
-        if(!isDev && isLoggedIn){
-            validateSelectedAccount()
-        }
 
-        if(ConfigManager.isFirstLaunch()){
-            currentView = VIEWS.welcome
-            $(VIEWS.welcome).fadeIn(1000)
-        } else {
+        // Dedicated launcher: first use requires only the normal account login.
+        {
             if(isLoggedIn){
                 currentView = VIEWS.landing
-                $(VIEWS.landing).fadeIn(1000)
+                $(VIEWS.landing).fadeIn(1000, requestAutomaticLaunch)
             } else {
                 loginOptionsCancelEnabled(false)
                 loginOptionsViewOnLoginSuccess = VIEWS.landing

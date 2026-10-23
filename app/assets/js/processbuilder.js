@@ -13,6 +13,9 @@ const PetModels = require('./petmodels')
 const ClientAssets = require('./clientassets')
 const ShaderDefaults = require('./shaderdefaults')
 const CameraCompat = require('./cameracompat')
+const ServerPolicy = require('./serverpolicy')
+const GameSession = require('./gamesession')
+const PreparationTimer = require('./preparationtimer')
 
 const logger = LoggerUtil.getLogger('ProcessBuilder')
 
@@ -49,14 +52,21 @@ class ProcessBuilder {
      * Convienence method to run the functions typically used to build a process.
      */
     build(){
+        const preparationTimer = new PreparationTimer()
         fs.ensureDirSync(this.gameDir)
+        GameSession.check(this.gameDir)
+        ServerPolicy.prepare(this.gameDir, this.server.rawServer, `${this.server.hostname}:${this.server.port}`)
         logger.info('Camera compatibility backup:', CameraCompat.prepare(this.gameDir))
+        preparationTimer.mark('session-server-policy-camera')
         const modelModule = this.server.rawServer.modules.find(module => module.id === 'chacademi-pet-models.zip')
         logger.info('Pet model bundle prepared:', PetModels.install(this.gameDir, modelModule))
+        preparationTimer.mark('pet-archive-verification-and-install')
         const assetModule = this.server.rawServer.modules.find(module => module.id === 'chacademi-client-assets.zip')
         logger.info('Spell and VFX assets verified:', ClientAssets.install(this.gameDir, assetModule))
+        preparationTimer.mark('client-assets-verification-and-install')
         const shaderPolicy = this.server.rawServer.modules.find(module => module.id === ShaderDefaults.MODULE_ID)
         logger.info('One-time shader defaults:', ShaderDefaults.apply(this.gameDir, shaderPolicy))
+        preparationTimer.mark('shader-defaults-file-only')
         const tempNativePath = path.join(os.tmpdir(), ConfigManager.getTempNativeFolder(), crypto.pseudoRandomBytes(16).toString('hex'))
         process.throwDeprecation = true
         this.setupLiteLoader()
@@ -93,6 +103,7 @@ class ProcessBuilder {
             detached: ConfigManager.getLaunchDetached()
         })
 
+        GameSession.track(this.gameDir, child)
         if(ConfigManager.getLaunchDetached()){
             child.unref()
         }
@@ -337,7 +348,7 @@ class ProcessBuilder {
     }
 
     _processAutoConnectArg(args){
-        if(ConfigManager.getAutoConnect() && this.server.rawServer.autoconnect){
+        if((ServerPolicy.isChacademi(this.server.rawServer) || ConfigManager.getAutoConnect()) && this.server.rawServer.autoconnect){
             if(mcVersionAtLeast('1.20', this.server.rawServer.minecraftVersion)){
                 args.push('--quickPlayMultiplayer')
                 args.push(`${this.server.hostname}:${this.server.port}`)

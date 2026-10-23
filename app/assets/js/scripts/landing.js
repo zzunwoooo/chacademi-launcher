@@ -31,6 +31,8 @@ const {
 const DiscordWrapper          = require('./assets/js/discordwrapper')
 const ProcessBuilder          = require('./assets/js/processbuilder')
 const SettingsPolicy          = require('./assets/js/settingspolicy')
+const KeyDefaults             = require('./assets/js/keydefaults')
+const PreparationTimer        = require('./assets/js/preparationtimer')
 
 // Launch Elements
 const launch_content          = document.getElementById('launch_content')
@@ -51,6 +53,7 @@ const loggerLanding = LoggerUtil.getLogger('Landing')
  * @param {boolean} loading True if the loading area should be shown, otherwise false.
  */
 function toggleLaunchArea(loading){
+    if(!loading && proc == null){ launchBusy = false; setLaunchEnabled(true) }
     if(loading){
         launch_details.style.display = 'flex'
         launch_content.style.display = 'none'
@@ -96,13 +99,31 @@ function setDownloadPercentage(percent){
  * @param {boolean} val True to enable, false to disable.
  */
 function setLaunchEnabled(val){
-    document.getElementById('launch_button').disabled = !val
+    document.getElementById('launch_button').disabled = !val || launchBusy || proc != null
+}
+
+// One automatic attempt per launcher session. Failures require an explicit retry.
+let automaticLaunchAttempted = false
+let launchBusy = false
+function requestAutomaticLaunch(){
+    if(automaticLaunchAttempted || isDev || !ConfigManager.getSelectedAccount()){ return }
+    automaticLaunchAttempted = true
+    document.getElementById('launch_button').click()
 }
 
 // Bind launch button
 document.getElementById('launch_button').addEventListener('click', async e => {
+    if(launchBusy || proc != null){ return }
+    launchBusy = true
+    setLaunchEnabled(false)
     loggerLanding.info('Launching game..')
     try {
+        if(!ConfigManager.getSelectedAccount() || !await validateSelectedAccount()){
+            launchBusy = false
+            if(!ConfigManager.getSelectedAccount()){ automaticLaunchAttempted = false }
+            setLaunchEnabled(true)
+            return
+        }
         const server = (await DistroAPI.getDistribution()).getServerById(ConfigManager.getSelectedServer())
         const jExe = ConfigManager.getJavaExecutable(ConfigManager.getSelectedServer())
         if(jExe == null){
@@ -282,6 +303,8 @@ let serverStatusListener = setInterval(() => refreshServerStatus(true), 300000)
  * @param {string} desc The overlay description.
  */
 function showLaunchFailure(title, desc){
+    launchBusy = false
+    setLaunchEnabled(proc == null)
     setOverlayContent(
         title,
         desc,
@@ -447,6 +470,7 @@ const GAME_LAUNCH_REGEX = /^\[.+\]: (?:MinecraftForge .+ Initialized|ModLauncher
 const MIN_LINGER = 5000
 
 async function dlAsync(login = true) {
+    const preparationTimer = new PreparationTimer()
 
     // Login parameter is temporary for debug purposes. Allows testing the validation/downloads without
     // launching the game.
@@ -466,6 +490,7 @@ async function dlAsync(login = true) {
         return
     }
 
+    preparationTimer.mark('distribution-refresh')
     const serv = distro.getServerById(ConfigManager.getSelectedServer())
 
     if(login) {
@@ -479,6 +504,8 @@ async function dlAsync(login = true) {
     toggleLaunchArea(true)
     setLaunchPercentage(0, 100)
 
+    const keyDefaultsRoot = path.join(ConfigManager.getInstanceDirectory(), ConfigManager.getSelectedServer())
+    const keyDefaultsState = KeyDefaults.capture(keyDefaultsRoot)
     const fullRepairModule = new FullRepair(
         ConfigManager.getCommonDirectory(),
         ConfigManager.getInstanceDirectory(),
@@ -516,6 +543,7 @@ async function dlAsync(login = true) {
     }
     
 
+    preparationTimer.mark('hash-validation')
     if(invalidFileCount > 0) {
         loggerLaunchSuite.info('Downloading files.')
         setLaunchDetails(Lang.queryJS('landing.dlAsync.downloadingFiles'))
@@ -534,12 +562,14 @@ async function dlAsync(login = true) {
         loggerLaunchSuite.info('No invalid files, skipping download.')
     }
 
+    preparationTimer.mark('download')
     // Remove download bar.
     remote.getCurrentWindow().setProgressBar(-1)
 
     fullRepairModule.destroyReceiver()
+    KeyDefaults.apply(keyDefaultsRoot, keyDefaultsState)
 
-    setLaunchDetails(Lang.queryJS('landing.dlAsync.preparingToLaunch'))
+    setLaunchDetails('다운로드 검증 완료 · 압축 해제 및 게임 실행 준비 중')
 
     const mojangIndexProcessor = new MojangIndexProcessor(
         ConfigManager.getCommonDirectory(),
@@ -554,6 +584,7 @@ async function dlAsync(login = true) {
     const versionData = await mojangIndexProcessor.getVersionJson()
 
     if(login) {
+        preparationTimer.mark('configuration-and-loader-metadata')
         const authUser = ConfigManager.getSelectedAccount()
         loggerLaunchSuite.info(`Sending selected account (${authUser.displayName}) to ProcessBuilder.`)
         let pb = new ProcessBuilder(serv, versionData, modLoaderData, authUser, remote.app.getVersion())
@@ -579,6 +610,7 @@ async function dlAsync(login = true) {
         // the progress bar stuff.
         const tempListener = function(data){
             if(GAME_LAUNCH_REGEX.test(data.trim())){
+                preparationTimer.mark('java-bootstrap-only')
                 const diff = Date.now()-start
                 if(diff < MIN_LINGER) {
                     setTimeout(onLoadComplete, MIN_LINGER-diff)
@@ -609,12 +641,23 @@ async function dlAsync(login = true) {
         try {
             // Build Minecraft process.
             proc = pb.build()
+            preparationTimer.mark('archive-install-and-spawn')
+            proc.once('close', () => {
+                proc = null
+                launchBusy = false
+                setLaunchEnabled(true)
+                toggleLaunchArea(false)
+            })
+            proc.once('error', err => {
+                proc = null
+                showLaunchFailure('게임 실행 실패', err.message)
+            })
 
             // Bind listeners to stdout.
             proc.stdout.on('data', tempListener)
             proc.stderr.on('data', gameErrorListener)
 
-            setLaunchDetails(Lang.queryJS('landing.dlAsync.doneEnjoyServer'))
+            setLaunchDetails('런처 준비 완료 · 게임에서 리소스 적용 및 셰이더 컴파일 후 서버에 접속합니다')
 
             // Init Discord Hook
             if(distro.rawDistribution.discord != null && serv.rawServer.discord != null){
@@ -624,7 +667,7 @@ async function dlAsync(login = true) {
                     loggerLaunchSuite.info('Shutting down Discord Rich Presence..')
                     DiscordWrapper.shutdownRPC()
                     hasRPC = false
-                    proc = null
+                    // Process lifecycle is handled independently of Discord.
                 })
             }
 

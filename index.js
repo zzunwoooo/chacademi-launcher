@@ -12,6 +12,14 @@ const { pathToFileURL }                 = require('url')
 const { AZURE_CLIENT_ID, MSFT_OPCODE, MSFT_REPLY_TYPE, MSFT_ERROR, SHELL_OPCODE } = require('./app/assets/js/ipcconstants')
 const LangLoader                        = require('./app/assets/js/langloader')
 
+// Preserve the original Electron userData and updater cache identity.
+app.setPath('userData', path.join(app.getPath('appData'), 'Chacademi Launcher'))
+const ownsInstance = app.requestSingleInstanceLock()
+if(!ownsInstance){ app.quit() }
+app.on('second-instance', () => {
+    if(win){ if(win.isMinimized()){ win.restore() }; win.focus() }
+})
+
 // Setup Lang
 LangLoader.setupLanguage()
 
@@ -338,7 +346,7 @@ function getPlatformIcon(filename){
     return path.join(__dirname, 'app', 'assets', 'images', `${filename}.${ext}`)
 }
 
-app.on('ready', createWindow)
+if(ownsInstance){ app.on('ready', createWindow) }
 app.on('ready', createMenu)
 
 app.on('window-all-closed', () => {

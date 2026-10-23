@@ -23,3 +23,11 @@ config.json
 **/sodium-fingerprint.json
 
 **/__pycache__/
+
+library-transfer-current/
+
+/*.log
+/tests-result.json
+
+/build-result.json
+/release-files.json

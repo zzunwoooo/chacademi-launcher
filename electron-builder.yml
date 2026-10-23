@@ -1,5 +1,6 @@
 appId: kr.chacademi.launcher
-productName: 'Chacademi Launcher'
+productName: '차카데미 테스트 런처'
+executableName: 'Chacademi Launcher'
 artifactName: 'Chacademi-Launcher-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2018-2026 Daniel Scalzi'
@@ -8,6 +9,11 @@ asar: true
 compression: 'maximum'
 
 files:
+  - '!library-transfer-current/**'
+  - '!distribution-assets/**'
+  - '!*-result.json'
+  - '!release-files.json'
+  - '!*.log'
   - '!dist*/**'
   - '!app/assets/images/backgrounds/**'
   - '!tools/**'
@@ -30,6 +36,8 @@ win:
 
 # Windows Installer Configuration
 nsis:
+  uninstallDisplayName: '차카데미 테스트 런처'
+  shortcutName: '차카데미 테스트 런처'
   oneClick: false
   perMachine: false
   allowElevation: true

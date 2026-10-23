@@ -13,7 +13,7 @@ const modules = dist.servers[0].modules
 const policyModule = modules.find(module => module.id === Shader.MODULE_ID)
 const policyBytes = fs.readFileSync(path.resolve(__dirname, '../distribution-assets/shader-defaults-20261020/shader-defaults-20261020.json'))
 const policy = JSON.parse(policyBytes)
-const originalZip = fs.readFileSync(path.join(stage, 'inspection/ComplementaryUnbound_r5.5.1.zip'))
+const originalZip = fs.readFileSync(path.resolve(__dirname, '../distribution-assets/shader-defaults-20261020/ComplementaryUnbound_r5.5.1.zip'))
 let passed = 0
 async function scenario(name, run){ await run(); passed++; console.log('PASS:', name) }
 function fixture(){
