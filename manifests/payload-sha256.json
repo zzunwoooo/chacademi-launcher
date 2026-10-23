@@ -1,10 +1,10 @@
 {
   "sourceCommit": "d6238f3aa941d6600b701b7df07ecab463cb43ab",
   "integrationComponents": {
-    "hudSha256": "ab0c1aa3540982e3d80eb851152ec3dd2358672ea222ecdffa9d58c738c15d58",
+    "hudSha256": "1f87fa0ca84471845c957e33718eb4871a2fdfe77c9cdc6442c328093b5c680a",
     "bridgeSha256": "4fd8bc1f46025f117198d99e51bf33476e5b44e634b56b34458a9ba5b77d30c1",
     "storySha256": "6116c6b9dde2d15c50ef08140c47b161dfa8da470192e214afb0e8519d3022f4",
-    "chatSha256": "229c7cea170347fd72c9b4abc52dfdce0ff6b13ce0486528420374daff0e1c98",
+    "chatSha256": "becf3367d019084b1125f46997312683953f508ab1c9679e0a954e6d6ab56b4c",
     "motionSha256": "d4781335f9cf721525e74f833d152f58e22acd5ac19f18d423bbc8222fc220f5",
     "vfxSha256": "6088bbfd8c844512f6015eccfb496ae55bb84989c459f2834682b4f8bf24a318",
     "bridgeSha256ByServer": {
@@ -135,9 +135,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/chacademi-chat-layout-1.6.1-whisper-hud.1.jar",
-      "sha256": "229c7cea170347fd72c9b4abc52dfdce0ff6b13ce0486528420374daff0e1c98",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/chacademi-chat-layout-1.6.1-whisper-hud.1.jar",
+      "path": "mods/chacademi-chat-layout-1.6.2-whisper-tabs.1.jar",
+      "sha256": "becf3367d019084b1125f46997312683953f508ab1c9679e0a954e6d6ab56b4c",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-whisper-keyguard-20261024/chacademi-chat-layout-1.6.2-whisper-tabs.1.jar",
       "license": "GPL-3.0-only",
       "role": "chacademi_chat_layout"
     },
@@ -170,12 +170,12 @@
       "role": "mod"
     },
     {
-      "path": "mods/magic-codex-ui-0.40.3-integrated.20261023-book-startupfix-affinity.1+mc1.21.4.jar",
-      "sha256": "ab0c1aa3540982e3d80eb851152ec3dd2358672ea222ecdffa9d58c738c15d58",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.27/magic-codex-ui-0.40.3-integrated.20261023-book-startupfix-affinity.1%2Bmc1.21.4.jar",
+      "path": "mods/magic-codex-ui-0.40.3-integrated.20261023-book-startupfix-affinity.1-keyguard.1+mc1.21.4.jar",
+      "sha256": "1f87fa0ca84471845c957e33718eb4871a2fdfe77c9cdc6442c328093b5c680a",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-whisper-keyguard-20261024/magic-codex-ui-0.40.3-integrated.20261023-book-startupfix-affinity.1-keyguard.1%2Bmc1.21.4.jar",
       "license": "project-authorized client distribution",
       "role": "magiccodex",
-      "size": 332733504
+      "size": 336706318
     },
     {
       "path": "mods/player-animation-lib-fabric-2.0.5+1.21.4.jar",

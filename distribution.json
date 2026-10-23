@@ -273,14 +273,14 @@
           }
         },
         {
-          "id": "kr.chacademi:chacademi_chat_layout:1.6.1-whisper-hud.1@jar",
-          "name": "mods/chacademi-chat-layout-1.6.1-whisper-hud.1.jar",
+          "id": "kr.chacademi:chacademi_chat_layout:1.6.2-whisper-tabs.1@jar",
+          "name": "mods/chacademi-chat-layout-1.6.2-whisper-tabs.1.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 115385,
-            "MD5": "3e891ec3d46d008f12fbe0c095dcccf9",
-            "SHA256": "229c7cea170347fd72c9b4abc52dfdce0ff6b13ce0486528420374daff0e1c98",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/chacademi-chat-layout-1.6.1-whisper-hud.1.jar"
+            "size": 118861,
+            "MD5": "4d8f3993cd854446d077eb8f7540cbcd",
+            "SHA256": "becf3367d019084b1125f46997312683953f508ab1c9679e0a954e6d6ab56b4c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-whisper-keyguard-20261024/chacademi-chat-layout-1.6.2-whisper-tabs.1.jar"
           }
         },
         {
@@ -328,14 +328,14 @@
           }
         },
         {
-          "id": "kr.chacademi:magiccodex:0.40.3-integrated.20261023-book-startupfix-affinity.1+mc1.21.4@jar",
-          "name": "mods/magic-codex-ui-0.40.3-integrated.20261023-book-startupfix-affinity.1+mc1.21.4.jar",
+          "id": "kr.chacademi:magiccodex:0.40.3-integrated.20261023-book-startupfix-affinity.1-keyguard.1+mc1.21.4@jar",
+          "name": "mods/magic-codex-ui-0.40.3-integrated.20261023-book-startupfix-affinity.1-keyguard.1+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 336705924,
-            "MD5": "736fe83b3cf24c23dccf0cfc4a7684e9",
-            "SHA256": "ab0c1aa3540982e3d80eb851152ec3dd2358672ea222ecdffa9d58c738c15d58",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.27/magic-codex-ui-0.40.3-integrated.20261023-book-startupfix-affinity.1%2Bmc1.21.4.jar"
+            "size": 336706318,
+            "MD5": "8c401a4ab9510cfbc43f41b6c9ba69ad",
+            "SHA256": "1f87fa0ca84471845c957e33718eb4871a2fdfe77c9cdc6442c328093b5c680a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-whisper-keyguard-20261024/magic-codex-ui-0.40.3-integrated.20261023-book-startupfix-affinity.1-keyguard.1%2Bmc1.21.4.jar"
           }
         },
         {
