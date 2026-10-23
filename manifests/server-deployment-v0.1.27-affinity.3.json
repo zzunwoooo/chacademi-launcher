@@ -1,0 +1,35 @@
+{
+  "kind": "supplemental-server-deployment-metadata",
+  "launcherVersion": "0.1.27",
+  "launcherBinaryCommit": "f957ffac7a0716bdc5413340d8477ca6d002215b",
+  "serverSourceCommit": "efdce2a0e542a4a2ce49178b5c81d16b3981b511",
+  "serverDeploymentUTC": "2026-10-23T11:41:29.894570+00:00",
+  "evidenceFile": "final-server-deployment-result.json",
+  "evidenceSHA256": "700cb923ba565e7ec11787795649829f756e478b40518471920b2dc1082bea03",
+  "bridgeVersion": "0.31.4-integrated.20261023-affinity.3",
+  "servers": {
+    "school": {
+      "file": "magic-codex-bridge-0.31.4-integrated.20261023-affinity.3-school.jar",
+      "sha256": "2bdf1eaa13ccf1efcced987b3c7a8d23fe04b21af50e5618fa6dc51c0c7f593f",
+      "bytes": 2569432,
+      "enabledAndDoneReported": true
+    },
+    "wild": {
+      "file": "magic-codex-bridge-0.31.4-integrated.20261023-affinity.3-wild.jar",
+      "sha256": "af49f02e2aed59fbc80b6b5366d1fb39f7babd387ad1a7b6c45c7a1bd51fe829",
+      "bytes": 2567740,
+      "enabledAndDoneReported": true
+    },
+    "arena": {
+      "file": "magic-codex-bridge-0.31.4-integrated.20261023-affinity.3-arena.jar",
+      "sha256": "39efcef7c8993eb3c879dbfac9e544e09a05a75e843297683a468eb67c4badf6",
+      "bytes": 2536484,
+      "enabledAndDoneReported": true
+    }
+  },
+  "clientUIsha256": "ab0c1aa3540982e3d80eb851152ec3dd2358672ea222ecdffa9d58c738c15d58",
+  "npcSHA256": "a98a4d619e10d2b2a489d08e6abe3c769d5a39f09a6e1940acec2fdad144ff18",
+  "originalPayloadUnchanged": true,
+  "supersedesServerHashFieldsOnly": "The affinity.2 server provenance in the original payload-sha256.json records packaging time. These affinity.3 hashes describe the final server repair. Client assets and update feeds are unchanged.",
+  "realGameQA": false
+}
