@@ -3,7 +3,7 @@ const path = require('path')
 const crypto = require('crypto')
 const retirement = require('./story-retirement.json').retired
 const PACK = 'resourcepacks/chacademia-integrated-20261023.zip'
-const HASH = 'b06819c390a1000149efab847eee1182403343db4ec9c3c8b907d2bb96fad0fd'
+const HASH = 'b02c3f75e467ad06a661d4c7590be5ae4e20c83565773c3ee96513ac307e921b'
 const sha = bytes => crypto.createHash('sha256').update(bytes).digest('hex')
 function target(root, relative){
     if(relative.includes('\\') || relative.includes(':') || relative.split('/').some(p => !p || p === '.' || p === '..')){ throw new Error('Unsafe integrated content path') }

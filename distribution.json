@@ -328,14 +328,14 @@
           }
         },
         {
-          "id": "kr.chacademi:magiccodex:0.40.3-integrated.20261023-hudpresets-search-hires.1+mc1.21.4@jar",
-          "name": "mods/magic-codex-ui-0.40.3-integrated.20261023-hudpresets-search-hires.1+mc1.21.4.jar",
+          "id": "kr.chacademi:magiccodex:0.40.3-integrated.20261023-hudpresets-search-hires.2+mc1.21.4@jar",
+          "name": "mods/magic-codex-ui-0.40.3-integrated.20261023-hudpresets-search-hires.2+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 334933920,
-            "MD5": "e32ef6ce8a3cbcd10257a9afc6fe3f6b",
-            "SHA256": "c58b2bde6508e439b6b8e010839c84e7042ee81b4c394f033cce221a3d426fb7",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/magic-codex-ui-0.40.3-integrated.20261023-hudpresets-search-hires.1%2Bmc1.21.4.jar"
+            "size": 334934160,
+            "MD5": "80e4ed2855d3e00dac17086b2f0a0a66",
+            "SHA256": "ea4fa24edc1f9c450a45440eae99eb34f0e180bc8b8f740fb3f9736b273fae37",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/magic-codex-ui-0.40.3-integrated.20261023-hudpresets-search-hires.2%2Bmc1.21.4.jar"
           }
         },
         {
@@ -350,14 +350,14 @@
           }
         },
         {
-          "id": "kr.chacademi:portablevfx:3.2.4-drop-rarity.1@jar",
-          "name": "mods/portable-vfx-client-3.2.4-drop-rarity.1.jar",
+          "id": "kr.chacademi:portablevfx:3.2.4-drop-rarity.1-warmup.1@jar",
+          "name": "mods/portable-vfx-client-3.2.4-drop-rarity.1-warmup.1.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 419972,
-            "MD5": "dc4dbe340e728af68ed8658e35c1e30c",
-            "SHA256": "8f615ec14443e72a6a67070414964910b1de73fa5e2b548b60a870aca9143733",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/portable-vfx-client-3.2.4-drop-rarity.1.jar"
+            "size": 433164,
+            "MD5": "4ba66450238401768865c721c27cc485",
+            "SHA256": "6088bbfd8c844512f6015eccfb496ae55bb84989c459f2834682b4f8bf24a318",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/portable-vfx-client-3.2.4-drop-rarity.1-warmup.1.jar"
           }
         },
         {
@@ -587,8 +587,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 931207,
-            "MD5": "ba6a329315e684ffbaae1c76d650a614",
-            "SHA256": "2822a498cf382e91992747f7028bda22dcef0981f93a170ead05efb38be36f6d",
+            "MD5": "f78935e76e69747155c0e7f405b39bf2",
+            "SHA256": "6116c6b9dde2d15c50ef08140c47b161dfa8da470192e214afb0e8519d3022f4",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/chacademy-story-0.1.4-quest.5-ch1.1-serverdialogue-hud.1.jar"
           }
         },
@@ -1422,9 +1422,9 @@
           "type": "File",
           "artifact": {
             "path": "resourcepacks/chacademia-integrated-20261023.zip",
-            "size": 41230770,
-            "MD5": "89777586e50ad6e2f44402012ecc7300",
-            "SHA256": "b06819c390a1000149efab847eee1182403343db4ec9c3c8b907d2bb96fad0fd",
+            "size": 81459077,
+            "MD5": "e2a2572c4f2a16032ad5cbe0b45672ba",
+            "SHA256": "b02c3f75e467ad06a661d4c7590be5ae4e20c83565773c3ee96513ac307e921b",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/chacademia-integrated-20261023.zip"
           },
           "updatePolicy": "managed"

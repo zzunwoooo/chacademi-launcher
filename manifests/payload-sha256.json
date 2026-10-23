@@ -1,16 +1,16 @@
 {
-  "sourceCommit": "9a27de2ec7201762b453ee3ab70fc4dd6dee4eea",
+  "sourceCommit": "af1ed3ec297f2d0630a4b416adb41c658ec0dff5",
   "integrationComponents": {
-    "hudSha256": "c58b2bde6508e439b6b8e010839c84e7042ee81b4c394f033cce221a3d426fb7",
-    "bridgeSha256": "43a4b22a4ddc189cb5879f1c49e84746ce1723bdb7ab157f5067462514641ff6",
-    "storySha256": "2822a498cf382e91992747f7028bda22dcef0981f93a170ead05efb38be36f6d",
+    "hudSha256": "ea4fa24edc1f9c450a45440eae99eb34f0e180bc8b8f740fb3f9736b273fae37",
+    "bridgeSha256": "a693cec4c7b1b7692c30f93ee7f21be84ec67f8b070654c68009c4459279708a",
+    "storySha256": "6116c6b9dde2d15c50ef08140c47b161dfa8da470192e214afb0e8519d3022f4",
     "chatSha256": "229c7cea170347fd72c9b4abc52dfdce0ff6b13ce0486528420374daff0e1c98",
     "motionSha256": "d4781335f9cf721525e74f833d152f58e22acd5ac19f18d423bbc8222fc220f5",
-    "vfxSha256": "8f615ec14443e72a6a67070414964910b1de73fa5e2b548b60a870aca9143733",
+    "vfxSha256": "6088bbfd8c844512f6015eccfb496ae55bb84989c459f2834682b4f8bf24a318",
     "bridgeSha256ByServer": {
-      "school": "43a4b22a4ddc189cb5879f1c49e84746ce1723bdb7ab157f5067462514641ff6",
-      "wild": "1943191f54659f4d7cd32914233e1f9a67d63662750a50f2571bd6778cfc1718",
-      "arena": "32af7c4dcfe8d35bcc806cc4f9eda42ec168d0774cd418b3fbf52ce24596dfe2"
+      "school": "a693cec4c7b1b7692c30f93ee7f21be84ec67f8b070654c68009c4459279708a",
+      "wild": "9fcfdce52af7a040b7d9e21a5dd5939b100d6848fef53c8266b7e4dddbb055c1",
+      "arena": "63938bb6a31d41d873a5506b36fbb4efeddb369af032e4fa381777b0f862141f"
     }
   },
   "backgroundMode": "final-library-image",
@@ -144,9 +144,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/magic-codex-ui-0.40.3-integrated.20261023-hudpresets-search-hires.1+mc1.21.4.jar",
-      "sha256": "c58b2bde6508e439b6b8e010839c84e7042ee81b4c394f033cce221a3d426fb7",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/magic-codex-ui-0.40.3-integrated.20261023-hudpresets-search-hires.1%2Bmc1.21.4.jar",
+      "path": "mods/magic-codex-ui-0.40.3-integrated.20261023-hudpresets-search-hires.2+mc1.21.4.jar",
+      "sha256": "ea4fa24edc1f9c450a45440eae99eb34f0e180bc8b8f740fb3f9736b273fae37",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/magic-codex-ui-0.40.3-integrated.20261023-hudpresets-search-hires.2%2Bmc1.21.4.jar",
       "license": "project-authorized client distribution",
       "role": "magiccodex",
       "size": 332733504
@@ -159,9 +159,9 @@
       "role": "mod"
     },
     {
-      "path": "mods/portable-vfx-client-3.2.4-drop-rarity.1.jar",
-      "sha256": "8f615ec14443e72a6a67070414964910b1de73fa5e2b548b60a870aca9143733",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/portable-vfx-client-3.2.4-drop-rarity.1.jar",
+      "path": "mods/portable-vfx-client-3.2.4-drop-rarity.1-warmup.1.jar",
+      "sha256": "6088bbfd8c844512f6015eccfb496ae55bb84989c459f2834682b4f8bf24a318",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/portable-vfx-client-3.2.4-drop-rarity.1-warmup.1.jar",
       "license": "project-authorized client distribution",
       "role": "portablevfx",
       "size": 419972
@@ -287,7 +287,7 @@
     },
     {
       "path": "mods/chacademy-story-0.1.4-quest.5-ch1.1-serverdialogue-hud.1.jar",
-      "sha256": "2822a498cf382e91992747f7028bda22dcef0981f93a170ead05efb38be36f6d",
+      "sha256": "6116c6b9dde2d15c50ef08140c47b161dfa8da470192e214afb0e8519d3022f4",
       "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/chacademy-story-0.1.4-quest.5-ch1.1-serverdialogue-hud.1.jar",
       "license": "All-Rights-Reserved; user-authorized public launcher distribution; paid font excluded",
       "role": "mod",
@@ -814,7 +814,7 @@
     },
     {
       "path": "resourcepacks/chacademia-integrated-20261023.zip",
-      "sha256": "b06819c390a1000149efab847eee1182403343db4ec9c3c8b907d2bb96fad0fd",
+      "sha256": "b02c3f75e467ad06a661d4c7590be5ae4e20c83565773c3ee96513ac307e921b",
       "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/chacademia-integrated-20261023.zip",
       "role": "resourcepack",
       "license": "server managed"
