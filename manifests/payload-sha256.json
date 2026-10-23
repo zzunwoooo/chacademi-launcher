@@ -504,9 +504,9 @@
     },
     {
       "path": "chacademi/npc-models/models.json",
-      "sha256": "b384712da3b0f98c61b6b95493181bc7d55d0f558de8438eb418d8a35606aca9",
-      "size": 3373,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-wizard-statue-20261022-task7/models.json",
+      "sha256": "2440b2ba490da747050ca64db2497ca13b7e6412c84b40489cc2bbad3eb11c92",
+      "size": 2375,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-ratio-revert-20261023/models.json",
       "license": "Chacademi project asset",
       "role": "npc-model"
     },
