@@ -3,7 +3,6 @@ const path = require('path')
 const crypto = require('crypto')
 const retirement = require('./story-retirement.json').retired
 const PACK = 'resourcepacks/chacademia-integrated-20261023.zip'
-const HASH = 'b02c3f75e467ad06a661d4c7590be5ae4e20c83565773c3ee96513ac307e921b'
 const sha = bytes => crypto.createHash('sha256').update(bytes).digest('hex')
 function target(root, relative){
     if(relative.includes('\\') || relative.includes(':') || relative.split('/').some(p => !p || p === '.' || p === '..')){ throw new Error('Unsafe integrated content path') }
@@ -19,9 +18,18 @@ function target(root, relative){
 }
 exports.prepare = function(gameDir, modules){
     const root = path.resolve(gameDir)
-    const matches = modules.filter(m => m.id === path.basename(PACK))
-    if(matches.length !== 1 || matches[0].artifact.path !== PACK || matches[0].artifact.SHA256 !== HASH){ throw new Error('Missing integrated pack contract') }
-    if(sha(fs.readFileSync(target(root, PACK))) !== HASH){ throw new Error('Integrated pack hash mismatch') }
+    if(!Array.isArray(modules)){ throw new Error('Missing integrated pack contract') }
+    const matches = modules.filter(m => m && m.id === path.basename(PACK))
+    if(matches.length !== 1){ throw new Error('Missing integrated pack contract') }
+    const module = matches[0], artifact = module.artifact
+    // The selected distribution declares the version; the install path stays fixed.
+    if(module.name !== PACK || !artifact || artifact.path !== PACK ||
+        typeof artifact.SHA256 !== 'string' || !/^[a-f0-9]{64}$/.test(artifact.SHA256) ||
+        !Number.isSafeInteger(artifact.size) || artifact.size <= 0){
+        throw new Error('Missing integrated pack contract')
+    }
+    const bytes = fs.readFileSync(target(root, PACK))
+    if(bytes.length !== artifact.size || sha(bytes) !== artifact.SHA256){ throw new Error('Integrated pack hash mismatch') }
     const optionFile = target(root, 'options.txt')
     const original = fs.existsSync(optionFile) ? fs.readFileSync(optionFile, 'utf8') : ''
     const lines = original.split(/\r?\n/)
