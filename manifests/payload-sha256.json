@@ -1,16 +1,16 @@
 {
   "sourceCommit": "d6238f3aa941d6600b701b7df07ecab463cb43ab",
   "integrationComponents": {
-    "hudSha256": "064fd89b086846948fe9c126bd8346e7735958c33270806b55daa39812f08e37",
-    "bridgeSha256": "df3d3e6355471b64bb3f121ba1b7d6f175132431857e222e7146136f5f4bd699",
+    "hudSha256": "9e22f1e1161fd67d1f8cf28b0df8cff32494345ecfe48f3d8a21c4419ea6dbdc",
+    "bridgeSha256": "20679f928c3266de5259ad2028d45b42b88c271fcb20e33c5cae15163ff7d6fb",
     "storySha256": "feaf0eada6b9a474e8b9a83621b6c286720d3d073c0680c476d93cff5da45c1f",
     "chatSha256": "6648a692390c36ea1e0df01164bc39f7ec306048b477213eff9e88e43f92629e",
     "motionSha256": "d4781335f9cf721525e74f833d152f58e22acd5ac19f18d423bbc8222fc220f5",
     "vfxSha256": "6088bbfd8c844512f6015eccfb496ae55bb84989c459f2834682b4f8bf24a318",
     "bridgeSha256ByServer": {
-      "school": "df3d3e6355471b64bb3f121ba1b7d6f175132431857e222e7146136f5f4bd699",
-      "wild": "cf3e320271d06e2d0e6b8212f0f359e8fb8ae758b3d66f4956aa01bac803ec66",
-      "arena": "ead483fdb7c5c43eeed4627327a1a5cc7d525d88c6bce0edb435047ef2d722da"
+      "school": "20679f928c3266de5259ad2028d45b42b88c271fcb20e33c5cae15163ff7d6fb",
+      "wild": "3ca64c52377170ca87e1201f4c51da220de56daaadae93cb758fd9ce787a2311",
+      "arena": "333cb54fba161ca81c40fe36b9e6a6b9970bdc88c381488410df587b0b407694"
     },
     "uiPackagingHotfix": {
       "baseUIsha256": "fc09cc5ef816171cceca9f3d3225e82d5a07ace23abb628ac47e34980e16f8ce",
@@ -70,6 +70,15 @@
       "serverChanged": false,
       "personalChanged": false,
       "sourceCommit": "bba8d5399af59d15dba2324674f34e64b54ac82e"
+    },
+    "sharedBagTravelOffGimmickTask9": {
+      "sourceCommit": "7d8ec6e1d1e7aa1d9539b799a4149020cb229bdf",
+      "gimmickSHA256": "f12f4877827a3ac99df0ac9e776fb66ba27181afe00701b4354c89d0e5f1d9b1",
+      "personalChanged": false,
+      "axiomIncluded": false,
+      "brownPackIncluded": false,
+      "expansionTicketDefined": false,
+      "gameTested": false
     }
   },
   "backgroundMode": "final-library-image",
@@ -814,14 +823,6 @@
       "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__vfx.json"
     },
     {
-      "path": "mods/magic-codex-ui-hudreset-20261024+mc1.21.4.jar",
-      "sha256": "064fd89b086846948fe9c126bd8346e7735958c33270806b55daa39812f08e37",
-      "size": 342302810,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-hud-reset-magickeys-20261024-task9/magic-codex-ui-hudreset-20261024%2Bmc1.21.4.jar",
-      "role": "mod",
-      "license": "project-authorized client distribution"
-    },
-    {
       "path": "mods/chacademy-story-final-guide-20261024.jar",
       "sha256": "feaf0eada6b9a474e8b9a83621b6c286720d3d073c0680c476d93cff5da45c1f",
       "size": 959491,
@@ -860,6 +861,150 @@
       "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/options.txt",
       "role": "config",
       "license": "project-authorized client distribution"
+    },
+    {
+      "path": "mods/magic-codex-ui-integrated-20261024+mc1.21.4.jar",
+      "sha256": "9e22f1e1161fd67d1f8cf28b0df8cff32494345ecfe48f3d8a21c4419ea6dbdc",
+      "size": 368200716,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/magic-codex-ui-integrated-20261024%2Bmc1.21.4.jar",
+      "role": "mod",
+      "license": "project-authorized client distribution"
+    },
+    {
+      "path": "config/portablevfx/effects/WaypointGlobe/NOTES.md",
+      "sha256": "5d8941fd7ac4b213903c2fd9a1b6368cb816f43d99e31c14674a2b4950f95040",
+      "size": 1109,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__NOTES.md",
+      "license": "project-authorized client distribution",
+      "role": "vfx-effect"
+    },
+    {
+      "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Beam.png",
+      "sha256": "da65260d4cb01158f10d1816e2f29b68886ea8636e228f30c01819ad04b2fd88",
+      "size": 6333,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Beam.png",
+      "license": "project-authorized client distribution",
+      "role": "vfx-effect"
+    },
+    {
+      "path": "config/portablevfx/effects/WaypointGlobe/textures/T_DarkMist.png",
+      "sha256": "55caa2155c8f048ad5f991eb513b079998333537adb0fcd0b5eed687c08c18d4",
+      "size": 15425,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_DarkMist.png",
+      "license": "project-authorized client distribution",
+      "role": "vfx-effect"
+    },
+    {
+      "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Dash.png",
+      "sha256": "5c3a109888d3f4778f66f13def723f1c771e666a72281049afbf19671373f12f",
+      "size": 2888,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Dash.png",
+      "license": "project-authorized client distribution",
+      "role": "vfx-effect"
+    },
+    {
+      "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Dot.png",
+      "sha256": "38f31aeaff5c0bde601f41842843cfcc8d13c7c0976913ca8909d56293c37341",
+      "size": 1244,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Dot.png",
+      "license": "project-authorized client distribution",
+      "role": "vfx-effect"
+    },
+    {
+      "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Glow.png",
+      "sha256": "e1e2b607ff15171631afd178ad3ae8176f49d5a8664674ab7df078eb159fa924",
+      "size": 4770,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Glow.png",
+      "license": "project-authorized client distribution",
+      "role": "vfx-effect"
+    },
+    {
+      "path": "config/portablevfx/effects/WaypointGlobe/textures/T_LineC.png",
+      "sha256": "4bf6ddc286134dc8cb3db4338218ae64e8cae8b3212c4fe9a9655f7c0110ea60",
+      "size": 288,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_LineC.png",
+      "license": "project-authorized client distribution",
+      "role": "vfx-effect"
+    },
+    {
+      "path": "config/portablevfx/effects/WaypointGlobe/textures/T_LineG.png",
+      "sha256": "07eac3708a868ddbbcee2b46756e6496f5e41ffc63f55a730742f4887e06adb1",
+      "size": 293,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_LineG.png",
+      "license": "project-authorized client distribution",
+      "role": "vfx-effect"
+    },
+    {
+      "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Orb.png",
+      "sha256": "f2c9048342f69f6e1766afce142b16d6a53d9287a0d018a9b5c92e9085ffdf6a",
+      "size": 38313,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Orb.png",
+      "license": "project-authorized client distribution",
+      "role": "vfx-effect"
+    },
+    {
+      "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Ring.png",
+      "sha256": "7305e6581d975c08af1c975666cf2eb3e4579f04220347f441fe8151677d399f",
+      "size": 42309,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Ring.png",
+      "license": "project-authorized client distribution",
+      "role": "vfx-effect"
+    },
+    {
+      "path": "config/portablevfx/effects/WaypointGlobe/textures/T_RuneStrip.png",
+      "sha256": "d8cdc49747d845c33282125e145643865e1e48eb0614d2075a4453eba6d8cfda",
+      "size": 38808,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_RuneStrip.png",
+      "license": "project-authorized client distribution",
+      "role": "vfx-effect"
+    },
+    {
+      "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Shard.png",
+      "sha256": "ce95e0c8f46733cd407c00acb0b762b5a157d8ec2e2761b9e3d1d26a00a13e42",
+      "size": 5062,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Shard.png",
+      "license": "project-authorized client distribution",
+      "role": "vfx-effect"
+    },
+    {
+      "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Sigil.png",
+      "sha256": "5409718a2c3a8529ae98cc3fe8a995971e78753e42d9cb2c12d5f212cd2b1ffe",
+      "size": 128412,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Sigil.png",
+      "license": "project-authorized client distribution",
+      "role": "vfx-effect"
+    },
+    {
+      "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Star4.png",
+      "sha256": "b61fcf8770292107fe9eeacb23669b9402e2689f44462df6d693dcd31c17a8dd",
+      "size": 6859,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Star4.png",
+      "license": "project-authorized client distribution",
+      "role": "vfx-effect"
+    },
+    {
+      "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Streak.png",
+      "sha256": "9852b6bcab3d4225a67a07ea876c77f1c7e4559a52ddd30dfa80703055c54ea3",
+      "size": 1559,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Streak.png",
+      "license": "project-authorized client distribution",
+      "role": "vfx-effect"
+    },
+    {
+      "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Trail.png",
+      "sha256": "7673a6832ef16058cbc24455006d580b6f060011509dd4a0ffe534850415c617",
+      "size": 2126,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Trail.png",
+      "license": "project-authorized client distribution",
+      "role": "vfx-effect"
+    },
+    {
+      "path": "config/portablevfx/effects/WaypointGlobe/vfx.json",
+      "sha256": "0bdc1a06d31e4b8d96caf0dfeb4b11a77e5f0388b8843092156a21159718d9c2",
+      "size": 1011839,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__vfx.json",
+      "license": "project-authorized client distribution",
+      "role": "vfx-effect"
     }
   ],
   "bc7SourceCommit": "b0a50cdc52d43dbc36197fc3285ddf6e726a9b7b",

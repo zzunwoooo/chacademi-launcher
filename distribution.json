@@ -1,1402 +1,1606 @@
 {
-  "version": "1.0.0",
-  "rss": null,
-  "servers": [
-    {
-      "id": "launcher_v2-1.21.4",
-      "name": "차카데미",
-      "description": "Minecraft 1.21.4 (Fabric v0.18.4)",
-      "icon": "https://github.com/mchdistro/zzunwoo/raw/main/server-icon.png",
-      "version": "1.0.0",
-      "address": "스트리머.온라인.한국",
-      "minecraftVersion": "1.21.4",
-      "mainServer": true,
-      "autoconnect": true,
-      "javaOptions": {
-        "supported": "=>21",
-        "suggestedMajor": 21,
-        "platformOptions": [
-          {
-            "platform": "win32",
-            "architecture": "x64",
-            "distribution": "TEMURIN"
-          }
-        ],
-        "ram": {
-          "minimum": 4096,
-          "recommended": 8192
+    "version": "1.0.0",
+    "rss": null,
+    "servers": [
+        {
+            "id": "launcher_v2-1.21.4",
+            "name": "차카데미",
+            "description": "Minecraft 1.21.4 (Fabric v0.18.4)",
+            "icon": "https://github.com/mchdistro/zzunwoo/raw/main/server-icon.png",
+            "version": "1.0.0",
+            "address": "스트리머.온라인.한국",
+            "minecraftVersion": "1.21.4",
+            "mainServer": true,
+            "autoconnect": true,
+            "javaOptions": {
+                "supported": "=>21",
+                "suggestedMajor": 21,
+                "platformOptions": [
+                    {
+                        "platform": "win32",
+                        "architecture": "x64",
+                        "distribution": "TEMURIN"
+                    }
+                ],
+                "ram": {
+                    "minimum": 4096,
+                    "recommended": 8192
+                }
+            },
+            "modules": [
+                {
+                    "id": "net.fabricmc:fabric-loader:0.18.4",
+                    "name": "Fabric Loader",
+                    "type": "Fabric",
+                    "artifact": {
+                        "size": 1944518,
+                        "MD5": "56c00fa22e0452e8567be1feae73c3b9",
+                        "SHA256": "ea300b841949a290641db8c137e3da205462a089a7472d8f1657179fd23bcf4a",
+                        "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar"
+                    },
+                    "subModules": [
+                        {
+                            "id": "fabric-loader-0.18.4-1.21.4",
+                            "name": "Official Fabric profile",
+                            "type": "VersionManifest",
+                            "artifact": {
+                                "size": 2847,
+                                "MD5": "791082c6894fc413cd49d8ee987d4bab",
+                                "SHA256": "977110a9c838e3062845d29a68dba9ef0623ae730d5640cdb05e0ee4a7b49426",
+                                "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.4/0.18.4/profile/json"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm:9.9",
+                            "name": "asm",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 126122,
+                                "MD5": "6d1dd0482c03a6dc1807d9d004456021",
+                                "SHA256": "03d99a74ad1ee5c71334ef67437f4ef4fe3488caa7c96d8645abc73c8e2017d4",
+                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm/9.9/asm-9.9.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-analysis:9.9",
+                            "name": "asm-analysis",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 35149,
+                                "MD5": "f07383cfbd50f097558341a03b8871e1",
+                                "SHA256": "6a15d28e8bd29ba4fd5bca4baf9b50e8fba2d7b51fbf78cfa0c875a7214c678b",
+                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-commons:9.9",
+                            "name": "asm-commons",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 74348,
+                                "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
+                                "SHA256": "db2f6f26150bbe7c126606b4a1151836bcc22a1e05a423b3585698bece995ff8",
+                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-tree:9.9",
+                            "name": "asm-tree",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 51947,
+                                "MD5": "912eeaba1a63d574ffc66c651c7c6725",
+                                "SHA256": "42178f3775c9c63f9e5e1446747d29b4eca4d91bd6e75e5c43cfa372a47d38c6",
+                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-util:9.9",
+                            "name": "asm-util",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 94565,
+                                "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
+                                "SHA256": "3842e13cfe324ee9ab7cdc4914be9943541ead397c17e26daf0b8a755bede717",
+                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+                            }
+                        },
+                        {
+                            "id": "net.fabricmc:sponge-mixin:0.17.0+mixin.0.8.7",
+                            "name": "sponge-mixin",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 1505269,
+                                "MD5": "d27dcb910788a0bd4bea72942a714093",
+                                "SHA256": "e7889fcd185e4199052dcbcf0fe2128581cbf8630aea7feb37429667b1ba49a9",
+                                "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar"
+                            }
+                        },
+                        {
+                            "id": "net.fabricmc:intermediary:1.21.4",
+                            "name": "intermediary",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 701826,
+                                "MD5": "d0f4187a62328d4a95f3428434efbd48",
+                                "SHA256": "6aea9971d72e14f03f2c167ee2c24edd5eb0a59fc3eaedcbdf5c2ad0f0c36786",
+                                "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "org.modrinth:nochatreports:1.21.4-v2.11.0@jar",
+                    "name": "mods/nochatreports-1.21.4-v2.11.0.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 321286,
+                        "MD5": "47bd3acbbaaf09dae1c5142dc5b3f41c",
+                        "SHA256": "d633096f0e702ff3f0b0d4841ece0c1c9a63caf3d585b8623f9f5d9d74502702",
+                        "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/9xt05630/NoChatReports-FABRIC-1.21.4-v2.11.0.jar"
+                    }
+                },
+                {
+                    "id": "org.modrinth:koreanpatch:1.8.5+mc1.21.3@jar",
+                    "name": "mods/koreanpatch-1.8.5+mc1.21.3.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 578977,
+                        "MD5": "fcf0f59c7f45c751af04527080bc4e28",
+                        "SHA256": "f9a68b4f43d7ec9ba26cd9e0219b43d36b5e2265f9f850e844d3decd708c8e03",
+                        "url": "https://cdn.modrinth.com/data/qyulnpBL/versions/Bch8tAuW/koreanpatch-fabric-1.8.5%2Bmc1.21.3.jar"
+                    }
+                },
+                {
+                    "id": "org.modrinth:fabric-api:0.119.4+1.21.4@jar",
+                    "name": "mods/fabric-api-0.119.4+1.21.4.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2149128,
+                        "MD5": "128a8d042180e7c92567342e21a21a6d",
+                        "SHA256": "d183bacb845167f09264c2f90322b7ecffe8826debda6f60e597889264bef4af",
+                        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/p96k10UR/fabric-api-0.119.4%2B1.21.4.jar"
+                    }
+                },
+                {
+                    "id": "org.modrinth:iris:1.8.8+mc1.21.4@jar",
+                    "name": "mods/iris-1.8.8+mc1.21.4.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2682702,
+                        "MD5": "59d373e4874efbcb8fb426bdefa588d9",
+                        "SHA256": "70571b23d4de17ae380515fb4c9dadd82d96f7ec1b573553858a07bb80445da9",
+                        "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/Ca054sTe/iris-fabric-1.8.8%2Bmc1.21.4.jar"
+                    }
+                },
+                {
+                    "id": "org.modrinth:blurserveraddress:1.2.0+mc1.21.2@jar",
+                    "name": "mods/blurserveraddress-1.2.0+mc1.21.2.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 11418,
+                        "MD5": "1294fe12bfc2d2dbe8e4541c27873fd2",
+                        "SHA256": "a140283e286dde01b36c30f92a734bd6397e1548d5a11d9aa09a27e332afbe2a",
+                        "url": "https://cdn.modrinth.com/data/559boQnq/versions/VPin7VZe/blurserveraddress-fabric-1.2.0%2Bmc1.21.2.jar"
+                    }
+                },
+                {
+                    "id": "org.modrinth:authme:9.0.1+1.21.4@jar",
+                    "name": "mods/authme-9.0.1+1.21.4.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 376047,
+                        "MD5": "3c220399e5c34dae32224818c7acaa6c",
+                        "SHA256": "848eaae8ae84b2e3b567df05454d532ece707fa4754addf12d632afee3f645d3",
+                        "url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/DfEuMvQ6/authme-fabric-9.0.1%2B1.21.4.jar"
+                    }
+                },
+                {
+                    "id": "org.modrinth:sodium:0.6.13+mc1.21.4@jar",
+                    "name": "mods/sodium-0.6.13+mc1.21.4.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1306799,
+                        "MD5": "28922a78d1876ee062e3265f10abcc46",
+                        "SHA256": "92b79623fc00f0f948005a0ae416cb42a51646f2423b4036e27e867e4001a47e",
+                        "url": "https://cdn.modrinth.com/data/AANobbMI/versions/c3YkZvne/sodium-fabric-0.6.13%2Bmc1.21.4.jar"
+                    }
+                },
+                {
+                    "id": "net.wurstclient.zoom:wi_zoom:1.6-MC1.21.4@jar",
+                    "name": "mods/wi_zoom-1.6-MC1.21.4.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 154830,
+                        "MD5": "1062016a1608823555c1bf16fafeb6cd",
+                        "SHA256": "5cf262672de0159afec5ade4433d1cbe5efba2a1944cc10399a7c30efbde73a5",
+                        "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/launcher_v2-1.21.4/fabricmods/required/WI-Zoom-1.6-MC1.21.4.jar"
+                    }
+                },
+                {
+                    "id": "org.modrinth:plasmovoice:2.1.5@jar",
+                    "name": "mods/plasmovoice-2.1.5.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 12191569,
+                        "MD5": "dde3cf502defa8513b1fb98afbc2dd11",
+                        "SHA256": "12f670957dfe838747fce1582b84e8eb70b11556693e27d0ce4dfd8eea539d03",
+                        "url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/vBm1h2pZ/plasmovoice-fabric-1.21.4-2.1.5.jar"
+                    }
+                },
+                {
+                    "id": "org.modrinth:architectury:15.0.3@jar",
+                    "name": "mods/architectury-15.0.3-fabric.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 589645,
+                        "MD5": "29796a5960d833cf95d6f46668c13d55",
+                        "SHA256": "9e11f81ee786401a26de486a9798687559a5329fec3cd415e94fa3c3958352f3",
+                        "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/73nlw3WM/architectury-15.0.3-fabric.jar"
+                    }
+                },
+                {
+                    "id": "kr.chacademi:chacademi_chat_layout:1.6.3-ctrlshift.1@jar",
+                    "name": "mods/chacademi-chat-layout-1.6.3-ctrlshift.1.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 124127,
+                        "MD5": "1a5bbfdcc0953859fe5456cfd6cb6baf",
+                        "SHA256": "6648a692390c36ea1e0df01164bc39f7ec306048b477213eff9e88e43f92629e",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/chacademi-chat-layout-1.6.3-ctrlshift.1.jar"
+                    }
+                },
+                {
+                    "id": "kr.chacademi:chacademy_motion:0.3.1-integrated-20261018.1-followups.1@jar",
+                    "name": "mods/chacademy-motion-0.3.1-integrated-20261018.1-followups.1.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1986083,
+                        "MD5": "f00464fd2bc07f946867415be1401464",
+                        "SHA256": "a732d523843c3efaf5994155736f146d222aac4f00bfa6610e73fc6f0e675321",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-followups-20261020/chacademy-motion-0.3.1-integrated-20261018.1-followups.1.jar"
+                    }
+                },
+                {
+                    "id": "org.modrinth:chatplus:2.8.1@jar",
+                    "name": "mods/chatplus-fabric-2.8.1.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 26907867,
+                        "MD5": "b3b0ff00e23c339f939d44ff1bf8a9d8",
+                        "SHA256": "8f8509ad9e1c1a52a0efe38c507bfbb710235e2f4d66412ead001d7da7479f9b",
+                        "url": "https://cdn.modrinth.com/data/cJlZ132G/versions/87l7ajmu/chatplus-fabric-2.8.1.jar"
+                    }
+                },
+                {
+                    "id": "org.modrinth:fabric-language-kotlin:1.13.6+kotlin.2.2.20@jar",
+                    "name": "mods/fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 7479598,
+                        "MD5": "c1d19e5d8b325b55c11c767468005aa2",
+                        "SHA256": "62c2773380fae0ce5cd01e6cfbdc34f6a2d42fd0734e5996e261bf7d8bf12ce3",
+                        "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/i6MmXDwA/fabric-language-kotlin-1.13.6%2Bkotlin.2.2.20.jar"
+                    }
+                },
+                {
+                    "id": "org.modrinth:forgeconfigapiport:21.4.3@jar",
+                    "name": "mods/ForgeConfigAPIPort-v21.4.3-1.21.4-Fabric.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 644183,
+                        "MD5": "dbda05e27f5b2710d991196c66261df1",
+                        "SHA256": "4e1c10e96a1a7f80bd988823f151db0da7eb073cf825c1d9ca3140013a638b10",
+                        "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/SSKF75hc/ForgeConfigAPIPort-v21.4.3-1.21.4-Fabric.jar"
+                    }
+                },
+                {
+                    "id": "kr.chacademi:magiccodex:0.40.7-sharedbag.travel.off.icons.20261024+mc1.21.4@jar",
+                    "name": "mods/magic-codex-ui-integrated-20261024+mc1.21.4.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 368200716,
+                        "MD5": "f17c673ba14d87d80c07a8f606ff0f11",
+                        "SHA256": "9e22f1e1161fd67d1f8cf28b0df8cff32494345ecfe48f3d8a21c4419ea6dbdc",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/magic-codex-ui-integrated-20261024%2Bmc1.21.4.jar"
+                    }
+                },
+                {
+                    "id": "org.modrinth:playeranimator:2.0.5+1.21.4@jar",
+                    "name": "mods/player-animation-lib-fabric-2.0.5+1.21.4.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 202859,
+                        "MD5": "4298800d4a528daa4df8135b1a37721d",
+                        "SHA256": "3be94302d070f01222ada581def30a6aad142f36ef83890db5499715aea720d9",
+                        "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/ZTeZ33xQ/player-animation-lib-fabric-2.0.5%2B1.21.4.jar"
+                    }
+                },
+                {
+                    "id": "kr.chacademi:portablevfx:3.2.4-drop-rarity.1-warmup.1@jar",
+                    "name": "mods/portable-vfx-client-3.2.4-drop-rarity.1-warmup.1.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 433164,
+                        "MD5": "4ba66450238401768865c721c27cc485",
+                        "SHA256": "6088bbfd8c844512f6015eccfb496ae55bb84989c459f2834682b4f8bf24a318",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/portable-vfx-client-3.2.4-drop-rarity.1-warmup.1.jar"
+                    }
+                },
+                {
+                    "id": "chacademi-pet-models.zip",
+                    "name": "config/magiccodex/pets/pets-models.zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 12102506,
+                        "MD5": "227e1567f6785cf53d77cacd7c1736f7",
+                        "SHA256": "b96250e19438ea24e20cb1d4612d4636428a0f1a2af0e08789766d541f940fe1",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/pets-models.zip",
+                        "path": "config/magiccodex/pets/pets-models.zip"
+                    }
+                },
+                {
+                    "id": "chacademi-client-assets.zip",
+                    "name": "config/magiccodex/launcher/client-assets.zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 752775023,
+                        "MD5": "9f7403500c5a1524fa79264671d0938b",
+                        "SHA256": "87f00418c642a2942cfd3df72f1ac419fcd44b5d57a0b5669a64330a7e2268c8",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.21/client-assets-manifest-fix-20261020.zip",
+                        "path": "config/magiccodex/launcher/client-assets.zip"
+                    },
+                    "updatePolicy": "managed"
+                },
+                {
+                    "id": "shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+                    "name": "shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 456332,
+                        "MD5": "576ef06da170458879f3a03e685d487a",
+                        "SHA256": "61d133b24b6a92e46a3d7df791bb2ff163bbba10eed59df979b9bd727c24fbaf",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/ComplementaryUnbound_r5.5.1.zip",
+                        "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
+                    }
+                },
+                {
+                    "id": "config/chacademi-chat-layout.json",
+                    "name": "config/chacademi-chat-layout.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 480,
+                        "MD5": "18bc20fe562b803d8eb9c515d2e7aa4d",
+                        "SHA256": "a65f51edcbbe2e8729f01b94957e403c3f8667117cbafa5e7a25912b1d34d29b",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/chacademi-chat-layout.json",
+                        "path": "config/chacademi-chat-layout.json"
+                    },
+                    "updatePolicy": "seed"
+                },
+                {
+                    "id": "config/chatplus/chatplus-v2.7.0.json",
+                    "name": "config/chatplus/chatplus-v2.7.0.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 16659,
+                        "MD5": "6fec3b5682352b6e25bae0179dc5ddec",
+                        "SHA256": "996204f73e9d7fe128d8ecfb9fdd335c4e872e72fae71827dfacb5d543bdae1e",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/chatplus-v2.7.0.json",
+                        "path": "config/chatplus/chatplus-v2.7.0.json"
+                    },
+                    "updatePolicy": "seed"
+                },
+                {
+                    "id": "config/DistantHorizons.toml",
+                    "name": "config/DistantHorizons.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 37984,
+                        "MD5": "cd3689daa6e7bbc7ec8e3c9642082870",
+                        "SHA256": "a05f00184c816ed36b5ee453fa427aad99b60e2d4ffe314dab68f119dc1a4ad6",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/DistantHorizons.toml",
+                        "path": "config/DistantHorizons.toml"
+                    },
+                    "updatePolicy": "seed"
+                },
+                {
+                    "id": "config/forgeconfigapiport.toml",
+                    "name": "config/forgeconfigapiport.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 523,
+                        "MD5": "80b3cd8edc58e5849bf5a7a0c48bd4ef",
+                        "SHA256": "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/forgeconfigapiport.toml",
+                        "path": "config/forgeconfigapiport.toml"
+                    },
+                    "updatePolicy": "seed"
+                },
+                {
+                    "id": "config/iris-excluded.json",
+                    "name": "config/iris-excluded.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 31,
+                        "MD5": "670592b1394f12ab96d8432f14ac8dd9",
+                        "SHA256": "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/iris-excluded.json",
+                        "path": "config/iris-excluded.json"
+                    },
+                    "updatePolicy": "seed"
+                },
+                {
+                    "id": "config/iris.properties",
+                    "name": "config/iris.properties",
+                    "type": "File",
+                    "artifact": {
+                        "path": "config/iris.properties",
+                        "size": 312,
+                        "MD5": "6b0a86937c994275598923efaece6077",
+                        "SHA256": "d1b0050b3955f6823a7a42d88896dc71d1935260789b4b39334dab19be2da584",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.22/iris.properties"
+                    },
+                    "updatePolicy": "seed"
+                },
+                {
+                    "id": "config/koreanpatch.json5",
+                    "name": "config/koreanpatch.json5",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1513,
+                        "MD5": "db57d63145cae2aa9d67e8b160151008",
+                        "SHA256": "0b9f2cbe0343ff078bc1966257f6e30d5ef1a13b77e1ef4e19762d1dd4671dcc",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/koreanpatch.json5",
+                        "path": "config/koreanpatch.json5"
+                    },
+                    "updatePolicy": "seed"
+                },
+                {
+                    "id": "config/magiccodex/key-settings.yml",
+                    "name": "config/magiccodex/key-settings.yml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 230,
+                        "MD5": "fc95ad52fecfdfd6115e68702860dbda",
+                        "SHA256": "424be5731ad2d5063f1f9f70342a77a239c8c2ab585139b790b61f440e0c7ece",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-hud-reset-magickeys-20261024-task9/key-settings.yml",
+                        "path": "config/magiccodex/key-settings.yml"
+                    },
+                    "updatePolicy": "seed"
+                },
+                {
+                    "id": "config/portablevfx/bloom.properties",
+                    "name": "config/portablevfx/bloom.properties",
+                    "type": "File",
+                    "artifact": {
+                        "size": 113,
+                        "MD5": "ea90cd1ea7cd290130a1fa5093824840",
+                        "SHA256": "f1994fa57a188a84db9462e851e75752bcb2d72bd065cbdff648e835c8011a71",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/bloom.properties",
+                        "path": "config/portablevfx/bloom.properties"
+                    },
+                    "updatePolicy": "seed"
+                },
+                {
+                    "id": "config/portablevfx/load-limits.properties",
+                    "name": "config/portablevfx/load-limits.properties",
+                    "type": "File",
+                    "artifact": {
+                        "size": 205,
+                        "MD5": "bad1d853d68242032ad5399657aa3e4c",
+                        "SHA256": "07e513140ccbf6e80decbe9bf6702d63c7f9042d4a79ba5e425a4067b4bb1105",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.19/load-limits.properties",
+                        "path": "config/portablevfx/load-limits.properties"
+                    },
+                    "updatePolicy": "seed",
+                    "vfxCatalogLimits": {
+                        "encodedCacheMiB": 512,
+                        "systems": 4096
+                    }
+                },
+                {
+                    "id": "config/sodium-mixins.properties",
+                    "name": "config/sodium-mixins.properties",
+                    "type": "File",
+                    "artifact": {
+                        "size": 258,
+                        "MD5": "a5b6a84e034d60be869ae33f2dba4e2b",
+                        "SHA256": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/sodium-mixins.properties",
+                        "path": "config/sodium-mixins.properties"
+                    },
+                    "updatePolicy": "seed"
+                },
+                {
+                    "id": "config/sodium-options.json",
+                    "name": "config/sodium-options.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 685,
+                        "MD5": "aa01ef19d7217fbb88ed03f737384c66",
+                        "SHA256": "00c7dd465e12693baeb0f9844848eb087f627d98827df51111b080af462d7d73",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/sodium-options.json",
+                        "path": "config/sodium-options.json"
+                    },
+                    "updatePolicy": "seed"
+                },
+                {
+                    "id": "options.txt",
+                    "name": "options.txt",
+                    "type": "File",
+                    "artifact": {
+                        "size": 7393,
+                        "MD5": "387a18d8db87f52f554582e9220620e0",
+                        "SHA256": "029bebca6ce06807344846ec6f960401ed59d4cb7e60f90e4b28fd50ea64cd9a",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/options.txt",
+                        "path": "options.txt"
+                    },
+                    "updatePolicy": "seed"
+                },
+                {
+                    "id": "dev.chacademi:starlight_loading:1.0.0@jar",
+                    "name": "mods/starlight-loading-1.0.0.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 23982219,
+                        "MD5": "96fa2042b9f51994feb328040650869e",
+                        "SHA256": "0b048ad02237b0ecc6322e29197f2d86dd21714e18d0d5a14c00a95435d5d528",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.1/starlight-loading-1.0.0.jar"
+                    }
+                },
+                {
+                    "id": "kr.chacademi:chaca_story:0.1.5-guide.20261024@jar",
+                    "name": "mods/chacademy-story-final-guide-20261024.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 959491,
+                        "MD5": "85f828e832b742e6bea136d165210b21",
+                        "SHA256": "feaf0eada6b9a474e8b9a83621b6c286720d3d073c0680c476d93cff5da45c1f",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/chacademy-story-final-guide-20261024.jar"
+                    }
+                },
+                {
+                    "id": "config/chaca_cutscene/ch1_ashen_night/cutscene.yml",
+                    "name": "config/chaca_cutscene/ch1_ashen_night/cutscene.yml",
+                    "type": "File",
+                    "updatePolicy": "seed",
+                    "artifact": {
+                        "path": "config/chaca_cutscene/ch1_ashen_night/cutscene.yml",
+                        "size": 2665,
+                        "MD5": "ed5a9238ed6c0fc5301241b6acb78fc8",
+                        "SHA256": "05e43cf8f978f51827fe1e21f460faa87b707d5529e637cccfdaa3073e8b5c1d",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__cutscene.yml"
+                    }
+                },
+                {
+                    "id": "config/chaca_cutscene/ch1_ashen_night/bgm.ogg",
+                    "name": "config/chaca_cutscene/ch1_ashen_night/bgm.ogg",
+                    "type": "File",
+                    "updatePolicy": "seed",
+                    "artifact": {
+                        "path": "config/chaca_cutscene/ch1_ashen_night/bgm.ogg",
+                        "size": 1853552,
+                        "MD5": "d17cb911e2cc080e441a1aa2e4906bbe",
+                        "SHA256": "3745bd4b5dab9f5c42282ae83b132a16435ff6e05b7575180b397c620bfd6911",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__bgm.ogg"
+                    }
+                },
+                {
+                    "id": "config/chaca_cutscene/ch1_ashen_night/s1_1.png",
+                    "name": "config/chaca_cutscene/ch1_ashen_night/s1_1.png",
+                    "type": "File",
+                    "updatePolicy": "seed",
+                    "artifact": {
+                        "path": "config/chaca_cutscene/ch1_ashen_night/s1_1.png",
+                        "size": 2228421,
+                        "MD5": "66c4d21cf12fdb6d94197a5727a5300d",
+                        "SHA256": "2c4b957d314ebf26c922d31d7256b1c72dae842ef30ff8c32d2241209a7ef261",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s1_1.png"
+                    }
+                },
+                {
+                    "id": "config/chaca_cutscene/ch1_ashen_night/s2_1.png",
+                    "name": "config/chaca_cutscene/ch1_ashen_night/s2_1.png",
+                    "type": "File",
+                    "updatePolicy": "seed",
+                    "artifact": {
+                        "path": "config/chaca_cutscene/ch1_ashen_night/s2_1.png",
+                        "size": 2710730,
+                        "MD5": "34ee43c68e6a8274d4d1e3c08661120d",
+                        "SHA256": "27efa8418c94b473418ff01a2f8d41406ed78e4076838864b194c7697eaacd9e",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s2_1.png"
+                    }
+                },
+                {
+                    "id": "config/chaca_cutscene/ch1_ashen_night/s3_1.png",
+                    "name": "config/chaca_cutscene/ch1_ashen_night/s3_1.png",
+                    "type": "File",
+                    "updatePolicy": "seed",
+                    "artifact": {
+                        "path": "config/chaca_cutscene/ch1_ashen_night/s3_1.png",
+                        "size": 2215031,
+                        "MD5": "ca7ce4c41d7629d817b4ddb2ed7bc4e5",
+                        "SHA256": "53650e999b5ec9d1105f19598a1fd2c994900dee5806493e46d04ed64cba2003",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s3_1.png"
+                    }
+                },
+                {
+                    "id": "config/chaca_cutscene/ch1_ashen_night/s4_1.png",
+                    "name": "config/chaca_cutscene/ch1_ashen_night/s4_1.png",
+                    "type": "File",
+                    "updatePolicy": "seed",
+                    "artifact": {
+                        "path": "config/chaca_cutscene/ch1_ashen_night/s4_1.png",
+                        "size": 2129580,
+                        "MD5": "0d3f8b0b23d28d831ed9e557eb6ca9b1",
+                        "SHA256": "d5708cb9e430ec3752b0e3b2d9e57424d92c65f74d88dc424d982c7b87659087",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s4_1.png"
+                    }
+                },
+                {
+                    "id": "config/chaca_cutscene/ch1_ashen_night/s5_1.png",
+                    "name": "config/chaca_cutscene/ch1_ashen_night/s5_1.png",
+                    "type": "File",
+                    "updatePolicy": "seed",
+                    "artifact": {
+                        "path": "config/chaca_cutscene/ch1_ashen_night/s5_1.png",
+                        "size": 2289406,
+                        "MD5": "463eb512ee5d97bc02d23b9fe05c2e07",
+                        "SHA256": "cb6ed8883aace9a929a5371996f8f558c89682124f68ace7a03d3cc59163c5db",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s5_1.png"
+                    }
+                },
+                {
+                    "id": "config/chaca_cutscene/ch1_ashen_night/s6_1.png",
+                    "name": "config/chaca_cutscene/ch1_ashen_night/s6_1.png",
+                    "type": "File",
+                    "updatePolicy": "seed",
+                    "artifact": {
+                        "path": "config/chaca_cutscene/ch1_ashen_night/s6_1.png",
+                        "size": 2418993,
+                        "MD5": "f260f574fb9f56e98afb8abe82ccf329",
+                        "SHA256": "75f0bf9a7bc5539d707cf2c555c29692da91c5567b285ded3d56d963406c2e53",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s6_1.png"
+                    }
+                },
+                {
+                    "id": "config/chaca_cutscene/ch1_ashen_night/s7_1.png",
+                    "name": "config/chaca_cutscene/ch1_ashen_night/s7_1.png",
+                    "type": "File",
+                    "updatePolicy": "seed",
+                    "artifact": {
+                        "path": "config/chaca_cutscene/ch1_ashen_night/s7_1.png",
+                        "size": 2301729,
+                        "MD5": "4a6a4a7a035c10895f3f35062a9a674a",
+                        "SHA256": "fbc219711b3c078c32859bbead193171dcc71236316b45c321c3de42b1be207a",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s7_1.png"
+                    }
+                },
+                {
+                    "id": "config/chaca_cutscene/ch1_ashen_night/s8_1.png",
+                    "name": "config/chaca_cutscene/ch1_ashen_night/s8_1.png",
+                    "type": "File",
+                    "updatePolicy": "seed",
+                    "artifact": {
+                        "path": "config/chaca_cutscene/ch1_ashen_night/s8_1.png",
+                        "size": 2256448,
+                        "MD5": "1062cc4e1831be27f2b453b724a25e0b",
+                        "SHA256": "01c164d8a5168bc3b02013098f17adec4042463249ed741dc80b0b3b9d3089bf",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s8_1.png"
+                    }
+                },
+                {
+                    "id": "config/chaca_cutscene/ch1_ashen_night/s9_1.png",
+                    "name": "config/chaca_cutscene/ch1_ashen_night/s9_1.png",
+                    "type": "File",
+                    "updatePolicy": "seed",
+                    "artifact": {
+                        "path": "config/chaca_cutscene/ch1_ashen_night/s9_1.png",
+                        "size": 2131897,
+                        "MD5": "f117f6e389cb0cd282eb261629ac56f3",
+                        "SHA256": "2de6c0418e7884dd425bcc8d7a0c1a8c85e8c8b563645acce4857ed0b6723ea8",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s9_1.png"
+                    }
+                },
+                {
+                    "id": "config/chaca_cutscene/magic_tutorial/s1_1.png",
+                    "name": "config/chaca_cutscene/magic_tutorial/s1_1.png",
+                    "type": "File",
+                    "updatePolicy": "seed",
+                    "artifact": {
+                        "path": "config/chaca_cutscene/magic_tutorial/s1_1.png",
+                        "size": 1612097,
+                        "MD5": "f57600543f28776cdd0ad5138a80f83c",
+                        "SHA256": "d72f7835e660b89798ec02cc291e60e8b4f8483567d321e4efbaf64ed44b0ca0",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__magic_tutorial__s1_1.png"
+                    }
+                },
+                {
+                    "id": "config/chaca_cutscene/magic_tutorial/s2_1.png",
+                    "name": "config/chaca_cutscene/magic_tutorial/s2_1.png",
+                    "type": "File",
+                    "updatePolicy": "seed",
+                    "artifact": {
+                        "path": "config/chaca_cutscene/magic_tutorial/s2_1.png",
+                        "size": 2082585,
+                        "MD5": "80d2e90d20dd2a727016f9c6bb314fce",
+                        "SHA256": "f822c1ad906bfbec264deeba0898c9b9cbdd8ee2b73fb065c45e06e89db229e7",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__magic_tutorial__s2_1.png"
+                    }
+                },
+                {
+                    "id": "config/chaca_cutscene/magic_tutorial/s3_1.png",
+                    "name": "config/chaca_cutscene/magic_tutorial/s3_1.png",
+                    "type": "File",
+                    "updatePolicy": "seed",
+                    "artifact": {
+                        "path": "config/chaca_cutscene/magic_tutorial/s3_1.png",
+                        "size": 1606160,
+                        "MD5": "82e81a6aa6acdba4904898354983525f",
+                        "SHA256": "abaa065768cbc791596181d6e75a9095b24c8e5b356a9caf6efa42a94e1fbb0c",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__magic_tutorial__s3_1.png"
+                    }
+                },
+                {
+                    "id": "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
+                    "name": "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
+                    "type": "File",
+                    "artifact": {
+                        "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
+                        "size": 278,
+                        "MD5": "1f19926f5614f0196ba4f47eba958bf6",
+                        "SHA256": "d9a586507270a03fc9d6e8f074a87a9d183eabe2b265502405ed36e47bff185b",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.22/ComplementaryUnbound_r5.5.1.zip.txt"
+                    },
+                    "updatePolicy": "seed"
+                },
+                {
+                    "id": "config/magiccodex/launcher/shader-defaults-20261020.json",
+                    "name": "config/magiccodex/launcher/shader-defaults-20261020.json",
+                    "type": "File",
+                    "artifact": {
+                        "path": "config/magiccodex/launcher/shader-defaults-20261020.json",
+                        "size": 701,
+                        "MD5": "777c9ff29653106f9fc5bbf78c66171e",
+                        "SHA256": "f01b8b8c86212889b10cf5c37f4afc2f0d4b21c76b5e565f89deb67528f0b4c2",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.22/shader-defaults-20261020.json"
+                    },
+                    "updatePolicy": "managed",
+                    "managedReason": "Immutable one-time shader migration input. User shader settings remain seed-managed; a per-revision marker prevents repeated overrides."
+                },
+                {
+                    "id": "kr.chacademi:chacademi_npc_model:0.1.1-npcmodel.4@jar",
+                    "name": "mods/chacademi-npc-model-0.1.1-npcmodel.4.jar",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 159300,
+                        "MD5": "8f68d46523afb08720ba5b1740935a35",
+                        "SHA256": "d24c5fb68ad0f98579b7e07c0914a524e4b0d725ff6fbdbce901a02251a166c9",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/chacademi-npc-model-0.1.1-npcmodel.4.jar"
+                    }
+                },
+                {
+                    "id": "chacademi/npc-models/luka.glb",
+                    "name": "chacademi/npc-models/luka.glb",
+                    "type": "File",
+                    "artifact": {
+                        "size": 3436372,
+                        "MD5": "4a097f7d7663b390b6f0d9ae9fe37f3f",
+                        "SHA256": "ef446e711624bdc43a675b98719dfda51c3e38f3cda347a5a7a32f59651de574",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-model-20261021/luka.glb",
+                        "path": "chacademi/npc-models/luka.glb"
+                    },
+                    "updatePolicy": "managed"
+                },
+                {
+                    "id": "chacademi/npc-models/captain_bram.glb",
+                    "name": "chacademi/npc-models/captain_bram.glb",
+                    "type": "File",
+                    "artifact": {
+                        "size": 3081580,
+                        "MD5": "6f03f6d4c46c59fbcfc7494d50c824e1",
+                        "SHA256": "6ca32b58d299b4716e6c3540bd7a18fbe0dad6d85373fd386dbfce374a7cf52a",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/captain_bram.glb",
+                        "path": "chacademi/npc-models/captain_bram.glb"
+                    }
+                },
+                {
+                    "id": "chacademi/npc-models/models.json",
+                    "name": "chacademi/npc-models/models.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 2375,
+                        "MD5": "2ff6d2788aec9d5386adc6afa404181e",
+                        "SHA256": "2440b2ba490da747050ca64db2497ca13b7e6412c84b40489cc2bbad3eb11c92",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-ratio-revert-20261023/models.json",
+                        "path": "chacademi/npc-models/models.json"
+                    },
+                    "updatePolicy": "managed"
+                },
+                {
+                    "id": "chacademi/npc-models/ria.glb",
+                    "name": "chacademi/npc-models/ria.glb",
+                    "type": "File",
+                    "artifact": {
+                        "size": 5375124,
+                        "MD5": "d4f74f7e7745e5bd41465b10ef4ec030",
+                        "SHA256": "2b2d189e6f8210e8fb1e2027467e7008487a54ed149f15cef06efb67a6a0a2dd",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-nameplates-models-20261022-task7/chacademi__npc-models__ria.glb",
+                        "path": "chacademi/npc-models/ria.glb"
+                    },
+                    "updatePolicy": "managed"
+                },
+                {
+                    "id": "chacademi/npc-models/teacher_ellna.glb",
+                    "name": "chacademi/npc-models/teacher_ellna.glb",
+                    "type": "File",
+                    "artifact": {
+                        "size": 3167272,
+                        "MD5": "33f498a14f50528a13471c33efc06aac",
+                        "SHA256": "a0540634047d6e21485e51267fa26c09617f1b1b45f90d2fd04cd5e552fafdbe",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/teacher_ellna.glb",
+                        "path": "chacademi/npc-models/teacher_ellna.glb"
+                    }
+                },
+                {
+                    "id": "config/chaca_cutscene/magic_tutorial/cutscene.yml",
+                    "name": "config/chaca_cutscene/magic_tutorial/cutscene.yml",
+                    "type": "File",
+                    "updatePolicy": "seed",
+                    "artifact": {
+                        "path": "config/chaca_cutscene/magic_tutorial/cutscene.yml",
+                        "size": 913,
+                        "MD5": "5a3074f7e907cac290ae614c8a6323da",
+                        "SHA256": "e19817688cf718936f239563f2b006c9fcb9881fcf419e9606c4a75656c60ab5",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-nameplates-models-20261022-task7/config__chaca_cutscene__magic_tutorial__cutscene.yml"
+                    }
+                },
+                {
+                    "id": "chacademi/npc-models/pipi.glb",
+                    "name": "chacademi/npc-models/pipi.glb",
+                    "type": "File",
+                    "artifact": {
+                        "size": 4274848,
+                        "MD5": "5a9fc60f7a19005f5c25c97dd0162c47",
+                        "SHA256": "28800e9c4dec368e48360032af1142115af7f5b077c04d3ad75df9b27a35337d",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-lowell-pipi-20261022-task7/pipi.glb",
+                        "path": "chacademi/npc-models/pipi.glb"
+                    }
+                },
+                {
+                    "id": "chacademi/npc-models/dorm_lowell.glb",
+                    "name": "chacademi/npc-models/dorm_lowell.glb",
+                    "type": "File",
+                    "artifact": {
+                        "size": 2697960,
+                        "MD5": "b4c6576da1188175a22296b65ad60e22",
+                        "SHA256": "3369e416d8d7d6cd9295951ec56a1c2f30e424ace1c0c6d668073b19019a1ad9",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-lowell-pipi-20261022-task7/dorm_lowell.glb",
+                        "path": "chacademi/npc-models/dorm_lowell.glb"
+                    }
+                },
+                {
+                    "id": "chacademi/npc-models/wizard_statue.glb",
+                    "name": "chacademi/npc-models/wizard_statue.glb",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1763852,
+                        "MD5": "c79e5c1a5404ade8250154dab24b562f",
+                        "SHA256": "def88e0f01b095b82185990a3ceb725ba816154d3b3fee7fa3faf0d03f7bd743",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-wizard-statue-20261022-task7/wizard_statue.glb",
+                        "path": "chacademi/npc-models/wizard_statue.glb"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/CommonDrop/NOTES.md",
+                    "name": "config/portablevfx/effects/CommonDrop/NOTES.md",
+                    "type": "File",
+                    "artifact": {
+                        "size": 725,
+                        "SHA256": "cfd1a1c20efed713bacf016c708bab36ebdf0f47180a5261c8941dc819c5b6ef",
+                        "MD5": "894abce0b3c22dbc69a9929bde57c630",
+                        "path": "config/portablevfx/effects/CommonDrop/NOTES.md",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__NOTES.md"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/CommonDrop/textures/T_Beam.png",
+                    "name": "config/portablevfx/effects/CommonDrop/textures/T_Beam.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 17856,
+                        "SHA256": "27c6d6a44d6e96b0c987fef9ca6aeee86d04b3518849bfaf221f8687d6045afc",
+                        "MD5": "a4081403c97b84f09d442e1fd115e1cf",
+                        "path": "config/portablevfx/effects/CommonDrop/textures/T_Beam.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__textures__T_Beam.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/CommonDrop/textures/T_Dot.png",
+                    "name": "config/portablevfx/effects/CommonDrop/textures/T_Dot.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 3039,
+                        "SHA256": "36fa041c3d036aa58412cfe53373ba263a72b2b42756658bae0e676f871543fb",
+                        "MD5": "81ecde7874838aa30e39e2546b80d6db",
+                        "path": "config/portablevfx/effects/CommonDrop/textures/T_Dot.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__textures__T_Dot.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/CommonDrop/textures/T_Glow.png",
+                    "name": "config/portablevfx/effects/CommonDrop/textures/T_Glow.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 4770,
+                        "SHA256": "e1e2b607ff15171631afd178ad3ae8176f49d5a8664674ab7df078eb159fa924",
+                        "MD5": "20765eb333dc5133d2d8085d69807d20",
+                        "path": "config/portablevfx/effects/CommonDrop/textures/T_Glow.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__textures__T_Glow.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/CommonDrop/textures/T_Line.png",
+                    "name": "config/portablevfx/effects/CommonDrop/textures/T_Line.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 295,
+                        "SHA256": "ac43e5d23d530cee01e59e208c9d05ffad4a54337b21b386d66c0f8f34742196",
+                        "MD5": "f13136712c434ec99911c3387a7caf07",
+                        "path": "config/portablevfx/effects/CommonDrop/textures/T_Line.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__textures__T_Line.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/CommonDrop/textures/T_Sigil.png",
+                    "name": "config/portablevfx/effects/CommonDrop/textures/T_Sigil.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 69870,
+                        "SHA256": "adf339b182f4262929bf757c6913407bd01cef13df8552375dbaca0c394d6d94",
+                        "MD5": "b7d1f256ea85aff2077344a1ee114338",
+                        "path": "config/portablevfx/effects/CommonDrop/textures/T_Sigil.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__textures__T_Sigil.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/CommonDrop/textures/T_Star4.png",
+                    "name": "config/portablevfx/effects/CommonDrop/textures/T_Star4.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 6024,
+                        "SHA256": "ae1c3de00fe942c51b3b59b692e9a93c59bac9f6b37d75c86a9407f71724b146",
+                        "MD5": "8787a5a4300b49c4bc92c51fb66e6764",
+                        "path": "config/portablevfx/effects/CommonDrop/textures/T_Star4.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__textures__T_Star4.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/CommonDrop/vfx.json",
+                    "name": "config/portablevfx/effects/CommonDrop/vfx.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 86726,
+                        "SHA256": "d88b20b459387c2f88960593139905b8bd64508ab7788f2f80c537114d0530f3",
+                        "MD5": "cea68ceb3292bb74cbd7fe7766f202e0",
+                        "path": "config/portablevfx/effects/CommonDrop/vfx.json",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__vfx.json"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/RareDrop/NOTES.md",
+                    "name": "config/portablevfx/effects/RareDrop/NOTES.md",
+                    "type": "File",
+                    "artifact": {
+                        "size": 721,
+                        "SHA256": "d8e44b89ddf15dae50ff4f496c0b4c2b2ccdb5055ebbc981c9f7b5516f8229a1",
+                        "MD5": "8d77245bbf19529f43a701db9e0382ce",
+                        "path": "config/portablevfx/effects/RareDrop/NOTES.md",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__NOTES.md"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/RareDrop/textures/T_Beam.png",
+                    "name": "config/portablevfx/effects/RareDrop/textures/T_Beam.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 18819,
+                        "SHA256": "b3f439b340f2ddc1be6956b1b05dc840068b6e26ac4938fb62d691e21601c933",
+                        "MD5": "01f015af752d0bb31d5235bde578f30c",
+                        "path": "config/portablevfx/effects/RareDrop/textures/T_Beam.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Beam.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/RareDrop/textures/T_Dot.png",
+                    "name": "config/portablevfx/effects/RareDrop/textures/T_Dot.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 3039,
+                        "SHA256": "36fa041c3d036aa58412cfe53373ba263a72b2b42756658bae0e676f871543fb",
+                        "MD5": "81ecde7874838aa30e39e2546b80d6db",
+                        "path": "config/portablevfx/effects/RareDrop/textures/T_Dot.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Dot.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/RareDrop/textures/T_Glow.png",
+                    "name": "config/portablevfx/effects/RareDrop/textures/T_Glow.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 4770,
+                        "SHA256": "e1e2b607ff15171631afd178ad3ae8176f49d5a8664674ab7df078eb159fa924",
+                        "MD5": "20765eb333dc5133d2d8085d69807d20",
+                        "path": "config/portablevfx/effects/RareDrop/textures/T_Glow.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Glow.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/RareDrop/textures/T_Line.png",
+                    "name": "config/portablevfx/effects/RareDrop/textures/T_Line.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 303,
+                        "SHA256": "593c9667bba569dc2864249df213b029cbdc683938ad12ee7288325fa59e45c6",
+                        "MD5": "3f3f52f0b261b235f9a1bb16f74f57d2",
+                        "path": "config/portablevfx/effects/RareDrop/textures/T_Line.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Line.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/RareDrop/textures/T_Ornament.png",
+                    "name": "config/portablevfx/effects/RareDrop/textures/T_Ornament.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 45748,
+                        "SHA256": "ef66568445e966c7e2e386ea9528d5e1757e1e8724574d088b89c32be50e6603",
+                        "MD5": "405b64ca5fadbc34915719b4804b54cc",
+                        "path": "config/portablevfx/effects/RareDrop/textures/T_Ornament.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Ornament.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/RareDrop/textures/T_Sigil.png",
+                    "name": "config/portablevfx/effects/RareDrop/textures/T_Sigil.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 72695,
+                        "SHA256": "e08ee2dba1a1c385b6be427d7424e87e4003352be7a01329b4bbe5bf69f6e302",
+                        "MD5": "683e3b43e97547d2ab9b1b4532b0a7f1",
+                        "path": "config/portablevfx/effects/RareDrop/textures/T_Sigil.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Sigil.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/RareDrop/textures/T_Star4.png",
+                    "name": "config/portablevfx/effects/RareDrop/textures/T_Star4.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 6156,
+                        "SHA256": "67ff81db9a54694674bee50896e9d8461ffdd56f72fc3446dd948c1724b5cff0",
+                        "MD5": "6fb7fee29ecb9f4048a67b86c08ccd9f",
+                        "path": "config/portablevfx/effects/RareDrop/textures/T_Star4.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Star4.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/RareDrop/textures/T_Streak.png",
+                    "name": "config/portablevfx/effects/RareDrop/textures/T_Streak.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 2416,
+                        "SHA256": "8b9a4f295c03b40243d61771fd93ab8afa8e5e0e615985cbd86098440fcd2bd8",
+                        "MD5": "d7542c5e9d9186e5c3ba400263cd225e",
+                        "path": "config/portablevfx/effects/RareDrop/textures/T_Streak.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Streak.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/RareDrop/vfx.json",
+                    "name": "config/portablevfx/effects/RareDrop/vfx.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 191172,
+                        "SHA256": "ccf2d8d99f0214f73a78dde6863f7ca2ad7cfcff6d95ca46004631f86d901059",
+                        "MD5": "2723d72fff6327dad2b7f892a0c07ca8",
+                        "path": "config/portablevfx/effects/RareDrop/vfx.json",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__vfx.json"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/UniqueDrop/NOTES.md",
+                    "name": "config/portablevfx/effects/UniqueDrop/NOTES.md",
+                    "type": "File",
+                    "artifact": {
+                        "size": 725,
+                        "SHA256": "7271b17f0334b6f51a6afdcb54cf2a6710aab029971286518409821011f20128",
+                        "MD5": "e60cf22b57903eb6ec60813095c3d322",
+                        "path": "config/portablevfx/effects/UniqueDrop/NOTES.md",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__NOTES.md"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/UniqueDrop/textures/T_Beam.png",
+                    "name": "config/portablevfx/effects/UniqueDrop/textures/T_Beam.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 18340,
+                        "SHA256": "2f2e65cc2f706feae6d987832d16e8e50afa36c76499e79a3ff0037a4e3be95c",
+                        "MD5": "63413bfc6d6061e62c7ddd901123827b",
+                        "path": "config/portablevfx/effects/UniqueDrop/textures/T_Beam.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Beam.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/UniqueDrop/textures/T_Dot.png",
+                    "name": "config/portablevfx/effects/UniqueDrop/textures/T_Dot.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 3039,
+                        "SHA256": "36fa041c3d036aa58412cfe53373ba263a72b2b42756658bae0e676f871543fb",
+                        "MD5": "81ecde7874838aa30e39e2546b80d6db",
+                        "path": "config/portablevfx/effects/UniqueDrop/textures/T_Dot.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Dot.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/UniqueDrop/textures/T_Glow.png",
+                    "name": "config/portablevfx/effects/UniqueDrop/textures/T_Glow.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 4770,
+                        "SHA256": "e1e2b607ff15171631afd178ad3ae8176f49d5a8664674ab7df078eb159fa924",
+                        "MD5": "20765eb333dc5133d2d8085d69807d20",
+                        "path": "config/portablevfx/effects/UniqueDrop/textures/T_Glow.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Glow.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/UniqueDrop/textures/T_Line.png",
+                    "name": "config/portablevfx/effects/UniqueDrop/textures/T_Line.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 295,
+                        "SHA256": "ecfcf06e3c21940dfcc5b96c10795f3a8092139e33b8017a157ddf2fece2cdfb",
+                        "MD5": "04be6fbc1e582f5640588524580b0628",
+                        "path": "config/portablevfx/effects/UniqueDrop/textures/T_Line.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Line.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/UniqueDrop/textures/T_Ornament.png",
+                    "name": "config/portablevfx/effects/UniqueDrop/textures/T_Ornament.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 46019,
+                        "SHA256": "5c2f9785df9715766ee4f7ed0fe78f3b5a0253f100049fb9ddabf959423e860f",
+                        "MD5": "83bcce985cc642671055410e330299cf",
+                        "path": "config/portablevfx/effects/UniqueDrop/textures/T_Ornament.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Ornament.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/UniqueDrop/textures/T_Runes.png",
+                    "name": "config/portablevfx/effects/UniqueDrop/textures/T_Runes.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 28331,
+                        "SHA256": "833420f43317e182bd4a0dba110f74de02f5f9eec518d5a0194a1226db37af09",
+                        "MD5": "7713078a31162af68c3fb5476b5b404a",
+                        "path": "config/portablevfx/effects/UniqueDrop/textures/T_Runes.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Runes.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/UniqueDrop/textures/T_Sigil.png",
+                    "name": "config/portablevfx/effects/UniqueDrop/textures/T_Sigil.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 71889,
+                        "SHA256": "3b396d03a00f3d2f3cd1ff1634fce8280e2a26b80eaada0bd53ca7498229f6b8",
+                        "MD5": "636134b13071a70de08a3b1944f1c8eb",
+                        "path": "config/portablevfx/effects/UniqueDrop/textures/T_Sigil.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Sigil.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/UniqueDrop/textures/T_Star4.png",
+                    "name": "config/portablevfx/effects/UniqueDrop/textures/T_Star4.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 5889,
+                        "SHA256": "f30244d9fd89d4b08d8d1d11878f6309fa2f4b934bd95551f4ae5a011b881937",
+                        "MD5": "4c030b60bdb4bbc79374c2a262c1ad82",
+                        "path": "config/portablevfx/effects/UniqueDrop/textures/T_Star4.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Star4.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/UniqueDrop/textures/T_Streak.png",
+                    "name": "config/portablevfx/effects/UniqueDrop/textures/T_Streak.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 2150,
+                        "SHA256": "461f9d0611512c41bfcf6216f5a590f2a49dc30fbd218adf97cd11d590329ab2",
+                        "MD5": "aacb49ad8995faa28f786c6828354984",
+                        "path": "config/portablevfx/effects/UniqueDrop/textures/T_Streak.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Streak.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/UniqueDrop/vfx.json",
+                    "name": "config/portablevfx/effects/UniqueDrop/vfx.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 283230,
+                        "SHA256": "92b93709b03d2b063b2b5794054565a2cd7ca3bef0174ce6a92ea417c13d6160",
+                        "MD5": "31bf604314075ec86ab723f49f60d3e3",
+                        "path": "config/portablevfx/effects/UniqueDrop/vfx.json",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__vfx.json"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/LegendaryDrop/NOTES.md",
+                    "name": "config/portablevfx/effects/LegendaryDrop/NOTES.md",
+                    "type": "File",
+                    "artifact": {
+                        "size": 936,
+                        "SHA256": "48551e834cc829b2c99e47a5eda03565d2b39f3a21f860229de5d7430c8104de",
+                        "MD5": "7078facbf0633bea427c8672a6d3504e",
+                        "path": "config/portablevfx/effects/LegendaryDrop/NOTES.md",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__NOTES.md"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Beam.png",
+                    "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Beam.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 17648,
+                        "SHA256": "7c4d8f59f4a0e31381328d6098e5abda1d5a26234467f4a857021db9ee0650ce",
+                        "MD5": "aa826f5205ca581b05e4f177445868d5",
+                        "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Beam.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Beam.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Dot.png",
+                    "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Dot.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 3039,
+                        "SHA256": "36fa041c3d036aa58412cfe53373ba263a72b2b42756658bae0e676f871543fb",
+                        "MD5": "81ecde7874838aa30e39e2546b80d6db",
+                        "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Dot.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Dot.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Glow.png",
+                    "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Glow.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 4770,
+                        "SHA256": "e1e2b607ff15171631afd178ad3ae8176f49d5a8664674ab7df078eb159fa924",
+                        "MD5": "20765eb333dc5133d2d8085d69807d20",
+                        "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Glow.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Glow.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Line.png",
+                    "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Line.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 278,
+                        "SHA256": "0690a4f52b0654e5cf2bb69d48772fdf1c579bb5c98f9f7747fc964b6e700245",
+                        "MD5": "b21da371e1760600a50bcbf392440f7c",
+                        "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Line.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Line.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Ornament.png",
+                    "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Ornament.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 43044,
+                        "SHA256": "50426bdb763803a35f79843d7d9f085d367889e20685a9299899f1917e059134",
+                        "MD5": "de6ed36995729327667e4ce448b6a60a",
+                        "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Ornament.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Ornament.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Runes.png",
+                    "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Runes.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 27685,
+                        "SHA256": "66a89d8f9a4c39ac8a684900493b7ae288c7ea6cca7b78fa9807114830a2c28a",
+                        "MD5": "feb4cf5f41e971395d92eb0be1f31c19",
+                        "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Runes.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Runes.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Sigil.png",
+                    "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Sigil.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 69794,
+                        "SHA256": "5628446e1a6e66276a4133a5f7c3269b946c7351bf07fda70567774d935202ad",
+                        "MD5": "2982a754a33d34206f2a77eb588e7283",
+                        "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Sigil.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Sigil.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Star4.png",
+                    "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Star4.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 5819,
+                        "SHA256": "3ee122cc475ff85325645bfffb4570693ea0d513a845a33de597d07f3ad99267",
+                        "MD5": "bef55158739fd1babc49c9a128a2a5ab",
+                        "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Star4.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Star4.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Streak.png",
+                    "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Streak.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 2039,
+                        "SHA256": "2da03e778b1eb9a4a9f0996f7f933ca66022543c5ca00130e167c4a02a1dffbf",
+                        "MD5": "8152594714797c532c771c4bea4daa17",
+                        "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Streak.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Streak.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Wisp_Sheet.png",
+                    "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Wisp_Sheet.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 58534,
+                        "SHA256": "ba352a471a84f75c3b611eeadcf0beb2a28c35b7828e5f3270a17b9e92ba53c9",
+                        "MD5": "ec743f1dd18b0e9c75b44efd88ee43d3",
+                        "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Wisp_Sheet.png",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Wisp_Sheet.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/LegendaryDrop/vfx.json",
+                    "name": "config/portablevfx/effects/LegendaryDrop/vfx.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 369197,
+                        "SHA256": "a63386571084f126e1c9828a463017a8b83d823f5183a4a1e26135f9f833ebfc",
+                        "MD5": "4f9c7401e17b05ec4a357165b0bd1a73",
+                        "path": "config/portablevfx/effects/LegendaryDrop/vfx.json",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__vfx.json"
+                    }
+                },
+                {
+                    "id": "chacademia-integrated-20261023.zip",
+                    "name": "resourcepacks/chacademia-integrated-20261023.zip",
+                    "type": "File",
+                    "artifact": {
+                        "path": "resourcepacks/chacademia-integrated-20261023.zip",
+                        "size": 82410242,
+                        "MD5": "7e602f61bd9ab99d4d1742c46b809423",
+                        "SHA256": "cc226b94581d09759e6ec30985efc45c3e52d63ae05e193e1202775e8802fc41",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/chacademia-integrated-final-20261024.zip"
+                    },
+                    "updatePolicy": "managed"
+                },
+                {
+                    "id": "config/portablevfx/effects/WaypointGlobe/NOTES.md",
+                    "name": "config/portablevfx/effects/WaypointGlobe/NOTES.md",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1109,
+                        "MD5": "f1fe50ce5d868d6b91935772be37eff7",
+                        "SHA256": "5d8941fd7ac4b213903c2fd9a1b6368cb816f43d99e31c14674a2b4950f95040",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__NOTES.md",
+                        "path": "config/portablevfx/effects/WaypointGlobe/NOTES.md"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/WaypointGlobe/textures/T_Beam.png",
+                    "name": "config/portablevfx/effects/WaypointGlobe/textures/T_Beam.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 6333,
+                        "MD5": "f5cfe861fd105516948dafc1013fcf4c",
+                        "SHA256": "da65260d4cb01158f10d1816e2f29b68886ea8636e228f30c01819ad04b2fd88",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Beam.png",
+                        "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Beam.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/WaypointGlobe/textures/T_DarkMist.png",
+                    "name": "config/portablevfx/effects/WaypointGlobe/textures/T_DarkMist.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 15425,
+                        "MD5": "87d0c51c5125d843abd719e8c297abca",
+                        "SHA256": "55caa2155c8f048ad5f991eb513b079998333537adb0fcd0b5eed687c08c18d4",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_DarkMist.png",
+                        "path": "config/portablevfx/effects/WaypointGlobe/textures/T_DarkMist.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/WaypointGlobe/textures/T_Dash.png",
+                    "name": "config/portablevfx/effects/WaypointGlobe/textures/T_Dash.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 2888,
+                        "MD5": "2da864e221e190921b52f7e09c695cc4",
+                        "SHA256": "5c3a109888d3f4778f66f13def723f1c771e666a72281049afbf19671373f12f",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Dash.png",
+                        "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Dash.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/WaypointGlobe/textures/T_Dot.png",
+                    "name": "config/portablevfx/effects/WaypointGlobe/textures/T_Dot.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1244,
+                        "MD5": "a52b727789541c38148b907479406da1",
+                        "SHA256": "38f31aeaff5c0bde601f41842843cfcc8d13c7c0976913ca8909d56293c37341",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Dot.png",
+                        "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Dot.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/WaypointGlobe/textures/T_Glow.png",
+                    "name": "config/portablevfx/effects/WaypointGlobe/textures/T_Glow.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 4770,
+                        "MD5": "20765eb333dc5133d2d8085d69807d20",
+                        "SHA256": "e1e2b607ff15171631afd178ad3ae8176f49d5a8664674ab7df078eb159fa924",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Glow.png",
+                        "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Glow.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/WaypointGlobe/textures/T_LineC.png",
+                    "name": "config/portablevfx/effects/WaypointGlobe/textures/T_LineC.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 288,
+                        "MD5": "64581db880c8a32e97d98bc95bed68fd",
+                        "SHA256": "4bf6ddc286134dc8cb3db4338218ae64e8cae8b3212c4fe9a9655f7c0110ea60",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_LineC.png",
+                        "path": "config/portablevfx/effects/WaypointGlobe/textures/T_LineC.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/WaypointGlobe/textures/T_LineG.png",
+                    "name": "config/portablevfx/effects/WaypointGlobe/textures/T_LineG.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 293,
+                        "MD5": "1b3c7479c1e30ef4e096430695af1614",
+                        "SHA256": "07eac3708a868ddbbcee2b46756e6496f5e41ffc63f55a730742f4887e06adb1",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_LineG.png",
+                        "path": "config/portablevfx/effects/WaypointGlobe/textures/T_LineG.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/WaypointGlobe/textures/T_Orb.png",
+                    "name": "config/portablevfx/effects/WaypointGlobe/textures/T_Orb.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 38313,
+                        "MD5": "25aa08a32c2761ab93bd94de156d28ad",
+                        "SHA256": "f2c9048342f69f6e1766afce142b16d6a53d9287a0d018a9b5c92e9085ffdf6a",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Orb.png",
+                        "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Orb.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/WaypointGlobe/textures/T_Ring.png",
+                    "name": "config/portablevfx/effects/WaypointGlobe/textures/T_Ring.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 42309,
+                        "MD5": "f32d72be77520dbf13ed7dca6aaf1911",
+                        "SHA256": "7305e6581d975c08af1c975666cf2eb3e4579f04220347f441fe8151677d399f",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Ring.png",
+                        "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Ring.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/WaypointGlobe/textures/T_RuneStrip.png",
+                    "name": "config/portablevfx/effects/WaypointGlobe/textures/T_RuneStrip.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 38808,
+                        "MD5": "d2f57542c30bd38bebf2559c65afafa0",
+                        "SHA256": "d8cdc49747d845c33282125e145643865e1e48eb0614d2075a4453eba6d8cfda",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_RuneStrip.png",
+                        "path": "config/portablevfx/effects/WaypointGlobe/textures/T_RuneStrip.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/WaypointGlobe/textures/T_Shard.png",
+                    "name": "config/portablevfx/effects/WaypointGlobe/textures/T_Shard.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 5062,
+                        "MD5": "beb9abe9479b4a6d3528ceb6def10b93",
+                        "SHA256": "ce95e0c8f46733cd407c00acb0b762b5a157d8ec2e2761b9e3d1d26a00a13e42",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Shard.png",
+                        "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Shard.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/WaypointGlobe/textures/T_Sigil.png",
+                    "name": "config/portablevfx/effects/WaypointGlobe/textures/T_Sigil.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 128412,
+                        "MD5": "09dafe4a6327c4b51d842f3869d4e1bb",
+                        "SHA256": "5409718a2c3a8529ae98cc3fe8a995971e78753e42d9cb2c12d5f212cd2b1ffe",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Sigil.png",
+                        "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Sigil.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/WaypointGlobe/textures/T_Star4.png",
+                    "name": "config/portablevfx/effects/WaypointGlobe/textures/T_Star4.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 6859,
+                        "MD5": "1e379604546895b0b75c5c700691cc13",
+                        "SHA256": "b61fcf8770292107fe9eeacb23669b9402e2689f44462df6d693dcd31c17a8dd",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Star4.png",
+                        "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Star4.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/WaypointGlobe/textures/T_Streak.png",
+                    "name": "config/portablevfx/effects/WaypointGlobe/textures/T_Streak.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1559,
+                        "MD5": "a67090b50141623b9337dde330d4da63",
+                        "SHA256": "9852b6bcab3d4225a67a07ea876c77f1c7e4559a52ddd30dfa80703055c54ea3",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Streak.png",
+                        "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Streak.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/WaypointGlobe/textures/T_Trail.png",
+                    "name": "config/portablevfx/effects/WaypointGlobe/textures/T_Trail.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 2126,
+                        "MD5": "b17097273ddad5664ea751baa14546aa",
+                        "SHA256": "7673a6832ef16058cbc24455006d580b6f060011509dd4a0ffe534850415c617",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__textures__T_Trail.png",
+                        "path": "config/portablevfx/effects/WaypointGlobe/textures/T_Trail.png"
+                    }
+                },
+                {
+                    "id": "config/portablevfx/effects/WaypointGlobe/vfx.json",
+                    "name": "config/portablevfx/effects/WaypointGlobe/vfx.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1011839,
+                        "MD5": "349c5519b8d2547b81892a0df64199f0",
+                        "SHA256": "0bdc1a06d31e4b8d96caf0dfeb4b11a77e5f0388b8843092156a21159718d9c2",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__vfx.json",
+                        "path": "config/portablevfx/effects/WaypointGlobe/vfx.json"
+                    }
+                }
+            ]
         }
-      },
-      "modules": [
-        {
-          "id": "net.fabricmc:fabric-loader:0.18.4",
-          "name": "Fabric Loader",
-          "type": "Fabric",
-          "artifact": {
-            "size": 1944518,
-            "MD5": "56c00fa22e0452e8567be1feae73c3b9",
-            "SHA256": "ea300b841949a290641db8c137e3da205462a089a7472d8f1657179fd23bcf4a",
-            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.18.4/fabric-loader-0.18.4.jar"
-          },
-          "subModules": [
-            {
-              "id": "fabric-loader-0.18.4-1.21.4",
-              "name": "Official Fabric profile",
-              "type": "VersionManifest",
-              "artifact": {
-                "size": 2847,
-                "MD5": "791082c6894fc413cd49d8ee987d4bab",
-                "SHA256": "977110a9c838e3062845d29a68dba9ef0623ae730d5640cdb05e0ee4a7b49426",
-                "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.4/0.18.4/profile/json"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm:9.9",
-              "name": "asm",
-              "type": "Library",
-              "artifact": {
-                "size": 126122,
-                "MD5": "6d1dd0482c03a6dc1807d9d004456021",
-                "SHA256": "03d99a74ad1ee5c71334ef67437f4ef4fe3488caa7c96d8645abc73c8e2017d4",
-                "url": "https://maven.fabricmc.net/org/ow2/asm/asm/9.9/asm-9.9.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-analysis:9.9",
-              "name": "asm-analysis",
-              "type": "Library",
-              "artifact": {
-                "size": 35149,
-                "MD5": "f07383cfbd50f097558341a03b8871e1",
-                "SHA256": "6a15d28e8bd29ba4fd5bca4baf9b50e8fba2d7b51fbf78cfa0c875a7214c678b",
-                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-commons:9.9",
-              "name": "asm-commons",
-              "type": "Library",
-              "artifact": {
-                "size": 74348,
-                "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
-                "SHA256": "db2f6f26150bbe7c126606b4a1151836bcc22a1e05a423b3585698bece995ff8",
-                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-tree:9.9",
-              "name": "asm-tree",
-              "type": "Library",
-              "artifact": {
-                "size": 51947,
-                "MD5": "912eeaba1a63d574ffc66c651c7c6725",
-                "SHA256": "42178f3775c9c63f9e5e1446747d29b4eca4d91bd6e75e5c43cfa372a47d38c6",
-                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-util:9.9",
-              "name": "asm-util",
-              "type": "Library",
-              "artifact": {
-                "size": 94565,
-                "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
-                "SHA256": "3842e13cfe324ee9ab7cdc4914be9943541ead397c17e26daf0b8a755bede717",
-                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
-              }
-            },
-            {
-              "id": "net.fabricmc:sponge-mixin:0.17.0+mixin.0.8.7",
-              "name": "sponge-mixin",
-              "type": "Library",
-              "artifact": {
-                "size": 1505269,
-                "MD5": "d27dcb910788a0bd4bea72942a714093",
-                "SHA256": "e7889fcd185e4199052dcbcf0fe2128581cbf8630aea7feb37429667b1ba49a9",
-                "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar"
-              }
-            },
-            {
-              "id": "net.fabricmc:intermediary:1.21.4",
-              "name": "intermediary",
-              "type": "Library",
-              "artifact": {
-                "size": 701826,
-                "MD5": "d0f4187a62328d4a95f3428434efbd48",
-                "SHA256": "6aea9971d72e14f03f2c167ee2c24edd5eb0a59fc3eaedcbdf5c2ad0f0c36786",
-                "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
-              }
-            }
-          ]
-        },
-        {
-          "id": "org.modrinth:nochatreports:1.21.4-v2.11.0@jar",
-          "name": "mods/nochatreports-1.21.4-v2.11.0.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 321286,
-            "MD5": "47bd3acbbaaf09dae1c5142dc5b3f41c",
-            "SHA256": "d633096f0e702ff3f0b0d4841ece0c1c9a63caf3d585b8623f9f5d9d74502702",
-            "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/9xt05630/NoChatReports-FABRIC-1.21.4-v2.11.0.jar"
-          }
-        },
-        {
-          "id": "org.modrinth:koreanpatch:1.8.5+mc1.21.3@jar",
-          "name": "mods/koreanpatch-1.8.5+mc1.21.3.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 578977,
-            "MD5": "fcf0f59c7f45c751af04527080bc4e28",
-            "SHA256": "f9a68b4f43d7ec9ba26cd9e0219b43d36b5e2265f9f850e844d3decd708c8e03",
-            "url": "https://cdn.modrinth.com/data/qyulnpBL/versions/Bch8tAuW/koreanpatch-fabric-1.8.5%2Bmc1.21.3.jar"
-          }
-        },
-        {
-          "id": "org.modrinth:fabric-api:0.119.4+1.21.4@jar",
-          "name": "mods/fabric-api-0.119.4+1.21.4.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2149128,
-            "MD5": "128a8d042180e7c92567342e21a21a6d",
-            "SHA256": "d183bacb845167f09264c2f90322b7ecffe8826debda6f60e597889264bef4af",
-            "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/p96k10UR/fabric-api-0.119.4%2B1.21.4.jar"
-          }
-        },
-        {
-          "id": "org.modrinth:iris:1.8.8+mc1.21.4@jar",
-          "name": "mods/iris-1.8.8+mc1.21.4.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2682702,
-            "MD5": "59d373e4874efbcb8fb426bdefa588d9",
-            "SHA256": "70571b23d4de17ae380515fb4c9dadd82d96f7ec1b573553858a07bb80445da9",
-            "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/Ca054sTe/iris-fabric-1.8.8%2Bmc1.21.4.jar"
-          }
-        },
-        {
-          "id": "org.modrinth:blurserveraddress:1.2.0+mc1.21.2@jar",
-          "name": "mods/blurserveraddress-1.2.0+mc1.21.2.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 11418,
-            "MD5": "1294fe12bfc2d2dbe8e4541c27873fd2",
-            "SHA256": "a140283e286dde01b36c30f92a734bd6397e1548d5a11d9aa09a27e332afbe2a",
-            "url": "https://cdn.modrinth.com/data/559boQnq/versions/VPin7VZe/blurserveraddress-fabric-1.2.0%2Bmc1.21.2.jar"
-          }
-        },
-        {
-          "id": "org.modrinth:authme:9.0.1+1.21.4@jar",
-          "name": "mods/authme-9.0.1+1.21.4.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 376047,
-            "MD5": "3c220399e5c34dae32224818c7acaa6c",
-            "SHA256": "848eaae8ae84b2e3b567df05454d532ece707fa4754addf12d632afee3f645d3",
-            "url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/DfEuMvQ6/authme-fabric-9.0.1%2B1.21.4.jar"
-          }
-        },
-        {
-          "id": "org.modrinth:sodium:0.6.13+mc1.21.4@jar",
-          "name": "mods/sodium-0.6.13+mc1.21.4.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1306799,
-            "MD5": "28922a78d1876ee062e3265f10abcc46",
-            "SHA256": "92b79623fc00f0f948005a0ae416cb42a51646f2423b4036e27e867e4001a47e",
-            "url": "https://cdn.modrinth.com/data/AANobbMI/versions/c3YkZvne/sodium-fabric-0.6.13%2Bmc1.21.4.jar"
-          }
-        },
-        {
-          "id": "net.wurstclient.zoom:wi_zoom:1.6-MC1.21.4@jar",
-          "name": "mods/wi_zoom-1.6-MC1.21.4.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 154830,
-            "MD5": "1062016a1608823555c1bf16fafeb6cd",
-            "SHA256": "5cf262672de0159afec5ade4433d1cbe5efba2a1944cc10399a7c30efbde73a5",
-            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/launcher_v2-1.21.4/fabricmods/required/WI-Zoom-1.6-MC1.21.4.jar"
-          }
-        },
-        {
-          "id": "org.modrinth:plasmovoice:2.1.5@jar",
-          "name": "mods/plasmovoice-2.1.5.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 12191569,
-            "MD5": "dde3cf502defa8513b1fb98afbc2dd11",
-            "SHA256": "12f670957dfe838747fce1582b84e8eb70b11556693e27d0ce4dfd8eea539d03",
-            "url": "https://cdn.modrinth.com/data/1bZhdhsH/versions/vBm1h2pZ/plasmovoice-fabric-1.21.4-2.1.5.jar"
-          }
-        },
-        {
-          "id": "org.modrinth:architectury:15.0.3@jar",
-          "name": "mods/architectury-15.0.3-fabric.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 589645,
-            "MD5": "29796a5960d833cf95d6f46668c13d55",
-            "SHA256": "9e11f81ee786401a26de486a9798687559a5329fec3cd415e94fa3c3958352f3",
-            "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/73nlw3WM/architectury-15.0.3-fabric.jar"
-          }
-        },
-        {
-          "id": "kr.chacademi:chacademi_chat_layout:1.6.3-ctrlshift.1@jar",
-          "name": "mods/chacademi-chat-layout-1.6.3-ctrlshift.1.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 124127,
-            "MD5": "1a5bbfdcc0953859fe5456cfd6cb6baf",
-            "SHA256": "6648a692390c36ea1e0df01164bc39f7ec306048b477213eff9e88e43f92629e",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/chacademi-chat-layout-1.6.3-ctrlshift.1.jar"
-          }
-        },
-        {
-          "id": "kr.chacademi:chacademy_motion:0.3.1-integrated-20261018.1-followups.1@jar",
-          "name": "mods/chacademy-motion-0.3.1-integrated-20261018.1-followups.1.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1986083,
-            "MD5": "f00464fd2bc07f946867415be1401464",
-            "SHA256": "a732d523843c3efaf5994155736f146d222aac4f00bfa6610e73fc6f0e675321",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-followups-20261020/chacademy-motion-0.3.1-integrated-20261018.1-followups.1.jar"
-          }
-        },
-        {
-          "id": "org.modrinth:chatplus:2.8.1@jar",
-          "name": "mods/chatplus-fabric-2.8.1.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 26907867,
-            "MD5": "b3b0ff00e23c339f939d44ff1bf8a9d8",
-            "SHA256": "8f8509ad9e1c1a52a0efe38c507bfbb710235e2f4d66412ead001d7da7479f9b",
-            "url": "https://cdn.modrinth.com/data/cJlZ132G/versions/87l7ajmu/chatplus-fabric-2.8.1.jar"
-          }
-        },
-        {
-          "id": "org.modrinth:fabric-language-kotlin:1.13.6+kotlin.2.2.20@jar",
-          "name": "mods/fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 7479598,
-            "MD5": "c1d19e5d8b325b55c11c767468005aa2",
-            "SHA256": "62c2773380fae0ce5cd01e6cfbdc34f6a2d42fd0734e5996e261bf7d8bf12ce3",
-            "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/i6MmXDwA/fabric-language-kotlin-1.13.6%2Bkotlin.2.2.20.jar"
-          }
-        },
-        {
-          "id": "org.modrinth:forgeconfigapiport:21.4.3@jar",
-          "name": "mods/ForgeConfigAPIPort-v21.4.3-1.21.4-Fabric.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 644183,
-            "MD5": "dbda05e27f5b2710d991196c66261df1",
-            "SHA256": "4e1c10e96a1a7f80bd988823f151db0da7eb073cf825c1d9ca3140013a638b10",
-            "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/SSKF75hc/ForgeConfigAPIPort-v21.4.3-1.21.4-Fabric.jar"
-          }
-        },
-        {
-          "id": "kr.chacademi:magiccodex:0.40.4-hudreset.20261024+mc1.21.4@jar",
-          "name": "mods/magic-codex-ui-hudreset-20261024+mc1.21.4.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 342302810,
-            "MD5": "ab09e78d682fdae9feb9964f23a835ed",
-            "SHA256": "064fd89b086846948fe9c126bd8346e7735958c33270806b55daa39812f08e37",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-hud-reset-magickeys-20261024-task9/magic-codex-ui-hudreset-20261024%2Bmc1.21.4.jar"
-          }
-        },
-        {
-          "id": "org.modrinth:playeranimator:2.0.5+1.21.4@jar",
-          "name": "mods/player-animation-lib-fabric-2.0.5+1.21.4.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 202859,
-            "MD5": "4298800d4a528daa4df8135b1a37721d",
-            "SHA256": "3be94302d070f01222ada581def30a6aad142f36ef83890db5499715aea720d9",
-            "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/ZTeZ33xQ/player-animation-lib-fabric-2.0.5%2B1.21.4.jar"
-          }
-        },
-        {
-          "id": "kr.chacademi:portablevfx:3.2.4-drop-rarity.1-warmup.1@jar",
-          "name": "mods/portable-vfx-client-3.2.4-drop-rarity.1-warmup.1.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 433164,
-            "MD5": "4ba66450238401768865c721c27cc485",
-            "SHA256": "6088bbfd8c844512f6015eccfb496ae55bb84989c459f2834682b4f8bf24a318",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/portable-vfx-client-3.2.4-drop-rarity.1-warmup.1.jar"
-          }
-        },
-        {
-          "id": "chacademi-pet-models.zip",
-          "name": "config/magiccodex/pets/pets-models.zip",
-          "type": "File",
-          "artifact": {
-            "size": 12102506,
-            "MD5": "227e1567f6785cf53d77cacd7c1736f7",
-            "SHA256": "b96250e19438ea24e20cb1d4612d4636428a0f1a2af0e08789766d541f940fe1",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/pets-models.zip",
-            "path": "config/magiccodex/pets/pets-models.zip"
-          }
-        },
-        {
-          "id": "chacademi-client-assets.zip",
-          "name": "config/magiccodex/launcher/client-assets.zip",
-          "type": "File",
-          "artifact": {
-            "size": 752775023,
-            "MD5": "9f7403500c5a1524fa79264671d0938b",
-            "SHA256": "87f00418c642a2942cfd3df72f1ac419fcd44b5d57a0b5669a64330a7e2268c8",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.21/client-assets-manifest-fix-20261020.zip",
-            "path": "config/magiccodex/launcher/client-assets.zip"
-          },
-          "updatePolicy": "managed"
-        },
-        {
-          "id": "shaderpacks/ComplementaryUnbound_r5.5.1.zip",
-          "name": "shaderpacks/ComplementaryUnbound_r5.5.1.zip",
-          "type": "File",
-          "artifact": {
-            "size": 456332,
-            "MD5": "576ef06da170458879f3a03e685d487a",
-            "SHA256": "61d133b24b6a92e46a3d7df791bb2ff163bbba10eed59df979b9bd727c24fbaf",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/ComplementaryUnbound_r5.5.1.zip",
-            "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
-          }
-        },
-        {
-          "id": "config/chacademi-chat-layout.json",
-          "name": "config/chacademi-chat-layout.json",
-          "type": "File",
-          "artifact": {
-            "size": 480,
-            "MD5": "18bc20fe562b803d8eb9c515d2e7aa4d",
-            "SHA256": "a65f51edcbbe2e8729f01b94957e403c3f8667117cbafa5e7a25912b1d34d29b",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/chacademi-chat-layout.json",
-            "path": "config/chacademi-chat-layout.json"
-          },
-          "updatePolicy": "seed"
-        },
-        {
-          "id": "config/chatplus/chatplus-v2.7.0.json",
-          "name": "config/chatplus/chatplus-v2.7.0.json",
-          "type": "File",
-          "artifact": {
-            "size": 16659,
-            "MD5": "6fec3b5682352b6e25bae0179dc5ddec",
-            "SHA256": "996204f73e9d7fe128d8ecfb9fdd335c4e872e72fae71827dfacb5d543bdae1e",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/chatplus-v2.7.0.json",
-            "path": "config/chatplus/chatplus-v2.7.0.json"
-          },
-          "updatePolicy": "seed"
-        },
-        {
-          "id": "config/DistantHorizons.toml",
-          "name": "config/DistantHorizons.toml",
-          "type": "File",
-          "artifact": {
-            "size": 37984,
-            "MD5": "cd3689daa6e7bbc7ec8e3c9642082870",
-            "SHA256": "a05f00184c816ed36b5ee453fa427aad99b60e2d4ffe314dab68f119dc1a4ad6",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/DistantHorizons.toml",
-            "path": "config/DistantHorizons.toml"
-          },
-          "updatePolicy": "seed"
-        },
-        {
-          "id": "config/forgeconfigapiport.toml",
-          "name": "config/forgeconfigapiport.toml",
-          "type": "File",
-          "artifact": {
-            "size": 523,
-            "MD5": "80b3cd8edc58e5849bf5a7a0c48bd4ef",
-            "SHA256": "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/forgeconfigapiport.toml",
-            "path": "config/forgeconfigapiport.toml"
-          },
-          "updatePolicy": "seed"
-        },
-        {
-          "id": "config/iris-excluded.json",
-          "name": "config/iris-excluded.json",
-          "type": "File",
-          "artifact": {
-            "size": 31,
-            "MD5": "670592b1394f12ab96d8432f14ac8dd9",
-            "SHA256": "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/iris-excluded.json",
-            "path": "config/iris-excluded.json"
-          },
-          "updatePolicy": "seed"
-        },
-        {
-          "id": "config/iris.properties",
-          "name": "config/iris.properties",
-          "type": "File",
-          "artifact": {
-            "path": "config/iris.properties",
-            "size": 312,
-            "MD5": "6b0a86937c994275598923efaece6077",
-            "SHA256": "d1b0050b3955f6823a7a42d88896dc71d1935260789b4b39334dab19be2da584",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.22/iris.properties"
-          },
-          "updatePolicy": "seed"
-        },
-        {
-          "id": "config/koreanpatch.json5",
-          "name": "config/koreanpatch.json5",
-          "type": "File",
-          "artifact": {
-            "size": 1513,
-            "MD5": "db57d63145cae2aa9d67e8b160151008",
-            "SHA256": "0b9f2cbe0343ff078bc1966257f6e30d5ef1a13b77e1ef4e19762d1dd4671dcc",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/koreanpatch.json5",
-            "path": "config/koreanpatch.json5"
-          },
-          "updatePolicy": "seed"
-        },
-        {
-          "id": "config/magiccodex/key-settings.yml",
-          "name": "config/magiccodex/key-settings.yml",
-          "type": "File",
-          "artifact": {
-            "size": 230,
-            "MD5": "fc95ad52fecfdfd6115e68702860dbda",
-            "SHA256": "424be5731ad2d5063f1f9f70342a77a239c8c2ab585139b790b61f440e0c7ece",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-hud-reset-magickeys-20261024-task9/key-settings.yml",
-            "path": "config/magiccodex/key-settings.yml"
-          },
-          "updatePolicy": "seed"
-        },
-        {
-          "id": "config/portablevfx/bloom.properties",
-          "name": "config/portablevfx/bloom.properties",
-          "type": "File",
-          "artifact": {
-            "size": 113,
-            "MD5": "ea90cd1ea7cd290130a1fa5093824840",
-            "SHA256": "f1994fa57a188a84db9462e851e75752bcb2d72bd065cbdff648e835c8011a71",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/bloom.properties",
-            "path": "config/portablevfx/bloom.properties"
-          },
-          "updatePolicy": "seed"
-        },
-        {
-          "id": "config/portablevfx/load-limits.properties",
-          "name": "config/portablevfx/load-limits.properties",
-          "type": "File",
-          "artifact": {
-            "size": 205,
-            "MD5": "bad1d853d68242032ad5399657aa3e4c",
-            "SHA256": "07e513140ccbf6e80decbe9bf6702d63c7f9042d4a79ba5e425a4067b4bb1105",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.19/load-limits.properties",
-            "path": "config/portablevfx/load-limits.properties"
-          },
-          "updatePolicy": "seed",
-          "vfxCatalogLimits": {
-            "encodedCacheMiB": 512,
-            "systems": 4096
-          }
-        },
-        {
-          "id": "config/sodium-mixins.properties",
-          "name": "config/sodium-mixins.properties",
-          "type": "File",
-          "artifact": {
-            "size": 258,
-            "MD5": "a5b6a84e034d60be869ae33f2dba4e2b",
-            "SHA256": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/sodium-mixins.properties",
-            "path": "config/sodium-mixins.properties"
-          },
-          "updatePolicy": "seed"
-        },
-        {
-          "id": "config/sodium-options.json",
-          "name": "config/sodium-options.json",
-          "type": "File",
-          "artifact": {
-            "size": 685,
-            "MD5": "aa01ef19d7217fbb88ed03f737384c66",
-            "SHA256": "00c7dd465e12693baeb0f9844848eb087f627d98827df51111b080af462d7d73",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/sodium-options.json",
-            "path": "config/sodium-options.json"
-          },
-          "updatePolicy": "seed"
-        },
-        {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 7393,
-            "MD5": "387a18d8db87f52f554582e9220620e0",
-            "SHA256": "029bebca6ce06807344846ec6f960401ed59d4cb7e60f90e4b28fd50ea64cd9a",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/options.txt",
-            "path": "options.txt"
-          },
-          "updatePolicy": "seed"
-        },
-        {
-          "id": "dev.chacademi:starlight_loading:1.0.0@jar",
-          "name": "mods/starlight-loading-1.0.0.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 23982219,
-            "MD5": "96fa2042b9f51994feb328040650869e",
-            "SHA256": "0b048ad02237b0ecc6322e29197f2d86dd21714e18d0d5a14c00a95435d5d528",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.1/starlight-loading-1.0.0.jar"
-          }
-        },
-        {
-          "id": "kr.chacademi:chaca_story:0.1.5-guide.20261024@jar",
-          "name": "mods/chacademy-story-final-guide-20261024.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 959491,
-            "MD5": "85f828e832b742e6bea136d165210b21",
-            "SHA256": "feaf0eada6b9a474e8b9a83621b6c286720d3d073c0680c476d93cff5da45c1f",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/chacademy-story-final-guide-20261024.jar"
-          }
-        },
-        {
-          "id": "config/chaca_cutscene/ch1_ashen_night/cutscene.yml",
-          "name": "config/chaca_cutscene/ch1_ashen_night/cutscene.yml",
-          "type": "File",
-          "updatePolicy": "seed",
-          "artifact": {
-            "path": "config/chaca_cutscene/ch1_ashen_night/cutscene.yml",
-            "size": 2665,
-            "MD5": "ed5a9238ed6c0fc5301241b6acb78fc8",
-            "SHA256": "05e43cf8f978f51827fe1e21f460faa87b707d5529e637cccfdaa3073e8b5c1d",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__cutscene.yml"
-          }
-        },
-        {
-          "id": "config/chaca_cutscene/ch1_ashen_night/bgm.ogg",
-          "name": "config/chaca_cutscene/ch1_ashen_night/bgm.ogg",
-          "type": "File",
-          "updatePolicy": "seed",
-          "artifact": {
-            "path": "config/chaca_cutscene/ch1_ashen_night/bgm.ogg",
-            "size": 1853552,
-            "MD5": "d17cb911e2cc080e441a1aa2e4906bbe",
-            "SHA256": "3745bd4b5dab9f5c42282ae83b132a16435ff6e05b7575180b397c620bfd6911",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__bgm.ogg"
-          }
-        },
-        {
-          "id": "config/chaca_cutscene/ch1_ashen_night/s1_1.png",
-          "name": "config/chaca_cutscene/ch1_ashen_night/s1_1.png",
-          "type": "File",
-          "updatePolicy": "seed",
-          "artifact": {
-            "path": "config/chaca_cutscene/ch1_ashen_night/s1_1.png",
-            "size": 2228421,
-            "MD5": "66c4d21cf12fdb6d94197a5727a5300d",
-            "SHA256": "2c4b957d314ebf26c922d31d7256b1c72dae842ef30ff8c32d2241209a7ef261",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s1_1.png"
-          }
-        },
-        {
-          "id": "config/chaca_cutscene/ch1_ashen_night/s2_1.png",
-          "name": "config/chaca_cutscene/ch1_ashen_night/s2_1.png",
-          "type": "File",
-          "updatePolicy": "seed",
-          "artifact": {
-            "path": "config/chaca_cutscene/ch1_ashen_night/s2_1.png",
-            "size": 2710730,
-            "MD5": "34ee43c68e6a8274d4d1e3c08661120d",
-            "SHA256": "27efa8418c94b473418ff01a2f8d41406ed78e4076838864b194c7697eaacd9e",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s2_1.png"
-          }
-        },
-        {
-          "id": "config/chaca_cutscene/ch1_ashen_night/s3_1.png",
-          "name": "config/chaca_cutscene/ch1_ashen_night/s3_1.png",
-          "type": "File",
-          "updatePolicy": "seed",
-          "artifact": {
-            "path": "config/chaca_cutscene/ch1_ashen_night/s3_1.png",
-            "size": 2215031,
-            "MD5": "ca7ce4c41d7629d817b4ddb2ed7bc4e5",
-            "SHA256": "53650e999b5ec9d1105f19598a1fd2c994900dee5806493e46d04ed64cba2003",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s3_1.png"
-          }
-        },
-        {
-          "id": "config/chaca_cutscene/ch1_ashen_night/s4_1.png",
-          "name": "config/chaca_cutscene/ch1_ashen_night/s4_1.png",
-          "type": "File",
-          "updatePolicy": "seed",
-          "artifact": {
-            "path": "config/chaca_cutscene/ch1_ashen_night/s4_1.png",
-            "size": 2129580,
-            "MD5": "0d3f8b0b23d28d831ed9e557eb6ca9b1",
-            "SHA256": "d5708cb9e430ec3752b0e3b2d9e57424d92c65f74d88dc424d982c7b87659087",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s4_1.png"
-          }
-        },
-        {
-          "id": "config/chaca_cutscene/ch1_ashen_night/s5_1.png",
-          "name": "config/chaca_cutscene/ch1_ashen_night/s5_1.png",
-          "type": "File",
-          "updatePolicy": "seed",
-          "artifact": {
-            "path": "config/chaca_cutscene/ch1_ashen_night/s5_1.png",
-            "size": 2289406,
-            "MD5": "463eb512ee5d97bc02d23b9fe05c2e07",
-            "SHA256": "cb6ed8883aace9a929a5371996f8f558c89682124f68ace7a03d3cc59163c5db",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s5_1.png"
-          }
-        },
-        {
-          "id": "config/chaca_cutscene/ch1_ashen_night/s6_1.png",
-          "name": "config/chaca_cutscene/ch1_ashen_night/s6_1.png",
-          "type": "File",
-          "updatePolicy": "seed",
-          "artifact": {
-            "path": "config/chaca_cutscene/ch1_ashen_night/s6_1.png",
-            "size": 2418993,
-            "MD5": "f260f574fb9f56e98afb8abe82ccf329",
-            "SHA256": "75f0bf9a7bc5539d707cf2c555c29692da91c5567b285ded3d56d963406c2e53",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s6_1.png"
-          }
-        },
-        {
-          "id": "config/chaca_cutscene/ch1_ashen_night/s7_1.png",
-          "name": "config/chaca_cutscene/ch1_ashen_night/s7_1.png",
-          "type": "File",
-          "updatePolicy": "seed",
-          "artifact": {
-            "path": "config/chaca_cutscene/ch1_ashen_night/s7_1.png",
-            "size": 2301729,
-            "MD5": "4a6a4a7a035c10895f3f35062a9a674a",
-            "SHA256": "fbc219711b3c078c32859bbead193171dcc71236316b45c321c3de42b1be207a",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s7_1.png"
-          }
-        },
-        {
-          "id": "config/chaca_cutscene/ch1_ashen_night/s8_1.png",
-          "name": "config/chaca_cutscene/ch1_ashen_night/s8_1.png",
-          "type": "File",
-          "updatePolicy": "seed",
-          "artifact": {
-            "path": "config/chaca_cutscene/ch1_ashen_night/s8_1.png",
-            "size": 2256448,
-            "MD5": "1062cc4e1831be27f2b453b724a25e0b",
-            "SHA256": "01c164d8a5168bc3b02013098f17adec4042463249ed741dc80b0b3b9d3089bf",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s8_1.png"
-          }
-        },
-        {
-          "id": "config/chaca_cutscene/ch1_ashen_night/s9_1.png",
-          "name": "config/chaca_cutscene/ch1_ashen_night/s9_1.png",
-          "type": "File",
-          "updatePolicy": "seed",
-          "artifact": {
-            "path": "config/chaca_cutscene/ch1_ashen_night/s9_1.png",
-            "size": 2131897,
-            "MD5": "f117f6e389cb0cd282eb261629ac56f3",
-            "SHA256": "2de6c0418e7884dd425bcc8d7a0c1a8c85e8c8b563645acce4857ed0b6723ea8",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__ch1_ashen_night__s9_1.png"
-          }
-        },
-        {
-          "id": "config/chaca_cutscene/magic_tutorial/s1_1.png",
-          "name": "config/chaca_cutscene/magic_tutorial/s1_1.png",
-          "type": "File",
-          "updatePolicy": "seed",
-          "artifact": {
-            "path": "config/chaca_cutscene/magic_tutorial/s1_1.png",
-            "size": 1612097,
-            "MD5": "f57600543f28776cdd0ad5138a80f83c",
-            "SHA256": "d72f7835e660b89798ec02cc291e60e8b4f8483567d321e4efbaf64ed44b0ca0",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__magic_tutorial__s1_1.png"
-          }
-        },
-        {
-          "id": "config/chaca_cutscene/magic_tutorial/s2_1.png",
-          "name": "config/chaca_cutscene/magic_tutorial/s2_1.png",
-          "type": "File",
-          "updatePolicy": "seed",
-          "artifact": {
-            "path": "config/chaca_cutscene/magic_tutorial/s2_1.png",
-            "size": 2082585,
-            "MD5": "80d2e90d20dd2a727016f9c6bb314fce",
-            "SHA256": "f822c1ad906bfbec264deeba0898c9b9cbdd8ee2b73fb065c45e06e89db229e7",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__magic_tutorial__s2_1.png"
-          }
-        },
-        {
-          "id": "config/chaca_cutscene/magic_tutorial/s3_1.png",
-          "name": "config/chaca_cutscene/magic_tutorial/s3_1.png",
-          "type": "File",
-          "updatePolicy": "seed",
-          "artifact": {
-            "path": "config/chaca_cutscene/magic_tutorial/s3_1.png",
-            "size": 1606160,
-            "MD5": "82e81a6aa6acdba4904898354983525f",
-            "SHA256": "abaa065768cbc791596181d6e75a9095b24c8e5b356a9caf6efa42a94e1fbb0c",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-20261014/config__chaca_cutscene__magic_tutorial__s3_1.png"
-          }
-        },
-        {
-          "id": "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
-          "name": "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
-          "type": "File",
-          "artifact": {
-            "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
-            "size": 278,
-            "MD5": "1f19926f5614f0196ba4f47eba958bf6",
-            "SHA256": "d9a586507270a03fc9d6e8f074a87a9d183eabe2b265502405ed36e47bff185b",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.22/ComplementaryUnbound_r5.5.1.zip.txt"
-          },
-          "updatePolicy": "seed"
-        },
-        {
-          "id": "config/magiccodex/launcher/shader-defaults-20261020.json",
-          "name": "config/magiccodex/launcher/shader-defaults-20261020.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/magiccodex/launcher/shader-defaults-20261020.json",
-            "size": 701,
-            "MD5": "777c9ff29653106f9fc5bbf78c66171e",
-            "SHA256": "f01b8b8c86212889b10cf5c37f4afc2f0d4b21c76b5e565f89deb67528f0b4c2",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.22/shader-defaults-20261020.json"
-          },
-          "updatePolicy": "managed",
-          "managedReason": "Immutable one-time shader migration input. User shader settings remain seed-managed; a per-revision marker prevents repeated overrides."
-        },
-        {
-          "id": "kr.chacademi:chacademi_npc_model:0.1.1-npcmodel.4@jar",
-          "name": "mods/chacademi-npc-model-0.1.1-npcmodel.4.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 159300,
-            "MD5": "8f68d46523afb08720ba5b1740935a35",
-            "SHA256": "d24c5fb68ad0f98579b7e07c0914a524e4b0d725ff6fbdbce901a02251a166c9",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/chacademi-npc-model-0.1.1-npcmodel.4.jar"
-          }
-        },
-        {
-          "id": "chacademi/npc-models/luka.glb",
-          "name": "chacademi/npc-models/luka.glb",
-          "type": "File",
-          "artifact": {
-            "size": 3436372,
-            "MD5": "4a097f7d7663b390b6f0d9ae9fe37f3f",
-            "SHA256": "ef446e711624bdc43a675b98719dfda51c3e38f3cda347a5a7a32f59651de574",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-model-20261021/luka.glb",
-            "path": "chacademi/npc-models/luka.glb"
-          },
-          "updatePolicy": "managed"
-        },
-        {
-          "id": "chacademi/npc-models/captain_bram.glb",
-          "name": "chacademi/npc-models/captain_bram.glb",
-          "type": "File",
-          "artifact": {
-            "size": 3081580,
-            "MD5": "6f03f6d4c46c59fbcfc7494d50c824e1",
-            "SHA256": "6ca32b58d299b4716e6c3540bd7a18fbe0dad6d85373fd386dbfce374a7cf52a",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/captain_bram.glb",
-            "path": "chacademi/npc-models/captain_bram.glb"
-          }
-        },
-        {
-          "id": "chacademi/npc-models/models.json",
-          "name": "chacademi/npc-models/models.json",
-          "type": "File",
-          "artifact": {
-            "size": 2375,
-            "MD5": "2ff6d2788aec9d5386adc6afa404181e",
-            "SHA256": "2440b2ba490da747050ca64db2497ca13b7e6412c84b40489cc2bbad3eb11c92",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-ratio-revert-20261023/models.json",
-            "path": "chacademi/npc-models/models.json"
-          },
-          "updatePolicy": "managed"
-        },
-        {
-          "id": "chacademi/npc-models/ria.glb",
-          "name": "chacademi/npc-models/ria.glb",
-          "type": "File",
-          "artifact": {
-            "size": 5375124,
-            "MD5": "d4f74f7e7745e5bd41465b10ef4ec030",
-            "SHA256": "2b2d189e6f8210e8fb1e2027467e7008487a54ed149f15cef06efb67a6a0a2dd",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-nameplates-models-20261022-task7/chacademi__npc-models__ria.glb",
-            "path": "chacademi/npc-models/ria.glb"
-          },
-          "updatePolicy": "managed"
-        },
-        {
-          "id": "chacademi/npc-models/teacher_ellna.glb",
-          "name": "chacademi/npc-models/teacher_ellna.glb",
-          "type": "File",
-          "artifact": {
-            "size": 3167272,
-            "MD5": "33f498a14f50528a13471c33efc06aac",
-            "SHA256": "a0540634047d6e21485e51267fa26c09617f1b1b45f90d2fd04cd5e552fafdbe",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/teacher_ellna.glb",
-            "path": "chacademi/npc-models/teacher_ellna.glb"
-          }
-        },
-        {
-          "id": "config/chaca_cutscene/magic_tutorial/cutscene.yml",
-          "name": "config/chaca_cutscene/magic_tutorial/cutscene.yml",
-          "type": "File",
-          "updatePolicy": "seed",
-          "artifact": {
-            "path": "config/chaca_cutscene/magic_tutorial/cutscene.yml",
-            "size": 913,
-            "MD5": "5a3074f7e907cac290ae614c8a6323da",
-            "SHA256": "e19817688cf718936f239563f2b006c9fcb9881fcf419e9606c4a75656c60ab5",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-nameplates-models-20261022-task7/config__chaca_cutscene__magic_tutorial__cutscene.yml"
-          }
-        },
-        {
-          "id": "chacademi/npc-models/pipi.glb",
-          "name": "chacademi/npc-models/pipi.glb",
-          "type": "File",
-          "artifact": {
-            "size": 4274848,
-            "MD5": "5a9fc60f7a19005f5c25c97dd0162c47",
-            "SHA256": "28800e9c4dec368e48360032af1142115af7f5b077c04d3ad75df9b27a35337d",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-lowell-pipi-20261022-task7/pipi.glb",
-            "path": "chacademi/npc-models/pipi.glb"
-          }
-        },
-        {
-          "id": "chacademi/npc-models/dorm_lowell.glb",
-          "name": "chacademi/npc-models/dorm_lowell.glb",
-          "type": "File",
-          "artifact": {
-            "size": 2697960,
-            "MD5": "b4c6576da1188175a22296b65ad60e22",
-            "SHA256": "3369e416d8d7d6cd9295951ec56a1c2f30e424ace1c0c6d668073b19019a1ad9",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-lowell-pipi-20261022-task7/dorm_lowell.glb",
-            "path": "chacademi/npc-models/dorm_lowell.glb"
-          }
-        },
-        {
-          "id": "chacademi/npc-models/wizard_statue.glb",
-          "name": "chacademi/npc-models/wizard_statue.glb",
-          "type": "File",
-          "artifact": {
-            "size": 1763852,
-            "MD5": "c79e5c1a5404ade8250154dab24b562f",
-            "SHA256": "def88e0f01b095b82185990a3ceb725ba816154d3b3fee7fa3faf0d03f7bd743",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-wizard-statue-20261022-task7/wizard_statue.glb",
-            "path": "chacademi/npc-models/wizard_statue.glb"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/CommonDrop/NOTES.md",
-          "name": "config/portablevfx/effects/CommonDrop/NOTES.md",
-          "type": "File",
-          "artifact": {
-            "size": 725,
-            "SHA256": "cfd1a1c20efed713bacf016c708bab36ebdf0f47180a5261c8941dc819c5b6ef",
-            "MD5": "894abce0b3c22dbc69a9929bde57c630",
-            "path": "config/portablevfx/effects/CommonDrop/NOTES.md",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__NOTES.md"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/CommonDrop/textures/T_Beam.png",
-          "name": "config/portablevfx/effects/CommonDrop/textures/T_Beam.png",
-          "type": "File",
-          "artifact": {
-            "size": 17856,
-            "SHA256": "27c6d6a44d6e96b0c987fef9ca6aeee86d04b3518849bfaf221f8687d6045afc",
-            "MD5": "a4081403c97b84f09d442e1fd115e1cf",
-            "path": "config/portablevfx/effects/CommonDrop/textures/T_Beam.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__textures__T_Beam.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/CommonDrop/textures/T_Dot.png",
-          "name": "config/portablevfx/effects/CommonDrop/textures/T_Dot.png",
-          "type": "File",
-          "artifact": {
-            "size": 3039,
-            "SHA256": "36fa041c3d036aa58412cfe53373ba263a72b2b42756658bae0e676f871543fb",
-            "MD5": "81ecde7874838aa30e39e2546b80d6db",
-            "path": "config/portablevfx/effects/CommonDrop/textures/T_Dot.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__textures__T_Dot.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/CommonDrop/textures/T_Glow.png",
-          "name": "config/portablevfx/effects/CommonDrop/textures/T_Glow.png",
-          "type": "File",
-          "artifact": {
-            "size": 4770,
-            "SHA256": "e1e2b607ff15171631afd178ad3ae8176f49d5a8664674ab7df078eb159fa924",
-            "MD5": "20765eb333dc5133d2d8085d69807d20",
-            "path": "config/portablevfx/effects/CommonDrop/textures/T_Glow.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__textures__T_Glow.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/CommonDrop/textures/T_Line.png",
-          "name": "config/portablevfx/effects/CommonDrop/textures/T_Line.png",
-          "type": "File",
-          "artifact": {
-            "size": 295,
-            "SHA256": "ac43e5d23d530cee01e59e208c9d05ffad4a54337b21b386d66c0f8f34742196",
-            "MD5": "f13136712c434ec99911c3387a7caf07",
-            "path": "config/portablevfx/effects/CommonDrop/textures/T_Line.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__textures__T_Line.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/CommonDrop/textures/T_Sigil.png",
-          "name": "config/portablevfx/effects/CommonDrop/textures/T_Sigil.png",
-          "type": "File",
-          "artifact": {
-            "size": 69870,
-            "SHA256": "adf339b182f4262929bf757c6913407bd01cef13df8552375dbaca0c394d6d94",
-            "MD5": "b7d1f256ea85aff2077344a1ee114338",
-            "path": "config/portablevfx/effects/CommonDrop/textures/T_Sigil.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__textures__T_Sigil.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/CommonDrop/textures/T_Star4.png",
-          "name": "config/portablevfx/effects/CommonDrop/textures/T_Star4.png",
-          "type": "File",
-          "artifact": {
-            "size": 6024,
-            "SHA256": "ae1c3de00fe942c51b3b59b692e9a93c59bac9f6b37d75c86a9407f71724b146",
-            "MD5": "8787a5a4300b49c4bc92c51fb66e6764",
-            "path": "config/portablevfx/effects/CommonDrop/textures/T_Star4.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__textures__T_Star4.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/CommonDrop/vfx.json",
-          "name": "config/portablevfx/effects/CommonDrop/vfx.json",
-          "type": "File",
-          "artifact": {
-            "size": 86726,
-            "SHA256": "d88b20b459387c2f88960593139905b8bd64508ab7788f2f80c537114d0530f3",
-            "MD5": "cea68ceb3292bb74cbd7fe7766f202e0",
-            "path": "config/portablevfx/effects/CommonDrop/vfx.json",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-CommonDrop__vfx.json"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/RareDrop/NOTES.md",
-          "name": "config/portablevfx/effects/RareDrop/NOTES.md",
-          "type": "File",
-          "artifact": {
-            "size": 721,
-            "SHA256": "d8e44b89ddf15dae50ff4f496c0b4c2b2ccdb5055ebbc981c9f7b5516f8229a1",
-            "MD5": "8d77245bbf19529f43a701db9e0382ce",
-            "path": "config/portablevfx/effects/RareDrop/NOTES.md",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__NOTES.md"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/RareDrop/textures/T_Beam.png",
-          "name": "config/portablevfx/effects/RareDrop/textures/T_Beam.png",
-          "type": "File",
-          "artifact": {
-            "size": 18819,
-            "SHA256": "b3f439b340f2ddc1be6956b1b05dc840068b6e26ac4938fb62d691e21601c933",
-            "MD5": "01f015af752d0bb31d5235bde578f30c",
-            "path": "config/portablevfx/effects/RareDrop/textures/T_Beam.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Beam.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/RareDrop/textures/T_Dot.png",
-          "name": "config/portablevfx/effects/RareDrop/textures/T_Dot.png",
-          "type": "File",
-          "artifact": {
-            "size": 3039,
-            "SHA256": "36fa041c3d036aa58412cfe53373ba263a72b2b42756658bae0e676f871543fb",
-            "MD5": "81ecde7874838aa30e39e2546b80d6db",
-            "path": "config/portablevfx/effects/RareDrop/textures/T_Dot.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Dot.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/RareDrop/textures/T_Glow.png",
-          "name": "config/portablevfx/effects/RareDrop/textures/T_Glow.png",
-          "type": "File",
-          "artifact": {
-            "size": 4770,
-            "SHA256": "e1e2b607ff15171631afd178ad3ae8176f49d5a8664674ab7df078eb159fa924",
-            "MD5": "20765eb333dc5133d2d8085d69807d20",
-            "path": "config/portablevfx/effects/RareDrop/textures/T_Glow.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Glow.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/RareDrop/textures/T_Line.png",
-          "name": "config/portablevfx/effects/RareDrop/textures/T_Line.png",
-          "type": "File",
-          "artifact": {
-            "size": 303,
-            "SHA256": "593c9667bba569dc2864249df213b029cbdc683938ad12ee7288325fa59e45c6",
-            "MD5": "3f3f52f0b261b235f9a1bb16f74f57d2",
-            "path": "config/portablevfx/effects/RareDrop/textures/T_Line.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Line.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/RareDrop/textures/T_Ornament.png",
-          "name": "config/portablevfx/effects/RareDrop/textures/T_Ornament.png",
-          "type": "File",
-          "artifact": {
-            "size": 45748,
-            "SHA256": "ef66568445e966c7e2e386ea9528d5e1757e1e8724574d088b89c32be50e6603",
-            "MD5": "405b64ca5fadbc34915719b4804b54cc",
-            "path": "config/portablevfx/effects/RareDrop/textures/T_Ornament.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Ornament.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/RareDrop/textures/T_Sigil.png",
-          "name": "config/portablevfx/effects/RareDrop/textures/T_Sigil.png",
-          "type": "File",
-          "artifact": {
-            "size": 72695,
-            "SHA256": "e08ee2dba1a1c385b6be427d7424e87e4003352be7a01329b4bbe5bf69f6e302",
-            "MD5": "683e3b43e97547d2ab9b1b4532b0a7f1",
-            "path": "config/portablevfx/effects/RareDrop/textures/T_Sigil.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Sigil.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/RareDrop/textures/T_Star4.png",
-          "name": "config/portablevfx/effects/RareDrop/textures/T_Star4.png",
-          "type": "File",
-          "artifact": {
-            "size": 6156,
-            "SHA256": "67ff81db9a54694674bee50896e9d8461ffdd56f72fc3446dd948c1724b5cff0",
-            "MD5": "6fb7fee29ecb9f4048a67b86c08ccd9f",
-            "path": "config/portablevfx/effects/RareDrop/textures/T_Star4.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Star4.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/RareDrop/textures/T_Streak.png",
-          "name": "config/portablevfx/effects/RareDrop/textures/T_Streak.png",
-          "type": "File",
-          "artifact": {
-            "size": 2416,
-            "SHA256": "8b9a4f295c03b40243d61771fd93ab8afa8e5e0e615985cbd86098440fcd2bd8",
-            "MD5": "d7542c5e9d9186e5c3ba400263cd225e",
-            "path": "config/portablevfx/effects/RareDrop/textures/T_Streak.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__textures__T_Streak.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/RareDrop/vfx.json",
-          "name": "config/portablevfx/effects/RareDrop/vfx.json",
-          "type": "File",
-          "artifact": {
-            "size": 191172,
-            "SHA256": "ccf2d8d99f0214f73a78dde6863f7ca2ad7cfcff6d95ca46004631f86d901059",
-            "MD5": "2723d72fff6327dad2b7f892a0c07ca8",
-            "path": "config/portablevfx/effects/RareDrop/vfx.json",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-RareDrop__vfx.json"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/UniqueDrop/NOTES.md",
-          "name": "config/portablevfx/effects/UniqueDrop/NOTES.md",
-          "type": "File",
-          "artifact": {
-            "size": 725,
-            "SHA256": "7271b17f0334b6f51a6afdcb54cf2a6710aab029971286518409821011f20128",
-            "MD5": "e60cf22b57903eb6ec60813095c3d322",
-            "path": "config/portablevfx/effects/UniqueDrop/NOTES.md",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__NOTES.md"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/UniqueDrop/textures/T_Beam.png",
-          "name": "config/portablevfx/effects/UniqueDrop/textures/T_Beam.png",
-          "type": "File",
-          "artifact": {
-            "size": 18340,
-            "SHA256": "2f2e65cc2f706feae6d987832d16e8e50afa36c76499e79a3ff0037a4e3be95c",
-            "MD5": "63413bfc6d6061e62c7ddd901123827b",
-            "path": "config/portablevfx/effects/UniqueDrop/textures/T_Beam.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Beam.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/UniqueDrop/textures/T_Dot.png",
-          "name": "config/portablevfx/effects/UniqueDrop/textures/T_Dot.png",
-          "type": "File",
-          "artifact": {
-            "size": 3039,
-            "SHA256": "36fa041c3d036aa58412cfe53373ba263a72b2b42756658bae0e676f871543fb",
-            "MD5": "81ecde7874838aa30e39e2546b80d6db",
-            "path": "config/portablevfx/effects/UniqueDrop/textures/T_Dot.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Dot.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/UniqueDrop/textures/T_Glow.png",
-          "name": "config/portablevfx/effects/UniqueDrop/textures/T_Glow.png",
-          "type": "File",
-          "artifact": {
-            "size": 4770,
-            "SHA256": "e1e2b607ff15171631afd178ad3ae8176f49d5a8664674ab7df078eb159fa924",
-            "MD5": "20765eb333dc5133d2d8085d69807d20",
-            "path": "config/portablevfx/effects/UniqueDrop/textures/T_Glow.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Glow.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/UniqueDrop/textures/T_Line.png",
-          "name": "config/portablevfx/effects/UniqueDrop/textures/T_Line.png",
-          "type": "File",
-          "artifact": {
-            "size": 295,
-            "SHA256": "ecfcf06e3c21940dfcc5b96c10795f3a8092139e33b8017a157ddf2fece2cdfb",
-            "MD5": "04be6fbc1e582f5640588524580b0628",
-            "path": "config/portablevfx/effects/UniqueDrop/textures/T_Line.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Line.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/UniqueDrop/textures/T_Ornament.png",
-          "name": "config/portablevfx/effects/UniqueDrop/textures/T_Ornament.png",
-          "type": "File",
-          "artifact": {
-            "size": 46019,
-            "SHA256": "5c2f9785df9715766ee4f7ed0fe78f3b5a0253f100049fb9ddabf959423e860f",
-            "MD5": "83bcce985cc642671055410e330299cf",
-            "path": "config/portablevfx/effects/UniqueDrop/textures/T_Ornament.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Ornament.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/UniqueDrop/textures/T_Runes.png",
-          "name": "config/portablevfx/effects/UniqueDrop/textures/T_Runes.png",
-          "type": "File",
-          "artifact": {
-            "size": 28331,
-            "SHA256": "833420f43317e182bd4a0dba110f74de02f5f9eec518d5a0194a1226db37af09",
-            "MD5": "7713078a31162af68c3fb5476b5b404a",
-            "path": "config/portablevfx/effects/UniqueDrop/textures/T_Runes.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Runes.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/UniqueDrop/textures/T_Sigil.png",
-          "name": "config/portablevfx/effects/UniqueDrop/textures/T_Sigil.png",
-          "type": "File",
-          "artifact": {
-            "size": 71889,
-            "SHA256": "3b396d03a00f3d2f3cd1ff1634fce8280e2a26b80eaada0bd53ca7498229f6b8",
-            "MD5": "636134b13071a70de08a3b1944f1c8eb",
-            "path": "config/portablevfx/effects/UniqueDrop/textures/T_Sigil.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Sigil.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/UniqueDrop/textures/T_Star4.png",
-          "name": "config/portablevfx/effects/UniqueDrop/textures/T_Star4.png",
-          "type": "File",
-          "artifact": {
-            "size": 5889,
-            "SHA256": "f30244d9fd89d4b08d8d1d11878f6309fa2f4b934bd95551f4ae5a011b881937",
-            "MD5": "4c030b60bdb4bbc79374c2a262c1ad82",
-            "path": "config/portablevfx/effects/UniqueDrop/textures/T_Star4.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Star4.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/UniqueDrop/textures/T_Streak.png",
-          "name": "config/portablevfx/effects/UniqueDrop/textures/T_Streak.png",
-          "type": "File",
-          "artifact": {
-            "size": 2150,
-            "SHA256": "461f9d0611512c41bfcf6216f5a590f2a49dc30fbd218adf97cd11d590329ab2",
-            "MD5": "aacb49ad8995faa28f786c6828354984",
-            "path": "config/portablevfx/effects/UniqueDrop/textures/T_Streak.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__textures__T_Streak.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/UniqueDrop/vfx.json",
-          "name": "config/portablevfx/effects/UniqueDrop/vfx.json",
-          "type": "File",
-          "artifact": {
-            "size": 283230,
-            "SHA256": "92b93709b03d2b063b2b5794054565a2cd7ca3bef0174ce6a92ea417c13d6160",
-            "MD5": "31bf604314075ec86ab723f49f60d3e3",
-            "path": "config/portablevfx/effects/UniqueDrop/vfx.json",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-UniqueDrop__vfx.json"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/LegendaryDrop/NOTES.md",
-          "name": "config/portablevfx/effects/LegendaryDrop/NOTES.md",
-          "type": "File",
-          "artifact": {
-            "size": 936,
-            "SHA256": "48551e834cc829b2c99e47a5eda03565d2b39f3a21f860229de5d7430c8104de",
-            "MD5": "7078facbf0633bea427c8672a6d3504e",
-            "path": "config/portablevfx/effects/LegendaryDrop/NOTES.md",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__NOTES.md"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Beam.png",
-          "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Beam.png",
-          "type": "File",
-          "artifact": {
-            "size": 17648,
-            "SHA256": "7c4d8f59f4a0e31381328d6098e5abda1d5a26234467f4a857021db9ee0650ce",
-            "MD5": "aa826f5205ca581b05e4f177445868d5",
-            "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Beam.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Beam.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Dot.png",
-          "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Dot.png",
-          "type": "File",
-          "artifact": {
-            "size": 3039,
-            "SHA256": "36fa041c3d036aa58412cfe53373ba263a72b2b42756658bae0e676f871543fb",
-            "MD5": "81ecde7874838aa30e39e2546b80d6db",
-            "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Dot.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Dot.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Glow.png",
-          "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Glow.png",
-          "type": "File",
-          "artifact": {
-            "size": 4770,
-            "SHA256": "e1e2b607ff15171631afd178ad3ae8176f49d5a8664674ab7df078eb159fa924",
-            "MD5": "20765eb333dc5133d2d8085d69807d20",
-            "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Glow.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Glow.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Line.png",
-          "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Line.png",
-          "type": "File",
-          "artifact": {
-            "size": 278,
-            "SHA256": "0690a4f52b0654e5cf2bb69d48772fdf1c579bb5c98f9f7747fc964b6e700245",
-            "MD5": "b21da371e1760600a50bcbf392440f7c",
-            "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Line.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Line.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Ornament.png",
-          "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Ornament.png",
-          "type": "File",
-          "artifact": {
-            "size": 43044,
-            "SHA256": "50426bdb763803a35f79843d7d9f085d367889e20685a9299899f1917e059134",
-            "MD5": "de6ed36995729327667e4ce448b6a60a",
-            "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Ornament.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Ornament.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Runes.png",
-          "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Runes.png",
-          "type": "File",
-          "artifact": {
-            "size": 27685,
-            "SHA256": "66a89d8f9a4c39ac8a684900493b7ae288c7ea6cca7b78fa9807114830a2c28a",
-            "MD5": "feb4cf5f41e971395d92eb0be1f31c19",
-            "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Runes.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Runes.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Sigil.png",
-          "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Sigil.png",
-          "type": "File",
-          "artifact": {
-            "size": 69794,
-            "SHA256": "5628446e1a6e66276a4133a5f7c3269b946c7351bf07fda70567774d935202ad",
-            "MD5": "2982a754a33d34206f2a77eb588e7283",
-            "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Sigil.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Sigil.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Star4.png",
-          "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Star4.png",
-          "type": "File",
-          "artifact": {
-            "size": 5819,
-            "SHA256": "3ee122cc475ff85325645bfffb4570693ea0d513a845a33de597d07f3ad99267",
-            "MD5": "bef55158739fd1babc49c9a128a2a5ab",
-            "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Star4.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Star4.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Streak.png",
-          "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Streak.png",
-          "type": "File",
-          "artifact": {
-            "size": 2039,
-            "SHA256": "2da03e778b1eb9a4a9f0996f7f933ca66022543c5ca00130e167c4a02a1dffbf",
-            "MD5": "8152594714797c532c771c4bea4daa17",
-            "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Streak.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Streak.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/LegendaryDrop/textures/T_Wisp_Sheet.png",
-          "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Wisp_Sheet.png",
-          "type": "File",
-          "artifact": {
-            "size": 58534,
-            "SHA256": "ba352a471a84f75c3b611eeadcf0beb2a28c35b7828e5f3270a17b9e92ba53c9",
-            "MD5": "ec743f1dd18b0e9c75b44efd88ee43d3",
-            "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Wisp_Sheet.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Wisp_Sheet.png"
-          }
-        },
-        {
-          "id": "config/portablevfx/effects/LegendaryDrop/vfx.json",
-          "name": "config/portablevfx/effects/LegendaryDrop/vfx.json",
-          "type": "File",
-          "artifact": {
-            "size": 369197,
-            "SHA256": "a63386571084f126e1c9828a463017a8b83d823f5183a4a1e26135f9f833ebfc",
-            "MD5": "4f9c7401e17b05ec4a357165b0bd1a73",
-            "path": "config/portablevfx/effects/LegendaryDrop/vfx.json",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__vfx.json"
-          }
-        },
-        {
-          "id": "chacademia-integrated-20261023.zip",
-          "name": "resourcepacks/chacademia-integrated-20261023.zip",
-          "type": "File",
-          "artifact": {
-            "path": "resourcepacks/chacademia-integrated-20261023.zip",
-            "size": 82410242,
-            "MD5": "7e602f61bd9ab99d4d1742c46b809423",
-            "SHA256": "cc226b94581d09759e6ec30985efc45c3e52d63ae05e193e1202775e8802fc41",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/chacademia-integrated-final-20261024.zip"
-          },
-          "updatePolicy": "managed"
-        }
-      ]
-    }
-  ]
+    ]
 }
