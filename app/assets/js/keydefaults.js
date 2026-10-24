@@ -11,7 +11,7 @@ const DEFAULTS = {
     'key_key.magiccodex.stats':'key.keyboard.i',
     'key_key.magiccodex.equipment':'key.keyboard.o',
     'key_key.magiccodex.open':'key.keyboard.k',
-    'key_key.journeymap.map_toggle_alt':'key.keyboard.j',
+    'key_key.wi_zoom.zoom':'key.keyboard.equal',
     'key_key.plasmovoice.settings':'key.keyboard.n'
 }
 // Only known shipped defaults are released, only for a fresh instance.
@@ -20,7 +20,6 @@ const CONFLICTING_DEFAULTS = {
     'key_key.socialInteractions':'key.keyboard.p',
     'key_key.loadToolbarActivator':'key.keyboard.x',
     'key_key.advancements':'key.keyboard.l',
-    'key_key.wi_zoom.zoom':'key.keyboard.z',
     'key_key.journeymap.minimap_preset':'key.keyboard.backslash',
     'key_key.journeymap.fullscreen_chat_position':'key.keyboard.c',
     'key_key.journeymap.fullscreen_waypoints':'key.keyboard.n',

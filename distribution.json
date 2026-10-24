@@ -130,17 +130,6 @@
           ]
         },
         {
-          "id": "bot.colla:donation:2.0.2@jar",
-          "name": "mods/donation-2.0.2.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 832983,
-            "MD5": "13e5465b5ed84d6b27082119c12e01fa",
-            "SHA256": "a0f145d7d6a2849491ee000656f333854ad86ec08e37d977b618490796bf9c05",
-            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/launcher_v2-1.21.4/fabricmods/required/donation-fabric-1.21.4-2.0.2.jar"
-          }
-        },
-        {
           "id": "org.modrinth:nochatreports:1.21.4-v2.11.0@jar",
           "name": "mods/nochatreports-1.21.4-v2.11.0.jar",
           "type": "FabricMod",
@@ -149,17 +138,6 @@
             "MD5": "47bd3acbbaaf09dae1c5142dc5b3f41c",
             "SHA256": "d633096f0e702ff3f0b0d4841ece0c1c9a63caf3d585b8623f9f5d9d74502702",
             "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/9xt05630/NoChatReports-FABRIC-1.21.4-v2.11.0.jar"
-          }
-        },
-        {
-          "id": "com.example.keyevent:keyeventmod:1.21.4@jar",
-          "name": "mods/keyeventmod-1.21.4.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 5937,
-            "MD5": "ff7141b1402454eddab71fa974d47614",
-            "SHA256": "e55ab1332b0d0647370845b1dcf6746c79299d953a5a989cc865d99daf7ae0ca",
-            "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/launcher_v2-1.21.4/fabricmods/required/KeyChecker-1.21.4.jar"
           }
         },
         {
@@ -193,17 +171,6 @@
             "MD5": "59d373e4874efbcb8fb426bdefa588d9",
             "SHA256": "70571b23d4de17ae380515fb4c9dadd82d96f7ec1b573553858a07bb80445da9",
             "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/Ca054sTe/iris-fabric-1.8.8%2Bmc1.21.4.jar"
-          }
-        },
-        {
-          "id": "org.modrinth:journeymap:1.21.4-6.0.0-beta.47@jar",
-          "name": "mods/journeymap-1.21.4-6.0.0-beta.47.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 3514383,
-            "MD5": "8b092f8cca0a96d80eb8eeea24b5ebfd",
-            "SHA256": "30236d6da74c450106e176050f6f257a5a4615ec6aa5db5191bae55e75185739",
-            "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/bjbTbat1/journeymap-fabric-1.21.4-6.0.0-beta.47.jar"
           }
         },
         {
@@ -273,14 +240,14 @@
           }
         },
         {
-          "id": "kr.chacademi:chacademi_chat_layout:1.6.2-whisper-tabs.1@jar",
-          "name": "mods/chacademi-chat-layout-1.6.2-whisper-tabs.1.jar",
+          "id": "kr.chacademi:chacademi_chat_layout:1.6.3-ctrlshift.1@jar",
+          "name": "mods/chacademi-chat-layout-1.6.3-ctrlshift.1.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 118861,
-            "MD5": "4d8f3993cd854446d077eb8f7540cbcd",
-            "SHA256": "becf3367d019084b1125f46997312683953f508ab1c9679e0a954e6d6ab56b4c",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-whisper-keyguard-20261024/chacademi-chat-layout-1.6.2-whisper-tabs.1.jar"
+            "size": 124127,
+            "MD5": "1a5bbfdcc0953859fe5456cfd6cb6baf",
+            "SHA256": "6648a692390c36ea1e0df01164bc39f7ec306048b477213eff9e88e43f92629e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/chacademi-chat-layout-1.6.3-ctrlshift.1.jar"
           }
         },
         {
@@ -328,14 +295,14 @@
           }
         },
         {
-          "id": "kr.chacademi:magiccodex:0.40.3-integrated.20261023-book-startupfix-affinity.1-keyguard.1+mc1.21.4@jar",
-          "name": "mods/magic-codex-ui-0.40.3-integrated.20261023-book-startupfix-affinity.1-keyguard.1+mc1.21.4.jar",
+          "id": "kr.chacademi:magiccodex:0.40.4-final.20261024+mc1.21.4@jar",
+          "name": "mods/magic-codex-ui-final-20261024+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 336706318,
-            "MD5": "8c401a4ab9510cfbc43f41b6c9ba69ad",
-            "SHA256": "1f87fa0ca84471845c957e33718eb4871a2fdfe77c9cdc6442c328093b5c680a",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-whisper-keyguard-20261024/magic-codex-ui-0.40.3-integrated.20261023-book-startupfix-affinity.1-keyguard.1%2Bmc1.21.4.jar"
+            "size": 342301145,
+            "MD5": "c7821af8da5524fb3ed2f27ba11c7b8f",
+            "SHA256": "c77da1f6bc06fbbbc9a9f4b8768a1013e9dbedd8a0be6f2915bd0e9d48596ac5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/magic-codex-ui-final-20261024%2Bmc1.21.4.jar"
           }
         },
         {
@@ -562,10 +529,10 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 7588,
-            "MD5": "d4707b0a57e5ff5d0acddd9af4c886c4",
-            "SHA256": "4cda145f36aff7e2eb482ee5e4fdea4c890fb4406a650b064f54dfae323a1e5e",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.12/options.txt",
+            "size": 7393,
+            "MD5": "387a18d8db87f52f554582e9220620e0",
+            "SHA256": "029bebca6ce06807344846ec6f960401ed59d4cb7e60f90e4b28fd50ea64cd9a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/options.txt",
             "path": "options.txt"
           },
           "updatePolicy": "seed"
@@ -582,14 +549,14 @@
           }
         },
         {
-          "id": "kr.chacademi:chaca_story:0.1.4-quest.5-ch1.1-serverdialogue-hud.1@jar",
-          "name": "mods/chacademy-story-0.1.4-quest.5-ch1.1-serverdialogue-hud.1.jar",
+          "id": "kr.chacademi:chaca_story:0.1.5-guide.20261024@jar",
+          "name": "mods/chacademy-story-final-guide-20261024.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 931207,
-            "MD5": "f78935e76e69747155c0e7f405b39bf2",
-            "SHA256": "6116c6b9dde2d15c50ef08140c47b161dfa8da470192e214afb0e8519d3022f4",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/chacademy-story-0.1.4-quest.5-ch1.1-serverdialogue-hud.1.jar"
+            "size": 959491,
+            "MD5": "85f828e832b742e6bea136d165210b21",
+            "SHA256": "feaf0eada6b9a474e8b9a83621b6c286720d3d073c0680c476d93cff5da45c1f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/chacademy-story-final-guide-20261024.jar"
           }
         },
         {
@@ -802,14 +769,14 @@
           "managedReason": "Immutable one-time shader migration input. User shader settings remain seed-managed; a per-revision marker prevents repeated overrides."
         },
         {
-          "id": "kr.chacademi:chacademi_npc_model:0.1.1-npcmodel.3@jar",
-          "name": "mods/chacademi-npc-model-0.1.1-npcmodel.3.jar",
+          "id": "kr.chacademi:chacademi_npc_model:0.1.1-npcmodel.4@jar",
+          "name": "mods/chacademi-npc-model-0.1.1-npcmodel.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 158910,
-            "MD5": "ef317aa19db7acccadd32ee44404915d",
-            "SHA256": "d6b88c3f0f8ab8f4a70e4935dc48394ce84a7201f4c849a84dc0ed0d2d0d882e",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-scale10-20261022-task7/chacademi-npc-model-0.1.1-npcmodel.3.jar"
+            "size": 159300,
+            "MD5": "8f68d46523afb08720ba5b1740935a35",
+            "SHA256": "d24c5fb68ad0f98579b7e07c0914a524e4b0d725ff6fbdbce901a02251a166c9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/chacademi-npc-model-0.1.1-npcmodel.4.jar"
           }
         },
         {
@@ -1422,10 +1389,10 @@
           "type": "File",
           "artifact": {
             "path": "resourcepacks/chacademia-integrated-20261023.zip",
-            "size": 73009540,
-            "MD5": "697f40e789d2fa20a82ec838de7a828d",
-            "SHA256": "6731c351f210d51c138c4a2196751e1bde23c61940738ee074e2447edad70383",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-20261024-task11/chacademia-integrated-20261023.zip"
+            "size": 82410242,
+            "MD5": "7e602f61bd9ab99d4d1742c46b809423",
+            "SHA256": "cc226b94581d09759e6ec30985efc45c3e52d63ae05e193e1202775e8802fc41",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/chacademia-integrated-final-20261024.zip"
           },
           "updatePolicy": "managed"
         }

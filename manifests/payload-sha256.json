@@ -1,16 +1,16 @@
 {
   "sourceCommit": "d6238f3aa941d6600b701b7df07ecab463cb43ab",
   "integrationComponents": {
-    "hudSha256": "1f87fa0ca84471845c957e33718eb4871a2fdfe77c9cdc6442c328093b5c680a",
-    "bridgeSha256": "4fd8bc1f46025f117198d99e51bf33476e5b44e634b56b34458a9ba5b77d30c1",
-    "storySha256": "6116c6b9dde2d15c50ef08140c47b161dfa8da470192e214afb0e8519d3022f4",
-    "chatSha256": "becf3367d019084b1125f46997312683953f508ab1c9679e0a954e6d6ab56b4c",
+    "hudSha256": "c77da1f6bc06fbbbc9a9f4b8768a1013e9dbedd8a0be6f2915bd0e9d48596ac5",
+    "bridgeSha256": "df3d3e6355471b64bb3f121ba1b7d6f175132431857e222e7146136f5f4bd699",
+    "storySha256": "feaf0eada6b9a474e8b9a83621b6c286720d3d073c0680c476d93cff5da45c1f",
+    "chatSha256": "6648a692390c36ea1e0df01164bc39f7ec306048b477213eff9e88e43f92629e",
     "motionSha256": "d4781335f9cf721525e74f833d152f58e22acd5ac19f18d423bbc8222fc220f5",
     "vfxSha256": "6088bbfd8c844512f6015eccfb496ae55bb84989c459f2834682b4f8bf24a318",
     "bridgeSha256ByServer": {
-      "school": "4fd8bc1f46025f117198d99e51bf33476e5b44e634b56b34458a9ba5b77d30c1",
-      "wild": "2f164474c1f7bf5e592ca2d5025c1b90bd9f2e34acb1952f2a8bd7823bf62812",
-      "arena": "0ad43d8dc33061ea74d013e20f583c64e384fd56a4a08c2845abb20306b12e96"
+      "school": "df3d3e6355471b64bb3f121ba1b7d6f175132431857e222e7146136f5f4bd699",
+      "wild": "cf3e320271d06e2d0e6b8212f0f359e8fb8ae758b3d66f4956aa01bac803ec66",
+      "arena": "ead483fdb7c5c43eeed4627327a1a5cc7d525d88c6bce0edb435047ef2d722da"
     },
     "uiPackagingHotfix": {
       "baseUIsha256": "fc09cc5ef816171cceca9f3d3225e82d5a07ace23abb628ac47e34980e16f8ce",
@@ -45,6 +45,21 @@
       "basePackSHA256": "d3c50276fc44966bd68ee154174bc291cfa20837c144f0c885e9ff6713c702b2",
       "allOtherZipEntriesByteIdentical": 11275,
       "sourceMapping": "NPC_PORTRAITS_20261024_TASK11.json"
+    },
+    "finalReleaseTask9": {
+      "sourceCommit": "5f70d59c640fd10e06aa86a3d0582a9ece96e1ac",
+      "npcProtocol": 2,
+      "npcClientSHA256": "d24c5fb68ad0f98579b7e07c0914a524e4b0d725ff6fbdbce901a02251a166c9",
+      "npcServerSHA256": "8b83629b167dfe5d4222367d362cb3837b4f2ca3e5baca079dcb74e3631445ee",
+      "resourcepackSHA256": "cc226b94581d09759e6ec30985efc45c3e52d63ae05e193e1202775e8802fc41",
+      "removedModIDs": [
+        "bot.colla:donation:2.0.2@jar",
+        "com.example.keyevent:keyeventmod:1.21.4@jar",
+        "org.modrinth:journeymap:1.21.4-6.0.0-beta.47@jar"
+      ],
+      "distantHorizonsPresent": false,
+      "recoveryIncluded": false,
+      "wildRespawnIncluded": false
     }
   },
   "backgroundMode": "final-library-image",
@@ -52,24 +67,10 @@
   "petModelStatus": "approved separate ZIP installed before launch; existing renderer unchanged",
   "assets": [
     {
-      "path": "mods/donation-2.0.2.jar",
-      "sha256": "a0f145d7d6a2849491ee000656f333854ad86ec08e37d977b618490796bf9c05",
-      "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/launcher_v2-1.21.4/fabricmods/required/donation-fabric-1.21.4-2.0.2.jar",
-      "license": "All-Rights-Reserved",
-      "role": "mod"
-    },
-    {
       "path": "mods/nochatreports-1.21.4-v2.11.0.jar",
       "sha256": "d633096f0e702ff3f0b0d4841ece0c1c9a63caf3d585b8623f9f5d9d74502702",
       "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/9xt05630/NoChatReports-FABRIC-1.21.4-v2.11.0.jar",
       "license": "WTFPL",
-      "role": "mod"
-    },
-    {
-      "path": "mods/keyeventmod-1.21.4.jar",
-      "sha256": "e55ab1332b0d0647370845b1dcf6746c79299d953a5a989cc865d99daf7ae0ca",
-      "url": "https://github.com/mchdistro/zzunwoo/raw/main/servers/launcher_v2-1.21.4/fabricmods/required/KeyChecker-1.21.4.jar",
-      "license": "original publisher URL",
       "role": "mod"
     },
     {
@@ -91,13 +92,6 @@
       "sha256": "70571b23d4de17ae380515fb4c9dadd82d96f7ec1b573553858a07bb80445da9",
       "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/Ca054sTe/iris-fabric-1.8.8%2Bmc1.21.4.jar",
       "license": "LGPL-3.0-only",
-      "role": "mod"
-    },
-    {
-      "path": "mods/journeymap-1.21.4-6.0.0-beta.47.jar",
-      "sha256": "30236d6da74c450106e176050f6f257a5a4615ec6aa5db5191bae55e75185739",
-      "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/bjbTbat1/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
-      "license": "All Rights Reserved",
       "role": "mod"
     },
     {
@@ -143,13 +137,6 @@
       "role": "mod"
     },
     {
-      "path": "mods/chacademi-chat-layout-1.6.2-whisper-tabs.1.jar",
-      "sha256": "becf3367d019084b1125f46997312683953f508ab1c9679e0a954e6d6ab56b4c",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-whisper-keyguard-20261024/chacademi-chat-layout-1.6.2-whisper-tabs.1.jar",
-      "license": "GPL-3.0-only",
-      "role": "chacademi_chat_layout"
-    },
-    {
       "path": "mods/chacademy-motion-0.3.1-integrated-20261018.1-followups.1.jar",
       "sha256": "a732d523843c3efaf5994155736f146d222aac4f00bfa6610e73fc6f0e675321",
       "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-followups-20261020/chacademy-motion-0.3.1-integrated-20261018.1-followups.1.jar",
@@ -176,14 +163,6 @@
       "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/SSKF75hc/ForgeConfigAPIPort-v21.4.3-1.21.4-Fabric.jar",
       "license": "MPL-2.0",
       "role": "mod"
-    },
-    {
-      "path": "mods/magic-codex-ui-0.40.3-integrated.20261023-book-startupfix-affinity.1-keyguard.1+mc1.21.4.jar",
-      "sha256": "1f87fa0ca84471845c957e33718eb4871a2fdfe77c9cdc6442c328093b5c680a",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-whisper-keyguard-20261024/magic-codex-ui-0.40.3-integrated.20261023-book-startupfix-affinity.1-keyguard.1%2Bmc1.21.4.jar",
-      "license": "project-authorized client distribution",
-      "role": "magiccodex",
-      "size": 336706318
     },
     {
       "path": "mods/player-animation-lib-fabric-2.0.5+1.21.4.jar",
@@ -306,26 +285,11 @@
       "role": "mod-config"
     },
     {
-      "path": "options.txt",
-      "sha256": "4cda145f36aff7e2eb482ee5e4fdea4c890fb4406a650b064f54dfae323a1e5e",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.12/options.txt",
-      "license": "project-authorized client distribution",
-      "role": "options"
-    },
-    {
       "path": "mods/starlight-loading-1.0.0.jar",
       "sha256": "0b048ad02237b0ecc6322e29197f2d86dd21714e18d0d5a14c00a95435d5d528",
       "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.1/starlight-loading-1.0.0.jar",
       "license": "All-Rights-Reserved; user-authorized launcher distribution",
       "role": "mod"
-    },
-    {
-      "path": "mods/chacademy-story-0.1.4-quest.5-ch1.1-serverdialogue-hud.1.jar",
-      "sha256": "6116c6b9dde2d15c50ef08140c47b161dfa8da470192e214afb0e8519d3022f4",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/chacademy-story-0.1.4-quest.5-ch1.1-serverdialogue-hud.1.jar",
-      "license": "All-Rights-Reserved; user-authorized public launcher distribution; paid font excluded",
-      "role": "mod",
-      "size": 924363
     },
     {
       "path": "config/chaca_cutscene/ch1_ashen_night/cutscene.yml",
@@ -438,14 +402,6 @@
       "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.22/shader-defaults-20261020.json",
       "license": "user-authorized shader configuration and project migration policy",
       "role": "mod-config"
-    },
-    {
-      "path": "mods/chacademi-npc-model-0.1.1-npcmodel.3.jar",
-      "sha256": "d6b88c3f0f8ab8f4a70e4935dc48394ce84a7201f4c849a84dc0ed0d2d0d882e",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-scale10-20261022-task7/chacademi-npc-model-0.1.1-npcmodel.3.jar",
-      "license": "Chacademi project asset",
-      "role": "mod",
-      "size": 158910
     },
     {
       "path": "chacademi/npc-models/luka.glb",
@@ -847,11 +803,52 @@
       "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__vfx.json"
     },
     {
+      "path": "mods/magic-codex-ui-final-20261024+mc1.21.4.jar",
+      "sha256": "c77da1f6bc06fbbbc9a9f4b8768a1013e9dbedd8a0be6f2915bd0e9d48596ac5",
+      "size": 342301145,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/magic-codex-ui-final-20261024%2Bmc1.21.4.jar",
+      "role": "mod",
+      "license": "project-authorized client distribution"
+    },
+    {
+      "path": "mods/chacademy-story-final-guide-20261024.jar",
+      "sha256": "feaf0eada6b9a474e8b9a83621b6c286720d3d073c0680c476d93cff5da45c1f",
+      "size": 959491,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/chacademy-story-final-guide-20261024.jar",
+      "role": "mod",
+      "license": "project-authorized client distribution"
+    },
+    {
+      "path": "mods/chacademi-chat-layout-1.6.3-ctrlshift.1.jar",
+      "sha256": "6648a692390c36ea1e0df01164bc39f7ec306048b477213eff9e88e43f92629e",
+      "size": 124127,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/chacademi-chat-layout-1.6.3-ctrlshift.1.jar",
+      "role": "mod",
+      "license": "project-authorized client distribution"
+    },
+    {
+      "path": "mods/chacademi-npc-model-0.1.1-npcmodel.4.jar",
+      "sha256": "d24c5fb68ad0f98579b7e07c0914a524e4b0d725ff6fbdbce901a02251a166c9",
+      "size": 159300,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/chacademi-npc-model-0.1.1-npcmodel.4.jar",
+      "role": "mod",
+      "license": "project-authorized client distribution"
+    },
+    {
       "path": "resourcepacks/chacademia-integrated-20261023.zip",
-      "sha256": "6731c351f210d51c138c4a2196751e1bde23c61940738ee074e2447edad70383",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-20261024-task11/chacademia-integrated-20261023.zip",
+      "sha256": "cc226b94581d09759e6ec30985efc45c3e52d63ae05e193e1202775e8802fc41",
+      "size": 82410242,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/chacademia-integrated-final-20261024.zip",
       "role": "resourcepack",
-      "license": "server managed"
+      "license": "project-authorized client distribution"
+    },
+    {
+      "path": "options.txt",
+      "sha256": "029bebca6ce06807344846ec6f960401ed59d4cb7e60f90e4b28fd50ea64cd9a",
+      "size": 7393,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/options.txt",
+      "role": "config",
+      "license": "project-authorized client distribution"
     }
   ],
   "bc7SourceCommit": "b0a50cdc52d43dbc36197fc3285ddf6e726a9b7b",
