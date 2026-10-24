@@ -37,6 +37,14 @@
       "packSHA256": "d3c50276fc44966bd68ee154174bc291cfa20837c144f0c885e9ff6713c702b2",
       "snapshotSHA256": "ee1e697ad7644556cb29c663164a72c3b9ae8b25e6dd9a804c45bb1debb624a2",
       "launcherPackValidation": "Selected distribution SHA256 and size; fixed path; fail closed"
+    },
+    "npcPortraitOriginals20261024": {
+      "count": 95,
+      "updated": 6,
+      "packSHA256": "6731c351f210d51c138c4a2196751e1bde23c61940738ee074e2447edad70383",
+      "basePackSHA256": "d3c50276fc44966bd68ee154174bc291cfa20837c144f0c885e9ff6713c702b2",
+      "allOtherZipEntriesByteIdentical": 11275,
+      "sourceMapping": "NPC_PORTRAITS_20261024_TASK11.json"
     }
   },
   "backgroundMode": "final-library-image",
@@ -840,8 +848,8 @@
     },
     {
       "path": "resourcepacks/chacademia-integrated-20261023.zip",
-      "sha256": "d3c50276fc44966bd68ee154174bc291cfa20837c144f0c885e9ff6713c702b2",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.28/chacademia-integrated-20261023.zip",
+      "sha256": "6731c351f210d51c138c4a2196751e1bde23c61940738ee074e2447edad70383",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-20261024-task11/chacademia-integrated-20261023.zip",
       "role": "resourcepack",
       "license": "server managed"
     }
