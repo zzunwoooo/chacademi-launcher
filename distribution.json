@@ -295,14 +295,14 @@
           }
         },
         {
-          "id": "kr.chacademi:magiccodex:0.40.4-final.20261024+mc1.21.4@jar",
-          "name": "mods/magic-codex-ui-final-20261024+mc1.21.4.jar",
+          "id": "kr.chacademi:magiccodex:0.40.4-hudreset.20261024+mc1.21.4@jar",
+          "name": "mods/magic-codex-ui-hudreset-20261024+mc1.21.4.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 342301145,
-            "MD5": "c7821af8da5524fb3ed2f27ba11c7b8f",
-            "SHA256": "c77da1f6bc06fbbbc9a9f4b8768a1013e9dbedd8a0be6f2915bd0e9d48596ac5",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/magic-codex-ui-final-20261024%2Bmc1.21.4.jar"
+            "size": 342302810,
+            "MD5": "ab09e78d682fdae9feb9964f23a835ed",
+            "SHA256": "064fd89b086846948fe9c126bd8346e7735958c33270806b55daa39812f08e37",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-hud-reset-magickeys-20261024-task9/magic-codex-ui-hudreset-20261024%2Bmc1.21.4.jar"
           }
         },
         {
@@ -460,10 +460,10 @@
           "name": "config/magiccodex/key-settings.yml",
           "type": "File",
           "artifact": {
-            "size": 216,
-            "MD5": "e8e909c9d99a030caa57b7af875ab6db",
-            "SHA256": "3933d67ca78c4e52950c8170dab3405d2b8f6fb72c2395901b0238931a48e6e7",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/key-settings.yml",
+            "size": 230,
+            "MD5": "fc95ad52fecfdfd6115e68702860dbda",
+            "SHA256": "424be5731ad2d5063f1f9f70342a77a239c8c2ab585139b790b61f440e0c7ece",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-hud-reset-magickeys-20261024-task9/key-settings.yml",
             "path": "config/magiccodex/key-settings.yml"
           },
           "updatePolicy": "seed"

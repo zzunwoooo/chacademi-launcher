@@ -1,7 +1,7 @@
 {
   "sourceCommit": "d6238f3aa941d6600b701b7df07ecab463cb43ab",
   "integrationComponents": {
-    "hudSha256": "c77da1f6bc06fbbbc9a9f4b8768a1013e9dbedd8a0be6f2915bd0e9d48596ac5",
+    "hudSha256": "064fd89b086846948fe9c126bd8346e7735958c33270806b55daa39812f08e37",
     "bridgeSha256": "df3d3e6355471b64bb3f121ba1b7d6f175132431857e222e7146136f5f4bd699",
     "storySha256": "feaf0eada6b9a474e8b9a83621b6c286720d3d073c0680c476d93cff5da45c1f",
     "chatSha256": "6648a692390c36ea1e0df01164bc39f7ec306048b477213eff9e88e43f92629e",
@@ -60,6 +60,16 @@
       "distantHorizonsPresent": false,
       "recoveryIncluded": false,
       "wildRespawnIncluded": false
+    },
+    "hudResetMagicKeysTask9": {
+      "baselineUI": "c77da1f6bc06fbbbc9a9f4b8768a1013e9dbedd8a0be6f2915bd0e9d48596ac5",
+      "hudReset": "confirmed layout and hotbar size only; chat separate",
+      "magicKeys": "unassigned -1 only; six equipped spell IDs retained",
+      "existingSettingsPolicy": "seed, no overwrite",
+      "travelMenuIncluded": false,
+      "serverChanged": false,
+      "personalChanged": false,
+      "sourceCommit": "bba8d5399af59d15dba2324674f34e64b54ac82e"
     }
   },
   "backgroundMode": "final-library-image",
@@ -251,10 +261,11 @@
     },
     {
       "path": "config/magiccodex/key-settings.yml",
-      "sha256": "3933d67ca78c4e52950c8170dab3405d2b8f6fb72c2395901b0238931a48e6e7",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/key-settings.yml",
+      "sha256": "424be5731ad2d5063f1f9f70342a77a239c8c2ab585139b790b61f440e0c7ece",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-hud-reset-magickeys-20261024-task9/key-settings.yml",
       "license": "project-authorized client distribution",
-      "role": "mod-config"
+      "role": "mod-config",
+      "size": 230
     },
     {
       "path": "config/portablevfx/bloom.properties",
@@ -803,10 +814,10 @@
       "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__vfx.json"
     },
     {
-      "path": "mods/magic-codex-ui-final-20261024+mc1.21.4.jar",
-      "sha256": "c77da1f6bc06fbbbc9a9f4b8768a1013e9dbedd8a0be6f2915bd0e9d48596ac5",
-      "size": 342301145,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/magic-codex-ui-final-20261024%2Bmc1.21.4.jar",
+      "path": "mods/magic-codex-ui-hudreset-20261024+mc1.21.4.jar",
+      "sha256": "064fd89b086846948fe9c126bd8346e7735958c33270806b55daa39812f08e37",
+      "size": 342302810,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-hud-reset-magickeys-20261024-task9/magic-codex-ui-hudreset-20261024%2Bmc1.21.4.jar",
       "role": "mod",
       "license": "project-authorized client distribution"
     },
