@@ -191,12 +191,12 @@
       "role": "mod"
     },
     {
-      "path": "mods/portable-vfx-client-3.2.4-drop-rarity.1-warmup.1.jar",
-      "sha256": "6088bbfd8c844512f6015eccfb496ae55bb84989c459f2834682b4f8bf24a318",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/portable-vfx-client-3.2.4-drop-rarity.1-warmup.1.jar",
+      "path": "mods/portable-vfx-runtime-client-client-opening-safe-20261025.jar",
+      "sha256": "aea5599784daa39d315f6114380d0a016a7db6c7119067fbbf65d04824e67f91",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-opening-prep-safe-20261025-task3/portable-vfx-runtime-client-client-opening-safe-20261025.jar",
       "license": "project-authorized client distribution",
       "role": "portablevfx",
-      "size": 419972
+      "size": 430370
     },
     {
       "path": "config/magiccodex/pets/pets-models.zip",
@@ -823,10 +823,10 @@
       "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__vfx.json"
     },
     {
-      "path": "mods/chacademy-story-final-guide-20261024.jar",
-      "sha256": "feaf0eada6b9a474e8b9a83621b6c286720d3d073c0680c476d93cff5da45c1f",
-      "size": 959491,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/chacademy-story-final-guide-20261024.jar",
+      "path": "mods/chacademy-story-mod-client-opening-safe-20261025.jar",
+      "sha256": "e99f92db9328e77effe19e1317a47d2eedec6f2eb04df9fe234fe9bf0466626e",
+      "size": 965878,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-opening-prep-safe-20261025-task3/chacademy-story-mod-client-opening-safe-20261025.jar",
       "role": "mod",
       "license": "project-authorized client distribution"
     },
@@ -863,10 +863,10 @@
       "license": "project-authorized client distribution"
     },
     {
-      "path": "mods/magic-codex-ui-integrated-20261024+mc1.21.4.jar",
-      "sha256": "9e22f1e1161fd67d1f8cf28b0df8cff32494345ecfe48f3d8a21c4419ea6dbdc",
-      "size": 368200716,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/magic-codex-ui-integrated-20261024%2Bmc1.21.4.jar",
+      "path": "mods/magic-codex-ui-opening-safe-20261025-v2+mc1.21.4.jar",
+      "sha256": "11754cca8f1d8cdd34aa1e4958f9aa732e3a18b3384eda8af733315fd78ffc96",
+      "size": 368204644,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-opening-prep-safe-20261025-task3/magic-codex-ui-opening-safe-20261025-v2%2Bmc1.21.4.jar",
       "role": "mod",
       "license": "project-authorized client distribution"
     },

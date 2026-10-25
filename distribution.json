@@ -295,14 +295,14 @@
                     }
                 },
                 {
-                    "id": "kr.chacademi:magiccodex:0.40.7-sharedbag.travel.off.icons.20261024+mc1.21.4@jar",
-                    "name": "mods/magic-codex-ui-integrated-20261024+mc1.21.4.jar",
+                    "id": "kr.chacademi:magiccodex:0.41.0-opening-safe-v2-20261025+mc1.21.4@jar",
+                    "name": "mods/magic-codex-ui-opening-safe-20261025-v2+mc1.21.4.jar",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 368200716,
-                        "MD5": "f17c673ba14d87d80c07a8f606ff0f11",
-                        "SHA256": "9e22f1e1161fd67d1f8cf28b0df8cff32494345ecfe48f3d8a21c4419ea6dbdc",
-                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/magic-codex-ui-integrated-20261024%2Bmc1.21.4.jar"
+                        "size": 368204644,
+                        "MD5": "e73cc15c2a7389b1e67793f35e76dc61",
+                        "SHA256": "11754cca8f1d8cdd34aa1e4958f9aa732e3a18b3384eda8af733315fd78ffc96",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-opening-prep-safe-20261025-task3/magic-codex-ui-opening-safe-20261025-v2%2Bmc1.21.4.jar"
                     }
                 },
                 {
@@ -317,14 +317,14 @@
                     }
                 },
                 {
-                    "id": "kr.chacademi:portablevfx:3.2.4-drop-rarity.1-warmup.1@jar",
-                    "name": "mods/portable-vfx-client-3.2.4-drop-rarity.1-warmup.1.jar",
+                    "id": "kr.chacademi:portablevfx:opening-safe-20261025.1@jar",
+                    "name": "mods/portable-vfx-runtime-client-client-opening-safe-20261025.jar",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 433164,
-                        "MD5": "4ba66450238401768865c721c27cc485",
-                        "SHA256": "6088bbfd8c844512f6015eccfb496ae55bb84989c459f2834682b4f8bf24a318",
-                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.24/portable-vfx-client-3.2.4-drop-rarity.1-warmup.1.jar"
+                        "size": 430370,
+                        "MD5": "45b34a0bb22fc7428d88cb9ec0d300cc",
+                        "SHA256": "aea5599784daa39d315f6114380d0a016a7db6c7119067fbbf65d04824e67f91",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-opening-prep-safe-20261025-task3/portable-vfx-runtime-client-client-opening-safe-20261025.jar"
                     }
                 },
                 {
@@ -549,14 +549,14 @@
                     }
                 },
                 {
-                    "id": "kr.chacademi:chaca_story:0.1.5-guide.20261024@jar",
-                    "name": "mods/chacademy-story-final-guide-20261024.jar",
+                    "id": "kr.chacademi:chaca_story:opening-safe-20261025.1@jar",
+                    "name": "mods/chacademy-story-mod-client-opening-safe-20261025.jar",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 959491,
-                        "MD5": "85f828e832b742e6bea136d165210b21",
-                        "SHA256": "feaf0eada6b9a474e8b9a83621b6c286720d3d073c0680c476d93cff5da45c1f",
-                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/chacademy-story-final-guide-20261024.jar"
+                        "size": 965878,
+                        "MD5": "b0f8d5d735f4569a0be5e34cd12afa1a",
+                        "SHA256": "e99f92db9328e77effe19e1317a47d2eedec6f2eb04df9fe234fe9bf0466626e",
+                        "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-opening-prep-safe-20261025-task3/chacademy-story-mod-client-opening-safe-20261025.jar"
                     }
                 },
                 {
