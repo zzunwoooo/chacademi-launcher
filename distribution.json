@@ -1389,10 +1389,10 @@
           "type": "File",
           "artifact": {
             "path": "resourcepacks/chacademia-integrated-20261023.zip",
-            "size": 82410242,
-            "MD5": "7e602f61bd9ab99d4d1742c46b809423",
-            "SHA256": "cc226b94581d09759e6ec30985efc45c3e52d63ae05e193e1202775e8802fc41",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/chacademia-integrated-final-20261024.zip"
+            "size": 94600468,
+            "MD5": "6c29733a6e7667209c996808e3cda12a",
+            "SHA256": "8ca5a583eaf2e49002848c738c4b122a62829813bc2bad0ecf99b18b2344010d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-loot171-fishing20-20261026/chacademia-integrated-loot171-20261026.zip"
           },
           "updatePolicy": "managed"
         },

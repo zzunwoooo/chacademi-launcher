@@ -848,9 +848,9 @@
     },
     {
       "path": "resourcepacks/chacademia-integrated-20261023.zip",
-      "sha256": "cc226b94581d09759e6ec30985efc45c3e52d63ae05e193e1202775e8802fc41",
-      "size": 82410242,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-final-integration-20261024-task9/chacademia-integrated-final-20261024.zip",
+      "sha256": "8ca5a583eaf2e49002848c738c4b122a62829813bc2bad0ecf99b18b2344010d",
+      "size": 94600468,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-loot171-fishing20-20261026/chacademia-integrated-loot171-20261026.zip",
       "role": "resourcepack",
       "license": "project-authorized client distribution"
     },
@@ -1039,5 +1039,19 @@
     "personalLauncherChanged": false,
     "cutsceneCancelled": true,
     "dungeonDeferred": true
+  },
+  "loot171Fishing20Deployment": {
+    "schoolOnly": true,
+    "newItems": 171,
+    "loot": 151,
+    "fishingSupplies": 20,
+    "rodsExcluded": 7,
+    "categories": 11,
+    "sourceGeneratedSHA256": "306b44a9f7ba42805041f99f745967b57f30c38a6a14185191604ed683961434",
+    "resourcepackSHA256": "8ca5a583eaf2e49002848c738c4b122a62829813bc2bad0ecf99b18b2344010d",
+    "releaseTag": "content-loot171-fishing20-20261026",
+    "unchangedModules": 121,
+    "previousFeedCommit": "c023a10c2fb379c7898717cffa0fc59917f84e6c",
+    "preservation": "all prior launcher assets retained; only 3 aggregate JSONs receive additive IA delta; ModelEngine remains server-merged"
   }
 }
