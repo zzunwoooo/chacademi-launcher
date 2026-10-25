@@ -192,8 +192,8 @@
     },
     {
       "path": "mods/portable-vfx-runtime-client-client-opening-safe-20261025.jar",
-      "sha256": "aea5599784daa39d315f6114380d0a016a7db6c7119067fbbf65d04824e67f91",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-opening-prep-safe-20261025-task3/portable-vfx-runtime-client-client-opening-safe-20261025.jar",
+      "sha256": "dbca428a16f35b17a3e71ff327f74690c3ad2ca40e1da0e4cf9b25b142278a5f",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-opening-final-20261025-task3/portable-vfx-runtime-client-client-opening-safe-20261025.jar",
       "license": "project-authorized client distribution",
       "role": "portablevfx",
       "size": 430370
@@ -824,9 +824,9 @@
     },
     {
       "path": "mods/chacademy-story-mod-client-opening-safe-20261025.jar",
-      "sha256": "e99f92db9328e77effe19e1317a47d2eedec6f2eb04df9fe234fe9bf0466626e",
+      "sha256": "6aeb8e6a406a5d85bca60b35dc83eaa4da00a4f1619e2ac638a15d767d4ef46e",
       "size": 965878,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-opening-prep-safe-20261025-task3/chacademy-story-mod-client-opening-safe-20261025.jar",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-opening-final-20261025-task3/chacademy-story-mod-client-opening-safe-20261025.jar",
       "role": "mod",
       "license": "project-authorized client distribution"
     },
@@ -864,9 +864,9 @@
     },
     {
       "path": "mods/magic-codex-ui-opening-safe-20261025-v2+mc1.21.4.jar",
-      "sha256": "11754cca8f1d8cdd34aa1e4958f9aa732e3a18b3384eda8af733315fd78ffc96",
+      "sha256": "0c36beb76c7d3326c8d44e67c63dcaddabc64ec934d743fd8274b3671b337b5f",
       "size": 368204644,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-opening-prep-safe-20261025-task3/magic-codex-ui-opening-safe-20261025-v2%2Bmc1.21.4.jar",
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-opening-final-20261025-task3/magic-codex-ui-opening-safe-20261025-v2%2Bmc1.21.4.jar",
       "role": "mod",
       "license": "project-authorized client distribution"
     },
@@ -1026,5 +1026,18 @@
     "scope": "client tooltip only; all other current public JAR entries unchanged"
   },
   "storyClientSourceCommit": "2e4e48a1585b9c512bdc31db7474cd5265ca2415",
-  "chatClientSourceCommit": "d03aa35aa60f1f2dcbc7ca9f10eb3e3df75a93ba"
+  "chatClientSourceCommit": "d03aa35aa60f1f2dcbc7ca9f10eb3e3df75a93ba",
+  "openingFinalDeployment": {
+    "sourceCommit": "70044a79232b22b37c5e024f3fc0bcaf808a04cc",
+    "releaseTag": "content-opening-final-20261025-task3",
+    "changedModules": [
+      "mods/magic-codex-ui-opening-safe-20261025-v2+mc1.21.4.jar",
+      "mods/portable-vfx-runtime-client-client-opening-safe-20261025.jar",
+      "mods/chacademy-story-mod-client-opening-safe-20261025.jar"
+    ],
+    "managedFilenamesUnchanged": true,
+    "personalLauncherChanged": false,
+    "cutsceneCancelled": true,
+    "dungeonDeferred": true
+  }
 }
