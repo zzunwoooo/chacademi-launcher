@@ -396,7 +396,7 @@ class ProcessBuilder {
 
         // Java Arguments
         if(process.platform === 'darwin'){
-            args.push('-Xdock:name=Chacademi Launcher')
+            args.push('-Xdock:name=차카데미')
             args.push('-Xdock:icon=' + path.join(__dirname, '..', 'images', 'chacademi-icon.icns'))
         }
         args.push('-Xmx' + ConfigManager.getMaxRAM(this.server.rawServer.id))
@@ -447,7 +447,7 @@ class ProcessBuilder {
 
         // Java Arguments
         if(process.platform === 'darwin'){
-            args.push('-Xdock:name=Chacademi Launcher')
+            args.push('-Xdock:name=차카데미')
             args.push('-Xdock:icon=' + path.join(__dirname, '..', 'images', 'chacademi-icon.icns'))
         }
         args.push('-Xmx' + ConfigManager.getMaxRAM(this.server.rawServer.id))

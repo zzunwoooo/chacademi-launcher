@@ -1,5 +1,5 @@
 [ejs.app]
-title = "차카데미 테스트 런처"
+title = "차카데미"
 [ejs.landing]
 mediaGitHubURL = "https://github.com/zzunwoooo/chacademi-launcher"
 mediaXURL = "#"

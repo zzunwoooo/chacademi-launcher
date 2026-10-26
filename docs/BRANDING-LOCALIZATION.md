@@ -22,3 +22,11 @@ The host cannot create macOS symlinks from the official winCodeSign tool archive
 ## Coordinated release only
 
 The built installer keeps baseline version 0.1.28 and is a review candidate, not a new release. Do not overwrite the published 0.1.28 asset. Integrate this commit with the deployment task, assign the next unused version (update package.json and package-lock.json together), rebuild with `--publish never`, recheck icons/installer and publish only through the coordinated release owner. Do not replace distribution.json or write the feed from this branch independently.
+
+## Display-name follow-up (source only)
+
+User-facing name is now **차카데미**: window/UI/About title, package product name, installer/product title, uninstall display name, shortcut name and macOS Dock label. The description no longer calls this a test launcher.
+
+Internal package name `chacademi-launcher`, appId `kr.chacademi.launcher`, executable filename `Chacademi Launcher`, existing userData path, updater cache identity, artifact filename pattern, version and publishing configuration are preserved. The current builder computes the same Windows installation directory from the unchanged executableName.
+
+This follow-up is source-only. **The existing 0.1.28 installer and screenshots predate this display-name change and must not be described as reflecting it.** No new build, launcher execution, server operation, push or publication was performed. Wait for final Claude source completion, integrate this follow-up with the branding commit, then perform the coordinated next-version build. Verify the visible name and unchanged upgrade/install path during that authorized build.

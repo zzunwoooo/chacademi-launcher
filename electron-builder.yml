@@ -1,5 +1,5 @@
 appId: kr.chacademi.launcher
-productName: '차카데미 테스트 런처'
+productName: '차카데미'
 executableName: 'Chacademi Launcher'
 artifactName: 'Chacademi-Launcher-setup-${version}.${ext}'
 
@@ -40,8 +40,8 @@ nsis:
   installerIcon: build/icon.ico
   uninstallerIcon: build/icon.ico
   installerHeaderIcon: build/icon.ico
-  uninstallDisplayName: '차카데미 테스트 런처'
-  shortcutName: '차카데미 테스트 런처'
+  uninstallDisplayName: '차카데미'
+  shortcutName: '차카데미'
   oneClick: false
   perMachine: false
   allowElevation: true
