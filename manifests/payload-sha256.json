@@ -785,9 +785,9 @@
     },
     {
       "path": "resourcepacks/chacademia-integrated-20261023.zip",
-      "sha256": "8ca5a583eaf2e49002848c738c4b122a62829813bc2bad0ecf99b18b2344010d",
-      "size": 94600468,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-loot171-fishing20-20261026/chacademia-integrated-loot171-20261026.zip",
+      "sha256": "e324080b20e5db1c11847a442a9000eee7df56487a7973aff42fd02cfc5f8dba",
+      "size": 120853510,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-elena-portrait-20261026/chacademi-integrated-elena-20261026.zip",
       "role": "resourcepack",
       "license": "project-authorized client distribution"
     },
