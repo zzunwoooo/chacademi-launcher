@@ -1,3 +1,4 @@
+const LocalizedErrors = require('./assets/js/localizederrors')
 /**
  * Script for landing.ejs
  */
@@ -185,7 +186,7 @@ function updateSelectedServer(serv){
     }
     ConfigManager.setSelectedServer(serv != null ? serv.rawServer.id : null)
     ConfigManager.save()
-    server_selection_button.innerHTML = '&#8226; ' + (serv != null ? serv.rawServer.name : Lang.queryJS('landing.noSelection'))
+    server_selection_button.innerHTML = '&#8226; ' + (serv != null ? serv.rawServer.name : Lang.queryJS('landing.selectedServer.noSelection'))
     if(getCurrentView() === VIEWS.settings){
         animateSettingsTabRefresh()
     }
@@ -223,7 +224,7 @@ const refreshMojangStatuses = async function(){
 
         const tooltipHTML = `<div class="mojangStatusContainer">
             <span class="mojangStatusIcon" style="color: ${MojangRestAPI.statusToHex(service.status)};">&#8226;</span>
-            <span class="mojangStatusName">${service.name}</span>
+            <span class="mojangStatusName">${({ 'Minecraft.net': 'Minecraft.net', 'Minecraft': '마인크래프트', 'Multiplayer Session Service': '멀티플레이 세션 서비스', 'Public API': '공개 API', 'Microsoft OAuth Server': 'Microsoft 인증 서버', 'Xbox Live Auth Server': 'Xbox Live 인증 서버', 'Xbox Live Gatekeeper': 'Xbox Live 접근 권한 확인', 'Minecraft API for Microsoft Accounts': 'Microsoft 계정용 마인크래프트 API', 'Minecraft Profile for Microsoft Accounts': 'Microsoft 계정용 마인크래프트 프로필', 'Minecraft Skins': '마인크래프트 스킨', 'Mojang Authentication Service': 'Mojang 인증 서비스', 'Mojang Accounts Website': 'Mojang 계정 사이트', 'Mojang API': 'Mojang API' })[service.name] || service.name}</span>
         </div>`
         if(service.essential){
             tooltipEssentialHTML += tooltipHTML
@@ -519,7 +520,7 @@ async function dlAsync(login = true) {
 
     fullRepairModule.childProcess.on('error', (err) => {
         loggerLaunchSuite.error('Error during launch', err)
-        showLaunchFailure(Lang.queryJS('landing.dlAsync.errorDuringLaunchTitle'), err.message || Lang.queryJS('landing.dlAsync.errorDuringLaunchText'))
+        showLaunchFailure(Lang.queryJS('landing.dlAsync.errorDuringLaunchTitle'), LocalizedErrors.describe(err, Lang.queryJS('landing.dlAsync.seeConsoleForDetails')))
     })
     fullRepairModule.childProcess.on('close', (code, _signal) => {
         if(code !== 0){
@@ -538,7 +539,7 @@ async function dlAsync(login = true) {
         setLaunchPercentage(100)
     } catch (err) {
         loggerLaunchSuite.error('Error during file validation.')
-        showLaunchFailure(Lang.queryJS('landing.dlAsync.errorDuringFileVerificationTitle'), err.displayable || Lang.queryJS('landing.dlAsync.seeConsoleForDetails'))
+        showLaunchFailure(Lang.queryJS('landing.dlAsync.errorDuringFileVerificationTitle'), LocalizedErrors.describe(err, Lang.queryJS('landing.dlAsync.seeConsoleForDetails')))
         return
     }
     
@@ -555,7 +556,7 @@ async function dlAsync(login = true) {
             setDownloadPercentage(100)
         } catch(err) {
             loggerLaunchSuite.error('Error during file download.')
-            showLaunchFailure(Lang.queryJS('landing.dlAsync.errorDuringFileDownloadTitle'), err.displayable || Lang.queryJS('landing.dlAsync.seeConsoleForDetails'))
+            showLaunchFailure(Lang.queryJS('landing.dlAsync.errorDuringFileDownloadTitle'), LocalizedErrors.describe(err, Lang.queryJS('landing.dlAsync.seeConsoleForDetails')))
             return
         }
     } else {
@@ -668,7 +669,7 @@ async function dlAsync(login = true) {
                 if(launchCompleteTimer != null){ clearTimeout(launchCompleteTimer) }
                 if(proc === launchedProcess){ proc = null }
                 launchFailureShown = true
-                showLaunchFailure('게임 실행 실패', err.message)
+                showLaunchFailure('게임 실행 실패', LocalizedErrors.describe(err, Lang.queryJS('landing.dlAsync.seeConsoleForDetails')))
             })
 
             // Bind listeners to stdout.
@@ -740,7 +741,7 @@ function slide_(up){
         lCLRight.style.top = '-200vh'
         newsBtn.style.top = '130vh'
         newsContainer.style.top = '0px'
-        //date.toLocaleDateString('en-US', {month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: 'numeric'})
+        //date.toLocaleDateString('ko-KR', {month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: 'numeric'})
         //landingContainer.style.background = 'rgba(29, 29, 29, 0.55)'
         landingContainer.style.background = 'rgba(0, 0, 0, 0.50)'
         setTimeout(() => {
@@ -1000,7 +1001,7 @@ document.addEventListener('keydown', (e) => {
 function displayArticle(articleObject, index){
     newsArticleTitle.innerHTML = articleObject.title
     newsArticleTitle.href = articleObject.link
-    newsArticleAuthor.innerHTML = 'by ' + articleObject.author
+    newsArticleAuthor.innerHTML = '작성자: ' + articleObject.author
     newsArticleDate.innerHTML = articleObject.date
     newsArticleComments.innerHTML = articleObject.comments
     newsArticleComments.href = articleObject.commentsLink
@@ -1042,11 +1043,11 @@ async function loadNews(){
                     const el = $(items[i])
 
                     // Resolve date.
-                    const date = new Date(el.find('pubDate').text()).toLocaleDateString('en-US', {month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: 'numeric'})
+                    const date = new Date(el.find('pubDate').text()).toLocaleDateString('ko-KR', {month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: 'numeric'})
 
                     // Resolve comments.
                     let comments = el.find('slash\\:comments').text() || '0'
-                    comments = comments + ' Comment' + (comments === '1' ? '' : 's')
+                    comments = '댓글 ' + comments + '개'
 
                     // Fix relative links in content.
                     let content = el.find('content\\:encoded').text()

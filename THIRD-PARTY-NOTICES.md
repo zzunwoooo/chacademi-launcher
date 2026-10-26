@@ -12,3 +12,5 @@ Starlight Loading 1.0.0: zzunwoo, All-Rights-Reserved. User supplied and explici
 Chacademy Story 0.1.0: user-authorized public client distribution, paid font excluded; original rights retained. Bundled SnakeYAML license remains in the JAR. Chat Layout 1.4.0: GPL-3.0-only, corresponding source/LICENSE/NOTICE supplied in the v0.1.2 Release.
 
 Chat Layout 1.5.1: GPL-3.0-only; corresponding source, LICENSE and NOTICE supplied in v0.1.3. HolyTaming effects: user-authorized public client distribution, original rights retained.
+
+Launcher fonts: Pretendard (body/labels), MaruBuri (headings), copied from the existing Chacademi client assets. Their original licenses are retained in app/assets/fonts/Pretendard-LICENSE.txt and MaruBuri-LICENSE.txt.

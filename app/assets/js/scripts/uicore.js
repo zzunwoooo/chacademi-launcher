@@ -21,14 +21,14 @@ process.traceDeprecation = true
 
 // Disable eval function.
 window.eval = global.eval = function () {
-    throw new Error('Sorry, this app does not support window.eval().')
+    throw new Error('이 앱은 보안을 위해 window.eval()을 지원하지 않습니다.')
 }
 
 // Display warning when devtools window is opened.
 remote.getCurrentWebContents().on('devtools-opened', () => {
-    console.log('%cThe console is dark and full of terrors.', 'color: white; -webkit-text-stroke: 4px #a02d2a; font-size: 60px; font-weight: bold')
-    console.log('%cIf you\'ve been told to paste something here, you\'re being scammed.', 'font-size: 16px')
-    console.log('%cUnless you know exactly what you\'re doing, close this window.', 'font-size: 16px')
+    console.log('%c개발자 콘솔 사용 시 주의하세요.', 'color: white; -webkit-text-stroke: 4px #a02d2a; font-size: 60px; font-weight: bold')
+    console.log('%c누군가 이곳에 코드를 붙여넣으라고 했다면 사기일 수 있습니다.', 'font-size: 16px')
+    console.log('%c코드의 동작을 정확히 이해하지 못한다면 이 창을 닫으세요.', 'font-size: 16px')
 })
 
 // Disable zoom, needed for darwin.
@@ -48,7 +48,7 @@ if(!isDev){
                 loggerAutoUpdater.info('New update available', info.version)
                 
                 if(process.platform === 'darwin'){
-                    info.darwindownload = `https://github.com/dscalzi/HeliosLauncher/releases/download/v${info.version}/Helios-Launcher-setup-${info.version}${process.arch === 'arm64' ? '-arm64' : '-x64'}.dmg`
+                    info.darwindownload = `https://github.com/zzunwoooo/chacademi-launcher/releases/download/v${info.version}/Chacademi-Launcher-setup-${info.version}-${process.arch === 'arm64' ? 'arm64' : 'x64'}.dmg`
                     showUpdateUI(info)
                 }
                 

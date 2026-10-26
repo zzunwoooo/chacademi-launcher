@@ -27,7 +27,8 @@ extraResources:
 
 # Windows Configuration
 win:
-  signAndEditExecutable: false
+  signAndEditExecutable: true
+  icon: build/icon.ico
   target: 
     - target: 'zip'
       arch: 'x64'
@@ -36,15 +37,21 @@ win:
 
 # Windows Installer Configuration
 nsis:
+  installerIcon: build/icon.ico
+  uninstallerIcon: build/icon.ico
+  installerHeaderIcon: build/icon.ico
   uninstallDisplayName: '차카데미 테스트 런처'
   shortcutName: '차카데미 테스트 런처'
   oneClick: false
   perMachine: false
   allowElevation: true
   allowToChangeInstallationDirectory: true
+  installerLanguages: [ko_KR]
+  language: '1042'
 
 # macOS Configuration
 mac:
+  icon: build/icon.icns
   target:
     - target: 'dmg'
       arch:
@@ -55,11 +62,12 @@ mac:
 
 # Linux Configuration
 linux: 
+  icon: build/icon.png
   target: 'AppImage'
   maintainer: 'Daniel Scalzi'
   vendor: 'Daniel Scalzi'
-  synopsis: 'Modded Minecraft Launcher'
-  description: 'Custom launcher which allows users to join modded servers. All mods, configurations, and updates are handled automatically.'
+  synopsis: '차카데미 마인크래프트 런처'
+  description: '차카데미 서버 접속에 필요한 모드와 설정을 자동으로 준비하는 런처입니다.'
   category: 'Game'
 
 

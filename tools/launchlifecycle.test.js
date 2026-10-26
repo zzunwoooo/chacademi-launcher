@@ -9,6 +9,7 @@ function harness(){
     const context={
         login:true,proc:null,launchBusy:true,hasRPC:false,serv:{rawServer:{discord:null}},distro:{rawDistribution:{discord:null}},versionData:{},modLoaderData:{},
         ConfigManager:{getSelectedAccount:()=>({displayName:'TestPlayer'})},remote:{app:{getVersion:()=> '0.1.25'}},
+        LocalizedErrors:require('../app/assets/js/localizederrors'),
         ProcessBuilder:class{build(){return child}},loggerLaunchSuite:{info(){},error(){}},Lang:{queryJS:k=>k},preparationTimer:{mark(){}},
         setLaunchDetails:s=>details.push(s),toggleLaunchArea:v=>areas.push(v),setLaunchEnabled(){},showLaunchFailure:(...f)=>failures.push(f),
         GAME_LAUNCH_REGEX:/^\[.+\]: Loading Minecraft .+ with Fabric Loader .+$/,GAME_JOINED_REGEX:/never/,MIN_LINGER:5000,
