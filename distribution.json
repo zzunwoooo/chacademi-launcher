@@ -299,10 +299,10 @@
           "name": "mods/MagicCodex-client-6cfa5a95-preserved-final.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 453704954,
-            "MD5": "7de1db8233896b263856e139ec1265d2",
-            "SHA256": "5119df6b9705487b91187cc3c9d4b678d777999b2c1366deb19334d5b1e399f5",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nameplate-nullguard-20261026-task5/MagicCodex-client-6cfa5a95-nameplate-nullguard.jar"
+            "size": 453770021,
+            "MD5": "acb76a8c4ca4a5c8bb71a1ddd07f2e1e",
+            "SHA256": "acb6824fe0528f8f847dc383bf82975cfecb4c15d46d39fce8af64c6597f8e2b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-portrait-anysize-20261027/MagicCodex-client-6cfa5a95-nameplate-nullguard-portraitfix.jar"
           }
         },
         {
