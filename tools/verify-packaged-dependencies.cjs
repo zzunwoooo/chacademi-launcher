@@ -3,7 +3,7 @@ const path = require('path')
 const asar = require('@electron/asar')
 
 exports.default = async context => {
-    const root = context.packager.appDir
+    const root = path.resolve(__dirname, '..')
     const metadata = JSON.parse(fs.readFileSync(path.join(root, 'package.json'), 'utf8'))
     const archive = path.join(context.appOutDir, 'resources', 'app.asar')
     const entries = new Set(asar.listPackage(archive).map(value => value.replaceAll('\\', '/').replace(/^\//, '')))
