@@ -25296,10 +25296,10 @@
           "name": "chacademi/npc-models/models.json",
           "type": "File",
           "artifact": {
-            "size": 15025,
-            "MD5": "5218ab1641942675d9010acadf2bf070",
-            "SHA256": "f6205cd3c91bedc39e0a06c87cc45cf4820d70d1980301753b53265dac88c5d2",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/models.json",
+            "size": 15367,
+            "MD5": "73877298c03ab93a2fa743f9c7d8f558",
+            "SHA256": "8c86a4facad077103fce2dabfbae1fb6c6292adb65a9016125e8797bf10578bb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-sorting-mirror-model-20261027/models.json",
             "path": "chacademi/npc-models/models.json"
           },
           "updatePolicy": "managed"
@@ -25327,6 +25327,19 @@
             "SHA256": "28800e9c4dec368e48360032af1142115af7f5b077c04d3ad75df9b27a35337d",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-lowell-pipi-20261022-task7/pipi.glb",
             "path": "chacademi/npc-models/pipi.glb"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "chacademi/npc-models/sorting_mirror.glb",
+          "name": "chacademi/npc-models/sorting_mirror.glb",
+          "type": "File",
+          "artifact": {
+            "size": 1820136,
+            "MD5": "38ab0e17d5a455c2f9d7e8252f719ac7",
+            "SHA256": "6a0451fbe8af32896c6f95e47193c1a14e35dcd7b1fe38b4d64c6e6d0a7d0ac0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-sorting-mirror-model-20261027/sorting_mirror.glb",
+            "path": "chacademi/npc-models/sorting_mirror.glb"
           },
           "updatePolicy": "managed"
         },
