@@ -424,75 +424,12 @@
       "role": "mod-config"
     },
     {
-      "path": "chacademi/npc-models/luka.glb",
-      "sha256": "ef446e711624bdc43a675b98719dfda51c3e38f3cda347a5a7a32f59651de574",
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-model-20261021/luka.glb",
-      "license": "Chacademi project asset",
-      "role": "npc-model"
-    },
-    {
-      "path": "chacademi/npc-models/ria.glb",
-      "sha256": "2b2d189e6f8210e8fb1e2027467e7008487a54ed149f15cef06efb67a6a0a2dd",
-      "size": 5375124,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-nameplates-models-20261022-task7/chacademi__npc-models__ria.glb",
-      "license": "Chacademi project asset",
-      "role": "npc-model"
-    },
-    {
       "path": "config/chaca_cutscene/magic_tutorial/cutscene.yml",
       "sha256": "e19817688cf718936f239563f2b006c9fcb9881fcf419e9606c4a75656c60ab5",
       "size": 913,
       "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-nameplates-models-20261022-task7/config__chaca_cutscene__magic_tutorial__cutscene.yml",
       "license": "Chacademi project asset",
       "role": "story-content"
-    },
-    {
-      "path": "chacademi/npc-models/teacher_ellna.glb",
-      "sha256": "a0540634047d6e21485e51267fa26c09617f1b1b45f90d2fd04cd5e552fafdbe",
-      "size": 3167272,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/teacher_ellna.glb",
-      "license": "Chacademi project asset",
-      "role": "npc-model"
-    },
-    {
-      "path": "chacademi/npc-models/captain_bram.glb",
-      "sha256": "6ca32b58d299b4716e6c3540bd7a18fbe0dad6d85373fd386dbfce374a7cf52a",
-      "size": 3081580,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/captain_bram.glb",
-      "license": "Chacademi project asset",
-      "role": "npc-model"
-    },
-    {
-      "path": "chacademi/npc-models/dorm_lowell.glb",
-      "sha256": "3369e416d8d7d6cd9295951ec56a1c2f30e424ace1c0c6d668073b19019a1ad9",
-      "size": 2697960,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-lowell-pipi-20261022-task7/dorm_lowell.glb",
-      "license": "Chacademi project asset",
-      "role": "npc-model"
-    },
-    {
-      "path": "chacademi/npc-models/pipi.glb",
-      "sha256": "28800e9c4dec368e48360032af1142115af7f5b077c04d3ad75df9b27a35337d",
-      "size": 4274848,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-lowell-pipi-20261022-task7/pipi.glb",
-      "license": "Chacademi project asset",
-      "role": "npc-model"
-    },
-    {
-      "path": "chacademi/npc-models/wizard_statue.glb",
-      "sha256": "def88e0f01b095b82185990a3ceb725ba816154d3b3fee7fa3faf0d03f7bd743",
-      "size": 1763852,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-wizard-statue-20261022-task7/wizard_statue.glb",
-      "license": "Chacademi project asset",
-      "role": "npc-model"
-    },
-    {
-      "path": "chacademi/npc-models/models.json",
-      "sha256": "2440b2ba490da747050ca64db2497ca13b7e6412c84b40489cc2bbad3eb11c92",
-      "size": 2375,
-      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-ratio-revert-20261023/models.json",
-      "license": "Chacademi project asset",
-      "role": "npc-model"
     },
     {
       "license": "project-authorized client distribution",
@@ -1005,6 +942,342 @@
       "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-sharedbag-20261024-task9/WaypointGlobe__vfx.json",
       "license": "project-authorized client distribution",
       "role": "vfx-effect"
+    },
+    {
+      "path": "chacademi/npc-models/captain_bram.glb",
+      "sha256": "6ca32b58d299b4716e6c3540bd7a18fbe0dad6d85373fd386dbfce374a7cf52a",
+      "size": 3081580,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/captain_bram.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/dorm_lowell.glb",
+      "sha256": "3369e416d8d7d6cd9295951ec56a1c2f30e424ace1c0c6d668073b19019a1ad9",
+      "size": 2697960,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-lowell-pipi-20261022-task7/dorm_lowell.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/librarian_isolde.glb",
+      "sha256": "645f9d22a86694df11c5a48f873743d170d53c2532341d817a7616ee545f3639",
+      "size": 2239576,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/librarian_isolde.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/luka.glb",
+      "sha256": "ef446e711624bdc43a675b98719dfda51c3e38f3cda347a5a7a32f59651de574",
+      "size": 3436372,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-model-20261021/luka.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/marta.glb",
+      "sha256": "f1efe705e970c7d06d4f0b91af4d32ab5796d3663e7ddfd0d4e839006a6bfa31",
+      "size": 2309220,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/marta.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/models.json",
+      "sha256": "f6205cd3c91bedc39e0a06c87cc45cf4820d70d1980301753b53265dac88c5d2",
+      "size": 15025,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/models.json",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/noel.glb",
+      "sha256": "39bd23a1c2b2b0e6787ddb83709db86b21e3279e27bb52ef6d57edafdef83347",
+      "size": 2631388,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/noel.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/pipi.glb",
+      "sha256": "28800e9c4dec368e48360032af1142115af7f5b077c04d3ad75df9b27a35337d",
+      "size": 4274848,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-lowell-pipi-20261022-task7/pipi.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/ria.glb",
+      "sha256": "b101b40170d8890ad570b6b9768e72b7a8a577e2f796443e7f0ef6856424c8ad",
+      "size": 2424220,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/ria.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/sf_hilde.glb",
+      "sha256": "59b66dd7e64e552a2dd4529046c1433e69a75240bb0ff39e26d43b40c79aeb97",
+      "size": 2796596,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/sf_hilde.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/st_bomi.glb",
+      "sha256": "38b2fd00d019b7fbec440660334455ac0b0b96a3f726daaf3ce3713456fd12c6",
+      "size": 2289868,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/st_bomi.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/st_bongu.glb",
+      "sha256": "2a82e829b6269cad00e8148de2cd04cba3267d649c36fa51514c7886ef393439",
+      "size": 2588216,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/st_bongu.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/st_eden.glb",
+      "sha256": "cf742e1f8ce1ef214a80ef621f9a68c9436d68f1d5b32f24af117400c3c506a3",
+      "size": 2651848,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/st_eden.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/st_gaeun.glb",
+      "sha256": "c6416641e3f4fd980217ab4d552bbfabe7f09ef0a06a83868c341204545b6fe9",
+      "size": 2829436,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/st_gaeun.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/st_geonho.glb",
+      "sha256": "6a895be05b19e424c26ff02bfb6870e489c49c180a4806bce25dabb5d0254e1c",
+      "size": 2292968,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/st_geonho.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/st_gibeom.glb",
+      "sha256": "1ac470e34d821386c0a1a96bf05d937c639288de58d25361e2938841f885b8bf",
+      "size": 2340816,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/st_gibeom.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/st_haru.glb",
+      "sha256": "bffe687f1573aa58faf6a4fe9032c5fc7003fdcaf8a43070687f5ebee112f070",
+      "size": 2434888,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/st_haru.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/st_hayul.glb",
+      "sha256": "418be9c1cdf87eac0a86faac1d73141586edbd24c717e698f923d90d51e8c77b",
+      "size": 2727204,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/st_hayul.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/st_ian.glb",
+      "sha256": "9c3725a95ae11fb2a4b07c83fd6d1c1efbf4846f11c2e033e1fb981cd36b51a9",
+      "size": 2559640,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/st_ian.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/st_jaewon.glb",
+      "sha256": "2c6f62bf2b4d648a239b8abe0dcb77354f8fc23d63b1c6c55fc0743155e2ee73",
+      "size": 2735984,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/st_jaewon.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/st_jun.glb",
+      "sha256": "8169efa30eada4539a9a520016511abbd088ebd7246dfb26dc10639376ad62ca",
+      "size": 2763168,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/st_jun.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/st_kai.glb",
+      "sha256": "2c38dc488bb0c4ba71cc349cd5e166d96c7d3ab3ee9298ef313726f4f2a25cf3",
+      "size": 2640160,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/st_kai.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/st_minho.glb",
+      "sha256": "ac92ba96bbe2cac0ae33f174d8aa5e1150fb25433412a572ac6059cea0064d47",
+      "size": 2732688,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/st_minho.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/st_minjae.glb",
+      "sha256": "73a50dc5329b66289eb03b327dec3a2c2a10040bd97a304196e663bdf3b366b8",
+      "size": 2131940,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/st_minjae.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/tc_berna.glb",
+      "sha256": "7958faad250975d778278b2b9c4059d554533fc0f506868f587299b7c5afda17",
+      "size": 2954108,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/tc_berna.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/tc_cedric.glb",
+      "sha256": "ae07052a977431c2015b5ee128e1875938d33a6e91c3e6e5497582b825ca18b6",
+      "size": 2838060,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/tc_cedric.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/teacher_ellna.glb",
+      "sha256": "a0540634047d6e21485e51267fa26c09617f1b1b45f90d2fd04cd5e552fafdbe",
+      "size": 3167272,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-model-animation-restore-20261022-task7-v2/teacher_ellna.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/teacher_harva.glb",
+      "sha256": "a80247aa6122b7e6a6fca34cf63bef7d59233ab38a7983333d49ddf1aa5e0d10",
+      "size": 2257292,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/teacher_harva.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/vice_gregor.glb",
+      "sha256": "34f3ba92a84bfd67617a620f2d6bc428157dcb5832409d50fd0eeed4496a7d56",
+      "size": 2510980,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/vice_gregor.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/vl_ben.glb",
+      "sha256": "ef63097d45a146ff3c3afbe5fe4fe91188c50c7f79c3129af4e948aad1907d14",
+      "size": 2862344,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/vl_ben.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/vl_bert.glb",
+      "sha256": "dd8df1d8da97cea30a8c7029f328fb238efd93a0c1c174067cbf3539f3a7a0c6",
+      "size": 3284988,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/vl_bert.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/vl_clara.glb",
+      "sha256": "2419d1d9eb876dab73afba6b42eab50ca346313a611f5e1b3acb226e41f99ac3",
+      "size": 2930428,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/vl_clara.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/vl_elsa.glb",
+      "sha256": "38566de522fa1391274daa31dea92a1237da7bf60397365bdb2a0c96579755b4",
+      "size": 3008060,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/vl_elsa.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/vl_greta.glb",
+      "sha256": "33f236dca6373f170501f0d51e89f0e0d058322fcdf4069fe69b5bb250de5166",
+      "size": 2368840,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/vl_greta.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/vl_karl.glb",
+      "sha256": "fd44258aaa3fa893a03283dfb164a1c5863ecc2ba9e1326cde17e1ad760a255c",
+      "size": 3289312,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/vl_karl.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/vl_lotte.glb",
+      "sha256": "3692f8f13ad511b629ee4da3b709cfa27f10233a554c2292c804555f42a41df5",
+      "size": 3302580,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/vl_lotte.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/vl_mia.glb",
+      "sha256": "282c857ec614b1cd701e3081e2d168ec28402676c39cf3b83802812f0c472767",
+      "size": 3013100,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/vl_mia.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/vl_nina.glb",
+      "sha256": "6da5e4a09dd2cc8afdb739f08bf2f146cf4530cf08ff08b433fd1269cc5a64e0",
+      "size": 2827356,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/vl_nina.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/vl_ole.glb",
+      "sha256": "fc72ec7f810d09314b08be4c192c660f3ab6e90bf62f8146c6fd9f455ff661dd",
+      "size": 3614928,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/vl_ole.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/vl_rosa.glb",
+      "sha256": "8e85c7081c15d49ef3a06a33d45afa5dc6349536cffacfb198b026b33721531f",
+      "size": 2908496,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/vl_rosa.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/vl_selma.glb",
+      "sha256": "e6f5d38c6557cbd377bf4a171c87511db54bc38b46d2f0242ed6cd3641047580",
+      "size": 3096012,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-models-0c779a3-20261026/vl_selma.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
+    },
+    {
+      "path": "chacademi/npc-models/wizard_statue.glb",
+      "sha256": "def88e0f01b095b82185990a3ceb725ba816154d3b3fee7fa3faf0d03f7bd743",
+      "size": 1763852,
+      "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-wizard-statue-20261022-task7/wizard_statue.glb",
+      "license": "Chacademi project asset",
+      "role": "npc-model"
     }
   ],
   "bc7SourceCommit": "b0a50cdc52d43dbc36197fc3285ddf6e726a9b7b",
