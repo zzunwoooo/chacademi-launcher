@@ -1290,10 +1290,10 @@
           "type": "File",
           "artifact": {
             "path": "resourcepacks/chacademia-integrated-20261023.zip",
-            "size": 120853510,
-            "MD5": "652500b79596fcc0b86287a4925146a9",
-            "SHA256": "e324080b20e5db1c11847a442a9000eee7df56487a7973aff42fd02cfc5f8dba",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-elena-portrait-20261026/chacademi-integrated-elena-20261026.zip"
+            "size": 48416816,
+            "MD5": "d3b763f133f19a9043556d6b93a386ee",
+            "SHA256": "40a4f404eab20a735d181bb414f89f6f2d16d5108b531160b5e454eb872984d7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-nodialogue-20261027/chacademia-integrated-nodialogue-20261027.zip"
           },
           "updatePolicy": "managed"
         },
