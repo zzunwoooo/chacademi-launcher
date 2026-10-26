@@ -321,10 +321,10 @@
           "name": "mods/portable-vfx-preserved-245d836c.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 430818,
-            "MD5": "5acb7bbafee9934dc15407ab97792371",
-            "SHA256": "1b024956c541e63fa6efa0a2f8601c2a6fc78a996edcf74d570d7b2f0dba54f6",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-paired-candidate-245d836c-20261026-task5/portable-vfx-preserved-245d836c.jar"
+            "size": 431297,
+            "MD5": "5304946d2f65d6a779899294d52c0789",
+            "SHA256": "7405aa1f8869a68e3bb93e77c2b43a398a032d5e8354e6b7554ca511a52cb9af",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-readiness-repair-20261026/portable-vfx-audited-packs-fixed-7405aa1f.jar"
           }
         },
         {
@@ -9739,10 +9739,10 @@
           "name": "config/portablevfx/effects/FlameJavelin/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 784719,
-            "MD5": "287dc577fd8b21b47a6abad2702b0962",
-            "SHA256": "7f25ddd6eae266d0fc6b764d3759c986e5ddb0e5f8d0056abaa8899c0f5a3b7c",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part2/vfx-f1d15f1c9f73596946e4.json",
+            "size": 1144728,
+            "MD5": "bad6a6123c9f11a146246806b5d8b9f2",
+            "SHA256": "712bf082c5d8bfb56af2afeefcfc10c378fb06898d4d247191e257279ce103a5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-readiness-repair-20261026/FlameJavelin-vfx-712bf082c5d8.json",
             "path": "config/portablevfx/effects/FlameJavelin/vfx.json"
           }
         },
@@ -13567,10 +13567,10 @@
           "name": "config/portablevfx/effects/HydroBurst/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 553265,
-            "MD5": "2e075bd4cada439c0a1835eb48c2cab1",
-            "SHA256": "c57c7337ff798992a721e8fe1b8fab970479ab50ee3b8d7a8fb8c950e4f42571",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part2/vfx-4ebcc8d4042f8a9bcc27.json",
+            "size": 811110,
+            "MD5": "d460ad2bb1d1208cb4d04a448b707f89",
+            "SHA256": "7b33c5018c659d2fe8bbb073cbcff3c27d5880e9a4cee711178c556f956f8377",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-readiness-repair-20261026/HydroBurst-vfx-7b33c5018c65.json",
             "path": "config/portablevfx/effects/HydroBurst/vfx.json"
           }
         },
@@ -15175,10 +15175,10 @@
           "name": "config/portablevfx/effects/LeviathanRise/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 1115637,
-            "MD5": "683be9cf249c20fe41201a9b6c4852fe",
-            "SHA256": "77329ecba22f998acc6016e55e67ae89736b0200bd6635639da2ec058782f7b7",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-d5a2ae4a6ac80120dfa9.json",
+            "size": 1640257,
+            "MD5": "904ea01f1adad3cb062fc9ed6d90c5a5",
+            "SHA256": "331753361fb89c32d7f8baee8da9fb079fb7d76a425abb71f6123504b75b41a3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-readiness-repair-20261026/LeviathanRise-vfx-331753361fb8.json",
             "path": "config/portablevfx/effects/LeviathanRise/vfx.json"
           }
         },
@@ -18907,10 +18907,10 @@
           "name": "config/portablevfx/effects/ScorchLock/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 885014,
-            "MD5": "702e1883ad872d5187011f2faa237c22",
-            "SHA256": "d16e0b1cc520f451b64adc89410420a0c68ef91adaa12846158417c6ef8f50be",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-2a18a11663f4fdf6cb90.json",
+            "size": 1294337,
+            "MD5": "8a44662ab1aa46fd2c2c0b5a9cd16e79",
+            "SHA256": "566e2141960e8f13e68085f5189d751dff19d67709a26fc59c0f128073b9b5d6",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-readiness-repair-20261026/ScorchLock-vfx-566e2141960e.json",
             "path": "config/portablevfx/effects/ScorchLock/vfx.json"
           }
         },
@@ -25219,10 +25219,10 @@
           "name": "config/portablevfx/effects/WraithMarch/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 602575,
-            "MD5": "c3304bf19ae122bcde63b80344aeea82",
-            "SHA256": "cccada196dd31b2a62a15cb232265109185272ed72a0b7be701c86aa9ad05888",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part4/vfx-dedbfa044d07531c91ea.json",
+            "size": 874694,
+            "MD5": "a0b09821922f891868c3cbcd7150b96a",
+            "SHA256": "03fed8611fccff531dbfa4453f19933974969fe1e416ec943a8257ec32a1734a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-readiness-repair-20261026/WraithMarch-vfx-03fed8611fcc.json",
             "path": "config/portablevfx/effects/WraithMarch/vfx.json"
           }
         },

@@ -1326,5 +1326,35 @@
     "unchangedModules": 121,
     "previousFeedCommit": "c023a10c2fb379c7898717cffa0fc59917f84e6c",
     "preservation": "all prior launcher assets retained; only 3 aggregate JSONs receive additive IA delta; ModelEngine remains server-merged"
+  },
+  "vfxReadinessRepair": {
+    "files": [
+      {
+        "moduleId": "kr.chacademi:portablevfx:3.2.2-integrated-20261020.1-readychunks.1@jar",
+        "sha256": "7405aa1f8869a68e3bb93e77c2b43a398a032d5e8354e6b7554ca511a52cb9af"
+      },
+      {
+        "moduleId": "config/portablevfx/effects/FlameJavelin/vfx.json",
+        "sha256": "712bf082c5d8bfb56af2afeefcfc10c378fb06898d4d247191e257279ce103a5"
+      },
+      {
+        "moduleId": "config/portablevfx/effects/ScorchLock/vfx.json",
+        "sha256": "566e2141960e8f13e68085f5189d751dff19d67709a26fc59c0f128073b9b5d6"
+      },
+      {
+        "moduleId": "config/portablevfx/effects/HydroBurst/vfx.json",
+        "sha256": "7b33c5018c659d2fe8bbb073cbcff3c27d5880e9a4cee711178c556f956f8377"
+      },
+      {
+        "moduleId": "config/portablevfx/effects/LeviathanRise/vfx.json",
+        "sha256": "331753361fb89c32d7f8baee8da9fb079fb7d76a425abb71f6123504b75b41a3"
+      },
+      {
+        "moduleId": "config/portablevfx/effects/WraithMarch/vfx.json",
+        "sha256": "03fed8611fccff531dbfa4453f19933974969fe1e416ec943a8257ec32a1734a"
+      }
+    ],
+    "validation": "Actual candidate JAR parser with original published asset bundle + current public JSON + five corrected JSON; server required 834 effects missing zero. Exact audited hashes only; unknown packs retain default 64 layer limit. One class changed, other 186 JAR entries identical. Burst event schedule/count conserved. See loader validation evidence and data/changes.json.",
+    "otherContentPreserved": true
   }
 }
