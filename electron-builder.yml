@@ -82,3 +82,5 @@ publish:
   releaseType: release
 
 forceCodeSigning: false
+
+afterPack: tools/verify-packaged-dependencies.cjs
