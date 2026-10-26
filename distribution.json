@@ -1598,9 +1598,9 @@
           "artifact": {
             "path": "config/chaca_cutscene/ch1_chronicle/cutscene.yml",
             "size": 2880,
-            "MD5": "54de41e51c9ec35e5688f6ee00c82771",
-            "SHA256": "7e30e31bdc2f1924441481e52136f8cd62bea728c4b6f0619762cf6b4bd9e500",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-paired-candidate-245d836c-20261026-task5/config__chaca_cutscene__ch1_chronicle__cutscene.yml"
+            "MD5": "4656a31d15c6c163389da80e9870f6c8",
+            "SHA256": "d7466c49ab8dd6a65aeecf8101b90fdaa6123df92bfae4a5c03945dc8afa4661",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-ch1-gate-sorting-20261027/config__chaca_cutscene__ch1_chronicle__cutscene.yml"
           }
         },
         {
