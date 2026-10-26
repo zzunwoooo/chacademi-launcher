@@ -25778,10 +25778,10 @@
           "type": "File",
           "artifact": {
             "path": "resourcepacks/chacademia_npc.zip",
-            "size": 60312831,
-            "MD5": "055e47b21f787851acb65c76ce577385",
-            "SHA256": "dfd1fe0ae04bbb83cedc0b3cc39130e6c295e809998c0cc9a1c7cd5dfa789007",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-resourcepack-20261026/chacademia_npc.zip"
+            "size": 62249988,
+            "MD5": "de9b616be649990a63f137f4842be893",
+            "SHA256": "c1b4caa7deb1212d362b3a7292f6706d41164648096da319b5ead69df8341ba3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-sorting-mirror-20261027/chacademia_npc-20261027.zip"
           },
           "updatePolicy": "managed"
         }
