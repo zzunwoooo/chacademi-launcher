@@ -30,6 +30,19 @@ exports.prepare = function(gameDir, modules){
     }
     const bytes = fs.readFileSync(target(root, PACK))
     if(bytes.length !== artifact.size || sha(bytes) !== artifact.SHA256){ throw new Error('Integrated pack hash mismatch') }
+    // Optional NPC pack contract: verify before touching selections or user files.
+    const npcPath = 'resourcepacks/chacademia_npc.zip'
+    const npcMatches = modules.filter(m => m && m.id === 'chacademia_npc.zip')
+    if(npcMatches.length > 1){ throw new Error('NPC 리소스팩 배포 정보가 중복되었습니다') }
+    const npc = npcMatches[0]
+    if(npc){
+        const a = npc.artifact
+        if(npc.name !== npcPath || !a || a.path !== npcPath ||
+            typeof a.SHA256 !== 'string' || !/^[a-f0-9]{64}$/.test(a.SHA256) ||
+            !Number.isSafeInteger(a.size) || a.size <= 0){ throw new Error('NPC 리소스팩 배포 정보가 올바르지 않습니다') }
+        const content = fs.readFileSync(target(root, npcPath))
+        if(content.length !== a.size || sha(content) !== a.SHA256){ throw new Error('NPC 리소스팩 파일 검증에 실패했습니다') }
+    }
     const optionFile = target(root, 'options.txt')
     const original = fs.existsSync(optionFile) ? fs.readFileSync(optionFile, 'utf8') : ''
     const lines = original.split(/\r?\n/)
@@ -58,8 +71,22 @@ exports.prepare = function(gameDir, modules){
         }
     }
     const option = 'file/' + path.basename(PACK)
-    if(!packs.includes(option)){
-        packs.push(option)
+    const originalPacks = JSON.stringify(packs)
+    if(!packs.includes(option)){ packs.push(option) }
+    if(npc){
+        const npcOption = 'file/chacademia_npc.zip'
+        // Deactivate only the previous same-name folder; retain its bytes for recovery.
+        let seenNpc = false
+        const selected = packs.filter(pack => {
+            if(pack === 'file/chacademia_npc' || pack === 'file/chacademia_npc/'){ return false }
+            if(pack !== npcOption){ return true }
+            if(seenNpc){ return false }
+            seenNpc = true; return true
+        })
+        if(!seenNpc){ selected.push(npcOption) }
+        packs.splice(0, packs.length, ...selected)
+    }
+    if(JSON.stringify(packs) !== originalPacks){
         if(indices.length){ lines[indices[0]]='resourcePacks:'+JSON.stringify(packs) }
         else{ if(lines.at(-1)===''){lines.pop()} lines.push('resourcePacks:'+JSON.stringify(packs),'') }
         const id=crypto.randomUUID(), temporary=optionFile+'.'+id+'.tmp'
