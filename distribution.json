@@ -28533,10 +28533,10 @@
           "name": "chacademi/npc-models/models.json",
           "type": "File",
           "artifact": {
-            "size": 16767,
-            "MD5": "af8ebc6aad84535cac5a62689f59b1a5",
-            "SHA256": "a34c45f07c6012dee3415cb7d3e2b0c86f7333090ca75c41c06a5d8b5612f64f",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-holo-artifact-iapack-20261027/models.json",
+            "size": 17476,
+            "MD5": "fa1dc85a12159d0cb65ab44c414582d8",
+            "SHA256": "6d65332ef0ce7be7a8778a83d8e5d62b708aaea53123db8126e5f50e93f5f5ff",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-bruno-enhance-20261027/models.json",
             "path": "chacademi/npc-models/models.json"
           },
           "updatePolicy": "managed"
@@ -28629,6 +28629,32 @@
             "SHA256": "bd6528f2a3eb364c8f38333a6db93deeb35a942fc6d55ff7cc4c43a3ee695705",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-holo-artifact-iapack-20261027/artifact.glb",
             "path": "chacademi/npc-models/artifact.glb"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "chacademi/npc-models/sf_bruno.glb",
+          "name": "chacademi/npc-models/sf_bruno.glb",
+          "type": "File",
+          "artifact": {
+            "size": 2922580,
+            "MD5": "e757bc9834b6cbecc5fe9d500605acfc",
+            "SHA256": "661133bf4ea0dd3bd87755c834a2bcbcdec72b2aa885c33e50be1190d30b74dd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-bruno-enhance-20261027/sf_bruno.glb",
+            "path": "chacademi/npc-models/sf_bruno.glb"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "chacademi/npc-models/enhance_station.glb",
+          "name": "chacademi/npc-models/enhance_station.glb",
+          "type": "File",
+          "artifact": {
+            "size": 1690656,
+            "MD5": "6a4caa214ad08a2630a9ec4f2ddeb469",
+            "SHA256": "5b70e78c17d8223a2e1505c0cf79eb91b425bd71ae41f3b6849aaf6a738d2363",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-bruno-enhance-20261027/enhance_station.glb",
+            "path": "chacademi/npc-models/enhance_station.glb"
           },
           "updatePolicy": "managed"
         },
