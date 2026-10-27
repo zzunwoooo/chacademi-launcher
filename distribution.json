@@ -299,10 +299,10 @@
           "name": "mods/MagicCodex-client-6cfa5a95-preserved-final.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 453778524,
-            "MD5": "c369d0da30d406cab25505c484c27981",
-            "SHA256": "c8e6bf48d22c1ff81c6e56312a2b31d1b5307da696f319636654f0c8371d1e0c",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-client-sound-cooldown-20261027/MagicCodex-client-6cfa5a95-portraitfix-lootboxfix-titlebar-balloon-vfxthread-scrolls-broomlicense-shopex-petfix-shopfix-sound.jar"
+            "size": 453778522,
+            "MD5": "05e4cd24312c1fc63bd928f117e6a50c",
+            "SHA256": "7d86155e4f2edd249a3e75b730231875e3f252b2e4f50db6874bba5212337cb5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-client-tarotfix-20261027/MagicCodex-client-6cfa5a95-portraitfix-lootboxfix-titlebar-balloon-vfxthread-scrolls-broomlicense-shopex-petfix-shopfix-sound-tarotfix.jar"
           }
         },
         {
