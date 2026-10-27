@@ -29086,6 +29086,19 @@
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-elena-20261027/chacademia_npc-20261027b.zip"
           },
           "updatePolicy": "managed"
+        },
+        {
+          "id": "Misa_1.21L.zip",
+          "name": "resourcepacks/Misa_1.21L.zip",
+          "type": "File",
+          "artifact": {
+            "path": "resourcepacks/Misa_1.21L.zip",
+            "size": 208764210,
+            "MD5": "3c5d73354d3ce49bf7a0994d84b7e21c",
+            "SHA256": "b58699073e5bac504ce5f77892c73e1fef99af461c2643c060ad5ad917772ebd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-misa-texture-20261027/Misa_1.21L.zip"
+          },
+          "updatePolicy": "managed"
         }
       ]
     }
