@@ -299,10 +299,10 @@
           "name": "mods/MagicCodex-client-6cfa5a95-preserved-final.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 453705146,
-            "MD5": "0953ed1d60cce4cfb1ff1e7115a2cb1f",
-            "SHA256": "07821cf3eea23e6786215c7161f86fd45ee23c68b43f8dcf46db8de93de8a480",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-client-vfxthread-20261027/MagicCodex-client-6cfa5a95-portraitfix-lootboxfix-titlebar-balloon-vfxthread.jar"
+            "size": 453705144,
+            "MD5": "fcb4d7ad12f9bb0e465cc40ff5c5cd37",
+            "SHA256": "850dc37aecf585d5a2f35dcec6564d20fe09c33b6c5cb2425817e35633ff93d0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-scrolls-iapack-20261027/MagicCodex-client-6cfa5a95-portraitfix-lootboxfix-titlebar-balloon-vfxthread-scrolls.jar"
           }
         },
         {
@@ -3279,10 +3279,10 @@
           "type": "File",
           "artifact": {
             "path": "resourcepacks/chacademia-integrated-20261023.zip",
-            "size": 48416816,
-            "MD5": "d3b763f133f19a9043556d6b93a386ee",
-            "SHA256": "40a4f404eab20a735d181bb414f89f6f2d16d5108b531160b5e454eb872984d7",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-integrated-nodialogue-20261027/chacademia-integrated-nodialogue-20261027.zip"
+            "size": 49835176,
+            "MD5": "1b03a8a1728b481db76800661d185c45",
+            "SHA256": "00ca1daefe02fd92205cf8559ab9cd600bbfca580e3d28f4219e81fdaf9d38e2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-scrolls-iapack-20261027/chacademia-integrated-ia-20261027.zip"
           },
           "updatePolicy": "managed"
         },
