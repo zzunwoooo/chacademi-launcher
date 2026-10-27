@@ -27285,10 +27285,10 @@
           "name": "chacademi/npc-models/models.json",
           "type": "File",
           "artifact": {
-            "size": 15705,
-            "MD5": "9f96b169db5fd37f69738eec68cf63ad",
-            "SHA256": "c16d25942234f790ba7ecad2f363f24434db8bfdb7c2583724a8e191e4d3b8fe",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-donation-luka-20261027/models.json",
+            "size": 16437,
+            "MD5": "627f26d76cd37811a945fd98abc000a6",
+            "SHA256": "9eedbdc82a4054d36599cb91d41826d81f3c6235b566ef4e0c41c103939aa071",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-gustav-felix-20261027/models.json",
             "path": "chacademi/npc-models/models.json"
           },
           "updatePolicy": "managed"
@@ -27342,6 +27342,32 @@
             "SHA256": "500b52bf2869736bb8ba8a16ea1415ba1a8c36cfee89b0055b1e7e04ecef9259",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-donation-luka-20261027/magic_cauldron.glb",
             "path": "chacademi/npc-models/magic_cauldron.glb"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "chacademi/npc-models/vl_gustav.glb",
+          "name": "chacademi/npc-models/vl_gustav.glb",
+          "type": "File",
+          "artifact": {
+            "size": 2351464,
+            "MD5": "e9ab9715c0d5235c506138165b0160e4",
+            "SHA256": "c5dcbf9156ad4ecf77d2bffa02b7bdc894d73825d53b6c565ce01e812d5c8a71",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-gustav-felix-20261027/vl_gustav.glb",
+            "path": "chacademi/npc-models/vl_gustav.glb"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "chacademi/npc-models/vl_felix.glb",
+          "name": "chacademi/npc-models/vl_felix.glb",
+          "type": "File",
+          "artifact": {
+            "size": 2286300,
+            "MD5": "2e51d092696f7d94c0acfc032b19ccff",
+            "SHA256": "085b89e74ffe0de748f0700b3f38079ab7350bfa2a97e9f21f3d2c2a22041f0f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-gustav-felix-20261027/vl_felix.glb",
+            "path": "chacademi/npc-models/vl_felix.glb"
           },
           "updatePolicy": "managed"
         },
