@@ -299,10 +299,10 @@
           "name": "mods/MagicCodex-client-6cfa5a95-preserved-final.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 453773144,
-            "MD5": "bd4a55f170445576a0e35dd6a9db7588",
-            "SHA256": "2ab5c5f39160bf3f334bce0ece1f9e2566efd4a3598a56c21a8c8f2929b52c5a",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-client-shopex-20261027/MagicCodex-client-6cfa5a95-portraitfix-lootboxfix-titlebar-balloon-vfxthread-scrolls-broomlicense-shopex.jar"
+            "size": 453773294,
+            "MD5": "dfcd7c3b8bb846fa01983e7cd3e1e856",
+            "SHA256": "f7e00513570fb0bef6b7e41e622b6e21016ce45892a042aba379c1cc3a482455",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-client-petfix-20261027/MagicCodex-client-6cfa5a95-portraitfix-lootboxfix-titlebar-balloon-vfxthread-scrolls-broomlicense-shopex-petfix.jar"
           }
         },
         {
@@ -2619,10 +2619,10 @@
           "name": "config/magiccodex/spells/008_wind_needle.yml",
           "type": "File",
           "artifact": {
-            "size": 490,
-            "MD5": "9e6f85032c9ec249d331e710c68216df",
-            "SHA256": "9ce039ccb6bc8a2fa137a1a79b96cfe6c74008b0a9506609e3dd17e2488e8134",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/008_wind_needle.yml",
+            "size": 618,
+            "MD5": "265a82d15115387d8670736b37ce3f26",
+            "SHA256": "79821ad6d524e1a89ddf6260b3f752f53cd5f2ed1ae8fd576320b622267cfe22",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/008_wind_needle.yml",
             "path": "config/magiccodex/spells/008_wind_needle.yml"
           },
           "updatePolicy": "managed"
@@ -2632,10 +2632,10 @@
           "name": "config/magiccodex/spells/009_mini_twister.yml",
           "type": "File",
           "artifact": {
-            "size": 461,
-            "MD5": "a22103cfcc56726d3bbe925927eab16b",
-            "SHA256": "7f9dcf037574cb1ba5eb4716889d9af9fe3cc12cff7ef2899f39d59ab6cddede",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/009_mini_twister.yml",
+            "size": 623,
+            "MD5": "f85005e67aa8832d1d888a612ee37c63",
+            "SHA256": "da9591ac55f8c0b17783d7192569c7e2833fd8436bc2d97a8c9e229e7b1a0927",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/009_mini_twister.yml",
             "path": "config/magiccodex/spells/009_mini_twister.yml"
           },
           "updatePolicy": "managed"
@@ -2645,10 +2645,10 @@
           "name": "config/magiccodex/spells/010_season_sense.yml",
           "type": "File",
           "artifact": {
-            "size": 502,
-            "MD5": "165fd6cbd01f0dbb09390826834306d4",
-            "SHA256": "4fd8212258a685186d1677e524232a913d68a1fb020bd53b5784938a0ae4d06b",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/010_season_sense.yml",
+            "size": 673,
+            "MD5": "253804df335a9d527bc4cef4b66cac9a",
+            "SHA256": "6b2f42d7e56e5a8f9ffaebdac97b0332541cedc5cc3bc4d3cb8f894840c708d1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/010_season_sense.yml",
             "path": "config/magiccodex/spells/010_season_sense.yml"
           },
           "updatePolicy": "managed"
@@ -2658,10 +2658,10 @@
           "name": "config/magiccodex/spells/014_light_step.yml",
           "type": "File",
           "artifact": {
-            "size": 524,
-            "MD5": "ee87df15ca78d879f1fd2d93feb1c591",
-            "SHA256": "aab5d6c033fcb940c8421f8185a3e6ca13c9c3b4529b805725c9fab4971050c7",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/014_light_step.yml",
+            "size": 649,
+            "MD5": "5b9ad978aa2e01a687381ea0b5ead73e",
+            "SHA256": "7ab6f46efbf1f69bd86cb4a5cb8c109578f332e43670088a11f24c2e7e414f71",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/014_light_step.yml",
             "path": "config/magiccodex/spells/014_light_step.yml"
           },
           "updatePolicy": "managed"
@@ -2671,10 +2671,10 @@
           "name": "config/magiccodex/spells/025_gale_combo.yml",
           "type": "File",
           "artifact": {
-            "size": 491,
-            "MD5": "b824ca2e8ff43f603234ad4a66c69bfd",
-            "SHA256": "97108f9cc9f63282e00af8ed79c0392620ec1e467591b2c03ba23f4645beb1a0",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-client-titlebar-20261027/025_gale_combo.yml",
+            "size": 616,
+            "MD5": "148b863128c6c54ffea9edaf5ef6f1fe",
+            "SHA256": "f7593a326440dd6d7cf291e8419a849a9e5de0d4688560b4cee73860fa6f1bdd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/025_gale_combo.yml",
             "path": "config/magiccodex/spells/025_gale_combo.yml"
           },
           "updatePolicy": "managed"
@@ -2684,10 +2684,10 @@
           "name": "config/magiccodex/spells/026_herding_breeze.yml",
           "type": "File",
           "artifact": {
-            "size": 506,
-            "MD5": "f6c88b71f3f41395cae9a184527f6f4c",
-            "SHA256": "f6afedee75ecfaef9ccb178bde978a45373b69bcf6181c415e2fe5f787669405",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/026_herding_breeze.yml",
+            "size": 657,
+            "MD5": "495ba3de96ee5a65d3f27f4231f445c1",
+            "SHA256": "7b8a3222d9fd9b421c39c113d61e165042b61a20d2ac76909d61d57470291d36",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/026_herding_breeze.yml",
             "path": "config/magiccodex/spells/026_herding_breeze.yml"
           },
           "updatePolicy": "managed"
@@ -2697,10 +2697,10 @@
           "name": "config/magiccodex/spells/029_tailwind.yml",
           "type": "File",
           "artifact": {
-            "size": 446,
-            "MD5": "ae9b699f01a909f53d811c1a4b7796c8",
-            "SHA256": "f97aeea0132e873c0c908d89d2080934a37f45df8e7a58b0c37c0d9208a925f7",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/029_tailwind.yml",
+            "size": 602,
+            "MD5": "60060ae464898206e28db18d6fc7f302",
+            "SHA256": "cacd059b40cc7752e9f59825201c4177ab2ff862b6cd8cdf7b973c865215df8f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/029_tailwind.yml",
             "path": "config/magiccodex/spells/029_tailwind.yml"
           },
           "updatePolicy": "managed"
@@ -2710,10 +2710,10 @@
           "name": "config/magiccodex/spells/036_vacuum_burst.yml",
           "type": "File",
           "artifact": {
-            "size": 451,
-            "MD5": "e47e46516451ba690d0b55f71e389f1c",
-            "SHA256": "48526c6e0b2b6f473dc3715966cabda49451c602c65c5cfe3a43c434ea3c707a",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/036_vacuum_burst.yml",
+            "size": 597,
+            "MD5": "5b405f61239e66708a24cb1ca7c8c746",
+            "SHA256": "c967c9d044a89e63c52933e4a117bda44ef989783797ccb0054710a7baf13cd7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/036_vacuum_burst.yml",
             "path": "config/magiccodex/spells/036_vacuum_burst.yml"
           },
           "updatePolicy": "managed"
@@ -2723,10 +2723,10 @@
           "name": "config/magiccodex/spells/037_air_cannon.yml",
           "type": "File",
           "artifact": {
-            "size": 485,
-            "MD5": "76921f6180ed35780fdcc5f50403af3f",
-            "SHA256": "1f9caeca810b76075a448f81a9a26657b7d6f874d1fd2b6ef4ef3f8cfa054c77",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/037_air_cannon.yml",
+            "size": 621,
+            "MD5": "727484877ddeec11c79064faa328feee",
+            "SHA256": "86474458807b4fbfa9282b2e4a42b30a6eb8f2fba3045c9ee63be9a3f8c7c33d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/037_air_cannon.yml",
             "path": "config/magiccodex/spells/037_air_cannon.yml"
           },
           "updatePolicy": "managed"
@@ -2736,10 +2736,10 @@
           "name": "config/magiccodex/spells/040_air_choke.yml",
           "type": "File",
           "artifact": {
-            "size": 453,
-            "MD5": "c2ab0c96ce570f68a0a893f1d546ea21",
-            "SHA256": "d5fd91e1e198f706ac6cc751c8f388275cd9b63c62fccd423981327824ca99c3",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/040_air_choke.yml",
+            "size": 595,
+            "MD5": "7c5a77c421462314ea670ef309b1a32c",
+            "SHA256": "65f50f25aa1d099383ff76c3100a85123984c7680015e975ea1d5a5ffbd5a176",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/040_air_choke.yml",
             "path": "config/magiccodex/spells/040_air_choke.yml"
           },
           "updatePolicy": "managed"
@@ -2749,10 +2749,10 @@
           "name": "config/magiccodex/spells/041_storm_eye.yml",
           "type": "File",
           "artifact": {
-            "size": 484,
-            "MD5": "5576d013ae9ed6ec11d7ee819e271c40",
-            "SHA256": "a82e1624d57ce8f7b759b7269fa1478c5d316824a2181e9be772db41bdb93ad9",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/041_storm_eye.yml",
+            "size": 627,
+            "MD5": "ff0d5dbc9ca92d13af2c2e758081bd42",
+            "SHA256": "d469a58f5b12ebd7b5e2ed5d2b01cc8d20bf44858b4eca0e13f137dd6687dd26",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/041_storm_eye.yml",
             "path": "config/magiccodex/spells/041_storm_eye.yml"
           },
           "updatePolicy": "managed"
@@ -2762,10 +2762,10 @@
           "name": "config/magiccodex/spells/047_sky_dive.yml",
           "type": "File",
           "artifact": {
-            "size": 543,
-            "MD5": "9dc2ac4084420c059e9cdc7e478aa5be",
-            "SHA256": "000a3106e4806d1b76684e765a37d47717ed1237d2810a4e18bd68d861c4b9c0",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/047_sky_dive.yml",
+            "size": 668,
+            "MD5": "0f95e8cd3c53282180beabc8ec3d5547",
+            "SHA256": "fbc3815ed20950f514d8073d0692db52fba5c8d082f8ae9e5c2ab48487645fe9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/047_sky_dive.yml",
             "path": "config/magiccodex/spells/047_sky_dive.yml"
           },
           "updatePolicy": "managed"
@@ -2775,10 +2775,10 @@
           "name": "config/magiccodex/spells/048_thundercloud.yml",
           "type": "File",
           "artifact": {
-            "size": 485,
-            "MD5": "0de47e0fb5ac44d57198ec35469df807",
-            "SHA256": "a5af8b83b17b16a67216b45cf3c94618d61c770c227b4413714b15b65d101677",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/048_thundercloud.yml",
+            "size": 639,
+            "MD5": "cd18bb1a4aa5dbcebf7ade8023bf1fc7",
+            "SHA256": "4769d0b318c2889a9123d0c4e409cb257e05db2b38bd71ce6970c06788644ce5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/048_thundercloud.yml",
             "path": "config/magiccodex/spells/048_thundercloud.yml"
           },
           "updatePolicy": "managed"
@@ -2788,10 +2788,10 @@
           "name": "config/magiccodex/spells/050_heaven_cyclone.yml",
           "type": "File",
           "artifact": {
-            "size": 534,
-            "MD5": "5e3d4e97cda498495f0003b3f0263479",
-            "SHA256": "f5ec1cba368b39838c43cb08a8d910603e2b06c15fe6f98ad6013b9d8b185c53",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/050_heaven_cyclone.yml",
+            "size": 693,
+            "MD5": "fe0a285d0ff35e824efbe3de84afe314",
+            "SHA256": "12fa2cba9fbdb3c16373bdb1fbdbe5775ea2b1efc12916ebf1f5346238f1a52f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/050_heaven_cyclone.yml",
             "path": "config/magiccodex/spells/050_heaven_cyclone.yml"
           },
           "updatePolicy": "managed"
@@ -2801,10 +2801,10 @@
           "name": "config/magiccodex/spells/053_spark_flick.yml",
           "type": "File",
           "artifact": {
-            "size": 470,
-            "MD5": "95c3aa8868151f293292b538bdb20d9b",
-            "SHA256": "fcb1c15c8a59f19868d1ef88cfe1a9e00583692d8862dea7ab1ebd0aa20c085f",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/053_spark_flick.yml",
+            "size": 610,
+            "MD5": "c3cb24af5e9cf1cd0e15152e33c3e062",
+            "SHA256": "0f15e163add201890aeb98b15c8d9b4307cb69a702c1fff336bc0dc51529b222",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/053_spark_flick.yml",
             "path": "config/magiccodex/spells/053_spark_flick.yml"
           },
           "updatePolicy": "managed"
@@ -2814,10 +2814,10 @@
           "name": "config/magiccodex/spells/054_ember_puff.yml",
           "type": "File",
           "artifact": {
-            "size": 477,
-            "MD5": "3ea6276a1d2c677aadc18886bdcc7b30",
-            "SHA256": "96cc69ce79ca9211c4dd5e59082cde3a9ce5a80f25b5b52eb92b32b32b1863ea",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/054_ember_puff.yml",
+            "size": 618,
+            "MD5": "80a1c1f05ce61fbb293d5596a101b9ed",
+            "SHA256": "f25af324b22d6fba4d66ed214433a09ce8a468cd16ba9778e004294bab22c120",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/054_ember_puff.yml",
             "path": "config/magiccodex/spells/054_ember_puff.yml"
           },
           "updatePolicy": "managed"
@@ -2827,10 +2827,10 @@
           "name": "config/magiccodex/spells/057_signal_flare.yml",
           "type": "File",
           "artifact": {
-            "size": 478,
-            "MD5": "d0627f38c403b96cdaa06397479824b0",
-            "SHA256": "affaebd854d6fa131f413067a18509e57f738419c166eb5b351b995cc5b9b870",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/057_signal_flare.yml",
+            "size": 611,
+            "MD5": "6dbcf70e98fc00fdbcc3fb11ac122cab",
+            "SHA256": "b97f7370bbb2ed28bcfaf8b4f79078730b4c1ad8b85c8395929f607411923b7d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/057_signal_flare.yml",
             "path": "config/magiccodex/spells/057_signal_flare.yml"
           },
           "updatePolicy": "managed"
@@ -2840,10 +2840,10 @@
           "name": "config/magiccodex/spells/067_flame_wheel.yml",
           "type": "File",
           "artifact": {
-            "size": 487,
-            "MD5": "3fd2ed33dc7f35466a3c81edcb4f8f2f",
-            "SHA256": "f04d3ddc928dbf69f256b8c282e6a122b7623603423bfe84c1630f0d32d8f8c9",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/067_flame_wheel.yml",
+            "size": 639,
+            "MD5": "d424cdc20bd08d4ef89d2827d13832b9",
+            "SHA256": "c8efca3359449dc903d614182ee6472e0a487f99f1a31847e8106ea1f4cd4b73",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/067_flame_wheel.yml",
             "path": "config/magiccodex/spells/067_flame_wheel.yml"
           },
           "updatePolicy": "managed"
@@ -2853,10 +2853,10 @@
           "name": "config/magiccodex/spells/068_campfire_rest.yml",
           "type": "File",
           "artifact": {
-            "size": 524,
-            "MD5": "13f5eb16a251acd8035f0f7d36063d5a",
-            "SHA256": "11d207ca05c63c721c27bfa77696f9d341d3fff9ebb529cdcadd06df4404a38e",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/068_campfire_rest.yml",
+            "size": 672,
+            "MD5": "db52103d9c9a964e217abbe8549d2ad5",
+            "SHA256": "6df2d64895d14fc6c7bcf16af411a38e8cda854991c0c8bf766d53ec97458415",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/068_campfire_rest.yml",
             "path": "config/magiccodex/spells/068_campfire_rest.yml"
           },
           "updatePolicy": "managed"
@@ -2866,10 +2866,10 @@
           "name": "config/magiccodex/spells/074_eruption_line.yml",
           "type": "File",
           "artifact": {
-            "size": 478,
-            "MD5": "8d70636cabdb90b379d32fd3f9875dd5",
-            "SHA256": "47d3089fa3e9a44f9ea34d03efd1d5cab3e1d165fc5aa3075f7c10b1755a8d61",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/074_eruption_line.yml",
+            "size": 597,
+            "MD5": "b80a0365d56c264507dd16cdca9fa12f",
+            "SHA256": "3f1bf946871f939e491a1c4b779ac3d800737e415037cb2b4233d5247db59e02",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/074_eruption_line.yml",
             "path": "config/magiccodex/spells/074_eruption_line.yml"
           },
           "updatePolicy": "managed"
@@ -2879,10 +2879,10 @@
           "name": "config/magiccodex/spells/075_flame_javelin.yml",
           "type": "File",
           "artifact": {
-            "size": 524,
-            "MD5": "a0a90712368b022911b4019e388de317",
-            "SHA256": "66726088ffb8ef835cb4d0e91f05ed954aef7e9d76c74f452870936a44a1abbc",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/075_flame_javelin.yml",
+            "size": 634,
+            "MD5": "4b6fa50fe5e58e3532c877a55b309079",
+            "SHA256": "d0b55764f6df3d477d7b31c95a162b7eef7c02eac5ac5a301a3ca463e741f4e4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/075_flame_javelin.yml",
             "path": "config/magiccodex/spells/075_flame_javelin.yml"
           },
           "updatePolicy": "managed"
@@ -2892,10 +2892,10 @@
           "name": "config/magiccodex/spells/076_alchemy_preheat.yml",
           "type": "File",
           "artifact": {
-            "size": 471,
-            "MD5": "d114ebb2337d1c06068c194e5eb5a93a",
-            "SHA256": "e951fe3d1c249c1fffe706978c906c4cc350ada5843d4f3586ca189a8f6a0815",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/076_alchemy_preheat.yml",
+            "size": 630,
+            "MD5": "c7337e82a7d72c1238295e61005f718d",
+            "SHA256": "f8d64e4862c12534f2cc532f924e4b2c558fe056c4b7ccff013c56a1945efaef",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/076_alchemy_preheat.yml",
             "path": "config/magiccodex/spells/076_alchemy_preheat.yml"
           },
           "updatePolicy": "managed"
@@ -2905,10 +2905,10 @@
           "name": "config/magiccodex/spells/077_ward_candle.yml",
           "type": "File",
           "artifact": {
-            "size": 513,
-            "MD5": "afa9b0b46152721d3e70211a7755059d",
-            "SHA256": "d2b3eb8e7cb6df8f61e45ced8f42dd72c3f504426bd630b89f6ea89cd91ae5f4",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/077_ward_candle.yml",
+            "size": 630,
+            "MD5": "e76119b3fd3ed30c4f23d3b314984a71",
+            "SHA256": "064d84943a842757a58df51246b5e7738132102c73642e1f9bb5aa43fe6338eb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/077_ward_candle.yml",
             "path": "config/magiccodex/spells/077_ward_candle.yml"
           },
           "updatePolicy": "managed"
@@ -2918,10 +2918,10 @@
           "name": "config/magiccodex/spells/081_heat_haze.yml",
           "type": "File",
           "artifact": {
-            "size": 517,
-            "MD5": "b5e64fa171005af2b96fa1050429fce8",
-            "SHA256": "f813d561440018216e450398e10ecf2e0569e9e37adbcc07903b1f3304b11df0",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/081_heat_haze.yml",
+            "size": 660,
+            "MD5": "9a3b2f3c245eaacd4fb4562256a89cc9",
+            "SHA256": "4eae63cc3df2d987114888d57ef904037566a9bf31ebacf2bffbbb2080a9211b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/081_heat_haze.yml",
             "path": "config/magiccodex/spells/081_heat_haze.yml"
           },
           "updatePolicy": "managed"
@@ -2931,10 +2931,10 @@
           "name": "config/magiccodex/spells/082_broom_afterburner.yml",
           "type": "File",
           "artifact": {
-            "size": 504,
-            "MD5": "62c1515c28c0ee91f03213058b27d712",
-            "SHA256": "ccbebf1ad1456607a090e2a61442a40aaa796e6419e42f1c357c6215743fba6f",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/082_broom_afterburner.yml",
+            "size": 646,
+            "MD5": "f7ca76880980dbb8425a54eb581eac8b",
+            "SHA256": "ce8919fc55ee89a33cba7ba2dd18ad821188089a2b42022cbf16d9ed1e17d874",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/082_broom_afterburner.yml",
             "path": "config/magiccodex/spells/082_broom_afterburner.yml"
           },
           "updatePolicy": "managed"
@@ -2944,10 +2944,10 @@
           "name": "config/magiccodex/spells/088_crimson_spiral.yml",
           "type": "File",
           "artifact": {
-            "size": 517,
-            "MD5": "1f01db4a25b19e115dd4a3ef9bc7229b",
-            "SHA256": "44808fd5569455ff386606b28290790cd63465e5f4ec43308989bfc6a9382b14",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/088_crimson_spiral.yml",
+            "size": 638,
+            "MD5": "9e72b65d72638543edd095c78b7376d1",
+            "SHA256": "beba4debdaaeb4cbc522bf759cd6ec5c6ba4aced355c44a41e54864ef47fb920",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/088_crimson_spiral.yml",
             "path": "config/magiccodex/spells/088_crimson_spiral.yml"
           },
           "updatePolicy": "managed"
@@ -2957,10 +2957,10 @@
           "name": "config/magiccodex/spells/089_scorch_lock.yml",
           "type": "File",
           "artifact": {
-            "size": 566,
-            "MD5": "730fbd2549e8811d6743085519d7e5ec",
-            "SHA256": "9f4f5349304c084f30b4a60ec2e9f0c5bc2644ad2c0567e83d7042a017bd5af5",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/089_scorch_lock.yml",
+            "size": 690,
+            "MD5": "6e29e7067ef71d4515648d1f4da96613",
+            "SHA256": "cd5605ebc757290bcdf13945cb4da05dea1f2464493ed0b55bd71c7137b88976",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/089_scorch_lock.yml",
             "path": "config/magiccodex/spells/089_scorch_lock.yml"
           },
           "updatePolicy": "managed"
@@ -2970,10 +2970,10 @@
           "name": "config/magiccodex/spells/096_volcanic_barrage.yml",
           "type": "File",
           "artifact": {
-            "size": 542,
-            "MD5": "9eb253989549c58855af0d0a79ab337e",
-            "SHA256": "035c90599dead132a39c082bf5264bd00cc853b199e28ace5a65aa823aac8c32",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/096_volcanic_barrage.yml",
+            "size": 666,
+            "MD5": "c89b6cb3d0f7bf4761514949750cd2ff",
+            "SHA256": "e4aefa43372ac60a63f2e83983cba974ed1e1ec0eb351f17926b59f446a0adfe",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/096_volcanic_barrage.yml",
             "path": "config/magiccodex/spells/096_volcanic_barrage.yml"
           },
           "updatePolicy": "managed"
@@ -2983,10 +2983,10 @@
           "name": "config/magiccodex/spells/099_flame_emperor.yml",
           "type": "File",
           "artifact": {
-            "size": 599,
-            "MD5": "4ec3008abe4be472cce27ac35a1af86a",
-            "SHA256": "bfeeec05307352f4abb2fb8f8521e22d52c074b283938a62e9514837773b57d1",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/099_flame_emperor.yml",
+            "size": 729,
+            "MD5": "8eee6e24ada1098e00db80bf5d21d81b",
+            "SHA256": "7d702208d1573a2df5ed5ce97862dd649deea51c8339f8e1140bea7449425f73",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/099_flame_emperor.yml",
             "path": "config/magiccodex/spells/099_flame_emperor.yml"
           },
           "updatePolicy": "managed"
@@ -2996,10 +2996,10 @@
           "name": "config/magiccodex/spells/107_tide_slash.yml",
           "type": "File",
           "artifact": {
-            "size": 437,
-            "MD5": "4d7caac612e30a97437f2386a8c6eb3c",
-            "SHA256": "5fd22780daa52dbf1251dcaae3406762a1de1d73984cadaf364b2d7966b69bcd",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/107_tide_slash.yml",
+            "size": 563,
+            "MD5": "2b372d907d39acfa4b4b93a9865b33b9",
+            "SHA256": "8ddcea23b8427eaff92bfb07abc243a3b8dd2a80a2b7ed60acdfd538a063759c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/107_tide_slash.yml",
             "path": "config/magiccodex/spells/107_tide_slash.yml"
           },
           "updatePolicy": "managed"
@@ -3009,10 +3009,10 @@
           "name": "config/magiccodex/spells/108_ice_shard.yml",
           "type": "File",
           "artifact": {
-            "size": 459,
-            "MD5": "ee22b96def1543443db1915338a01812",
-            "SHA256": "64d4d5039af1ddb0a9d567091ac0065d07c2565abf1e18f3316e2ad1dac4931e",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/108_ice_shard.yml",
+            "size": 589,
+            "MD5": "80e1bb210bf4259d55f9a87f5ce04f5f",
+            "SHA256": "38ca5f41d0897ef44d3afd8e02d2a4dd3c699313030d51815bc4c67ec2a3198e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/108_ice_shard.yml",
             "path": "config/magiccodex/spells/108_ice_shard.yml"
           },
           "updatePolicy": "managed"
@@ -3022,10 +3022,10 @@
           "name": "config/magiccodex/spells/109_scale_appraisal.yml",
           "type": "File",
           "artifact": {
-            "size": 489,
-            "MD5": "e5e9b528eab24766e6fc1ab0ae73e658",
-            "SHA256": "9f4da0b2915f82b3be2a85d2c1371a5e0ced1ab0417b134f9cb2b293a6c811c6",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/109_scale_appraisal.yml",
+            "size": 627,
+            "MD5": "9747b6ef1ab885772b8c813d6362a1a7",
+            "SHA256": "6cfa819ebcd8366f2e53ac22ad6f5b085401c502441e311aa7abcd36a2677b93",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/109_scale_appraisal.yml",
             "path": "config/magiccodex/spells/109_scale_appraisal.yml"
           },
           "updatePolicy": "managed"
@@ -3035,10 +3035,10 @@
           "name": "config/magiccodex/spells/115_water_glimpse.yml",
           "type": "File",
           "artifact": {
-            "size": 552,
-            "MD5": "de6758b2193b1c5268553ee0e6f54ecd",
-            "SHA256": "8527aa39e44178c787149a8c41eb4311ae2f23155310fd9e5bfe87d79d1861a8",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/115_water_glimpse.yml",
+            "size": 704,
+            "MD5": "bdd263ba6cd6c2b3e7a60218195f88dc",
+            "SHA256": "9b5258478256077dbabba1957908a6cdb6bf7f5305d6c9865a2e888027376c20",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/115_water_glimpse.yml",
             "path": "config/magiccodex/spells/115_water_glimpse.yml"
           },
           "updatePolicy": "managed"
@@ -3048,10 +3048,10 @@
           "name": "config/magiccodex/spells/116_bottle_fill.yml",
           "type": "File",
           "artifact": {
-            "size": 441,
-            "MD5": "f0d784368c86a4ddb1a485c3122956ee",
-            "SHA256": "64b34d156c01b07713f200dab51ee9c432a02554798a70d02a4b785d560372ad",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/116_bottle_fill.yml",
+            "size": 559,
+            "MD5": "96d7d781e5c6c843fd55ffbdc9ecf749",
+            "SHA256": "0fe3c99cafa14229e7a02af1d3b41d1e53f3d6f6833b7d9780fa420c8d9da619",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/116_bottle_fill.yml",
             "path": "config/magiccodex/spells/116_bottle_fill.yml"
           },
           "updatePolicy": "managed"
@@ -3061,10 +3061,10 @@
           "name": "config/magiccodex/spells/118_calm_ripple.yml",
           "type": "File",
           "artifact": {
-            "size": 454,
-            "MD5": "41b1ae71d3b7268ff503e9cb307c46fb",
-            "SHA256": "cd31dcd6a299b41a6cb05ccb11ed253c4076c3f300900a10e5eeae40cd77b71d",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/118_calm_ripple.yml",
+            "size": 553,
+            "MD5": "a6c5e445b286015087897d674cc27d29",
+            "SHA256": "f9ebd91255fd1cd1848e8a92daeaefba736a215b8afedc8adc7ee1259e69b245",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/118_calm_ripple.yml",
             "path": "config/magiccodex/spells/118_calm_ripple.yml"
           },
           "updatePolicy": "managed"
@@ -3074,10 +3074,10 @@
           "name": "config/magiccodex/spells/121_frost_path.yml",
           "type": "File",
           "artifact": {
-            "size": 458,
-            "MD5": "e11022be1430005286d170e1df8f6b4a",
-            "SHA256": "fdf112c78df373e428ce4a59f305621fca7973a85241cac24f8e3797613e8608",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/121_frost_path.yml",
+            "size": 591,
+            "MD5": "ecff4d5d3fc7e28da8000382ade54ee1",
+            "SHA256": "302729c104cfec0bf95a258e791d4ffdb19680ef7aafe50eded26b92c1105a4b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/121_frost_path.yml",
             "path": "config/magiccodex/spells/121_frost_path.yml"
           },
           "updatePolicy": "managed"
@@ -3087,10 +3087,10 @@
           "name": "config/magiccodex/spells/122_hydro_burst.yml",
           "type": "File",
           "artifact": {
-            "size": 472,
-            "MD5": "4661f4667e8c03879a2b19dafc017288",
-            "SHA256": "5350ed928a5d86280189069b19b3ab22de3ecbf47b12c5c28d8b521d1a1bda0c",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/122_hydro_burst.yml",
+            "size": 573,
+            "MD5": "6f84e52a765dc1464e4846a4934ab80d",
+            "SHA256": "a863b85d41f99641b2660085fca81a135d9028b9e5bc37e4ffdcfbb44b99fd5a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/122_hydro_burst.yml",
             "path": "config/magiccodex/spells/122_hydro_burst.yml"
           },
           "updatePolicy": "managed"
@@ -3100,10 +3100,10 @@
           "name": "config/magiccodex/spells/123_treasure_scent.yml",
           "type": "File",
           "artifact": {
-            "size": 451,
-            "MD5": "3d3d765375af0c4264c54ba7fc031786",
-            "SHA256": "9bbbd766b3617b13951e3ca7c53cf13164476cbd9d6fb5e70caa603a9ee58dea",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/123_treasure_scent.yml",
+            "size": 587,
+            "MD5": "9ca5af99caca49f35650466826d0b542",
+            "SHA256": "25917bdcb823fedd2727db2de61443e39161633303c8bd2f12a2958066204e7b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/123_treasure_scent.yml",
             "path": "config/magiccodex/spells/123_treasure_scent.yml"
           },
           "updatePolicy": "managed"
@@ -3113,10 +3113,10 @@
           "name": "config/magiccodex/spells/128_crystal_coat.yml",
           "type": "File",
           "artifact": {
-            "size": 498,
-            "MD5": "ed654f03cef68556b2248ea078886dcb",
-            "SHA256": "263e3cfd32d9429ff81f8e8ccfd242b95974941e246e481afbde56a3ca29a2c2",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/128_crystal_coat.yml",
+            "size": 619,
+            "MD5": "c95ab5ab87fd4bfafd8f0dae5659babb",
+            "SHA256": "906ff92e97fbfb4e3942d4fbdbfd1413f6108e94babf8e617af7eb1a10d7c6a7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/128_crystal_coat.yml",
             "path": "config/magiccodex/spells/128_crystal_coat.yml"
           },
           "updatePolicy": "managed"
@@ -3126,10 +3126,10 @@
           "name": "config/magiccodex/spells/129_ice_bloom.yml",
           "type": "File",
           "artifact": {
-            "size": 468,
-            "MD5": "3c4e543d49bf70094fcf3bf8703d59d0",
-            "SHA256": "4cabf3aca888290609c86c799bd815497b5bc823f19406bb543e211921de7268",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/129_ice_bloom.yml",
+            "size": 587,
+            "MD5": "be99336a31d58f11ed05904e406fa583",
+            "SHA256": "e2c1f9218be5c1d5567534d9d31d14ecadab571a82105213d94b57d8f3fa6062",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/129_ice_bloom.yml",
             "path": "config/magiccodex/spells/129_ice_bloom.yml"
           },
           "updatePolicy": "managed"
@@ -3139,10 +3139,10 @@
           "name": "config/magiccodex/spells/145_ebb_mark.yml",
           "type": "File",
           "artifact": {
-            "size": 450,
-            "MD5": "50179e4f5f5cee0bb278cfe1a2b7c5ce",
-            "SHA256": "d96854d18a8d3fe5e7d81d40cf29f194da4840a822d00d88b5e1f841d75857a5",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/145_ebb_mark.yml",
+            "size": 559,
+            "MD5": "ca3756dbf46e6b6572b661d9db5f600f",
+            "SHA256": "c7bd9bec618bcf5a8b2b4d4dad4012f038f535ee439180b3767e927edb906f8b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/145_ebb_mark.yml",
             "path": "config/magiccodex/spells/145_ebb_mark.yml"
           },
           "updatePolicy": "managed"
@@ -3152,10 +3152,10 @@
           "name": "config/magiccodex/spells/148_freeze_field.yml",
           "type": "File",
           "artifact": {
-            "size": 516,
-            "MD5": "39e0846f8c3b38740eb41cd9316f4e56",
-            "SHA256": "427e9d8d6ebe143df5d9dc69fcccaa8ee3a63a332ba72a13a628aab21138e27d",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/148_freeze_field.yml",
+            "size": 626,
+            "MD5": "3bfa2fff65ac59001f3b629ff8e0b3a8",
+            "SHA256": "9aba9cecb88a66a9fcf20507fa379e83650440168d4885d34517889620e7143a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/148_freeze_field.yml",
             "path": "config/magiccodex/spells/148_freeze_field.yml"
           },
           "updatePolicy": "managed"
@@ -3165,10 +3165,10 @@
           "name": "config/magiccodex/spells/149_ice_serpent.yml",
           "type": "File",
           "artifact": {
-            "size": 480,
-            "MD5": "4563fae8aa0bc38d2ad230839d1639d5",
-            "SHA256": "b5ab6e29ab9ba8716be6a6054f284e0751aeeea94f29092817a163f6dd8b1975",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/149_ice_serpent.yml",
+            "size": 608,
+            "MD5": "86b14a2c1c16ad747106fe328f96ace8",
+            "SHA256": "ba222714ee9e8868d040098348519e52559ba77e61111d963d3bf3057f208337",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/149_ice_serpent.yml",
             "path": "config/magiccodex/spells/149_ice_serpent.yml"
           },
           "updatePolicy": "managed"
@@ -3178,10 +3178,10 @@
           "name": "config/magiccodex/spells/150_leviathan_rise.yml",
           "type": "File",
           "artifact": {
-            "size": 567,
-            "MD5": "e41935b90fd221cbbedf508e7d460b87",
-            "SHA256": "63b2ef448c6ab178d77d195b833f45e6cf30f999f99a0f740b1c49e43e8cd649",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/150_leviathan_rise.yml",
+            "size": 707,
+            "MD5": "f47138e186def63db4f33e510021400b",
+            "SHA256": "6db200ec616aedced654ca41b5c3f9b05c3b8d7c09b617c6ff7655bb912b8c03",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/150_leviathan_rise.yml",
             "path": "config/magiccodex/spells/150_leviathan_rise.yml"
           },
           "updatePolicy": "managed"
@@ -3191,10 +3191,10 @@
           "name": "config/magiccodex/spells/156_sand_flick.yml",
           "type": "File",
           "artifact": {
-            "size": 490,
-            "MD5": "6f65fe0ea1058e417913709e6b3997b5",
-            "SHA256": "56a5a97a1c858e3b1f2dc78a7f0607ce56835da9a3427265a166ab7df031fb84",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/156_sand_flick.yml",
+            "size": 597,
+            "MD5": "42150d3ded2c13f9c6c84edb68711ac4",
+            "SHA256": "40de7a4520accbfd014d722d36bbd6fb8aca7233e2337f9800ae99abc1ac443c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/156_sand_flick.yml",
             "path": "config/magiccodex/spells/156_sand_flick.yml"
           },
           "updatePolicy": "managed"
@@ -3204,10 +3204,10 @@
           "name": "config/magiccodex/spells/166_crop_survey.yml",
           "type": "File",
           "artifact": {
-            "size": 526,
-            "MD5": "d02da97930368ae17c294fc41a10d710",
-            "SHA256": "eb685cccbc0101d77fd22c82227e5fc9703a57f74aab18c26b1e7b59b86824e4",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/166_crop_survey.yml",
+            "size": 669,
+            "MD5": "100f2427550719705278e93d9b0530ac",
+            "SHA256": "2eedbf7e235f7154f2a1b32c3c36321933b5f78aa6faaf2810bac257111e1bc2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/166_crop_survey.yml",
             "path": "config/magiccodex/spells/166_crop_survey.yml"
           },
           "updatePolicy": "managed"
@@ -3217,10 +3217,10 @@
           "name": "config/magiccodex/spells/177_crop_snare.yml",
           "type": "File",
           "artifact": {
-            "size": 477,
-            "MD5": "bfe9e0a6a9b5e056d823031ee4a96eb2",
-            "SHA256": "9d677e2c8e05d73aa7535e4d062a66cae185c1f2c8dad7cec65cfcf2ca41dda9",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/177_crop_snare.yml",
+            "size": 615,
+            "MD5": "2b3c0d64c5508083618a89571099ade4",
+            "SHA256": "a4140f37c999c5c80d4c3cf82fdc5430b891c0d54af797289d67aff99b942c4e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/177_crop_snare.yml",
             "path": "config/magiccodex/spells/177_crop_snare.yml"
           },
           "updatePolicy": "managed"
@@ -3230,10 +3230,10 @@
           "name": "config/magiccodex/spells/178_replant_touch.yml",
           "type": "File",
           "artifact": {
-            "size": 526,
-            "MD5": "4c7211f94e7a78de45c8b44bcbcb5040",
-            "SHA256": "7457dcc36299c653ab78a4f4a64acc462f5c8cb7ece7b6077d8e858d398f1b89",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/178_replant_touch.yml",
+            "size": 618,
+            "MD5": "bc7b9a8740feaf399e4375a69fef99c1",
+            "SHA256": "01ac6381f45e510a4b930c2d110d71dcc2c19ad97cffade5dc52194801ac6a7e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/178_replant_touch.yml",
             "path": "config/magiccodex/spells/178_replant_touch.yml"
           },
           "updatePolicy": "managed"
@@ -3243,10 +3243,10 @@
           "name": "config/magiccodex/spells/187_boulder_charge.yml",
           "type": "File",
           "artifact": {
-            "size": 482,
-            "MD5": "f8e5f1c40471193d8faac7f2704023a1",
-            "SHA256": "2fe9c878047f3075470b71411e5e170ab90e30f723549b9c0a88677eba427539",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/187_boulder_charge.yml",
+            "size": 572,
+            "MD5": "b62cd00d838101b73a3485189e00f082",
+            "SHA256": "2c37f5effb6d208d674cebbb7bed3566bac2a492856896bb156978ba5f73ae04",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/187_boulder_charge.yml",
             "path": "config/magiccodex/spells/187_boulder_charge.yml"
           },
           "updatePolicy": "managed"
@@ -3256,10 +3256,10 @@
           "name": "config/magiccodex/spells/199_fault_rift.yml",
           "type": "File",
           "artifact": {
-            "size": 513,
-            "MD5": "fc1a7a563355751123fd587088fa5311",
-            "SHA256": "8a53309f0cb050909adfc30db0de77e3a281b555b1b8ff0f744f52b11a042045",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/199_fault_rift.yml",
+            "size": 629,
+            "MD5": "8338683bca4802397f6f0a7392cdc7ce",
+            "SHA256": "53013456eb111571975d455db8406effd50f8505208a601319099822b33473af",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/199_fault_rift.yml",
             "path": "config/magiccodex/spells/199_fault_rift.yml"
           },
           "updatePolicy": "managed"
@@ -3269,10 +3269,10 @@
           "name": "config/magiccodex/spells/200_titan_stride.yml",
           "type": "File",
           "artifact": {
-            "size": 523,
-            "MD5": "fe2da2ddf4877d39091430e1fd978257",
-            "SHA256": "e19c31fbba58e812d113a81173a481000acd89cbab0223216bde1d938a93cf0d",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/200_titan_stride.yml",
+            "size": 626,
+            "MD5": "65a87acf71b0936cde4df4254034e05d",
+            "SHA256": "556edab286218b61b8fb5efb284234dc177ee70974722ad72ec46715d8e4af5e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/200_titan_stride.yml",
             "path": "config/magiccodex/spells/200_titan_stride.yml"
           },
           "updatePolicy": "managed"
@@ -3282,10 +3282,10 @@
           "name": "config/magiccodex/spells/205_prism_shot.yml",
           "type": "File",
           "artifact": {
-            "size": 468,
-            "MD5": "11ef8362ac5bf6c3fe301a436aef5142",
-            "SHA256": "fd171268a3e49e52eb7a4fe024e598d5cf9e62a74e6422ecc1de59a8ecb4a69a",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/205_prism_shot.yml",
+            "size": 591,
+            "MD5": "41d9b98eb86eacfa55ef61502f74961f",
+            "SHA256": "7836bbab4a8a1ae4f8a0feb31931775d57ce4724981c1cb8a9a13b91a7feb842",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/205_prism_shot.yml",
             "path": "config/magiccodex/spells/205_prism_shot.yml"
           },
           "updatePolicy": "managed"
@@ -3295,10 +3295,10 @@
           "name": "config/magiccodex/spells/206_sunlance_drop.yml",
           "type": "File",
           "artifact": {
-            "size": 520,
-            "MD5": "25b5d23f34490aa7ce67754e4e5319c3",
-            "SHA256": "3c2b9b6975972fc089ebd417d137886292ff320045b29e084cdb3aa67e0eb144",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/206_sunlance_drop.yml",
+            "size": 624,
+            "MD5": "d8bd499f6333c605defc0711e8451316",
+            "SHA256": "23386d4ec6d75b070abe773dad0c5fba2fff66ea358233bf832b63a431a66b1e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/206_sunlance_drop.yml",
             "path": "config/magiccodex/spells/206_sunlance_drop.yml"
           },
           "updatePolicy": "managed"
@@ -3308,10 +3308,10 @@
           "name": "config/magiccodex/spells/213_memory_lantern.yml",
           "type": "File",
           "artifact": {
-            "size": 519,
-            "MD5": "7b401593860e92cc04f0c3ab6068d0d4",
-            "SHA256": "a52cb865aa8d22f210441ac14b222dbaeba08c6c51c10a0e72cb6ab7f5f88d81",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/213_memory_lantern.yml",
+            "size": 667,
+            "MD5": "9ac8d660170be143a6e22e009fcac367",
+            "SHA256": "7d36a9e342570a7a9862a6682b94e239807e4ccd26a072af195a4b11e1f12d98",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/213_memory_lantern.yml",
             "path": "config/magiccodex/spells/213_memory_lantern.yml"
           },
           "updatePolicy": "managed"
@@ -3321,10 +3321,10 @@
           "name": "config/magiccodex/spells/219_insight_flash.yml",
           "type": "File",
           "artifact": {
-            "size": 509,
-            "MD5": "55e90bcf5f0e5d53ba1be9f4bbcd0990",
-            "SHA256": "e56bed55d74392641165b0fde7bbba744ffea250784c9887a22312b3c678b45f",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/219_insight_flash.yml",
+            "size": 627,
+            "MD5": "b9f6d3a3849f46346fbf94edd89c459b",
+            "SHA256": "d44af74466c36c9fabc8f4a8edbce9f0af095e138989b0aef37baa1ed3b01245",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/219_insight_flash.yml",
             "path": "config/magiccodex/spells/219_insight_flash.yml"
           },
           "updatePolicy": "managed"
@@ -3334,10 +3334,10 @@
           "name": "config/magiccodex/spells/220_blessed_ribbon.yml",
           "type": "File",
           "artifact": {
-            "size": 501,
-            "MD5": "03ecc39c5f62a5c4a94835f89089ad02",
-            "SHA256": "6cca2ea9fcd5f61622dfe4cb9c90bc9d0aad2f01296f907087087be6fe4c6ce9",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/220_blessed_ribbon.yml",
+            "size": 624,
+            "MD5": "6e9a3177c639eb11e562126e1df5486b",
+            "SHA256": "3fdcb38b4d472bf980b4ed311d2041fd104186862e10da12646f4e304dc84152",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/220_blessed_ribbon.yml",
             "path": "config/magiccodex/spells/220_blessed_ribbon.yml"
           },
           "updatePolicy": "managed"
@@ -3347,10 +3347,10 @@
           "name": "config/magiccodex/spells/221_enlighten_hint.yml",
           "type": "File",
           "artifact": {
-            "size": 532,
-            "MD5": "7896e4d5a943ec9c18e34cf143cf8417",
-            "SHA256": "db6d385b5d8eb93ee18a6176f3fd81e6f193f605c78aa166c6d07b3990ed225d",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/221_enlighten_hint.yml",
+            "size": 696,
+            "MD5": "9a7d7ae02f53dc687932bf4afdfbce25",
+            "SHA256": "f5f9aa09101e97d21028e40f1e2f46837c2178f67f7bb90bb8fa1a6cd76296ef",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/221_enlighten_hint.yml",
             "path": "config/magiccodex/spells/221_enlighten_hint.yml"
           },
           "updatePolicy": "managed"
@@ -3360,10 +3360,10 @@
           "name": "config/magiccodex/spells/227_halo_throw.yml",
           "type": "File",
           "artifact": {
-            "size": 452,
-            "MD5": "ebe23b0919ee12758bab6e144e8b9073",
-            "SHA256": "7c2609ab4cd6bda1850e96f9f49b679c8b7816c13182f11701a6c4e6c9c6dbc8",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/227_halo_throw.yml",
+            "size": 565,
+            "MD5": "69aa3a6c78ff149882ef7c193aae3439",
+            "SHA256": "6a74cccb8e4098bb8555a232ae579c23a90f9b7ca8bb4e5fc6a1133cd17a4f32",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/227_halo_throw.yml",
             "path": "config/magiccodex/spells/227_halo_throw.yml"
           },
           "updatePolicy": "managed"
@@ -3373,10 +3373,10 @@
           "name": "config/magiccodex/spells/228_harvest_bell.yml",
           "type": "File",
           "artifact": {
-            "size": 509,
-            "MD5": "e7c0724216c433391f23ee29b7428049",
-            "SHA256": "9b57c000e83cb158e2280b131ef309437ecc6423d02767395805f4d83f8d2e24",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/228_harvest_bell.yml",
+            "size": 640,
+            "MD5": "fcac9b41561c85eaa9bd36349bdc50aa",
+            "SHA256": "0954733694edb43bc87d6376e7ce3598e1c7820d0eb934937c0e723a8930f6c2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/228_harvest_bell.yml",
             "path": "config/magiccodex/spells/228_harvest_bell.yml"
           },
           "updatePolicy": "managed"
@@ -3386,10 +3386,10 @@
           "name": "config/magiccodex/spells/231_flash_blink.yml",
           "type": "File",
           "artifact": {
-            "size": 537,
-            "MD5": "6f0403679f584d1fd43565431922a964",
-            "SHA256": "17ff1a624eab166fefde7b4a881dff19e5912133b4625fa249f4cfcb6ce7189c",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/231_flash_blink.yml",
+            "size": 660,
+            "MD5": "45e3dadc8dfd81a240d763ec568b2410",
+            "SHA256": "e7ac6440fdfba3e45e5da37e31e902847396e26fb7724121eaf3fc774ce2a76f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/231_flash_blink.yml",
             "path": "config/magiccodex/spells/231_flash_blink.yml"
           },
           "updatePolicy": "managed"
@@ -3399,10 +3399,10 @@
           "name": "config/magiccodex/spells/245_prism_cage.yml",
           "type": "File",
           "artifact": {
-            "size": 496,
-            "MD5": "bf2a487b5f49f8a10069016e3a248c04",
-            "SHA256": "82248f276275bb724c89db0aa21aa90d91a2d0f461db78838b506c583456099d",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/245_prism_cage.yml",
+            "size": 630,
+            "MD5": "5526414de525fbdfd53426f327e60c58",
+            "SHA256": "5a1419e761bf9d243caaaa3a73e1c802c322c899493ab0facf25a6bbb7b60479",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/245_prism_cage.yml",
             "path": "config/magiccodex/spells/245_prism_cage.yml"
           },
           "updatePolicy": "managed"
@@ -3412,10 +3412,10 @@
           "name": "config/magiccodex/spells/248_aurora_veil.yml",
           "type": "File",
           "artifact": {
-            "size": 522,
-            "MD5": "fbb5689247eceb57db45d1214c4f4506",
-            "SHA256": "dbf888a79683cec1f617d02ae44e492fb4edaf74ccee990efc0eceb19404cf02",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/248_aurora_veil.yml",
+            "size": 609,
+            "MD5": "e6d091b6252c806bce85f8e13f8d1d35",
+            "SHA256": "cb076a3eaedc9262e7c396bd8d624819bcc96bcacb7b79d932d26bab48560b31",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/248_aurora_veil.yml",
             "path": "config/magiccodex/spells/248_aurora_veil.yml"
           },
           "updatePolicy": "managed"
@@ -3425,10 +3425,10 @@
           "name": "config/magiccodex/spells/251_shadow_fang.yml",
           "type": "File",
           "artifact": {
-            "size": 433,
-            "MD5": "2c9652f978453b0d9e7ab89db6e11fe5",
-            "SHA256": "62f2c9c8fe67d3ae7990ff60d7143cde1b31be1a58bddc4b5b39f5626e2845d3",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/251_shadow_fang.yml",
+            "size": 545,
+            "MD5": "b1ad94feb45eabcb52391f346ca2b520",
+            "SHA256": "a1096ef99876cc110e1b38dd754ca3489e1b385b540be6d8cd73e426922f760b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/251_shadow_fang.yml",
             "path": "config/magiccodex/spells/251_shadow_fang.yml"
           },
           "updatePolicy": "managed"
@@ -3438,10 +3438,10 @@
           "name": "config/magiccodex/spells/252_dusk_orb.yml",
           "type": "File",
           "artifact": {
-            "size": 504,
-            "MD5": "d902c6f3e775d215a83a887dae0fa234",
-            "SHA256": "d7793f72368df1e3894752f51a5f4eeeccc0417dbdd7075ca9c753e6744142ed",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/252_dusk_orb.yml",
+            "size": 625,
+            "MD5": "0eb752b30c2df689473a4c28fec5013b",
+            "SHA256": "900902d48297841847e1dfdf2ce1dc927a0bc61075a8da687a5934d82b6d1804",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/252_dusk_orb.yml",
             "path": "config/magiccodex/spells/252_dusk_orb.yml"
           },
           "updatePolicy": "managed"
@@ -3451,10 +3451,10 @@
           "name": "config/magiccodex/spells/253_pack_sort.yml",
           "type": "File",
           "artifact": {
-            "size": 492,
-            "MD5": "4ff92bbf572eb92c0b73ba636290c26c",
-            "SHA256": "d01fa064160dbb55032460bfbd7232424f59a37c1ecf330c80d63d868da375b7",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/253_pack_sort.yml",
+            "size": 612,
+            "MD5": "9a7cba2b69c7297f6ca15bd5d69f5b45",
+            "SHA256": "503fa36988e2a9a6ecc12a35a586bcd37b9f77458142cdc95d51b1a607e1f6cb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/253_pack_sort.yml",
             "path": "config/magiccodex/spells/253_pack_sort.yml"
           },
           "updatePolicy": "managed"
@@ -3464,10 +3464,10 @@
           "name": "config/magiccodex/spells/257_shadow_vault.yml",
           "type": "File",
           "artifact": {
-            "size": 430,
-            "MD5": "3d89e6547bdaf4c6caaa22c7b378d5fb",
-            "SHA256": "c8a9b5c5911fac61aaff0ab164f71b696287f16c0604526e115c9b6e41641fc6",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/257_shadow_vault.yml",
+            "size": 541,
+            "MD5": "b64fa38cb044bd3c84ff0b393c0e1ef1",
+            "SHA256": "19d8f533f4090a2a12f05d9503debc911cba05d6a8a8ec07f6798f3f9e57572d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/257_shadow_vault.yml",
             "path": "config/magiccodex/spells/257_shadow_vault.yml"
           },
           "updatePolicy": "managed"
@@ -3477,10 +3477,10 @@
           "name": "config/magiccodex/spells/270_heart_read.yml",
           "type": "File",
           "artifact": {
-            "size": 486,
-            "MD5": "497668eb0f3727a5d1bc8b9e793fed2a",
-            "SHA256": "1d57a53262bb51e94fe3cbf943c020ff99b6127ede655eb5642aa5082564f701",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/270_heart_read.yml",
+            "size": 611,
+            "MD5": "a9130d934c51496a32447643ba6fb2f8",
+            "SHA256": "b16b20c7fccc03c8384e01ca1a60711a857ce93a637dbf100dc23c0df32cd683",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/270_heart_read.yml",
             "path": "config/magiccodex/spells/270_heart_read.yml"
           },
           "updatePolicy": "managed"
@@ -3490,10 +3490,10 @@
           "name": "config/magiccodex/spells/271_sweet_sleep.yml",
           "type": "File",
           "artifact": {
-            "size": 490,
-            "MD5": "7f1496701daea74480c576f0719650ef",
-            "SHA256": "98e0100f632207f09292f76e08858d4b5b51684001d12210afbaa2276506314e",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/271_sweet_sleep.yml",
+            "size": 635,
+            "MD5": "881e4b34e89a952d52f3c1a122766d61",
+            "SHA256": "e436ff19a191f17aceb5f70b3bb5c1a1c4cac623b4da0874f71e37a16ce8e681",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/271_sweet_sleep.yml",
             "path": "config/magiccodex/spells/271_sweet_sleep.yml"
           },
           "updatePolicy": "managed"
@@ -3503,10 +3503,10 @@
           "name": "config/magiccodex/spells/275_shadow_step.yml",
           "type": "File",
           "artifact": {
-            "size": 444,
-            "MD5": "bb9077d674c9d07f3699fc44d7197255",
-            "SHA256": "ba8156cf8891362a6336e6b02ca7b44bc6bf75e51c7b563574d4476cc424904c",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/275_shadow_step.yml",
+            "size": 578,
+            "MD5": "c11e9472706ccf291537364a33d4750a",
+            "SHA256": "d06326c1c5e923955602079ef2dac57beca3ed3936e6bf90cc784126ce772d4b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/275_shadow_step.yml",
             "path": "config/magiccodex/spells/275_shadow_step.yml"
           },
           "updatePolicy": "managed"
@@ -3516,10 +3516,10 @@
           "name": "config/magiccodex/spells/281_shadow_mire.yml",
           "type": "File",
           "artifact": {
-            "size": 487,
-            "MD5": "c6331340ca118cace412fbd9721520d7",
-            "SHA256": "52715072814a49d9a17d641c09e401f57a2933f1d2dd9862289503608209cb0c",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/281_shadow_mire.yml",
+            "size": 612,
+            "MD5": "28e8f345f5896abbb0a3164d5b9a7a11",
+            "SHA256": "46beda0cf24f2296104910bf4578b0a2086239ae7b847d13e09a219bd6680f26",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/281_shadow_mire.yml",
             "path": "config/magiccodex/spells/281_shadow_mire.yml"
           },
           "updatePolicy": "managed"
@@ -3529,10 +3529,10 @@
           "name": "config/magiccodex/spells/282_dread_dream.yml",
           "type": "File",
           "artifact": {
-            "size": 519,
-            "MD5": "0b8a4725c003c01f2470515f7bd84991",
-            "SHA256": "5f8c1f5dde6cf12e62a99cb9c746912be0576580e59decd640faaa40b98130f7",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/282_dread_dream.yml",
+            "size": 635,
+            "MD5": "1f893835a6e3ad2767d4a2cfaf13295a",
+            "SHA256": "a97e87fbf28c43536c94eee492ab9c9965764cb8be6012a38925167b3f31b429",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/282_dread_dream.yml",
             "path": "config/magiccodex/spells/282_dread_dream.yml"
           },
           "updatePolicy": "managed"
@@ -3542,10 +3542,10 @@
           "name": "config/magiccodex/spells/283_hex_doll.yml",
           "type": "File",
           "artifact": {
-            "size": 489,
-            "MD5": "bc57a52385834921a213bc8843cef804",
-            "SHA256": "1b664edecddec788675247d5110bf92cbb8c27fa86d73652be22fcba3db94fc9",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/283_hex_doll.yml",
+            "size": 614,
+            "MD5": "ef5af57607329943f23d610dde72a1f2",
+            "SHA256": "6e7a1fd1b54bf3ece2e5f38dafb40e114ad5a627e5ada4a671d0eff267ac4622",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/283_hex_doll.yml",
             "path": "config/magiccodex/spells/283_hex_doll.yml"
           },
           "updatePolicy": "managed"
@@ -3555,10 +3555,10 @@
           "name": "config/magiccodex/spells/295_fate_link.yml",
           "type": "File",
           "artifact": {
-            "size": 483,
-            "MD5": "eb4af332b337bae610913c267532921a",
-            "SHA256": "fa9d991865354d49ddf9b91725cf50b7196094656e9dba00d511781ce2a0e7f7",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/295_fate_link.yml",
+            "size": 610,
+            "MD5": "4b8b65078c47da5f75299704e3954a2b",
+            "SHA256": "48ba3659892d6ffeb619443724e508fe2b67cdc48f3f5b9057ecd5d23765f650",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/295_fate_link.yml",
             "path": "config/magiccodex/spells/295_fate_link.yml"
           },
           "updatePolicy": "managed"
@@ -3568,10 +3568,10 @@
           "name": "config/magiccodex/spells/298_wraith_march.yml",
           "type": "File",
           "artifact": {
-            "size": 507,
-            "MD5": "2b943a74a8a9b470e401a6131f9add10",
-            "SHA256": "08fcd487071b2655c9d7b46737868b745326517bdc87877fc2925f80b7c4a638",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/298_wraith_march.yml",
+            "size": 625,
+            "MD5": "023feed9467ca09abb2d1ff34d2c82c1",
+            "SHA256": "bde020943a8a24d19c7fb23f81f277842354c54abfd3ced8d1702659162f9225",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/298_wraith_march.yml",
             "path": "config/magiccodex/spells/298_wraith_march.yml"
           },
           "updatePolicy": "managed"
@@ -3581,10 +3581,10 @@
           "name": "config/magiccodex/spells/300_abyss_gate.yml",
           "type": "File",
           "artifact": {
-            "size": 515,
-            "MD5": "c61f0153c9aed94a2650add00d5cb4d5",
-            "SHA256": "8704dc2db6153438ca32a6d4560cef060484980f09bec8e82f6e5b4026b0c503",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/300_abyss_gate.yml",
+            "size": 613,
+            "MD5": "890af6170201529e5c9c5db1d09d29ab",
+            "SHA256": "09a4e3e7155d7e263b7ecc23b04e7155aa8a0721ec38d3e8d66bfffe17996295",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-research-20261027/300_abyss_gate.yml",
             "path": "config/magiccodex/spells/300_abyss_gate.yml"
           },
           "updatePolicy": "managed"
