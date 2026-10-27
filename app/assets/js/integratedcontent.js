@@ -86,6 +86,12 @@ exports.prepare = function(gameDir, modules){
         if(!seenNpc){ selected.push(npcOption) }
         packs.splice(0, packs.length, ...selected)
     }
+    // Misa texture pack: default on at the lowest priority (first file/ entry) when the distribution ships it.
+    const misaPath = 'resourcepacks/Misa_1.21L.zip', misaOption = 'file/Misa_1.21L.zip'
+    if(modules.some(m => m && m.id === 'Misa_1.21L.zip') && fs.existsSync(target(root, misaPath)) && !packs.includes(misaOption)){
+        const at = packs.findIndex(p => p.startsWith('file/'))
+        packs.splice(at < 0 ? packs.length : at, 0, misaOption)
+    }
     if(JSON.stringify(packs) !== originalPacks){
         if(indices.length){ lines[indices[0]]='resourcePacks:'+JSON.stringify(packs) }
         else{ if(lines.at(-1)===''){lines.pop()} lines.push('resourcePacks:'+JSON.stringify(packs),'') }
