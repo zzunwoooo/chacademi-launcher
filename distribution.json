@@ -27741,10 +27741,10 @@
           "type": "File",
           "artifact": {
             "path": "resourcepacks/chacademia_npc.zip",
-            "size": 62249988,
-            "MD5": "de9b616be649990a63f137f4842be893",
-            "SHA256": "c1b4caa7deb1212d362b3a7292f6706d41164648096da319b5ead69df8341ba3",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-sorting-mirror-20261027/chacademia_npc-20261027.zip"
+            "size": 52376064,
+            "MD5": "11e79d3243765801a80fb1248ba08a32",
+            "SHA256": "df572ae26012c40d77cd655592d6064ed56489744594531b2d8f9afa579d4ee1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-elena-20261027/chacademia_npc-20261027b.zip"
           },
           "updatePolicy": "managed"
         }
