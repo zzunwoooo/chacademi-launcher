@@ -3790,10 +3790,10 @@
           "name": "mods/chacademy-story-preserved-245d836c.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 971350,
-            "MD5": "5954e700a7e4024258bb0cc9377585c4",
-            "SHA256": "dc518b4f8edb55415694be004d25f3247011a76f7821e11a9e38dc6e14029bf0",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-guidey-20261027/chacademy-story-preserved-245d836c-rewardwarn-guidey.jar"
+            "size": 971758,
+            "MD5": "8db5831a8429ec71ac122acc93bed40a",
+            "SHA256": "1aeb502129943b3d6a1aa5d1546c7013541a6deda87e6511c9c1f6e2e0851687",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-holo-artifact-iapack-20261027/chacademy-story-preserved-245d836c-rewardwarn-guidey-holo.jar"
           }
         },
         {
@@ -4527,10 +4527,10 @@
           "type": "File",
           "artifact": {
             "path": "resourcepacks/chacademia-integrated-20261023.zip",
-            "size": 49835176,
-            "MD5": "1b03a8a1728b481db76800661d185c45",
-            "SHA256": "00ca1daefe02fd92205cf8559ab9cd600bbfca580e3d28f4219e81fdaf9d38e2",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-scrolls-iapack-20261027/chacademia-integrated-ia-20261027.zip"
+            "size": 49908935,
+            "MD5": "c2c231ae54803afe8f5ad17b3a6d60e5",
+            "SHA256": "1f19c6328ffe07f0654ccf9258a6c82b240f8e6e9826489c92818a41bc711364",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-holo-artifact-iapack-20261027/chacademia-integrated-ia-20261027b.zip"
           },
           "updatePolicy": "managed"
         },
@@ -28533,10 +28533,10 @@
           "name": "chacademi/npc-models/models.json",
           "type": "File",
           "artifact": {
-            "size": 16437,
-            "MD5": "627f26d76cd37811a945fd98abc000a6",
-            "SHA256": "9eedbdc82a4054d36599cb91d41826d81f3c6235b566ef4e0c41c103939aa071",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-gustav-felix-20261027/models.json",
+            "size": 16767,
+            "MD5": "af8ebc6aad84535cac5a62689f59b1a5",
+            "SHA256": "a34c45f07c6012dee3415cb7d3e2b0c86f7333090ca75c41c06a5d8b5612f64f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-holo-artifact-iapack-20261027/models.json",
             "path": "chacademi/npc-models/models.json"
           },
           "updatePolicy": "managed"
@@ -28616,6 +28616,19 @@
             "SHA256": "085b89e74ffe0de748f0700b3f38079ab7350bfa2a97e9f21f3d2c2a22041f0f",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-gustav-felix-20261027/vl_felix.glb",
             "path": "chacademi/npc-models/vl_felix.glb"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "chacademi/npc-models/artifact.glb",
+          "name": "chacademi/npc-models/artifact.glb",
+          "type": "File",
+          "artifact": {
+            "size": 1790692,
+            "MD5": "7817ebad1f3526b3e0c11cefba787e29",
+            "SHA256": "bd6528f2a3eb364c8f38333a6db93deeb35a942fc6d55ff7cc4c43a3ee695705",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-holo-artifact-iapack-20261027/artifact.glb",
+            "path": "chacademi/npc-models/artifact.glb"
           },
           "updatePolicy": "managed"
         },
