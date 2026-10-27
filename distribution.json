@@ -299,10 +299,10 @@
           "name": "mods/MagicCodex-client-6cfa5a95-preserved-final.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 453704994,
-            "MD5": "c3719fd5d9e922048739c29ca3b794cc",
-            "SHA256": "0937521bdfbd6be7d6bbf2d404e2555870baf1f8f533a87a086f596ae5c37864",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-client-titlebar-20261027/MagicCodex-client-6cfa5a95-portraitfix-lootboxfix-titlebar.jar"
+            "size": 453705012,
+            "MD5": "a6daab07f8e7d1e4f8fa73509a3f78ec",
+            "SHA256": "2f595f2a11d006c7427ade2a09b6bfa42bbefa1c6e79c21e82d35cf972129ffd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-donation-luka-20261027/MagicCodex-client-6cfa5a95-portraitfix-lootboxfix-titlebar-balloon.jar"
           }
         },
         {
@@ -349,6 +349,45 @@
             "SHA256": "87f00418c642a2942cfd3df72f1ac419fcd44b5d57a0b5669a64330a7e2268c8",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.21/client-assets-manifest-fix-20261020.zip",
             "path": "config/magiccodex/launcher/client-assets.zip"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/chacademi/sounds.json",
+          "name": "resourcepacks/chacademia-spells/assets/chacademi/sounds.json",
+          "type": "File",
+          "artifact": {
+            "size": 116,
+            "MD5": "16e5617377a3e0cd7b81ad9b257e0d53",
+            "SHA256": "fcdd9dd256a75735bef7c3b02563bef23c8025ed53ebade5514fdc68c36d5e5a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-donation-luka-20261027/sounds.json",
+            "path": "resourcepacks/chacademia-spells/assets/chacademi/sounds.json"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/chacademi/sounds/donation.ogg",
+          "name": "resourcepacks/chacademia-spells/assets/chacademi/sounds/donation.ogg",
+          "type": "File",
+          "artifact": {
+            "size": 18835,
+            "MD5": "104a86ca48d19fa0b8c756a0497c9981",
+            "SHA256": "830b4fae4a2875dadf33fc8e9158b1f4c14956e356df0d5e008c239ac2a40f17",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-donation-luka-20261027/donation.ogg",
+            "path": "resourcepacks/chacademia-spells/assets/chacademi/sounds/donation.ogg"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/notification/icons/balloon.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/notification/icons/balloon.png",
+          "type": "File",
+          "artifact": {
+            "size": 11676,
+            "MD5": "eb9e108d1c3642bcfe54cbc162811c84",
+            "SHA256": "64aa6f38ab4446be6c414111d7c786dfd5be14c82e25d7d34a71e5e93ad32dd8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-donation-luka-20261027/balloon.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/notification/icons/balloon.png"
           },
           "updatePolicy": "managed"
         },
@@ -27220,10 +27259,10 @@
           "name": "chacademi/npc-models/luka.glb",
           "type": "File",
           "artifact": {
-            "size": 3436372,
-            "MD5": "4a097f7d7663b390b6f0d9ae9fe37f3f",
-            "SHA256": "ef446e711624bdc43a675b98719dfda51c3e38f3cda347a5a7a32f59651de574",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-model-20261021/luka.glb",
+            "size": 2329960,
+            "MD5": "ec0416ec0de4d528cdc3c0a5c7dfd26f",
+            "SHA256": "3aacce0dd8d51cda4c3c18703dd78b2cfe2d7036f2833a441df817d622969291",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-donation-luka-20261027/luka.glb",
             "path": "chacademi/npc-models/luka.glb"
           },
           "updatePolicy": "managed"
@@ -27246,10 +27285,10 @@
           "name": "chacademi/npc-models/models.json",
           "type": "File",
           "artifact": {
-            "size": 15367,
-            "MD5": "73877298c03ab93a2fa743f9c7d8f558",
-            "SHA256": "8c86a4facad077103fce2dabfbae1fb6c6292adb65a9016125e8797bf10578bb",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-sorting-mirror-model-20261027/models.json",
+            "size": 15705,
+            "MD5": "9f96b169db5fd37f69738eec68cf63ad",
+            "SHA256": "c16d25942234f790ba7ecad2f363f24434db8bfdb7c2583724a8e191e4d3b8fe",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-donation-luka-20261027/models.json",
             "path": "chacademi/npc-models/models.json"
           },
           "updatePolicy": "managed"
@@ -27290,6 +27329,19 @@
             "SHA256": "6a0451fbe8af32896c6f95e47193c1a14e35dcd7b1fe38b4d64c6e6d0a7d0ac0",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-sorting-mirror-model-20261027/sorting_mirror.glb",
             "path": "chacademi/npc-models/sorting_mirror.glb"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "chacademi/npc-models/magic_cauldron.glb",
+          "name": "chacademi/npc-models/magic_cauldron.glb",
+          "type": "File",
+          "artifact": {
+            "size": 752648,
+            "MD5": "7d065d3fe5d87f24d389ff5eaf629537",
+            "SHA256": "500b52bf2869736bb8ba8a16ea1415ba1a8c36cfee89b0055b1e7e04ecef9259",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-donation-luka-20261027/magic_cauldron.glb",
+            "path": "chacademi/npc-models/magic_cauldron.glb"
           },
           "updatePolicy": "managed"
         },
