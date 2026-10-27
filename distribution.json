@@ -353,6 +353,617 @@
           "updatePolicy": "managed"
         },
         {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid/chainmail.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid/chainmail.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid/chainmail.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid/iron.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid/iron.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid/iron.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid/gold.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid/gold.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid/gold.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid/diamond.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid/diamond.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid/diamond.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid/netherite.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid/netherite.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid/netherite.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid/turtle_scute.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid/turtle_scute.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid/turtle_scute.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid_leggings/chainmail.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid_leggings/chainmail.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid_leggings/chainmail.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid_leggings/iron.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid_leggings/iron.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid_leggings/iron.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid_leggings/gold.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid_leggings/gold.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid_leggings/gold.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid_leggings/diamond.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid_leggings/diamond.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid_leggings/diamond.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid_leggings/netherite.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid_leggings/netherite.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/entity/equipment/humanoid_leggings/netherite.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/bolt.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/bolt.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/bolt.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/bolt.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/bolt.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/bolt.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/coast.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/coast.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/coast.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/coast.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/coast.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/coast.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/dune.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/dune.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/dune.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/dune.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/dune.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/dune.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/eye.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/eye.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/eye.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/eye.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/eye.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/eye.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/flow.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/flow.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/flow.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/flow.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/flow.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/flow.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/host.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/host.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/host.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/host.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/host.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/host.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/raiser.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/raiser.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/raiser.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/raiser.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/raiser.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/raiser.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/rib.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/rib.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/rib.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/rib.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/rib.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/rib.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/sentry.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/sentry.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/sentry.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/sentry.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/sentry.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/sentry.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/shaper.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/shaper.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/shaper.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/shaper.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/shaper.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/shaper.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/silence.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/silence.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/silence.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/silence.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/silence.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/silence.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/snout.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/snout.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/snout.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/snout.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/snout.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/snout.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/spire.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/spire.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/spire.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/spire.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/spire.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/spire.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/tide.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/tide.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/tide.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/tide.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/tide.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/tide.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/vex.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/vex.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/vex.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/vex.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/vex.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/vex.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/ward.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/ward.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/ward.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/ward.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/ward.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/ward.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/wayfinder.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/wayfinder.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/wayfinder.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/wayfinder.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/wayfinder.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/wayfinder.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/wild.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/wild.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid/wild.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/wild.png",
+          "name": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/wild.png",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "MD5": "f72623b78d00378ddce689f236ccf975",
+            "SHA256": "cc9be9c8ae52c21d9dfd923fd6127b70338032c1b11be2dd87842497ae528f4f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-armor-hide-20261027/armor-hide-empty.png",
+            "path": "resourcepacks/chacademia-spells/assets/minecraft/textures/trims/entity/humanoid_leggings/wild.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
           "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/bram-angry.png",
           "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/bram-angry.png",
           "type": "File",
