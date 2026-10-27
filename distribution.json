@@ -4831,13 +4831,13 @@
           "id": "config/chaca_cutscene/ch1_chronicle/cutscene.yml",
           "name": "config/chaca_cutscene/ch1_chronicle/cutscene.yml",
           "type": "File",
-          "updatePolicy": "seed",
+          "updatePolicy": "managed",
           "artifact": {
             "path": "config/chaca_cutscene/ch1_chronicle/cutscene.yml",
-            "size": 2880,
-            "MD5": "4656a31d15c6c163389da80e9870f6c8",
-            "SHA256": "d7466c49ab8dd6a65aeecf8101b90fdaa6123df92bfae4a5c03945dc8afa4661",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-ch1-gate-sorting-20261027/config__chaca_cutscene__ch1_chronicle__cutscene.yml"
+            "size": 3164,
+            "MD5": "4752a65712156a4c44d15b1c7a0461c3",
+            "SHA256": "9cef40590a1ed8f5e10828613b53394065966e66c34b557fdbb0f55d6b5987c1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-ch1-chronicle-20261027b/config__chaca_cutscene__ch1_chronicle__cutscene-20261027b.yml"
           }
         },
         {
