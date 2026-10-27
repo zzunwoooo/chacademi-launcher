@@ -2542,10 +2542,10 @@
           "name": "mods/chacademy-story-preserved-245d836c.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 971426,
-            "MD5": "5ecee55f70537696b6eed0af0b7654d5",
-            "SHA256": "d84fb5b8307d9d91c1bcbff6d232889cf0e9ad81a8d75857f748180b25acb7d2",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-rewardwarn-20261027/chacademy-story-preserved-245d836c-rewardwarn.jar"
+            "size": 971350,
+            "MD5": "5954e700a7e4024258bb0cc9377585c4",
+            "SHA256": "dc518b4f8edb55415694be004d25f3247011a76f7821e11a9e38dc6e14029bf0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-guidey-20261027/chacademy-story-preserved-245d836c-rewardwarn-guidey.jar"
           }
         },
         {
