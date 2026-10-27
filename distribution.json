@@ -353,6 +353,1254 @@
           "updatePolicy": "managed"
         },
         {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/bram-angry.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/bram-angry.png",
+          "type": "File",
+          "artifact": {
+            "size": 502845,
+            "MD5": "fcb7224fa3283dcc14c3c4b454b6c1d1",
+            "SHA256": "7613e847163713f97264aada72bde3af656faa6bf67085feeeada1b2f4fe7257",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/bram-angry.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/bram-angry.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/bram-excited.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/bram-excited.png",
+          "type": "File",
+          "artifact": {
+            "size": 518298,
+            "MD5": "947b472711eecc992fb467ffef659bd5",
+            "SHA256": "1f96ac3386bc2cd122877adf0e18aef7806a696382dcbb00bddadc518d73348e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/bram-excited.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/bram-excited.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/bram-flustered.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/bram-flustered.png",
+          "type": "File",
+          "artifact": {
+            "size": 509229,
+            "MD5": "c2a5d46058bb39c8e1be7750efbc569e",
+            "SHA256": "c8ebd5db4f6d6f91f7a70476c8411db9601e92d36f5f1bf7d2583713d6f41b17",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/bram-flustered.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/bram-flustered.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/bram-happy.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/bram-happy.png",
+          "type": "File",
+          "artifact": {
+            "size": 523620,
+            "MD5": "6d7a351b1048b27a2419407daeabf183",
+            "SHA256": "8666eee84562a219ee40531a5ad1d0e602bea075c0f5d774e546a8bdf9e910c7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/bram-happy.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/bram-happy.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/bram-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/bram-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 516546,
+            "MD5": "78c56f76b366298cb66cd887825fa06f",
+            "SHA256": "192c5dc7156b88a9a0afa682187b58da57338932332ee5b8652c134ad751761a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/bram-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/bram-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/bram-sad.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/bram-sad.png",
+          "type": "File",
+          "artifact": {
+            "size": 508246,
+            "MD5": "841fa7feeb938b9c90e244f4ce324bde",
+            "SHA256": "df53ea34f6fd7bc4fda796b82cb82b9a5369ea675756f280b5e5a72dd884b0fc",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/bram-sad.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/bram-sad.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/dorm_lowell-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/dorm_lowell-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 463069,
+            "MD5": "29ae4580c345cd4e2735e9c88394636d",
+            "SHA256": "079fb710f94b998eafbb0f74a81cd62c70cd93a1988fd03c6c98dfca81506abd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/dorm_lowell-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/dorm_lowell-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/elena-angry.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/elena-angry.png",
+          "type": "File",
+          "artifact": {
+            "size": 482334,
+            "MD5": "7703994407a5726dd0199bcfb21173de",
+            "SHA256": "a6959502f0ede93cfe8eb323b928a45cf172b051af4d3cd5682699e71ea4e28d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/elena-angry.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/elena-angry.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/elena-excited.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/elena-excited.png",
+          "type": "File",
+          "artifact": {
+            "size": 482334,
+            "MD5": "7703994407a5726dd0199bcfb21173de",
+            "SHA256": "a6959502f0ede93cfe8eb323b928a45cf172b051af4d3cd5682699e71ea4e28d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/elena-excited.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/elena-excited.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/elena-flustered.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/elena-flustered.png",
+          "type": "File",
+          "artifact": {
+            "size": 482334,
+            "MD5": "7703994407a5726dd0199bcfb21173de",
+            "SHA256": "a6959502f0ede93cfe8eb323b928a45cf172b051af4d3cd5682699e71ea4e28d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/elena-flustered.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/elena-flustered.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/elena-happy.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/elena-happy.png",
+          "type": "File",
+          "artifact": {
+            "size": 482334,
+            "MD5": "7703994407a5726dd0199bcfb21173de",
+            "SHA256": "a6959502f0ede93cfe8eb323b928a45cf172b051af4d3cd5682699e71ea4e28d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/elena-happy.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/elena-happy.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/elena-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/elena-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 482334,
+            "MD5": "7703994407a5726dd0199bcfb21173de",
+            "SHA256": "a6959502f0ede93cfe8eb323b928a45cf172b051af4d3cd5682699e71ea4e28d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/elena-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/elena-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/elena-sad.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/elena-sad.png",
+          "type": "File",
+          "artifact": {
+            "size": 482334,
+            "MD5": "7703994407a5726dd0199bcfb21173de",
+            "SHA256": "a6959502f0ede93cfe8eb323b928a45cf172b051af4d3cd5682699e71ea4e28d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/elena-sad.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/elena-sad.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/ella-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/ella-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 553622,
+            "MD5": "edce4341bb601d4e152dbe165618007d",
+            "SHA256": "52d503291ef8f6b16ddef0f273e13a450fb0141710ffdb85372067d9ba6deddc",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/ella-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/ella-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/librarian_isolde-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/librarian_isolde-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 535540,
+            "MD5": "117ef3b91f76211e946ce188f8cdea3b",
+            "SHA256": "605b05a423f79629d91e74999516d5fade817d2baff71e4a0623b7ef1dcbdb2b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/librarian_isolde-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/librarian_isolde-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/luka-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/luka-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 481261,
+            "MD5": "386fe589ff20f4cd037ec99835c3731d",
+            "SHA256": "4d1b4acd2827f2589872b6a7aa4dfb11044ddca9bc196f1fc00b27d64e1435ea",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/luka-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/luka-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/marta-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/marta-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 615909,
+            "MD5": "3d2851a599dc67b4a1f565bfd564f707",
+            "SHA256": "e65f2835297c8ca86cd4d3b257abf03b6faf5383c55908fc4cec28753db295b0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/marta-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/marta-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/mina-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/mina-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 614538,
+            "MD5": "18677c32abdbbac7a1447f31a0e5e9f9",
+            "SHA256": "9003d2ef2a6fdbedaa159361bd3d4c28d12e8c8c77a73733d552a62bce77c2b9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/mina-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/mina-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/noel-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/noel-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 466060,
+            "MD5": "273b0a27857c51e0bcdbbbd3a19447a7",
+            "SHA256": "6624fb8c26d6870621c1934509bc57eeb57710f35a2dc3b5345ae83308ad1ef8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/noel-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/noel-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/pipi-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/pipi-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 612316,
+            "MD5": "59d9828352ee83a9586d1b07359c8cd8",
+            "SHA256": "df6348b3cecdb6c4a1018daf32738be81d69f9eff95a316308f19f76a25c448d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/pipi-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/pipi-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/rin-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/rin-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 588119,
+            "MD5": "b2ad52a42b649f720e29d713d6fd9a83",
+            "SHA256": "43c26a3e9828cf272cc435ce9fdaee49a94c4f7a6298acf27251e273c19f8bec",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/rin-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/rin-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/sf_bruno-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/sf_bruno-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 573644,
+            "MD5": "38158ef03947c8af8ef05e5f8c163a92",
+            "SHA256": "2dcc123891eaca177d617eaabc1d776b5419d7c93b5bc1b565d8bfd59d02d47d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/sf_bruno-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/sf_bruno-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/sf_dorothea-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/sf_dorothea-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 514515,
+            "MD5": "70ec1bc57c477ee72d15c10c92d5472b",
+            "SHA256": "db499c977012b91fdeea663d1f8cbfd7db4d4de5c7e91a5d605b5af4b6b6b710",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/sf_dorothea-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/sf_dorothea-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/sf_emil-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/sf_emil-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 560863,
+            "MD5": "28afcd09aafb685111c74a8e0384a641",
+            "SHA256": "609dcb637048e9d9eab6086aa22349e8cf6031fdc769e56b61183e4472d43647",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/sf_emil-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/sf_emil-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/sf_hilde-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/sf_hilde-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 482364,
+            "MD5": "ef6af03aea4865f3955a9be4d30ad83f",
+            "SHA256": "5451d7513dde9184b6931afc8f2011e4eb4271983b35889287f49081eb172ebc",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/sf_hilde-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/sf_hilde-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/sorting_mirror.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/sorting_mirror.png",
+          "type": "File",
+          "artifact": {
+            "size": 1938048,
+            "MD5": "3ef9844c4f62e2adaacaf85bee8f8de1",
+            "SHA256": "0fbd929a9d3dbb2b4bec6e401ef4b7962032e96663ecaf7673e08cf99394ebe8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/sorting_mirror.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/sorting_mirror.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_bomi-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_bomi-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 522560,
+            "MD5": "f432b957c272f2146b058ca1174b66ae",
+            "SHA256": "891c0e1e7c48b75ca8e97fe3fba0f691b9ca348f6dc383007e9e0a4f2a07ba26",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_bomi-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_bomi-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_bongu-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_bongu-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 552315,
+            "MD5": "ae2757533610941c25f2ffea5b543968",
+            "SHA256": "f7fae806aa76d78705ad97ac18667341b753f9cbc6d027e098d85ff11bd898bd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_bongu-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_bongu-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_bora-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_bora-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 498686,
+            "MD5": "51bdd418741bf57b81f79b3d6e3659d4",
+            "SHA256": "c9c0b42167a9bfc63893167793855e4736af6e54f983eb88b6d4e3659d3de0d1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_bora-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_bora-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_chaeyun-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_chaeyun-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 595312,
+            "MD5": "bf5d762343a1b6d9a92d2539573dee8d",
+            "SHA256": "a5fb05402881a10e6a9330fbec1c258cdeda7415db3fe235eba382e47a23ea33",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_chaeyun-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_chaeyun-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_daon-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_daon-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 515897,
+            "MD5": "cdca72cdd5ce84ade919b3be0e6882ab",
+            "SHA256": "17cc1636acc4bda3409ad755cd9c5bf9729ee8f8d7bc18e87b36edcb5421e3b0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_daon-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_daon-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_deokhee-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_deokhee-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 499880,
+            "MD5": "84408eb6e1acc0bfa3c2852afb680e74",
+            "SHA256": "b41b104131a8af52155b1783c0033b9be82f98daf575b80d81e23173c4cc64f5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_deokhee-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_deokhee-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_dongsu-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_dongsu-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 523992,
+            "MD5": "7dcd7fcf5e93f6e6be4f5e2eba446cee",
+            "SHA256": "ecc85279eb5b559b72e8ece13b59bf2cd77bfd851a5d6721c4dbd3b3e7bffb3d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_dongsu-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_dongsu-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_doyun-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_doyun-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 520569,
+            "MD5": "e92342f4f09f8cf89459bbf12042a675",
+            "SHA256": "4c68aa5431c14a384d94e6710a888ea8a1e18d217d75fda8d61a90d49e87fbe6",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_doyun-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_doyun-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_eden-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_eden-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 514313,
+            "MD5": "a27ffc4ed61b66e3675adfa3a148ff8a",
+            "SHA256": "7f735072f4afdff6303bd3ddff51d186a07051d4cd1108d21b9569dc154c1d8b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_eden-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_eden-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_gaeun-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_gaeun-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 520757,
+            "MD5": "33c31efce8a601e09c4b3edb387f2a68",
+            "SHA256": "e592f29928166f1f66a0fdb533a8e9b9ab910117972fa210c89174b9a086ae47",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_gaeun-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_gaeun-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_geonho-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_geonho-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 482352,
+            "MD5": "7d889ea96f4e2b164efc8f4bb4864d52",
+            "SHA256": "3a2903cb6a62baf21d2448a5c87b825cd66d37cbcd8673fe11ccb414569d87bc",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_geonho-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_geonho-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_gibeom-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_gibeom-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 526343,
+            "MD5": "43f99a796f44daf856c3ab2bdbdc998f",
+            "SHA256": "2cee647e08ad6cc3bf744875f84de483369d1ed140a21e1bc8e9442004cf4e3b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_gibeom-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_gibeom-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_haru-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_haru-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 517995,
+            "MD5": "ce4653de09a7a22d62f78eb10b54cb30",
+            "SHA256": "d4d079af7b771e05fd22f3421db1310b782c18b93d9b30000a243e67fa1f1833",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_haru-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_haru-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_hayul-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_hayul-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 525367,
+            "MD5": "0c193b93ee5c5df4549b1f7af3f58b1c",
+            "SHA256": "ff0e132d9c290a1b61a2c30c9164194616615d4ed4d331dd912fb2dad1b7cc6a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_hayul-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_hayul-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_ian-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_ian-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 509727,
+            "MD5": "b6cdcb427c7812986d86d2e3a778a234",
+            "SHA256": "9d6cdfc7ce568adb946969c7caae7de459045d1b59e5be709aff3fe6dcbc1ef2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_ian-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_ian-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_jaewon-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_jaewon-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 547415,
+            "MD5": "2a412d12aaee4e8e5e9c9c1ec1e6edaa",
+            "SHA256": "b94be413861628300f0e8e9ef4c612c50e3ff071e99f4377d43842cc1b422ad2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_jaewon-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_jaewon-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_jun-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_jun-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 454816,
+            "MD5": "dc71b60e1caf3bcab33a64a770b945cf",
+            "SHA256": "321126728c5217e406135f2cddcd25fdf3d0636cf0561ee4f4fa16c75ac2944f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_jun-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_jun-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_kai-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_kai-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 573987,
+            "MD5": "6f2bae459cd31ae4935aab699cfe6b12",
+            "SHA256": "b99df0bd34911d78521739716e3015bf4ecb1c049dd209988785cef9cc4b5d56",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_kai-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_kai-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_lia-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_lia-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 544128,
+            "MD5": "78626694f2f5c2dae120737bee7ab1aa",
+            "SHA256": "2e2257dc564f72ece5fc99e9d65c8e2d97ba28b8d70cc3a5c4d8b58895355037",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_lia-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_lia-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_mihyang-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_mihyang-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 599843,
+            "MD5": "ea6014898a312792a4112695edc75457",
+            "SHA256": "460bf1752471c6bf4c1bff2dc2b1743bc416ad3a533db39d2f994e029766fb63",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_mihyang-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_mihyang-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_minho-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_minho-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 502561,
+            "MD5": "06ab6004eacf87a09c777ded74ac028f",
+            "SHA256": "848b48d568f77c969c9706961903a2590d0220326e7e494a236fb7a0027a0f93",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_minho-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_minho-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_minjae-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_minjae-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 499418,
+            "MD5": "f054f3233d612cbe7724d8bf6e2d5d09",
+            "SHA256": "6c673e0665a7e30476ed8fa3e2e990870c137e6498c91b780026dca0e4fdf14b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_minjae-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_minjae-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_nari-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_nari-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 497152,
+            "MD5": "9467a663e0f35cc38474f90a6358ec6c",
+            "SHA256": "198ecb95865ba1c545784d04d4d56ce0b39d63fe9e56bc84f74f7d7c7d75dfb9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_nari-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_nari-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_pilsung-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_pilsung-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 507847,
+            "MD5": "7dc59d57d2a267f1308946045172606b",
+            "SHA256": "600b992278400bdd5308de9fb37a99be93038d0377baf60637af2915892450af",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_pilsung-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_pilsung-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_rowan-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_rowan-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 579390,
+            "MD5": "a2f9df56534a7886904c0b869a97d4ce",
+            "SHA256": "6d7b32f76afea0f9ca8c264f19727f4cd6ef0bcc2ed7da1e6afca4cb389b1cdc",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_rowan-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_rowan-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_sangmin-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_sangmin-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 463232,
+            "MD5": "b04d0880d1c29a08df09c4d3dcdb3753",
+            "SHA256": "0754ae953dc5ecc7e71860abe2b4fa7eec0e706cbea941ed0fd396f2758bcfb7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_sangmin-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_sangmin-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_seoa-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_seoa-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 504384,
+            "MD5": "f29bda4eeae2f476afcf0b9e7e9ad540",
+            "SHA256": "724f92858c85ef9e8e36fa7338d734253e6710130af6143ee684d87e09192a79",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_seoa-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_seoa-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_sora-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_sora-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 661546,
+            "MD5": "49a41d8bc6bfea369a02c95f657fb012",
+            "SHA256": "ed0e4fb77b1a3f0d820a051c19c5323ca1401b8c2c9c3be634c9a883b838af4c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_sora-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_sora-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_taeo-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_taeo-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 572125,
+            "MD5": "3d53b5f599633aa075efb3ddd8a84da6",
+            "SHA256": "ad0a10e06d185e306a0196c9230c2be1f023e372a81cf2c219a645f6b95c1967",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_taeo-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_taeo-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_taesik-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_taesik-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 531794,
+            "MD5": "e128328ee230c2dd0f9f422965c4e094",
+            "SHA256": "e4c0a1dc48d4136630648b352d6aa6bd003ced4d74d53c90d85ba26f22141b7d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_taesik-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_taesik-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_ujin-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_ujin-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 455612,
+            "MD5": "377580d9b5b44ab0c046203e01730651",
+            "SHA256": "1f6ac9548a7271c40f1c7843870d51f2cf0a1884c3c53e258ff4d1cb527e44f4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_ujin-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_ujin-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_vera-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_vera-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 521818,
+            "MD5": "703215936fea3f2fae4df7e600ba21ae",
+            "SHA256": "5a24a7aec2e53be655786c6e6b6ee13361b1c11e7921455f33b784369dd98e80",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_vera-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_vera-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_yena-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_yena-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 601503,
+            "MD5": "d29995e42a48aa14b6ee04b8fb018f1d",
+            "SHA256": "13f432ac1be2883e66cbc01ca0516af065572fea1a84409acad25bce5fc77637",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_yena-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_yena-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_yuna-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_yuna-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 512921,
+            "MD5": "0d724695c9b4788da1a85d08afefc36d",
+            "SHA256": "06b683672255d1ad5dcd160f1074d7bffd4d4d5c037bead1d9444ee4c1ed90a9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/st_yuna-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/st_yuna-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/tc_berna-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/tc_berna-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 579080,
+            "MD5": "2e77cd3b57c354f16f934c687134bb77",
+            "SHA256": "0df810a6a70902ffffb0dd6b37ee1e1171ea073e2685ecdf8d9cacabf5b0186a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/tc_berna-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/tc_berna-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/tc_cedric-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/tc_cedric-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 568129,
+            "MD5": "933cbf7b3b3382db2a52529f82b8de6c",
+            "SHA256": "c4d2f574e13764ef0f9fa76e4dcd25f9d0e4f100a393c76c5e2f8c24ffdd50fc",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/tc_cedric-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/tc_cedric-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/teacher_harva-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/teacher_harva-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 613765,
+            "MD5": "cd948f8dc7f28d8b8d9c3998501c83d1",
+            "SHA256": "c1fd0f95c8279ad13a73a36f509add1b4bb01d31eefdefbb79dbc7a426a416e6",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/teacher_harva-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/teacher_harva-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vice_gregor-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vice_gregor-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 398341,
+            "MD5": "ee2bb0fbb92eae339beeab1d1c59b7cc",
+            "SHA256": "be228515d26496f3857714bf8a5112e79f1e43e713f0916a498e6135f488645a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vice_gregor-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vice_gregor-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_ben-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_ben-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 385374,
+            "MD5": "3064d9b755ac2a7fa329153ba92c394d",
+            "SHA256": "b577616dc42d0c8eb27083295990c7285ed41ceee1c0952c1e6b9c2bc60dca89",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_ben-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_ben-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_bernd-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_bernd-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 495533,
+            "MD5": "b4b407ffc6864a6f1116db978384868c",
+            "SHA256": "bad7bbcf2d4817d5dfd6fa4cc04cedd3b5e3662092de475eda4a746c88ac0f2c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_bernd-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_bernd-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_bert-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_bert-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 615120,
+            "MD5": "41b0e7bd1a0d35f840b1adcdf281af9f",
+            "SHA256": "69191530c18f4c8f5bc22f57b58a1d9a07b5df7806e98daa6a5d73a8ab2f11e4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_bert-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_bert-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_berta-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_berta-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 557971,
+            "MD5": "ae74703c51de8b297224f3813db75243",
+            "SHA256": "967d684220ff395de2f5e565c21d62a4fe4862c5f47d5a281bd253e03a1aa18b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_berta-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_berta-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_clara-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_clara-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 468414,
+            "MD5": "d00c3e7e1438d0ae9470bc7a03ec87e6",
+            "SHA256": "39a5d5f9f783763bc3dbe4dda4807cff85853162f7f80c0ad39dd8815d55edda",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_clara-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_clara-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_dieter-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_dieter-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 506812,
+            "MD5": "a94aa3072166b1b1447004f4db247c5c",
+            "SHA256": "fe327d886976408f1a9e920db5b501b2e931ac5d24e71e946ff2ed4b3cf8950c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_dieter-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_dieter-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_elsa-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_elsa-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 533043,
+            "MD5": "c0d51c7db5ffe1977fa43d1fa186ad49",
+            "SHA256": "375bce33c17a544f61bec8bb39f16e7421e101836e27b6ae1f82b94a701d5b23",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_elsa-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_elsa-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_felix-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_felix-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 569835,
+            "MD5": "a2c93324b79632e1b2d8d8ef547793ce",
+            "SHA256": "477e9c6094b4a70d766ff77c2a8a2a901ec817addeb3d69a7e962c56b6671d92",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_felix-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_felix-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_fritz-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_fritz-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 409079,
+            "MD5": "b63ed07db3a4ba9d17e10825e276d815",
+            "SHA256": "a7d75ae1842791144a59830bd78f398fbc91c9238bb4be42da095690517ae81f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_fritz-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_fritz-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_greta-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_greta-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 577910,
+            "MD5": "3fb0da035aa2e90a78869c66c29cd0ce",
+            "SHA256": "48e684ff2b4f7b4624e835da859641a94c53772426a1dc6dc0e6856155f90539",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_greta-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_greta-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_gustav-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_gustav-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 546733,
+            "MD5": "c35d43f378209742c75d64b04018a4e1",
+            "SHA256": "70657769db38760230d87b2ba54363df7701ff8af8fe01c5c1f37fdecdc066e1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_gustav-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_gustav-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_hanne-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_hanne-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 583115,
+            "MD5": "827f377925d2303d4b616ee9ece01599",
+            "SHA256": "56ea36bae0705d959b59f73ccee29a75287c36b2e71090b78273568960b73096",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_hanne-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_hanne-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_hans-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_hans-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 666601,
+            "MD5": "059751fd3dac9a03517f0639d2641088",
+            "SHA256": "73b3251da49b42dd2d19e9c75eb5f8b1c0b66143fa7712b8e3a9e689281e87d3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_hans-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_hans-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_heinz-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_heinz-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 503723,
+            "MD5": "86c15958f117a72cb34aac3ac6854b3b",
+            "SHA256": "bd866ee04b7ff5bf1819e189671274e2aaca7f92002784b44b3c6c99c58ee4f1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_heinz-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_heinz-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_ingrid-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_ingrid-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 581058,
+            "MD5": "3a8204b5512b168149d024abcfe1e011",
+            "SHA256": "113e51ff9d1667d3cc9da0ead95205c671ef48b4d423aa4776b5c64a3addaf2f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_ingrid-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_ingrid-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_jacob-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_jacob-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 583734,
+            "MD5": "8bfba49e72be6146d72b4bc0f8dbb63d",
+            "SHA256": "4a7239bd18ff52ce30ddcaa93b79cff7f43a0dee967d2ca067fd3e698139b2bb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_jacob-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_jacob-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_jonas-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_jonas-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 388577,
+            "MD5": "ad79713d128b837e496e144e714c659c",
+            "SHA256": "d4af81a8d0d345adeaeb6222080cc34d9ece0e113d9e7cba74924bb15ff61e5e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_jonas-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_jonas-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_karl-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_karl-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 378844,
+            "MD5": "7f217e33954abe845e52ae83df82bf61",
+            "SHA256": "ca9f2136a2e537fecca2056abc27b580ccae22cefcf0f74ecf67e8d93098eb1c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_karl-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_karl-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_kurt-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_kurt-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 621960,
+            "MD5": "84ad04725baf03c7a4ce9beb7db553d7",
+            "SHA256": "f7787f26633ee337788ab002df220431aff2928471a8a07958d1a60501fd6c25",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_kurt-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_kurt-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_lotte-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_lotte-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 632441,
+            "MD5": "74ab04b191568dd8bb29cdd7170b9a40",
+            "SHA256": "55d328f45d6ffc2f87a0472ddbb7a0a833f55e79ba47f324cd7756e4fba2fb49",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_lotte-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_lotte-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_magda-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_magda-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 561511,
+            "MD5": "f27bb9a2a1e4f7a9c55a0320dd11644e",
+            "SHA256": "f54971ed345cadd432b94c29e0da5390ea80c91d0ba5cf191062f82aff04f20f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_magda-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_magda-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_marco-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_marco-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 673094,
+            "MD5": "b33e8c44affbe92741a6eb34aa9bca81",
+            "SHA256": "57565fb96b99d45504474cfb03bce4fca658eb5a678c63833fa27e96bb777966",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_marco-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_marco-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_max-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_max-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 489486,
+            "MD5": "d59eee563dd2e960006d6d72f263b92f",
+            "SHA256": "93e8760ea4554e37efc3142593dd4542594a616eff4603b213ca152fef731602",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_max-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_max-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_mia-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_mia-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 397154,
+            "MD5": "d4e1dd1f6c13d46c387bdfefa1f812f3",
+            "SHA256": "b01db9bc4a2aa74eafaecf13e75f3b0eff498372c4c1990572b8b5b16f4ea3d4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_mia-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_mia-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_nina-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_nina-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 570639,
+            "MD5": "9385e6f8ba18afb07cc0f398769d34a1",
+            "SHA256": "a50a2666b55df370bc6aa36ae836ef62f7f3c5403eac19564e9f19111ed2ca5c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_nina-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_nina-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_ole-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_ole-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 629295,
+            "MD5": "67bd1a68c1499c92736be959b5ac52dd",
+            "SHA256": "d366e936f7887c40dcbf1449e9d9b5d5f3d6ad043077a91bf1b412874ceefba1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_ole-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_ole-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_otto-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_otto-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 584196,
+            "MD5": "85618e18dcd9f49a0ba5b9c698f8567d",
+            "SHA256": "999d77782e2b14bef2d97ff0384ab26c3262192e521839f53cea005aacee2e06",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_otto-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_otto-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_pim-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_pim-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 430204,
+            "MD5": "e85c0df23defdf8e4622f6a07b2480ec",
+            "SHA256": "18c70921ab6e7f35758c80efe7c208698d49a92e9aabb02d773902d3c947d2c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_pim-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_pim-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_rosa-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_rosa-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 602719,
+            "MD5": "7ed0693b6e4a4a6fb34c0edb0362dbfb",
+            "SHA256": "464c00c5ea4c7b1864e0aa407d730a695d8887804d336d1a6fe421a726aa3588",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_rosa-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_rosa-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_selma-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_selma-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 569934,
+            "MD5": "b38e6259b82bc07810407276929700d5",
+            "SHA256": "8458c57b012cfa5fc9652b4f94c5f73aa5a974dd156a36208160de47da0ea8ac",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_selma-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_selma-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_tobi-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_tobi-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 550207,
+            "MD5": "73b0aae4fdba4621aa695bff3cb33a4a",
+            "SHA256": "5806ede333e7fca7e5986c75328ec8e63e7814f7dee10b28a42f22734085b4d0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_tobi-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_tobi-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_wolf-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_wolf-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 624075,
+            "MD5": "a5959f71960efb1ecd6531022766ac78",
+            "SHA256": "8b8d657301f5c9c462058275c5d511b766fb45117f411809588aa7f304ed9032",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-portraits-spellspack-20261027/vl_wolf-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/vl_wolf-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
           "id": "resourcepacks/chacademia-spells/assets/chacademi/sounds.json",
           "name": "resourcepacks/chacademia-spells/assets/chacademi/sounds.json",
           "type": "File",
