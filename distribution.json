@@ -353,6 +353,1956 @@
           "updatePolicy": "managed"
         },
         {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/abyss_gate.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/abyss_gate.png",
+          "type": "File",
+          "artifact": {
+            "size": 396899,
+            "MD5": "091ac65162f06d4cef2083d755e66e48",
+            "SHA256": "214635613770438a716003cc96574e8094e7f1bffc31a15a49c5ef6d6470d1de",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/abyss_gate.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/abyss_gate.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/air_cannon.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/air_cannon.png",
+          "type": "File",
+          "artifact": {
+            "size": 352634,
+            "MD5": "40e40fb7f599ded1349d3753a0f44db7",
+            "SHA256": "d74eef447b77feafb6bceaa2944d87d354175b8f3cf2ed621c70f3013559a8fa",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/air_cannon.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/air_cannon.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/air_choke.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/air_choke.png",
+          "type": "File",
+          "artifact": {
+            "size": 444281,
+            "MD5": "5497fb24b125ff0b6a62340ac04831cc",
+            "SHA256": "7f4d59c367fed33cf6330b76d63e3e685064b49d29dad9b7c1b6ea768fed685a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/air_choke.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/air_choke.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/alchemy_preheat.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/alchemy_preheat.png",
+          "type": "File",
+          "artifact": {
+            "size": 387253,
+            "MD5": "6004486fa9562ffffaa0fa656bd22088",
+            "SHA256": "60eda57ca153dfde443eb41e9d37079149d25222ae61688d22914a78b742ed58",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/alchemy_preheat.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/alchemy_preheat.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/aurora_veil.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/aurora_veil.png",
+          "type": "File",
+          "artifact": {
+            "size": 490729,
+            "MD5": "795d05b81313d0e44de29b39a4afdc09",
+            "SHA256": "4253d87d65777e11744f050bb43475663a71dc0dfbc2aedc5d6a5ea45d3a3f83",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/aurora_veil.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/aurora_veil.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/blessed_ribbon.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/blessed_ribbon.png",
+          "type": "File",
+          "artifact": {
+            "size": 445596,
+            "MD5": "a97003caa28635a117c0796886ccfae6",
+            "SHA256": "7dabc61f42b1030f38a731c3c7daa63182d3460b5f1b32d3abbeaf218b54d129",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/blessed_ribbon.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/blessed_ribbon.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/bottle_fill.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/bottle_fill.png",
+          "type": "File",
+          "artifact": {
+            "size": 364473,
+            "MD5": "9e68284aab78c052842251b76b0236c7",
+            "SHA256": "bd4612170bc94a17369111169acd9fd3147b04776a6101648b3e0926ff3e4ce6",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/bottle_fill.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/bottle_fill.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/boulder_charge.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/boulder_charge.png",
+          "type": "File",
+          "artifact": {
+            "size": 440854,
+            "MD5": "ee64c70c6f1e51eb3c957e862cc3dfb1",
+            "SHA256": "dd97eb9c5fc3c281e343d56b9a2ac58e3b9b4821d2fa2f98f909632a626118dc",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/boulder_charge.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/boulder_charge.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/broom_afterburner.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/broom_afterburner.png",
+          "type": "File",
+          "artifact": {
+            "size": 272366,
+            "MD5": "90ac0055b0e3a004f32775a96e2e052d",
+            "SHA256": "81605f8efb2c03b3c9feedaaccfaf39299cb4f612c90f74d5e7f07b1b6f3f286",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/broom_afterburner.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/broom_afterburner.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/calm_ripple.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/calm_ripple.png",
+          "type": "File",
+          "artifact": {
+            "size": 330070,
+            "MD5": "a6d98cb32285a4f2d3d81afc1039349e",
+            "SHA256": "2c8df2a45ed99cf063a7d920e7a89c00d0ac7aa0edaf9b5e0b0c12d304c7fb8f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/calm_ripple.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/calm_ripple.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/campfire_rest.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/campfire_rest.png",
+          "type": "File",
+          "artifact": {
+            "size": 352465,
+            "MD5": "9f6238bb8e102b1fd40cbe7b081ffe2a",
+            "SHA256": "72d64fcdc67288346240914a31cadad1a4526fd71518a3237f77f870bd2d7db8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/campfire_rest.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/campfire_rest.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/crimson_spiral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/crimson_spiral.png",
+          "type": "File",
+          "artifact": {
+            "size": 342492,
+            "MD5": "a521e1865deda9e6c994f924fcd133f8",
+            "SHA256": "2fad8da4d67cd2c9704400009b20f93c7a24ca7ea683d7c9f70c8d7b9288b97b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/crimson_spiral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/crimson_spiral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/crop_snare.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/crop_snare.png",
+          "type": "File",
+          "artifact": {
+            "size": 357336,
+            "MD5": "73f87351d2d7eb8952adf7419fd3ea8d",
+            "SHA256": "b12bc946ca0ec3b2b313751387ecfb49a1f13b8e70ddf5fa8cae7c0f5bfd0ba0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/crop_snare.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/crop_snare.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/crop_survey.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/crop_survey.png",
+          "type": "File",
+          "artifact": {
+            "size": 405117,
+            "MD5": "63be9714165eea8a2ca3e9acf7f43793",
+            "SHA256": "00821918a5b528873396c240c3e3a273c1dc298cb5a3d0d6d3d7e3448cdc394c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/crop_survey.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/crop_survey.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/crystal_coat.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/crystal_coat.png",
+          "type": "File",
+          "artifact": {
+            "size": 379948,
+            "MD5": "b04c4b5d0a1e27150abcef5a7d36f31e",
+            "SHA256": "9e5fffc8313706b59d1bf3660b00e972a0ed5d35adb09902458edfadf0845e5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/crystal_coat.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/crystal_coat.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/dread_dream.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/dread_dream.png",
+          "type": "File",
+          "artifact": {
+            "size": 467128,
+            "MD5": "fe40b171a43e611d734042172acb0f92",
+            "SHA256": "a8232fa4d001f925b11bbc3e0a704ae04e3212bd39367f3ac43293d5f9dbdbba",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/dread_dream.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/dread_dream.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/dusk_orb.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/dusk_orb.png",
+          "type": "File",
+          "artifact": {
+            "size": 275086,
+            "MD5": "b74d318dd8c77b46a315e51469c1ae34",
+            "SHA256": "c8ceca74747c682906c1bb162fa221c0be58fb632bbc97df53035b15cf710244",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/dusk_orb.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/dusk_orb.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/ebb_mark.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/ebb_mark.png",
+          "type": "File",
+          "artifact": {
+            "size": 393985,
+            "MD5": "0ea30b4e7f87b4940327ed54e79480b1",
+            "SHA256": "0f1ac72578365192fb0fd0de9250df05d201bd0692cd552848ed03dbd7072030",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/ebb_mark.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/ebb_mark.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/ember_puff.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/ember_puff.png",
+          "type": "File",
+          "artifact": {
+            "size": 337117,
+            "MD5": "555760d3258ab8b96b59c88671977143",
+            "SHA256": "f3a5bab8dbc4c195f5ceabbbae014005b4e10b6cd40c107add13134ab5f366b4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/ember_puff.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/ember_puff.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/enlighten_hint.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/enlighten_hint.png",
+          "type": "File",
+          "artifact": {
+            "size": 305816,
+            "MD5": "aa8c0299c9cd44d03910b8b2c98d4413",
+            "SHA256": "47daba5bd3d236c2fdb2fe7241d55c5f3a65807a0b12383f802ba2b71c34850f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/enlighten_hint.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/enlighten_hint.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/eruption_line.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/eruption_line.png",
+          "type": "File",
+          "artifact": {
+            "size": 392496,
+            "MD5": "e0fcbf65a124d4f57a78b0e18fe17afc",
+            "SHA256": "4b269481ee27a991fed503bd738305bccc771c279b99fdf360efedaa92fbeaa9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/eruption_line.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/eruption_line.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/fate_link.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/fate_link.png",
+          "type": "File",
+          "artifact": {
+            "size": 278995,
+            "MD5": "4e2118beee8ae05df753d06c780ed391",
+            "SHA256": "c497050cc88d9765fef8c16ab9ee2b8c51ee98d55a75bcb97f96e9a27c947cfe",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/fate_link.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/fate_link.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/fault_rift.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/fault_rift.png",
+          "type": "File",
+          "artifact": {
+            "size": 456017,
+            "MD5": "e1b92672703032ff1f724eee1cdb03d9",
+            "SHA256": "537bbfdcc98a40610d02b959ecf4129b2f5819774dc4c9ac6da96852cbd47fa9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/fault_rift.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/fault_rift.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/flame_emperor.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/flame_emperor.png",
+          "type": "File",
+          "artifact": {
+            "size": 501883,
+            "MD5": "93d73a8f140f4eec2fc8f370f9f34724",
+            "SHA256": "4861cee240739cf64e0ded5e2b15033fb0249c7777751f9052942acc4b8d39c8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/flame_emperor.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/flame_emperor.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/flame_javelin.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/flame_javelin.png",
+          "type": "File",
+          "artifact": {
+            "size": 284301,
+            "MD5": "b1a0ef8bb383980933a06e3983adb2b5",
+            "SHA256": "a37c3a4a5f8337b7c5c013a2174a9b473656ce2da71e439cd38f8bc0df953b17",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/flame_javelin.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/flame_javelin.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/flame_wheel.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/flame_wheel.png",
+          "type": "File",
+          "artifact": {
+            "size": 397606,
+            "MD5": "0de245425f41fe909a523e7b9290ede9",
+            "SHA256": "970cfab4d16f977d976c0ea854adf69317026141e84e9e9fa09891f23ab8cb76",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/flame_wheel.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/flame_wheel.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/flash_blink.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/flash_blink.png",
+          "type": "File",
+          "artifact": {
+            "size": 358579,
+            "MD5": "6686e62a88f3f3cd2b1c0cb2bedee067",
+            "SHA256": "0ab6c6fd04c8d84b71f0bb96028bce7acf7be33766e86e212e099a850eb4a291",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/flash_blink.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/flash_blink.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/freeze_field.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/freeze_field.png",
+          "type": "File",
+          "artifact": {
+            "size": 435286,
+            "MD5": "180a75d3e586383dae2442e5b2cf1bdc",
+            "SHA256": "99e4f567fdf12ad92ffdb2aac97b3d3cb3ef68212da4712025a260c2c54244f1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/freeze_field.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/freeze_field.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/frost_path.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/frost_path.png",
+          "type": "File",
+          "artifact": {
+            "size": 394904,
+            "MD5": "62c69781815aff328b5ce0eb74011222",
+            "SHA256": "0a9f6da9b38769de536fe8c1d416eaebc2b3af0636be21459af4a4958cfe27e5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/frost_path.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/frost_path.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/gale_combo.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/gale_combo.png",
+          "type": "File",
+          "artifact": {
+            "size": 417470,
+            "MD5": "52b12fa7a4dad6ac16de1f5bfa09421c",
+            "SHA256": "2a3fb8190d3d864f60b54c3597544c9ec5a4b1f80439f8fd7bbba019d049393b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/gale_combo.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/gale_combo.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/halo_throw.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/halo_throw.png",
+          "type": "File",
+          "artifact": {
+            "size": 358362,
+            "MD5": "b4a91aa874d4842a2734c2ed0e8ce8c0",
+            "SHA256": "96485c9f4b1eebb2ae6b6ed34eea56b65728bfc1650ebb866d2d6130a2427d66",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/halo_throw.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/halo_throw.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/harvest_bell.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/harvest_bell.png",
+          "type": "File",
+          "artifact": {
+            "size": 515350,
+            "MD5": "dd099b90e5c17e55005f907c177d6c49",
+            "SHA256": "7218ee413cfbfa58f1d8bbd52f405e5cdc3a0006bd743b142233a8218ce4c2a8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/harvest_bell.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/harvest_bell.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/heart_read.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/heart_read.png",
+          "type": "File",
+          "artifact": {
+            "size": 491718,
+            "MD5": "f581af2f4b3b8760f3462733b26daac7",
+            "SHA256": "a97f9339b61ed21352a704f7b027e59db398e54553d8082d7cabe4f93f492e16",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/heart_read.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/heart_read.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/heat_haze.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/heat_haze.png",
+          "type": "File",
+          "artifact": {
+            "size": 305291,
+            "MD5": "7cd494041f26f369c8b21ee531d15f9f",
+            "SHA256": "62ea170181aaf811f846c03a5aec4991edbecd9abf1e889b0a6e4dad4012e9dd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/heat_haze.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/heat_haze.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/heaven_cyclone.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/heaven_cyclone.png",
+          "type": "File",
+          "artifact": {
+            "size": 532300,
+            "MD5": "4df4db83cdae44b8aeb3ba41a88b2b06",
+            "SHA256": "7ecd66ed974add591af33d7e59fd9a1c681455cdb0d60cf133f793a378b7481b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/heaven_cyclone.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/heaven_cyclone.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/herding_breeze.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/herding_breeze.png",
+          "type": "File",
+          "artifact": {
+            "size": 453199,
+            "MD5": "b6118355610c2d48df74b98446ada97f",
+            "SHA256": "50eec86974550ea8ae948493eb6739a771d6b4e5fe7d51240fccfc2de494e3ea",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/herding_breeze.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/herding_breeze.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/hex_doll.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/hex_doll.png",
+          "type": "File",
+          "artifact": {
+            "size": 408024,
+            "MD5": "7554bb8d1e7abc2732581b294fd6896e",
+            "SHA256": "d8662515e6c3f13d565c901b715f96df262577f958f8c9bfc91fca331536f147",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/hex_doll.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/hex_doll.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/hydro_burst.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/hydro_burst.png",
+          "type": "File",
+          "artifact": {
+            "size": 363473,
+            "MD5": "d8b0b28fde9317f5a684f5c47fce1a29",
+            "SHA256": "62bc274f32d2356c4daf157eba93641d8893d9a84652fd9ecfb8e337149ad56e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/hydro_burst.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/hydro_burst.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/ice_bloom.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/ice_bloom.png",
+          "type": "File",
+          "artifact": {
+            "size": 293676,
+            "MD5": "1e5e4c548c6c028219504c40cfc9cd5f",
+            "SHA256": "c356c948fb463425d30ef823ad40386c4fd75e2e7e01b29306a72a1a1e3d7151",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/ice_bloom.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/ice_bloom.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/ice_serpent.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/ice_serpent.png",
+          "type": "File",
+          "artifact": {
+            "size": 445554,
+            "MD5": "8a56a0ad1ae06d8a4fd72e29f9ba25c2",
+            "SHA256": "61675da121323e78bad52ec6c79626ae9c9847c3a5da1086061b2453b30fe8fb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/ice_serpent.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/ice_serpent.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/ice_shard.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/ice_shard.png",
+          "type": "File",
+          "artifact": {
+            "size": 311186,
+            "MD5": "43f82a300611a214cf57314a447beb85",
+            "SHA256": "2a005f46f533cd39b2d546c4dcdd1baaf8dc985087928f2cd428c72439972a26",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/ice_shard.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/ice_shard.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/insight_flash.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/insight_flash.png",
+          "type": "File",
+          "artifact": {
+            "size": 322854,
+            "MD5": "1a15d8669c6beb3b77cc73e7f35cbdf9",
+            "SHA256": "9554fc08fc3af2dbd76a8c95397633c22a870857e534456ea55817d93682d694",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/insight_flash.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/insight_flash.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/leviathan_rise.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/leviathan_rise.png",
+          "type": "File",
+          "artifact": {
+            "size": 485757,
+            "MD5": "d62261f236d982dce7e4bfb4e5059132",
+            "SHA256": "e3655b4b607edfd9e750a2310a4d8aa5602c968e1752984d9da6cf455a078f1e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/leviathan_rise.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/leviathan_rise.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/light_step.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/light_step.png",
+          "type": "File",
+          "artifact": {
+            "size": 311029,
+            "MD5": "9b54ee4ef33cd401342b0a148a9de6f8",
+            "SHA256": "5cdd47bfb5fa4320e40f647ae7499a6e52e7354599f55e4cc7d457db917bbd2d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/light_step.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/light_step.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/memory_lantern.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/memory_lantern.png",
+          "type": "File",
+          "artifact": {
+            "size": 299423,
+            "MD5": "63db9e69bfebb8558f6c557fbabeddd1",
+            "SHA256": "62dcfb36b12476ca7bace48b8f143e832969f11b9f615d504aca97dc7f0b628e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/memory_lantern.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/memory_lantern.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/mini_twister.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/mini_twister.png",
+          "type": "File",
+          "artifact": {
+            "size": 386254,
+            "MD5": "2531bb4011ce88ec3756dc6e02df42d5",
+            "SHA256": "fde3adefb967cf836036c7bcd0605857a54c062e3815ca647be851e5288320e3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/mini_twister.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/mini_twister.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/pack_sort.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/pack_sort.png",
+          "type": "File",
+          "artifact": {
+            "size": 485438,
+            "MD5": "217d975a20621ef9f115288faa4c2b5f",
+            "SHA256": "6c76411638536d246438c3d5c71464c4697009d3375f2a9290c55de8ec0efac2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/pack_sort.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/pack_sort.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/prism_cage.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/prism_cage.png",
+          "type": "File",
+          "artifact": {
+            "size": 409319,
+            "MD5": "1626d4c31f1a30dc8b7619cc0f5db15a",
+            "SHA256": "ba913c807231cabd42ffa1bcaa932f39abff9f8429a30458abd8ee69956f4b69",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/prism_cage.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/prism_cage.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/prism_shot.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/prism_shot.png",
+          "type": "File",
+          "artifact": {
+            "size": 278466,
+            "MD5": "f1a54808fa1cfcbc89a0dac901ee3096",
+            "SHA256": "72d5916bd61be7130e6708148c8d95e70ddcad5b247cda2350333ba63756b252",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/prism_shot.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/prism_shot.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/replant_touch.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/replant_touch.png",
+          "type": "File",
+          "artifact": {
+            "size": 392503,
+            "MD5": "52fd8158947aa8fc64802b5756514911",
+            "SHA256": "7a7ae573107758610aabdec6e0f6b62a9a78311c89ff7c26a16c22540dd5764e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/replant_touch.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/replant_touch.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/sand_flick.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/sand_flick.png",
+          "type": "File",
+          "artifact": {
+            "size": 381264,
+            "MD5": "77017ea00ca4bdf2269e8d0746f0e2da",
+            "SHA256": "f2081651a20d5a73a974bb4c7cc68df47c5e752c65dc35655601676efc09e112",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/sand_flick.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/sand_flick.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/scale_appraisal.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/scale_appraisal.png",
+          "type": "File",
+          "artifact": {
+            "size": 421407,
+            "MD5": "ca53896d5c7bf67e4130dbb4877c01a6",
+            "SHA256": "514036aaf0e37f61e7732bb1960162c74ec19cf332adfbac60303ef8be0ea3e8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/scale_appraisal.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/scale_appraisal.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/scorch_lock.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/scorch_lock.png",
+          "type": "File",
+          "artifact": {
+            "size": 288971,
+            "MD5": "aae82597cdeb4a5607c9fd4a4d80f54b",
+            "SHA256": "25e509ca85abb5f7a1c20ee6a3036f3f75250286e7e27b4cbd8828c425c4ad5a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/scorch_lock.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/scorch_lock.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/season_sense.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/season_sense.png",
+          "type": "File",
+          "artifact": {
+            "size": 394846,
+            "MD5": "d632afb5cec3e68ecb95f71030269d10",
+            "SHA256": "e96c6e8106e6c63eae02819fd2894c3e7c25ba98079f2fe698315039d5cfd89f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/season_sense.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/season_sense.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/shadow_fang.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/shadow_fang.png",
+          "type": "File",
+          "artifact": {
+            "size": 384182,
+            "MD5": "b87175915ff13fede8dbdd5a680265fd",
+            "SHA256": "c376f8523fe2868eb09a4c48bdbdc0dcc13224e75bf2292adb4585778240068e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/shadow_fang.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/shadow_fang.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/shadow_mire.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/shadow_mire.png",
+          "type": "File",
+          "artifact": {
+            "size": 377852,
+            "MD5": "99557ca4d1e767420f4ad0883d9495ab",
+            "SHA256": "3c8c6cd78cbc47b6c171a9eb25644af20364a3f63b376959bd5b533bd0a735af",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/shadow_mire.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/shadow_mire.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/shadow_step.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/shadow_step.png",
+          "type": "File",
+          "artifact": {
+            "size": 375015,
+            "MD5": "149dacdfed5c5294441118c3bc724ee3",
+            "SHA256": "ac90fcdffc76dc18293baeb33fcc7f9b2c75db043302336888dcc19800864300",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/shadow_step.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/shadow_step.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/shadow_vault.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/shadow_vault.png",
+          "type": "File",
+          "artifact": {
+            "size": 386831,
+            "MD5": "faeaf3828dc2963748d30ba4a026dce5",
+            "SHA256": "a3e8f36b4f1b9ee15b7282b7955f498d75165b94b6131785be96907c37e8e939",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/shadow_vault.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/shadow_vault.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/signal_flare.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/signal_flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 234734,
+            "MD5": "ccd688414c760fd6f64e229f2611728b",
+            "SHA256": "91c438bb9adef676d2065a17eb715848a76fbf89726fe4517e83df8ff53f8294",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/signal_flare.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/signal_flare.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/sky_dive.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/sky_dive.png",
+          "type": "File",
+          "artifact": {
+            "size": 359183,
+            "MD5": "73dcddc629ea46b59c5019f23d91b13a",
+            "SHA256": "e63069cb477a0eb942d8aec8580dbb6c3dec145431b6bd3a379ca4ed4ddae9f6",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/sky_dive.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/sky_dive.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/spark_flick.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/spark_flick.png",
+          "type": "File",
+          "artifact": {
+            "size": 241929,
+            "MD5": "bc2a2dcb72242e11a658267844140b83",
+            "SHA256": "6cb8756168bb8f7d2005f536631cb5d8e0f2793ab478ab478d546eb7254a0776",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/spark_flick.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/spark_flick.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/storm_eye.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/storm_eye.png",
+          "type": "File",
+          "artifact": {
+            "size": 434615,
+            "MD5": "cd77024a0e4e0324a688e0a7f42a0878",
+            "SHA256": "5974d12934a6a23feaf0cf27ab168e881f9b87dc3ac21454210795b2d9499983",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/storm_eye.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/storm_eye.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/sunlance_drop.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/sunlance_drop.png",
+          "type": "File",
+          "artifact": {
+            "size": 197596,
+            "MD5": "851d9dbf527523382c5c5c7ae27a9583",
+            "SHA256": "d3c7f9b7a0cdda8c404c00f6af8bf4aff84b6ae828e02f609a8a5ab078c336b8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/sunlance_drop.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/sunlance_drop.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/sweet_sleep.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/sweet_sleep.png",
+          "type": "File",
+          "artifact": {
+            "size": 422139,
+            "MD5": "8fc6401b43733153d4a4af68a2ee2f6f",
+            "SHA256": "aa839a5379837876e5bc8fcbd286384aac0b2330a6d999e20fdb6ac232f62c25",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/sweet_sleep.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/sweet_sleep.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/tailwind.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/tailwind.png",
+          "type": "File",
+          "artifact": {
+            "size": 418415,
+            "MD5": "42023f4298fabf0f9bbbcd32735d55ef",
+            "SHA256": "86be0e2d736ca5a5c9ce065662cf53f4c706c479b5afabc594773d06db7959cf",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/tailwind.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/tailwind.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/thundercloud.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/thundercloud.png",
+          "type": "File",
+          "artifact": {
+            "size": 381918,
+            "MD5": "35d82f66c0c05554a6b0ea25ccf3010f",
+            "SHA256": "7c5409c5815be29fb7d9e7d6c59d877b152ad848ca7364b01718b33d5a3ab336",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/thundercloud.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/thundercloud.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/tide_slash.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/tide_slash.png",
+          "type": "File",
+          "artifact": {
+            "size": 368669,
+            "MD5": "fcded1b9cc06d97fddd8b80352ef2e2d",
+            "SHA256": "88d74e1f25780148b3930b89c9900d118f0fa531cc51b018a503d7d210f0de84",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/tide_slash.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/tide_slash.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/titan_stride.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/titan_stride.png",
+          "type": "File",
+          "artifact": {
+            "size": 486450,
+            "MD5": "17517e0ec82d26de48c1f99ff0d5080b",
+            "SHA256": "cbda0bf414b54eca4c0abf759f907433dfff71b574d51e8551f563a3f1c57480",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/titan_stride.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/titan_stride.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/treasure_scent.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/treasure_scent.png",
+          "type": "File",
+          "artifact": {
+            "size": 377743,
+            "MD5": "bd37e8fc1ce65215eabc188664be6c32",
+            "SHA256": "15245a5cb67a4bb08dc5d23c43467be38fba7ed7feed47a501d84c22590ea9aa",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/treasure_scent.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/treasure_scent.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/vacuum_burst.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/vacuum_burst.png",
+          "type": "File",
+          "artifact": {
+            "size": 412053,
+            "MD5": "019455e1b8c8dad0610c7083953cf837",
+            "SHA256": "4b42b7e7bf7a8d5b8da7399a2da31909fce26264e19f4966316d14a75fc159d1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/vacuum_burst.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/vacuum_burst.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/volcanic_barrage.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/volcanic_barrage.png",
+          "type": "File",
+          "artifact": {
+            "size": 368266,
+            "MD5": "39098457bfe88d4134070bab6e4c7cfc",
+            "SHA256": "734cbc4a4514b722b4b97391f219f2a0873c6b4b9b56477d2da6f4f842e2d1da",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/volcanic_barrage.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/volcanic_barrage.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/ward_candle.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/ward_candle.png",
+          "type": "File",
+          "artifact": {
+            "size": 431822,
+            "MD5": "cb6f13a8d46af56eaa01e579238bcd43",
+            "SHA256": "ed254e63a88581f374ea43e4a52404a6b08ae93fb75cc1ad8ddb22663a78ee28",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/ward_candle.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/ward_candle.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/water_glimpse.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/water_glimpse.png",
+          "type": "File",
+          "artifact": {
+            "size": 461572,
+            "MD5": "46dc862f962338e217d740ed1311dc73",
+            "SHA256": "fc11e202c72bf601aa649103398e357182087599437e16dc5344782e8c4ef79b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/water_glimpse.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/water_glimpse.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/wind_needle.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/wind_needle.png",
+          "type": "File",
+          "artifact": {
+            "size": 343935,
+            "MD5": "cf96b2e59d9a013833584ff3fafa4c0e",
+            "SHA256": "0a1e5c7c486302d8535561a5f10847ca1c406bf2897afca1ccd0386080143c7c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/wind_needle.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/wind_needle.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/wraith_march.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/wraith_march.png",
+          "type": "File",
+          "artifact": {
+            "size": 347684,
+            "MD5": "0ecc63331ec9c376f3afb04de7f18b14",
+            "SHA256": "b15bc4eb575b55cf31ccfeadfdaf42fa1f5c597d3249a73109dbe87649908477",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/wraith_march.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/spells/nova_20261027/wraith_march.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/008_wind_needle.yml",
+          "name": "config/magiccodex/spells/008_wind_needle.yml",
+          "type": "File",
+          "artifact": {
+            "size": 490,
+            "MD5": "9e6f85032c9ec249d331e710c68216df",
+            "SHA256": "9ce039ccb6bc8a2fa137a1a79b96cfe6c74008b0a9506609e3dd17e2488e8134",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/008_wind_needle.yml",
+            "path": "config/magiccodex/spells/008_wind_needle.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/009_mini_twister.yml",
+          "name": "config/magiccodex/spells/009_mini_twister.yml",
+          "type": "File",
+          "artifact": {
+            "size": 461,
+            "MD5": "a22103cfcc56726d3bbe925927eab16b",
+            "SHA256": "7f9dcf037574cb1ba5eb4716889d9af9fe3cc12cff7ef2899f39d59ab6cddede",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/009_mini_twister.yml",
+            "path": "config/magiccodex/spells/009_mini_twister.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/010_season_sense.yml",
+          "name": "config/magiccodex/spells/010_season_sense.yml",
+          "type": "File",
+          "artifact": {
+            "size": 502,
+            "MD5": "165fd6cbd01f0dbb09390826834306d4",
+            "SHA256": "4fd8212258a685186d1677e524232a913d68a1fb020bd53b5784938a0ae4d06b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/010_season_sense.yml",
+            "path": "config/magiccodex/spells/010_season_sense.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/014_light_step.yml",
+          "name": "config/magiccodex/spells/014_light_step.yml",
+          "type": "File",
+          "artifact": {
+            "size": 524,
+            "MD5": "ee87df15ca78d879f1fd2d93feb1c591",
+            "SHA256": "aab5d6c033fcb940c8421f8185a3e6ca13c9c3b4529b805725c9fab4971050c7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/014_light_step.yml",
+            "path": "config/magiccodex/spells/014_light_step.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/025_gale_combo.yml",
+          "name": "config/magiccodex/spells/025_gale_combo.yml",
+          "type": "File",
+          "artifact": {
+            "size": 491,
+            "MD5": "f2bee0dee8def86c3cdab7f7ba381abb",
+            "SHA256": "4142b4bcdec28825b3ad68865e953492f4d1078beb9623390fe7f94ec51218ff",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/025_gale_combo.yml",
+            "path": "config/magiccodex/spells/025_gale_combo.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/026_herding_breeze.yml",
+          "name": "config/magiccodex/spells/026_herding_breeze.yml",
+          "type": "File",
+          "artifact": {
+            "size": 506,
+            "MD5": "f6c88b71f3f41395cae9a184527f6f4c",
+            "SHA256": "f6afedee75ecfaef9ccb178bde978a45373b69bcf6181c415e2fe5f787669405",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/026_herding_breeze.yml",
+            "path": "config/magiccodex/spells/026_herding_breeze.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/029_tailwind.yml",
+          "name": "config/magiccodex/spells/029_tailwind.yml",
+          "type": "File",
+          "artifact": {
+            "size": 446,
+            "MD5": "ae9b699f01a909f53d811c1a4b7796c8",
+            "SHA256": "f97aeea0132e873c0c908d89d2080934a37f45df8e7a58b0c37c0d9208a925f7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/029_tailwind.yml",
+            "path": "config/magiccodex/spells/029_tailwind.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/036_vacuum_burst.yml",
+          "name": "config/magiccodex/spells/036_vacuum_burst.yml",
+          "type": "File",
+          "artifact": {
+            "size": 451,
+            "MD5": "e47e46516451ba690d0b55f71e389f1c",
+            "SHA256": "48526c6e0b2b6f473dc3715966cabda49451c602c65c5cfe3a43c434ea3c707a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/036_vacuum_burst.yml",
+            "path": "config/magiccodex/spells/036_vacuum_burst.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/037_air_cannon.yml",
+          "name": "config/magiccodex/spells/037_air_cannon.yml",
+          "type": "File",
+          "artifact": {
+            "size": 485,
+            "MD5": "76921f6180ed35780fdcc5f50403af3f",
+            "SHA256": "1f9caeca810b76075a448f81a9a26657b7d6f874d1fd2b6ef4ef3f8cfa054c77",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/037_air_cannon.yml",
+            "path": "config/magiccodex/spells/037_air_cannon.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/040_air_choke.yml",
+          "name": "config/magiccodex/spells/040_air_choke.yml",
+          "type": "File",
+          "artifact": {
+            "size": 453,
+            "MD5": "c2ab0c96ce570f68a0a893f1d546ea21",
+            "SHA256": "d5fd91e1e198f706ac6cc751c8f388275cd9b63c62fccd423981327824ca99c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/040_air_choke.yml",
+            "path": "config/magiccodex/spells/040_air_choke.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/041_storm_eye.yml",
+          "name": "config/magiccodex/spells/041_storm_eye.yml",
+          "type": "File",
+          "artifact": {
+            "size": 484,
+            "MD5": "5576d013ae9ed6ec11d7ee819e271c40",
+            "SHA256": "a82e1624d57ce8f7b759b7269fa1478c5d316824a2181e9be772db41bdb93ad9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/041_storm_eye.yml",
+            "path": "config/magiccodex/spells/041_storm_eye.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/047_sky_dive.yml",
+          "name": "config/magiccodex/spells/047_sky_dive.yml",
+          "type": "File",
+          "artifact": {
+            "size": 543,
+            "MD5": "9dc2ac4084420c059e9cdc7e478aa5be",
+            "SHA256": "000a3106e4806d1b76684e765a37d47717ed1237d2810a4e18bd68d861c4b9c0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/047_sky_dive.yml",
+            "path": "config/magiccodex/spells/047_sky_dive.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/048_thundercloud.yml",
+          "name": "config/magiccodex/spells/048_thundercloud.yml",
+          "type": "File",
+          "artifact": {
+            "size": 485,
+            "MD5": "0de47e0fb5ac44d57198ec35469df807",
+            "SHA256": "a5af8b83b17b16a67216b45cf3c94618d61c770c227b4413714b15b65d101677",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/048_thundercloud.yml",
+            "path": "config/magiccodex/spells/048_thundercloud.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/050_heaven_cyclone.yml",
+          "name": "config/magiccodex/spells/050_heaven_cyclone.yml",
+          "type": "File",
+          "artifact": {
+            "size": 534,
+            "MD5": "5e3d4e97cda498495f0003b3f0263479",
+            "SHA256": "f5ec1cba368b39838c43cb08a8d910603e2b06c15fe6f98ad6013b9d8b185c53",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/050_heaven_cyclone.yml",
+            "path": "config/magiccodex/spells/050_heaven_cyclone.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/053_spark_flick.yml",
+          "name": "config/magiccodex/spells/053_spark_flick.yml",
+          "type": "File",
+          "artifact": {
+            "size": 470,
+            "MD5": "95c3aa8868151f293292b538bdb20d9b",
+            "SHA256": "fcb1c15c8a59f19868d1ef88cfe1a9e00583692d8862dea7ab1ebd0aa20c085f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/053_spark_flick.yml",
+            "path": "config/magiccodex/spells/053_spark_flick.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/054_ember_puff.yml",
+          "name": "config/magiccodex/spells/054_ember_puff.yml",
+          "type": "File",
+          "artifact": {
+            "size": 477,
+            "MD5": "3ea6276a1d2c677aadc18886bdcc7b30",
+            "SHA256": "96cc69ce79ca9211c4dd5e59082cde3a9ce5a80f25b5b52eb92b32b32b1863ea",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/054_ember_puff.yml",
+            "path": "config/magiccodex/spells/054_ember_puff.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/057_signal_flare.yml",
+          "name": "config/magiccodex/spells/057_signal_flare.yml",
+          "type": "File",
+          "artifact": {
+            "size": 478,
+            "MD5": "d0627f38c403b96cdaa06397479824b0",
+            "SHA256": "affaebd854d6fa131f413067a18509e57f738419c166eb5b351b995cc5b9b870",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/057_signal_flare.yml",
+            "path": "config/magiccodex/spells/057_signal_flare.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/067_flame_wheel.yml",
+          "name": "config/magiccodex/spells/067_flame_wheel.yml",
+          "type": "File",
+          "artifact": {
+            "size": 487,
+            "MD5": "3fd2ed33dc7f35466a3c81edcb4f8f2f",
+            "SHA256": "f04d3ddc928dbf69f256b8c282e6a122b7623603423bfe84c1630f0d32d8f8c9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/067_flame_wheel.yml",
+            "path": "config/magiccodex/spells/067_flame_wheel.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/068_campfire_rest.yml",
+          "name": "config/magiccodex/spells/068_campfire_rest.yml",
+          "type": "File",
+          "artifact": {
+            "size": 524,
+            "MD5": "13f5eb16a251acd8035f0f7d36063d5a",
+            "SHA256": "11d207ca05c63c721c27bfa77696f9d341d3fff9ebb529cdcadd06df4404a38e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/068_campfire_rest.yml",
+            "path": "config/magiccodex/spells/068_campfire_rest.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/074_eruption_line.yml",
+          "name": "config/magiccodex/spells/074_eruption_line.yml",
+          "type": "File",
+          "artifact": {
+            "size": 478,
+            "MD5": "8d70636cabdb90b379d32fd3f9875dd5",
+            "SHA256": "47d3089fa3e9a44f9ea34d03efd1d5cab3e1d165fc5aa3075f7c10b1755a8d61",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/074_eruption_line.yml",
+            "path": "config/magiccodex/spells/074_eruption_line.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/075_flame_javelin.yml",
+          "name": "config/magiccodex/spells/075_flame_javelin.yml",
+          "type": "File",
+          "artifact": {
+            "size": 524,
+            "MD5": "a0a90712368b022911b4019e388de317",
+            "SHA256": "66726088ffb8ef835cb4d0e91f05ed954aef7e9d76c74f452870936a44a1abbc",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/075_flame_javelin.yml",
+            "path": "config/magiccodex/spells/075_flame_javelin.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/076_alchemy_preheat.yml",
+          "name": "config/magiccodex/spells/076_alchemy_preheat.yml",
+          "type": "File",
+          "artifact": {
+            "size": 471,
+            "MD5": "d114ebb2337d1c06068c194e5eb5a93a",
+            "SHA256": "e951fe3d1c249c1fffe706978c906c4cc350ada5843d4f3586ca189a8f6a0815",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/076_alchemy_preheat.yml",
+            "path": "config/magiccodex/spells/076_alchemy_preheat.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/077_ward_candle.yml",
+          "name": "config/magiccodex/spells/077_ward_candle.yml",
+          "type": "File",
+          "artifact": {
+            "size": 513,
+            "MD5": "afa9b0b46152721d3e70211a7755059d",
+            "SHA256": "d2b3eb8e7cb6df8f61e45ced8f42dd72c3f504426bd630b89f6ea89cd91ae5f4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/077_ward_candle.yml",
+            "path": "config/magiccodex/spells/077_ward_candle.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/081_heat_haze.yml",
+          "name": "config/magiccodex/spells/081_heat_haze.yml",
+          "type": "File",
+          "artifact": {
+            "size": 517,
+            "MD5": "b5e64fa171005af2b96fa1050429fce8",
+            "SHA256": "f813d561440018216e450398e10ecf2e0569e9e37adbcc07903b1f3304b11df0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/081_heat_haze.yml",
+            "path": "config/magiccodex/spells/081_heat_haze.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/082_broom_afterburner.yml",
+          "name": "config/magiccodex/spells/082_broom_afterburner.yml",
+          "type": "File",
+          "artifact": {
+            "size": 504,
+            "MD5": "62c1515c28c0ee91f03213058b27d712",
+            "SHA256": "ccbebf1ad1456607a090e2a61442a40aaa796e6419e42f1c357c6215743fba6f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/082_broom_afterburner.yml",
+            "path": "config/magiccodex/spells/082_broom_afterburner.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/088_crimson_spiral.yml",
+          "name": "config/magiccodex/spells/088_crimson_spiral.yml",
+          "type": "File",
+          "artifact": {
+            "size": 517,
+            "MD5": "1f01db4a25b19e115dd4a3ef9bc7229b",
+            "SHA256": "44808fd5569455ff386606b28290790cd63465e5f4ec43308989bfc6a9382b14",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/088_crimson_spiral.yml",
+            "path": "config/magiccodex/spells/088_crimson_spiral.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/089_scorch_lock.yml",
+          "name": "config/magiccodex/spells/089_scorch_lock.yml",
+          "type": "File",
+          "artifact": {
+            "size": 566,
+            "MD5": "730fbd2549e8811d6743085519d7e5ec",
+            "SHA256": "9f4f5349304c084f30b4a60ec2e9f0c5bc2644ad2c0567e83d7042a017bd5af5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/089_scorch_lock.yml",
+            "path": "config/magiccodex/spells/089_scorch_lock.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/096_volcanic_barrage.yml",
+          "name": "config/magiccodex/spells/096_volcanic_barrage.yml",
+          "type": "File",
+          "artifact": {
+            "size": 542,
+            "MD5": "9eb253989549c58855af0d0a79ab337e",
+            "SHA256": "035c90599dead132a39c082bf5264bd00cc853b199e28ace5a65aa823aac8c32",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/096_volcanic_barrage.yml",
+            "path": "config/magiccodex/spells/096_volcanic_barrage.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/099_flame_emperor.yml",
+          "name": "config/magiccodex/spells/099_flame_emperor.yml",
+          "type": "File",
+          "artifact": {
+            "size": 599,
+            "MD5": "4ec3008abe4be472cce27ac35a1af86a",
+            "SHA256": "bfeeec05307352f4abb2fb8f8521e22d52c074b283938a62e9514837773b57d1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/099_flame_emperor.yml",
+            "path": "config/magiccodex/spells/099_flame_emperor.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/107_tide_slash.yml",
+          "name": "config/magiccodex/spells/107_tide_slash.yml",
+          "type": "File",
+          "artifact": {
+            "size": 437,
+            "MD5": "4d7caac612e30a97437f2386a8c6eb3c",
+            "SHA256": "5fd22780daa52dbf1251dcaae3406762a1de1d73984cadaf364b2d7966b69bcd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/107_tide_slash.yml",
+            "path": "config/magiccodex/spells/107_tide_slash.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/108_ice_shard.yml",
+          "name": "config/magiccodex/spells/108_ice_shard.yml",
+          "type": "File",
+          "artifact": {
+            "size": 459,
+            "MD5": "ee22b96def1543443db1915338a01812",
+            "SHA256": "64d4d5039af1ddb0a9d567091ac0065d07c2565abf1e18f3316e2ad1dac4931e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/108_ice_shard.yml",
+            "path": "config/magiccodex/spells/108_ice_shard.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/109_scale_appraisal.yml",
+          "name": "config/magiccodex/spells/109_scale_appraisal.yml",
+          "type": "File",
+          "artifact": {
+            "size": 489,
+            "MD5": "e5e9b528eab24766e6fc1ab0ae73e658",
+            "SHA256": "9f4da0b2915f82b3be2a85d2c1371a5e0ced1ab0417b134f9cb2b293a6c811c6",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/109_scale_appraisal.yml",
+            "path": "config/magiccodex/spells/109_scale_appraisal.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/115_water_glimpse.yml",
+          "name": "config/magiccodex/spells/115_water_glimpse.yml",
+          "type": "File",
+          "artifact": {
+            "size": 552,
+            "MD5": "de6758b2193b1c5268553ee0e6f54ecd",
+            "SHA256": "8527aa39e44178c787149a8c41eb4311ae2f23155310fd9e5bfe87d79d1861a8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/115_water_glimpse.yml",
+            "path": "config/magiccodex/spells/115_water_glimpse.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/116_bottle_fill.yml",
+          "name": "config/magiccodex/spells/116_bottle_fill.yml",
+          "type": "File",
+          "artifact": {
+            "size": 441,
+            "MD5": "f0d784368c86a4ddb1a485c3122956ee",
+            "SHA256": "64b34d156c01b07713f200dab51ee9c432a02554798a70d02a4b785d560372ad",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/116_bottle_fill.yml",
+            "path": "config/magiccodex/spells/116_bottle_fill.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/118_calm_ripple.yml",
+          "name": "config/magiccodex/spells/118_calm_ripple.yml",
+          "type": "File",
+          "artifact": {
+            "size": 454,
+            "MD5": "41b1ae71d3b7268ff503e9cb307c46fb",
+            "SHA256": "cd31dcd6a299b41a6cb05ccb11ed253c4076c3f300900a10e5eeae40cd77b71d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/118_calm_ripple.yml",
+            "path": "config/magiccodex/spells/118_calm_ripple.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/121_frost_path.yml",
+          "name": "config/magiccodex/spells/121_frost_path.yml",
+          "type": "File",
+          "artifact": {
+            "size": 458,
+            "MD5": "e11022be1430005286d170e1df8f6b4a",
+            "SHA256": "fdf112c78df373e428ce4a59f305621fca7973a85241cac24f8e3797613e8608",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/121_frost_path.yml",
+            "path": "config/magiccodex/spells/121_frost_path.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/122_hydro_burst.yml",
+          "name": "config/magiccodex/spells/122_hydro_burst.yml",
+          "type": "File",
+          "artifact": {
+            "size": 472,
+            "MD5": "4661f4667e8c03879a2b19dafc017288",
+            "SHA256": "5350ed928a5d86280189069b19b3ab22de3ecbf47b12c5c28d8b521d1a1bda0c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/122_hydro_burst.yml",
+            "path": "config/magiccodex/spells/122_hydro_burst.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/123_treasure_scent.yml",
+          "name": "config/magiccodex/spells/123_treasure_scent.yml",
+          "type": "File",
+          "artifact": {
+            "size": 451,
+            "MD5": "3d3d765375af0c4264c54ba7fc031786",
+            "SHA256": "9bbbd766b3617b13951e3ca7c53cf13164476cbd9d6fb5e70caa603a9ee58dea",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/123_treasure_scent.yml",
+            "path": "config/magiccodex/spells/123_treasure_scent.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/128_crystal_coat.yml",
+          "name": "config/magiccodex/spells/128_crystal_coat.yml",
+          "type": "File",
+          "artifact": {
+            "size": 498,
+            "MD5": "ed654f03cef68556b2248ea078886dcb",
+            "SHA256": "263e3cfd32d9429ff81f8e8ccfd242b95974941e246e481afbde56a3ca29a2c2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/128_crystal_coat.yml",
+            "path": "config/magiccodex/spells/128_crystal_coat.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/129_ice_bloom.yml",
+          "name": "config/magiccodex/spells/129_ice_bloom.yml",
+          "type": "File",
+          "artifact": {
+            "size": 468,
+            "MD5": "3c4e543d49bf70094fcf3bf8703d59d0",
+            "SHA256": "4cabf3aca888290609c86c799bd815497b5bc823f19406bb543e211921de7268",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/129_ice_bloom.yml",
+            "path": "config/magiccodex/spells/129_ice_bloom.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/145_ebb_mark.yml",
+          "name": "config/magiccodex/spells/145_ebb_mark.yml",
+          "type": "File",
+          "artifact": {
+            "size": 450,
+            "MD5": "50179e4f5f5cee0bb278cfe1a2b7c5ce",
+            "SHA256": "d96854d18a8d3fe5e7d81d40cf29f194da4840a822d00d88b5e1f841d75857a5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/145_ebb_mark.yml",
+            "path": "config/magiccodex/spells/145_ebb_mark.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/148_freeze_field.yml",
+          "name": "config/magiccodex/spells/148_freeze_field.yml",
+          "type": "File",
+          "artifact": {
+            "size": 516,
+            "MD5": "39e0846f8c3b38740eb41cd9316f4e56",
+            "SHA256": "427e9d8d6ebe143df5d9dc69fcccaa8ee3a63a332ba72a13a628aab21138e27d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/148_freeze_field.yml",
+            "path": "config/magiccodex/spells/148_freeze_field.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/149_ice_serpent.yml",
+          "name": "config/magiccodex/spells/149_ice_serpent.yml",
+          "type": "File",
+          "artifact": {
+            "size": 480,
+            "MD5": "4563fae8aa0bc38d2ad230839d1639d5",
+            "SHA256": "b5ab6e29ab9ba8716be6a6054f284e0751aeeea94f29092817a163f6dd8b1975",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/149_ice_serpent.yml",
+            "path": "config/magiccodex/spells/149_ice_serpent.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/150_leviathan_rise.yml",
+          "name": "config/magiccodex/spells/150_leviathan_rise.yml",
+          "type": "File",
+          "artifact": {
+            "size": 567,
+            "MD5": "e41935b90fd221cbbedf508e7d460b87",
+            "SHA256": "63b2ef448c6ab178d77d195b833f45e6cf30f999f99a0f740b1c49e43e8cd649",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/150_leviathan_rise.yml",
+            "path": "config/magiccodex/spells/150_leviathan_rise.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/156_sand_flick.yml",
+          "name": "config/magiccodex/spells/156_sand_flick.yml",
+          "type": "File",
+          "artifact": {
+            "size": 490,
+            "MD5": "6f65fe0ea1058e417913709e6b3997b5",
+            "SHA256": "56a5a97a1c858e3b1f2dc78a7f0607ce56835da9a3427265a166ab7df031fb84",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/156_sand_flick.yml",
+            "path": "config/magiccodex/spells/156_sand_flick.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/166_crop_survey.yml",
+          "name": "config/magiccodex/spells/166_crop_survey.yml",
+          "type": "File",
+          "artifact": {
+            "size": 526,
+            "MD5": "d02da97930368ae17c294fc41a10d710",
+            "SHA256": "eb685cccbc0101d77fd22c82227e5fc9703a57f74aab18c26b1e7b59b86824e4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/166_crop_survey.yml",
+            "path": "config/magiccodex/spells/166_crop_survey.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/177_crop_snare.yml",
+          "name": "config/magiccodex/spells/177_crop_snare.yml",
+          "type": "File",
+          "artifact": {
+            "size": 477,
+            "MD5": "bfe9e0a6a9b5e056d823031ee4a96eb2",
+            "SHA256": "9d677e2c8e05d73aa7535e4d062a66cae185c1f2c8dad7cec65cfcf2ca41dda9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/177_crop_snare.yml",
+            "path": "config/magiccodex/spells/177_crop_snare.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/178_replant_touch.yml",
+          "name": "config/magiccodex/spells/178_replant_touch.yml",
+          "type": "File",
+          "artifact": {
+            "size": 526,
+            "MD5": "4c7211f94e7a78de45c8b44bcbcb5040",
+            "SHA256": "7457dcc36299c653ab78a4f4a64acc462f5c8cb7ece7b6077d8e858d398f1b89",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/178_replant_touch.yml",
+            "path": "config/magiccodex/spells/178_replant_touch.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/187_boulder_charge.yml",
+          "name": "config/magiccodex/spells/187_boulder_charge.yml",
+          "type": "File",
+          "artifact": {
+            "size": 482,
+            "MD5": "f8e5f1c40471193d8faac7f2704023a1",
+            "SHA256": "2fe9c878047f3075470b71411e5e170ab90e30f723549b9c0a88677eba427539",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/187_boulder_charge.yml",
+            "path": "config/magiccodex/spells/187_boulder_charge.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/199_fault_rift.yml",
+          "name": "config/magiccodex/spells/199_fault_rift.yml",
+          "type": "File",
+          "artifact": {
+            "size": 513,
+            "MD5": "fc1a7a563355751123fd587088fa5311",
+            "SHA256": "8a53309f0cb050909adfc30db0de77e3a281b555b1b8ff0f744f52b11a042045",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/199_fault_rift.yml",
+            "path": "config/magiccodex/spells/199_fault_rift.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/200_titan_stride.yml",
+          "name": "config/magiccodex/spells/200_titan_stride.yml",
+          "type": "File",
+          "artifact": {
+            "size": 523,
+            "MD5": "fe2da2ddf4877d39091430e1fd978257",
+            "SHA256": "e19c31fbba58e812d113a81173a481000acd89cbab0223216bde1d938a93cf0d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/200_titan_stride.yml",
+            "path": "config/magiccodex/spells/200_titan_stride.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/205_prism_shot.yml",
+          "name": "config/magiccodex/spells/205_prism_shot.yml",
+          "type": "File",
+          "artifact": {
+            "size": 468,
+            "MD5": "11ef8362ac5bf6c3fe301a436aef5142",
+            "SHA256": "fd171268a3e49e52eb7a4fe024e598d5cf9e62a74e6422ecc1de59a8ecb4a69a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/205_prism_shot.yml",
+            "path": "config/magiccodex/spells/205_prism_shot.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/206_sunlance_drop.yml",
+          "name": "config/magiccodex/spells/206_sunlance_drop.yml",
+          "type": "File",
+          "artifact": {
+            "size": 520,
+            "MD5": "25b5d23f34490aa7ce67754e4e5319c3",
+            "SHA256": "3c2b9b6975972fc089ebd417d137886292ff320045b29e084cdb3aa67e0eb144",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/206_sunlance_drop.yml",
+            "path": "config/magiccodex/spells/206_sunlance_drop.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/213_memory_lantern.yml",
+          "name": "config/magiccodex/spells/213_memory_lantern.yml",
+          "type": "File",
+          "artifact": {
+            "size": 519,
+            "MD5": "7b401593860e92cc04f0c3ab6068d0d4",
+            "SHA256": "a52cb865aa8d22f210441ac14b222dbaeba08c6c51c10a0e72cb6ab7f5f88d81",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/213_memory_lantern.yml",
+            "path": "config/magiccodex/spells/213_memory_lantern.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/219_insight_flash.yml",
+          "name": "config/magiccodex/spells/219_insight_flash.yml",
+          "type": "File",
+          "artifact": {
+            "size": 509,
+            "MD5": "55e90bcf5f0e5d53ba1be9f4bbcd0990",
+            "SHA256": "e56bed55d74392641165b0fde7bbba744ffea250784c9887a22312b3c678b45f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/219_insight_flash.yml",
+            "path": "config/magiccodex/spells/219_insight_flash.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/220_blessed_ribbon.yml",
+          "name": "config/magiccodex/spells/220_blessed_ribbon.yml",
+          "type": "File",
+          "artifact": {
+            "size": 501,
+            "MD5": "03ecc39c5f62a5c4a94835f89089ad02",
+            "SHA256": "6cca2ea9fcd5f61622dfe4cb9c90bc9d0aad2f01296f907087087be6fe4c6ce9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/220_blessed_ribbon.yml",
+            "path": "config/magiccodex/spells/220_blessed_ribbon.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/221_enlighten_hint.yml",
+          "name": "config/magiccodex/spells/221_enlighten_hint.yml",
+          "type": "File",
+          "artifact": {
+            "size": 532,
+            "MD5": "7896e4d5a943ec9c18e34cf143cf8417",
+            "SHA256": "db6d385b5d8eb93ee18a6176f3fd81e6f193f605c78aa166c6d07b3990ed225d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/221_enlighten_hint.yml",
+            "path": "config/magiccodex/spells/221_enlighten_hint.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/227_halo_throw.yml",
+          "name": "config/magiccodex/spells/227_halo_throw.yml",
+          "type": "File",
+          "artifact": {
+            "size": 452,
+            "MD5": "ebe23b0919ee12758bab6e144e8b9073",
+            "SHA256": "7c2609ab4cd6bda1850e96f9f49b679c8b7816c13182f11701a6c4e6c9c6dbc8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/227_halo_throw.yml",
+            "path": "config/magiccodex/spells/227_halo_throw.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/228_harvest_bell.yml",
+          "name": "config/magiccodex/spells/228_harvest_bell.yml",
+          "type": "File",
+          "artifact": {
+            "size": 509,
+            "MD5": "e7c0724216c433391f23ee29b7428049",
+            "SHA256": "9b57c000e83cb158e2280b131ef309437ecc6423d02767395805f4d83f8d2e24",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/228_harvest_bell.yml",
+            "path": "config/magiccodex/spells/228_harvest_bell.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/231_flash_blink.yml",
+          "name": "config/magiccodex/spells/231_flash_blink.yml",
+          "type": "File",
+          "artifact": {
+            "size": 537,
+            "MD5": "6f0403679f584d1fd43565431922a964",
+            "SHA256": "17ff1a624eab166fefde7b4a881dff19e5912133b4625fa249f4cfcb6ce7189c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/231_flash_blink.yml",
+            "path": "config/magiccodex/spells/231_flash_blink.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/245_prism_cage.yml",
+          "name": "config/magiccodex/spells/245_prism_cage.yml",
+          "type": "File",
+          "artifact": {
+            "size": 496,
+            "MD5": "bf2a487b5f49f8a10069016e3a248c04",
+            "SHA256": "82248f276275bb724c89db0aa21aa90d91a2d0f461db78838b506c583456099d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/245_prism_cage.yml",
+            "path": "config/magiccodex/spells/245_prism_cage.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/248_aurora_veil.yml",
+          "name": "config/magiccodex/spells/248_aurora_veil.yml",
+          "type": "File",
+          "artifact": {
+            "size": 522,
+            "MD5": "fbb5689247eceb57db45d1214c4f4506",
+            "SHA256": "dbf888a79683cec1f617d02ae44e492fb4edaf74ccee990efc0eceb19404cf02",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/248_aurora_veil.yml",
+            "path": "config/magiccodex/spells/248_aurora_veil.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/251_shadow_fang.yml",
+          "name": "config/magiccodex/spells/251_shadow_fang.yml",
+          "type": "File",
+          "artifact": {
+            "size": 433,
+            "MD5": "2c9652f978453b0d9e7ab89db6e11fe5",
+            "SHA256": "62f2c9c8fe67d3ae7990ff60d7143cde1b31be1a58bddc4b5b39f5626e2845d3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/251_shadow_fang.yml",
+            "path": "config/magiccodex/spells/251_shadow_fang.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/252_dusk_orb.yml",
+          "name": "config/magiccodex/spells/252_dusk_orb.yml",
+          "type": "File",
+          "artifact": {
+            "size": 504,
+            "MD5": "d902c6f3e775d215a83a887dae0fa234",
+            "SHA256": "d7793f72368df1e3894752f51a5f4eeeccc0417dbdd7075ca9c753e6744142ed",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/252_dusk_orb.yml",
+            "path": "config/magiccodex/spells/252_dusk_orb.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/253_pack_sort.yml",
+          "name": "config/magiccodex/spells/253_pack_sort.yml",
+          "type": "File",
+          "artifact": {
+            "size": 492,
+            "MD5": "4ff92bbf572eb92c0b73ba636290c26c",
+            "SHA256": "d01fa064160dbb55032460bfbd7232424f59a37c1ecf330c80d63d868da375b7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/253_pack_sort.yml",
+            "path": "config/magiccodex/spells/253_pack_sort.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/257_shadow_vault.yml",
+          "name": "config/magiccodex/spells/257_shadow_vault.yml",
+          "type": "File",
+          "artifact": {
+            "size": 430,
+            "MD5": "3d89e6547bdaf4c6caaa22c7b378d5fb",
+            "SHA256": "c8a9b5c5911fac61aaff0ab164f71b696287f16c0604526e115c9b6e41641fc6",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/257_shadow_vault.yml",
+            "path": "config/magiccodex/spells/257_shadow_vault.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/270_heart_read.yml",
+          "name": "config/magiccodex/spells/270_heart_read.yml",
+          "type": "File",
+          "artifact": {
+            "size": 486,
+            "MD5": "497668eb0f3727a5d1bc8b9e793fed2a",
+            "SHA256": "1d57a53262bb51e94fe3cbf943c020ff99b6127ede655eb5642aa5082564f701",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/270_heart_read.yml",
+            "path": "config/magiccodex/spells/270_heart_read.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/271_sweet_sleep.yml",
+          "name": "config/magiccodex/spells/271_sweet_sleep.yml",
+          "type": "File",
+          "artifact": {
+            "size": 490,
+            "MD5": "7f1496701daea74480c576f0719650ef",
+            "SHA256": "98e0100f632207f09292f76e08858d4b5b51684001d12210afbaa2276506314e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/271_sweet_sleep.yml",
+            "path": "config/magiccodex/spells/271_sweet_sleep.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/275_shadow_step.yml",
+          "name": "config/magiccodex/spells/275_shadow_step.yml",
+          "type": "File",
+          "artifact": {
+            "size": 444,
+            "MD5": "bb9077d674c9d07f3699fc44d7197255",
+            "SHA256": "ba8156cf8891362a6336e6b02ca7b44bc6bf75e51c7b563574d4476cc424904c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/275_shadow_step.yml",
+            "path": "config/magiccodex/spells/275_shadow_step.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/281_shadow_mire.yml",
+          "name": "config/magiccodex/spells/281_shadow_mire.yml",
+          "type": "File",
+          "artifact": {
+            "size": 487,
+            "MD5": "c6331340ca118cace412fbd9721520d7",
+            "SHA256": "52715072814a49d9a17d641c09e401f57a2933f1d2dd9862289503608209cb0c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/281_shadow_mire.yml",
+            "path": "config/magiccodex/spells/281_shadow_mire.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/282_dread_dream.yml",
+          "name": "config/magiccodex/spells/282_dread_dream.yml",
+          "type": "File",
+          "artifact": {
+            "size": 519,
+            "MD5": "0b8a4725c003c01f2470515f7bd84991",
+            "SHA256": "5f8c1f5dde6cf12e62a99cb9c746912be0576580e59decd640faaa40b98130f7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/282_dread_dream.yml",
+            "path": "config/magiccodex/spells/282_dread_dream.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/283_hex_doll.yml",
+          "name": "config/magiccodex/spells/283_hex_doll.yml",
+          "type": "File",
+          "artifact": {
+            "size": 489,
+            "MD5": "bc57a52385834921a213bc8843cef804",
+            "SHA256": "1b664edecddec788675247d5110bf92cbb8c27fa86d73652be22fcba3db94fc9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/283_hex_doll.yml",
+            "path": "config/magiccodex/spells/283_hex_doll.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/295_fate_link.yml",
+          "name": "config/magiccodex/spells/295_fate_link.yml",
+          "type": "File",
+          "artifact": {
+            "size": 483,
+            "MD5": "eb4af332b337bae610913c267532921a",
+            "SHA256": "fa9d991865354d49ddf9b91725cf50b7196094656e9dba00d511781ce2a0e7f7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/295_fate_link.yml",
+            "path": "config/magiccodex/spells/295_fate_link.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/298_wraith_march.yml",
+          "name": "config/magiccodex/spells/298_wraith_march.yml",
+          "type": "File",
+          "artifact": {
+            "size": 507,
+            "MD5": "2b943a74a8a9b470e401a6131f9add10",
+            "SHA256": "08fcd487071b2655c9d7b46737868b745326517bdc87877fc2925f80b7c4a638",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/298_wraith_march.yml",
+            "path": "config/magiccodex/spells/298_wraith_march.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "config/magiccodex/spells/300_abyss_gate.yml",
+          "name": "config/magiccodex/spells/300_abyss_gate.yml",
+          "type": "File",
+          "artifact": {
+            "size": 515,
+            "MD5": "c61f0153c9aed94a2650add00d5cb4d5",
+            "SHA256": "8704dc2db6153438ca32a6d4560cef060484980f09bec8e82f6e5b4026b0c503",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/300_abyss_gate.yml",
+            "path": "config/magiccodex/spells/300_abyss_gate.yml"
+          },
+          "updatePolicy": "managed"
+        },
+        {
           "id": "shaderpacks/ComplementaryUnbound_r5.5.1.zip",
           "name": "shaderpacks/ComplementaryUnbound_r5.5.1.zip",
           "type": "File",
