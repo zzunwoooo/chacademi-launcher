@@ -4596,9 +4596,9 @@
           "artifact": {
             "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
             "size": 278,
-            "MD5": "1f19926f5614f0196ba4f47eba958bf6",
-            "SHA256": "d9a586507270a03fc9d6e8f074a87a9d183eabe2b265502405ed36e47bff185b",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.22/ComplementaryUnbound_r5.5.1.zip.txt"
+            "MD5": "9a18f55864f0e88a09d197e48ffb218e",
+            "SHA256": "d48253a868f706fe43ffbc32a7f6ffbf1716810fbc42c06ac628d31a650cc36c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-shader-rain-light-20261028/ComplementaryUnbound_r5.5.1.zip.txt"
           },
           "updatePolicy": "seed"
         },
@@ -4608,10 +4608,10 @@
           "type": "File",
           "artifact": {
             "path": "config/magiccodex/launcher/shader-defaults-20261020.json",
-            "size": 701,
-            "MD5": "777c9ff29653106f9fc5bbf78c66171e",
-            "SHA256": "f01b8b8c86212889b10cf5c37f4afc2f0d4b21c76b5e565f89deb67528f0b4c2",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.22/shader-defaults-20261020.json"
+            "size": 760,
+            "MD5": "dfd857b66f5935745cdce6932afa8fbe",
+            "SHA256": "e45b112f777b7cb5cd484cf8362d7cfaf958ac3249513281bcfdd8dd91259ea8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-shader-rain-light-20261028/shader-defaults-20261020.json"
           },
           "updatePolicy": "managed",
           "managedReason": "Immutable one-time shader migration input. User shader settings remain seed-managed; a per-revision marker prevents repeated overrides."
