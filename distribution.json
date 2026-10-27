@@ -299,10 +299,10 @@
           "name": "mods/MagicCodex-client-6cfa5a95-preserved-final.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 453770020,
-            "MD5": "78544037aa884b02b37e1c3f7c9c59ff",
-            "SHA256": "edaed2546400a6ec6d3811a2396b98606ba374f732ba96b27fed6258d6f50131",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-lootbox-access-20261027/MagicCodex-client-6cfa5a95-portraitfix-lootboxfix.jar"
+            "size": 453704994,
+            "MD5": "c3719fd5d9e922048739c29ca3b794cc",
+            "SHA256": "0937521bdfbd6be7d6bbf2d404e2555870baf1f8f533a87a086f596ae5c37864",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-client-titlebar-20261027/MagicCodex-client-6cfa5a95-portraitfix-lootboxfix-titlebar.jar"
           }
         },
         {
@@ -1385,9 +1385,9 @@
           "type": "File",
           "artifact": {
             "size": 491,
-            "MD5": "f2bee0dee8def86c3cdab7f7ba381abb",
-            "SHA256": "4142b4bcdec28825b3ad68865e953492f4d1078beb9623390fe7f94ec51218ff",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-spell-icons-nova-20261027/025_gale_combo.yml",
+            "MD5": "b824ca2e8ff43f603234ad4a66c69bfd",
+            "SHA256": "97108f9cc9f63282e00af8ed79c0392620ec1e467591b2c03ba23f4645beb1a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-client-titlebar-20261027/025_gale_combo.yml",
             "path": "config/magiccodex/spells/025_gale_combo.yml"
           },
           "updatePolicy": "managed"
