@@ -299,10 +299,10 @@
           "name": "mods/MagicCodex-client-6cfa5a95-preserved-final.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 452152581,
-            "MD5": "892f6f8e3c27c87b9f866ebafaac6b99",
-            "SHA256": "0b253b0f84072eb4f0c2e65905063a24880e91ec724d82041bcd2b903e9b3061",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-client-elena-20261029/MagicCodex-client-6cfa5a95-portraitfix-lootboxfix-titlebar-balloon-vfxthread-scrolls-broomlicense-shopex-petfix-shopfix-sound-tarotfix-statsfix-leapfish-aim-map-preset-elena.jar"
+            "size": 452161199,
+            "MD5": "f0a37b7f8b9542f13c4af03e01c875eb",
+            "SHA256": "c6be228ab343f76d078f173712825e0103918d93c009c122819acb68676948e4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-client-journal-20261029/MagicCodex-client-6cfa5a95-elena-journal.jar"
           }
         },
         {
