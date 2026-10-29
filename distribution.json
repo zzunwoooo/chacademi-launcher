@@ -344,10 +344,10 @@
           "name": "config/magiccodex/launcher/client-assets.zip",
           "type": "File",
           "artifact": {
-            "size": 752775023,
-            "MD5": "9f7403500c5a1524fa79264671d0938b",
-            "SHA256": "87f00418c642a2942cfd3df72f1ac419fcd44b5d57a0b5669a64330a7e2268c8",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.21/client-assets-manifest-fix-20261020.zip",
+            "size": 752563854,
+            "MD5": "c4691b3b7e5ffa6266c66727b751e44e",
+            "SHA256": "0e9a6e6397e8e406208bdb193771199564938d80ca1398fc00cf9dec6b9d0def",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-client-assets-eip-20261029/client-assets-eip-20261029.zip",
             "path": "config/magiccodex/launcher/client-assets.zip"
           },
           "updatePolicy": "managed"
