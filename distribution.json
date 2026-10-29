@@ -262,6 +262,17 @@
           }
         },
         {
+          "id": "kr.chacademi:chacademi-dungeon:0.1.0-lich-20261029@jar",
+          "name": "mods/chacademi-dungeon-0.1.0-lich-20261029.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2200999,
+            "MD5": "cf3ef8721a9d4d159fa147ee6bf2b434",
+            "SHA256": "28a06ae1f61320b21efcff0fe2fa78fa44eb5372f25a8c6baa71cfbd91643a43",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/chacademi-dungeon-0.1.0-lich-20261029.jar"
+          }
+        },
+        {
           "id": "org.modrinth:chatplus:2.8.1@jar",
           "name": "mods/chatplus-fabric-2.8.1.jar",
           "type": "FabricMod",
@@ -29072,6 +29083,246 @@
             "SHA256": "03fed8611fccff531dbfa4453f19933974969fe1e416ec943a8257ec32a1734a",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-readiness-repair-20261026/WraithMarch-vfx-03fed8611fcc.json",
             "path": "config/portablevfx/effects/WraithMarch/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ArchlichMorvath/vfx.json",
+          "name": "config/portablevfx/effects/ArchlichMorvath/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 1554747,
+            "MD5": "c155d63bf0025e3dbc51f5c54d45875d",
+            "SHA256": "0d4bf9b62b8f73a4405189e490c4be881eb8dd2c5bca32b4d21fe8fdd386edbe",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-vfx.json",
+            "path": "config/portablevfx/effects/ArchlichMorvath/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ArchlichMorvath/textures/T_Bone.png",
+          "name": "config/portablevfx/effects/ArchlichMorvath/textures/T_Bone.png",
+          "type": "File",
+          "artifact": {
+            "size": 3573,
+            "MD5": "f54bc7eacf2d4642853187575249e349",
+            "SHA256": "644fbc5ff4ad6c3ef805d495329a48cd50bac8fb554b264e01184e95d3445691",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-T_Bone.png",
+            "path": "config/portablevfx/effects/ArchlichMorvath/textures/T_Bone.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ArchlichMorvath/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/ArchlichMorvath/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 101996,
+            "MD5": "ec74a0884348475bc18d029b6b4ff65a",
+            "SHA256": "4752e691859218bc9376d4f41bc923d0f8374a2d8a75b7140e7ebf751016cbd4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-T_Crack.png",
+            "path": "config/portablevfx/effects/ArchlichMorvath/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ArchlichMorvath/textures/T_CrackDark.png",
+          "name": "config/portablevfx/effects/ArchlichMorvath/textures/T_CrackDark.png",
+          "type": "File",
+          "artifact": {
+            "size": 39333,
+            "MD5": "5ee75bcbcb4c016a8107231dc4148e0f",
+            "SHA256": "0bf01d7ea2a38aec9af29904b9c2ff8adae591e3506a5a9d6c6b50c5e41697a5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-T_CrackDark.png",
+            "path": "config/portablevfx/effects/ArchlichMorvath/textures/T_CrackDark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ArchlichMorvath/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/ArchlichMorvath/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1042,
+            "MD5": "cf9cdb9264b59425678d55e348ad2337",
+            "SHA256": "2546ea89dbc0214048e0b3066dee03e294754f9ac961efc2d4339ea1178622e7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-T_Dot.png",
+            "path": "config/portablevfx/effects/ArchlichMorvath/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ArchlichMorvath/textures/T_FloorShade.png",
+          "name": "config/portablevfx/effects/ArchlichMorvath/textures/T_FloorShade.png",
+          "type": "File",
+          "artifact": {
+            "size": 25446,
+            "MD5": "5787c55275334ee394d72403246a35bc",
+            "SHA256": "f3d6cddbae8ff12599849eecd405ecf198df95ef78843d0ecc50d8f8ebe16007",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-T_FloorShade.png",
+            "path": "config/portablevfx/effects/ArchlichMorvath/textures/T_FloorShade.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ArchlichMorvath/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/ArchlichMorvath/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 1884,
+            "MD5": "25e4abc7492bf8f32a4479142970ab65",
+            "SHA256": "65bd1d7d907f4f64ff4651ffb4cfa1de0c1c7ec9412b9817dd71a2406a1dc948",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-T_Glow.png",
+            "path": "config/portablevfx/effects/ArchlichMorvath/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ArchlichMorvath/textures/T_Line.png",
+          "name": "config/portablevfx/effects/ArchlichMorvath/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 159,
+            "MD5": "c4340cb49e963cfa0b758b04ec65a964",
+            "SHA256": "8d55e06685cb6986dc469609a55ec5601d4b00778889cedbf400ca31aa097512",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-T_Line.png",
+            "path": "config/portablevfx/effects/ArchlichMorvath/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ArchlichMorvath/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/ArchlichMorvath/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 50975,
+            "MD5": "211aaca3aed5e2a4e4fea7e0f4252433",
+            "SHA256": "fd5b1363a88b9481cd3fa8254c8543090e4102b1810bc88e09f6fe22063dfccd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/ArchlichMorvath/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ArchlichMorvath/textures/T_Pillar.png",
+          "name": "config/portablevfx/effects/ArchlichMorvath/textures/T_Pillar.png",
+          "type": "File",
+          "artifact": {
+            "size": 4903,
+            "MD5": "34ec2c09e3308f726d1f1ebfe735960d",
+            "SHA256": "f4a60ed297ae50bc73af85662bcbbf93c3be4bd75c903072477ef422083e295d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-T_Pillar.png",
+            "path": "config/portablevfx/effects/ArchlichMorvath/textures/T_Pillar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ArchlichMorvath/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/ArchlichMorvath/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 28443,
+            "MD5": "756fdf30ead72d4611901aa74ed9d36e",
+            "SHA256": "1c640d1a4c567ea4b125489f98cf14e24db7d13c81e462c6b6366b6efff37a50",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-T_Ring.png",
+            "path": "config/portablevfx/effects/ArchlichMorvath/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ArchlichMorvath/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/ArchlichMorvath/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 18317,
+            "MD5": "febaa20652059fdfe6aa93ec846f63fe",
+            "SHA256": "73cb34ef12b51d81c346d7acd30e66de6e6ab70630f3b076e0ce1303c488265b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-T_RuneStrip.png",
+            "path": "config/portablevfx/effects/ArchlichMorvath/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ArchlichMorvath/textures/T_Shard.png",
+          "name": "config/portablevfx/effects/ArchlichMorvath/textures/T_Shard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2350,
+            "MD5": "9f195b35050d3fbd2e14a4ed87b23314",
+            "SHA256": "0a7ed1577e9f19a24befb1d612daca65349ed4565816f0373875e480b075ec01",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-T_Shard.png",
+            "path": "config/portablevfx/effects/ArchlichMorvath/textures/T_Shard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ArchlichMorvath/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/ArchlichMorvath/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 114245,
+            "MD5": "2367a3614ec66fc4142e0993b214c53d",
+            "SHA256": "fa56732d34a3508cb8d8f74cf698c760913ad68e4a1ad9778f02c8ac25619cc2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-T_Sigil.png",
+            "path": "config/portablevfx/effects/ArchlichMorvath/textures/T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ArchlichMorvath/textures/T_Skull.png",
+          "name": "config/portablevfx/effects/ArchlichMorvath/textures/T_Skull.png",
+          "type": "File",
+          "artifact": {
+            "size": 10554,
+            "MD5": "0b65bb2686248d0062a3fe5b5c7ac373",
+            "SHA256": "5bd1004973b4ac41b33f64560368784fcb6716bc67963448c15fcd835a1d6dc8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-T_Skull.png",
+            "path": "config/portablevfx/effects/ArchlichMorvath/textures/T_Skull.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ArchlichMorvath/textures/T_Star.png",
+          "name": "config/portablevfx/effects/ArchlichMorvath/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 7842,
+            "MD5": "8d8b4514e393b0bf699799327e31620d",
+            "SHA256": "ada2a2b27f49fbfc3b2b0ed6b848fb806f2831552b817220750686482a09e781",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-T_Star.png",
+            "path": "config/portablevfx/effects/ArchlichMorvath/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ArchlichMorvath/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/ArchlichMorvath/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2304,
+            "MD5": "21d2db09c6acd18a1dbd4c0a754855c7",
+            "SHA256": "03fdcc0592264209431ecfbd96b4089a870c2b3ed49c6bb2aaf34c2407eb0928",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-T_Streak.png",
+            "path": "config/portablevfx/effects/ArchlichMorvath/textures/T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ArchlichMorvath/textures/T_Stroke_Sheet.png",
+          "name": "config/portablevfx/effects/ArchlichMorvath/textures/T_Stroke_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 54119,
+            "MD5": "68e86e4d519a863fefe48d5a215535e3",
+            "SHA256": "f6c005293b81c4aa260b6eb6faf43612bd89b9b967b66de43d652e3b1f15baa9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-T_Stroke_Sheet.png",
+            "path": "config/portablevfx/effects/ArchlichMorvath/textures/T_Stroke_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ArchlichMorvath/textures/T_Wave.png",
+          "name": "config/portablevfx/effects/ArchlichMorvath/textures/T_Wave.png",
+          "type": "File",
+          "artifact": {
+            "size": 10434,
+            "MD5": "ca188dd7722cfc6b88af0e49ff5b1f75",
+            "SHA256": "63be115734841147c6fd793fa69d6689b2413580bf6a82b42a87550c584a8b95",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-T_Wave.png",
+            "path": "config/portablevfx/effects/ArchlichMorvath/textures/T_Wave.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ArchlichMorvath/textures/T_Wisp_Sheet.png",
+          "name": "config/portablevfx/effects/ArchlichMorvath/textures/T_Wisp_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 35764,
+            "MD5": "3952ec93ffea31f161fb6b56390aada0",
+            "SHA256": "1b6b1550e6bc7520c87ff13333c0743e4932558aad4fce168d7a3bcdd661bd04",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-T_Wisp_Sheet.png",
+            "path": "config/portablevfx/effects/ArchlichMorvath/textures/T_Wisp_Sheet.png"
           }
         },
         {
