@@ -4412,10 +4412,10 @@
           "name": "mods/chacademy-story-preserved-245d836c.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 971758,
-            "MD5": "8db5831a8429ec71ac122acc93bed40a",
-            "SHA256": "1aeb502129943b3d6a1aa5d1546c7013541a6deda87e6511c9c1f6e2e0851687",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-holo-artifact-iapack-20261027/chacademy-story-preserved-245d836c-rewardwarn-guidey-holo.jar"
+            "size": 971717,
+            "MD5": "4173590f18e2765d25e6854f39f5c6a7",
+            "SHA256": "9c4bf79ea25397fe1fc6f22e471a6e33fca4b770eab7ec3fc438c555a4c65dbc",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-hudkeep-20261030/chacademy-story-preserved-245d836c-rewardwarn-guidey-holo-hudkeep.jar"
           }
         },
         {
