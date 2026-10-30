@@ -266,10 +266,10 @@
           "name": "mods/chacademi-dungeon-0.1.0-lich-20261029.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 2243614,
-            "MD5": "6516c7e06e91586d3755a3fcd38d0623",
-            "SHA256": "b0f4e34e47aeaac5e6ffec92baf3d0cf380e8aad524285cbfdcc9a7b469963f1",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-editor-20261030/chacademi-dungeon-0.3.0-editor-20261030.jar"
+            "size": 8054081,
+            "MD5": "1767a78269574cdaeebf5d4d3fe590b3",
+            "SHA256": "9e844410cf6b6e2dce7c1960fc67ada5c08ace19824481b77c3aac28c3512f1b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-party-20261031/chacademi-dungeon-0.4.0-party-20261031.jar"
           }
         },
         {
@@ -29323,6 +29323,66 @@
             "SHA256": "1b6b1550e6bc7520c87ff13333c0743e4932558aad4fce168d7a3bcdd661bd04",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-lich-20261029/archlich-T_Wisp_Sheet.png",
             "path": "config/portablevfx/effects/ArchlichMorvath/textures/T_Wisp_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/TamingSeal/vfx.json",
+          "name": "config/portablevfx/effects/TamingSeal/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 151008,
+            "MD5": "80d638e7f5ad499b8aa15d64065a27f7",
+            "SHA256": "17b9b063036702bd9ad5081eddb7fdc23b7dc3e14634c722cb6eca921a9defc9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-party-20261031/tamingseal-vfx.json",
+            "path": "config/portablevfx/effects/TamingSeal/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/TamingSeal/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/TamingSeal/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 3094,
+            "MD5": "7c4f3ec50e70568cf170c36f3a625676",
+            "SHA256": "2e551a165747474997906253a1327f697368de20bb0a8ab3ef3e59a311c96b04",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-party-20261031/tamingseal-T_Dot.png",
+            "path": "config/portablevfx/effects/TamingSeal/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/TamingSeal/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/TamingSeal/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5557,
+            "MD5": "560859d89147efa567d24953469f1f64",
+            "SHA256": "6fb12d06bff036ca549836d04c59134dad3c03ea947307a8a595b09be8984684",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-party-20261031/tamingseal-T_Glow.png",
+            "path": "config/portablevfx/effects/TamingSeal/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/TamingSeal/textures/T_Line.png",
+          "name": "config/portablevfx/effects/TamingSeal/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 258,
+            "MD5": "dc69a44b0f11f485402f6c3715dc02ff",
+            "SHA256": "0fb8fcd4afe068be295240df42d40680f71999b1526e29ce6fafff83e836570b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-party-20261031/tamingseal-T_Line.png",
+            "path": "config/portablevfx/effects/TamingSeal/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/TamingSeal/textures/T_SealGrid.png",
+          "name": "config/portablevfx/effects/TamingSeal/textures/T_SealGrid.png",
+          "type": "File",
+          "artifact": {
+            "size": 3892,
+            "MD5": "6e04487ff87b0df81413c3f9ff78e0d6",
+            "SHA256": "3dde453e168d6a5c40faaa2f2e0e9f326bdfccd2cf0ebbddd50273ffaf335803",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-party-20261031/tamingseal-T_SealGrid.png",
+            "path": "config/portablevfx/effects/TamingSeal/textures/T_SealGrid.png"
           }
         },
         {
