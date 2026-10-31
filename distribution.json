@@ -29386,6 +29386,2598 @@
           }
         },
         {
+          "id": "config/portablevfx/effects/PR_BoomerangScythe/vfx.json",
+          "name": "config/portablevfx/effects/PR_BoomerangScythe/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 91061,
+            "MD5": "d154e0579af2a91bd58e9ee2eb594cc6",
+            "SHA256": "ce068686cd889b2072402a4428fcd3cef2801d7c7d5c2a2420a51a8e92688ff8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_BoomerangScythe__vfx.json",
+            "path": "config/portablevfx/effects/PR_BoomerangScythe/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_BoomerangScythe__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2267,
+            "MD5": "0bfd3e5aa44c8a033800819695ecf369",
+            "SHA256": "e7531e4d339dc3a300355da494d0c429e6e0f6d25777254e94f412d58411ae1a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_BoomerangScythe__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_BoomerangScythe__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 41365,
+            "MD5": "64bb67742ea33d02b5f309e885e44a19",
+            "SHA256": "a099973a643bf864c2976cf0e4ca1ef4fcfe205299d689f7dd8c424219e3e8b0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_BoomerangScythe__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_PumpkinFlame_Sheet.png",
+          "name": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_PumpkinFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 79591,
+            "MD5": "37a3af22beea238ba6387ce2ec0297bb",
+            "SHA256": "e7831c11caa7a1cc228ee3cd7ebb525c97976079b5f6fb52d6d368fd1051f545",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_BoomerangScythe__textures__T_PumpkinFlame_Sheet.png",
+            "path": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_PumpkinFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_ScytheSlash_Sheet.png",
+          "name": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_ScytheSlash_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 77724,
+            "MD5": "d36678df67f090e429cc2b4d8e1d967a",
+            "SHA256": "083ba958b0fa2542f15f487bbf77d06bd99015ab0d0f9aa00ebe1e2fc8375f83",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_BoomerangScythe__textures__T_ScytheSlash_Sheet.png",
+            "path": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_ScytheSlash_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_SoulFlame_Sheet.png",
+          "name": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_SoulFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 86936,
+            "MD5": "2223232e1c152af99845fe58ef28790a",
+            "SHA256": "19009fe17fc46212a1af6531ab8733354aee7595570d0d1638a1da5a97704668",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_BoomerangScythe__textures__T_SoulFlame_Sheet.png",
+            "path": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_SoulFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_SoulStreak.png",
+          "name": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_SoulStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2256,
+            "MD5": "9b4624cfe1982bfdd34b62455c79d907",
+            "SHA256": "fe36758297986a102a47117549848839707709a058a40add207207a6253af753",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_BoomerangScythe__textures__T_SoulStreak.png",
+            "path": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_SoulStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_Star.png",
+          "name": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_BoomerangScythe__textures__T_Star.png",
+            "path": "config/portablevfx/effects/PR_BoomerangScythe/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CandyRain/vfx.json",
+          "name": "config/portablevfx/effects/PR_CandyRain/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 400979,
+            "MD5": "72884dd70bfd0d62d163127083eb7950",
+            "SHA256": "4211753cf464f0fb22316c5fa327b639f602feb5d6a8adb84c47375ba3d9e840",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CandyRain__vfx.json",
+            "path": "config/portablevfx/effects/PR_CandyRain/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CandyRain/textures/T_Bat.png",
+          "name": "config/portablevfx/effects/PR_CandyRain/textures/T_Bat.png",
+          "type": "File",
+          "artifact": {
+            "size": 5363,
+            "MD5": "a1878247ebff31fdf67ac7de38829ac9",
+            "SHA256": "9b01c07dd16bf68dd881813e93d2aaed68f7dd0b95d773fc01bbbfffd0732b93",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CandyRain__textures__T_Bat.png",
+            "path": "config/portablevfx/effects/PR_CandyRain/textures/T_Bat.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CandyRain/textures/T_Candy.png",
+          "name": "config/portablevfx/effects/PR_CandyRain/textures/T_Candy.png",
+          "type": "File",
+          "artifact": {
+            "size": 6606,
+            "MD5": "87c1f73710ff61032b507c435a083f7a",
+            "SHA256": "8aca174b0d820046e781d761ce1ede8b7f5ba770b15ae4785d7b93189b6e03fa",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CandyRain__textures__T_Candy.png",
+            "path": "config/portablevfx/effects/PR_CandyRain/textures/T_Candy.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CandyRain/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/PR_CandyRain/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33258,
+            "MD5": "c6d450b9d86087ccbb0910f8d53f7718",
+            "SHA256": "f6c68dd49549c3fe7b670d32c2ca38e3e8eede4c225eef6538c0bf7758a95ddb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CandyRain__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/PR_CandyRain/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CandyRain/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/PR_CandyRain/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CandyRain__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/PR_CandyRain/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CandyRain/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/PR_CandyRain/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2267,
+            "MD5": "0bfd3e5aa44c8a033800819695ecf369",
+            "SHA256": "e7531e4d339dc3a300355da494d0c429e6e0f6d25777254e94f412d58411ae1a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CandyRain__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/PR_CandyRain/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CandyRain/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/PR_CandyRain/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CandyRain__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/PR_CandyRain/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CandyRain/textures/T_Line.png",
+          "name": "config/portablevfx/effects/PR_CandyRain/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "cbb12a9a0bd19807642353df0b305c29",
+            "SHA256": "3389485a46efcf76d1b7b6bf51000b1ca531c227e0fc36550979dd5d354482a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CandyRain__textures__T_Line.png",
+            "path": "config/portablevfx/effects/PR_CandyRain/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CandyRain/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/PR_CandyRain/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 41365,
+            "MD5": "64bb67742ea33d02b5f309e885e44a19",
+            "SHA256": "a099973a643bf864c2976cf0e4ca1ef4fcfe205299d689f7dd8c424219e3e8b0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CandyRain__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/PR_CandyRain/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CandyRain/textures/T_PumpkinFlame_Sheet.png",
+          "name": "config/portablevfx/effects/PR_CandyRain/textures/T_PumpkinFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 79591,
+            "MD5": "37a3af22beea238ba6387ce2ec0297bb",
+            "SHA256": "e7831c11caa7a1cc228ee3cd7ebb525c97976079b5f6fb52d6d368fd1051f545",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CandyRain__textures__T_PumpkinFlame_Sheet.png",
+            "path": "config/portablevfx/effects/PR_CandyRain/textures/T_PumpkinFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CandyRain/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/PR_CandyRain/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 25177,
+            "MD5": "5b240a157ee83908b58fad846d6a8011",
+            "SHA256": "0571a4672a9c0f2ef2afe3985cffa1590e5a0e61ea8c73f717396a7766845358",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CandyRain__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/PR_CandyRain/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CandyRain/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/PR_CandyRain/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 23341,
+            "MD5": "b6b66ea2e3544bb94fdffbd383d9c23a",
+            "SHA256": "543b334825da7f2c65f176574f0073baa0b128e8c4860fe9268d3c03488d18f7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CandyRain__textures__T_RuneStrip.png",
+            "path": "config/portablevfx/effects/PR_CandyRain/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CandyRain/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/PR_CandyRain/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CandyRain__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/PR_CandyRain/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CandyRain/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/PR_CandyRain/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 47860,
+            "MD5": "c4d1fef0ed72eeeb8ee1e52b8ea2ea49",
+            "SHA256": "721379333e686f376b8ba4f97671237e6d1c3e9e73814b97d81626f2d8ae6bab",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CandyRain__textures__T_Sigil.png",
+            "path": "config/portablevfx/effects/PR_CandyRain/textures/T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CandyRain/textures/T_SoulStreak.png",
+          "name": "config/portablevfx/effects/PR_CandyRain/textures/T_SoulStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2256,
+            "MD5": "9b4624cfe1982bfdd34b62455c79d907",
+            "SHA256": "fe36758297986a102a47117549848839707709a058a40add207207a6253af753",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CandyRain__textures__T_SoulStreak.png",
+            "path": "config/portablevfx/effects/PR_CandyRain/textures/T_SoulStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CandyRain/textures/T_Star.png",
+          "name": "config/portablevfx/effects/PR_CandyRain/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CandyRain__textures__T_Star.png",
+            "path": "config/portablevfx/effects/PR_CandyRain/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CandyRain/textures/T_WarnRim.png",
+          "name": "config/portablevfx/effects/PR_CandyRain/textures/T_WarnRim.png",
+          "type": "File",
+          "artifact": {
+            "size": 37251,
+            "MD5": "a7d2afd34c732fb6c9d58eb087462216",
+            "SHA256": "7a144b5f2b1599133cb8d1e0ea018376ab5d9eb7147a8bb20a00accb01c37bc9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CandyRain__textures__T_WarnRim.png",
+            "path": "config/portablevfx/effects/PR_CandyRain/textures/T_WarnRim.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CandyRain/textures/T_WarnShare.png",
+          "name": "config/portablevfx/effects/PR_CandyRain/textures/T_WarnShare.png",
+          "type": "File",
+          "artifact": {
+            "size": 46219,
+            "MD5": "4bab1f3218af299b41df7457d9c13064",
+            "SHA256": "e05828b395b6b0e96f02ebdc82de1cb42afc12b989d90ed07a91253316305446",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CandyRain__textures__T_WarnShare.png",
+            "path": "config/portablevfx/effects/PR_CandyRain/textures/T_WarnShare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CrescentSpin/vfx.json",
+          "name": "config/portablevfx/effects/PR_CrescentSpin/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 145448,
+            "MD5": "a99be2ef58430dda2852e030c61e6934",
+            "SHA256": "a1830138ac2e0d55348108d31233d430b9d447c21e974d0b0010004419816e56",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CrescentSpin__vfx.json",
+            "path": "config/portablevfx/effects/PR_CrescentSpin/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Bat.png",
+          "name": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Bat.png",
+          "type": "File",
+          "artifact": {
+            "size": 5363,
+            "MD5": "a1878247ebff31fdf67ac7de38829ac9",
+            "SHA256": "9b01c07dd16bf68dd881813e93d2aaed68f7dd0b95d773fc01bbbfffd0732b93",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CrescentSpin__textures__T_Bat.png",
+            "path": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Bat.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33258,
+            "MD5": "c6d450b9d86087ccbb0910f8d53f7718",
+            "SHA256": "f6c68dd49549c3fe7b670d32c2ca38e3e8eede4c225eef6538c0bf7758a95ddb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CrescentSpin__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CrescentSpin__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CrescentSpin/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/PR_CrescentSpin/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2267,
+            "MD5": "0bfd3e5aa44c8a033800819695ecf369",
+            "SHA256": "e7531e4d339dc3a300355da494d0c429e6e0f6d25777254e94f412d58411ae1a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CrescentSpin__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/PR_CrescentSpin/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CrescentSpin__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CrescentSpin/textures/T_InkShard.png",
+          "name": "config/portablevfx/effects/PR_CrescentSpin/textures/T_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2720,
+            "MD5": "3095ac1c219067d36b1329dc06f18efa",
+            "SHA256": "936e3de7b34e68bbec75b881c0ace09b80db82cb168c3a303c0ea7037746fa1f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CrescentSpin__textures__T_InkShard.png",
+            "path": "config/portablevfx/effects/PR_CrescentSpin/textures/T_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Line.png",
+          "name": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "cbb12a9a0bd19807642353df0b305c29",
+            "SHA256": "3389485a46efcf76d1b7b6bf51000b1ca531c227e0fc36550979dd5d354482a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CrescentSpin__textures__T_Line.png",
+            "path": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 41365,
+            "MD5": "64bb67742ea33d02b5f309e885e44a19",
+            "SHA256": "a099973a643bf864c2976cf0e4ca1ef4fcfe205299d689f7dd8c424219e3e8b0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CrescentSpin__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CrescentSpin/textures/T_PumpkinFlame_Sheet.png",
+          "name": "config/portablevfx/effects/PR_CrescentSpin/textures/T_PumpkinFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 79591,
+            "MD5": "37a3af22beea238ba6387ce2ec0297bb",
+            "SHA256": "e7831c11caa7a1cc228ee3cd7ebb525c97976079b5f6fb52d6d368fd1051f545",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CrescentSpin__textures__T_PumpkinFlame_Sheet.png",
+            "path": "config/portablevfx/effects/PR_CrescentSpin/textures/T_PumpkinFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 25177,
+            "MD5": "5b240a157ee83908b58fad846d6a8011",
+            "SHA256": "0571a4672a9c0f2ef2afe3985cffa1590e5a0e61ea8c73f717396a7766845358",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CrescentSpin__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CrescentSpin/textures/T_ScytheSlash_Sheet.png",
+          "name": "config/portablevfx/effects/PR_CrescentSpin/textures/T_ScytheSlash_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 77724,
+            "MD5": "d36678df67f090e429cc2b4d8e1d967a",
+            "SHA256": "083ba958b0fa2542f15f487bbf77d06bd99015ab0d0f9aa00ebe1e2fc8375f83",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CrescentSpin__textures__T_ScytheSlash_Sheet.png",
+            "path": "config/portablevfx/effects/PR_CrescentSpin/textures/T_ScytheSlash_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Star.png",
+          "name": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_CrescentSpin__textures__T_Star.png",
+            "path": "config/portablevfx/effects/PR_CrescentSpin/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GhostDash/vfx.json",
+          "name": "config/portablevfx/effects/PR_GhostDash/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 68796,
+            "MD5": "35699e1a98962c9888383fb71d98995c",
+            "SHA256": "57751107eed13150c9c95a1d177e72ff2b7e76c92090687d2a4098471ee0e7f2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GhostDash__vfx.json",
+            "path": "config/portablevfx/effects/PR_GhostDash/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GhostDash/textures/T_Bat.png",
+          "name": "config/portablevfx/effects/PR_GhostDash/textures/T_Bat.png",
+          "type": "File",
+          "artifact": {
+            "size": 5363,
+            "MD5": "a1878247ebff31fdf67ac7de38829ac9",
+            "SHA256": "9b01c07dd16bf68dd881813e93d2aaed68f7dd0b95d773fc01bbbfffd0732b93",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GhostDash__textures__T_Bat.png",
+            "path": "config/portablevfx/effects/PR_GhostDash/textures/T_Bat.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GhostDash/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/PR_GhostDash/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GhostDash__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/PR_GhostDash/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GhostDash/textures/T_Ghost.png",
+          "name": "config/portablevfx/effects/PR_GhostDash/textures/T_Ghost.png",
+          "type": "File",
+          "artifact": {
+            "size": 16844,
+            "MD5": "0dffdb64e7f4202400e455bf6306ddec",
+            "SHA256": "9af5e47690d79ae0d98d3a1b114470eca7c6a32f50624e33b9e34287823b8a67",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GhostDash__textures__T_Ghost.png",
+            "path": "config/portablevfx/effects/PR_GhostDash/textures/T_Ghost.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GhostDash/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/PR_GhostDash/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GhostDash__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/PR_GhostDash/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GhostDash/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/PR_GhostDash/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 41365,
+            "MD5": "64bb67742ea33d02b5f309e885e44a19",
+            "SHA256": "a099973a643bf864c2976cf0e4ca1ef4fcfe205299d689f7dd8c424219e3e8b0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GhostDash__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/PR_GhostDash/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GhostDash/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/PR_GhostDash/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 25177,
+            "MD5": "5b240a157ee83908b58fad846d6a8011",
+            "SHA256": "0571a4672a9c0f2ef2afe3985cffa1590e5a0e61ea8c73f717396a7766845358",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GhostDash__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/PR_GhostDash/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GhostDash/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/PR_GhostDash/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GhostDash__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/PR_GhostDash/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GhostDash/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/PR_GhostDash/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 47860,
+            "MD5": "c4d1fef0ed72eeeb8ee1e52b8ea2ea49",
+            "SHA256": "721379333e686f376b8ba4f97671237e6d1c3e9e73814b97d81626f2d8ae6bab",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GhostDash__textures__T_Sigil.png",
+            "path": "config/portablevfx/effects/PR_GhostDash/textures/T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GhostDash/textures/T_SoulFlame_Sheet.png",
+          "name": "config/portablevfx/effects/PR_GhostDash/textures/T_SoulFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 86936,
+            "MD5": "2223232e1c152af99845fe58ef28790a",
+            "SHA256": "19009fe17fc46212a1af6531ab8733354aee7595570d0d1638a1da5a97704668",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GhostDash__textures__T_SoulFlame_Sheet.png",
+            "path": "config/portablevfx/effects/PR_GhostDash/textures/T_SoulFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GhostDash/textures/T_SoulStreak.png",
+          "name": "config/portablevfx/effects/PR_GhostDash/textures/T_SoulStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2256,
+            "MD5": "9b4624cfe1982bfdd34b62455c79d907",
+            "SHA256": "fe36758297986a102a47117549848839707709a058a40add207207a6253af753",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GhostDash__textures__T_SoulStreak.png",
+            "path": "config/portablevfx/effects/PR_GhostDash/textures/T_SoulStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GhostDash/textures/T_Star.png",
+          "name": "config/portablevfx/effects/PR_GhostDash/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GhostDash__textures__T_Star.png",
+            "path": "config/portablevfx/effects/PR_GhostDash/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GhostDash/textures/T_WarnFill.png",
+          "name": "config/portablevfx/effects/PR_GhostDash/textures/T_WarnFill.png",
+          "type": "File",
+          "artifact": {
+            "size": 56686,
+            "MD5": "1bacd29fff74a4e85f29cb763e8332a4",
+            "SHA256": "4caa2687a85a8d5c1cc340ee6eebc928980224cdee102051b13228eaca8a6201",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GhostDash__textures__T_WarnFill.png",
+            "path": "config/portablevfx/effects/PR_GhostDash/textures/T_WarnFill.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GroundHands/vfx.json",
+          "name": "config/portablevfx/effects/PR_GroundHands/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 61059,
+            "MD5": "278369015b0e75b97ddc94d5b2863170",
+            "SHA256": "e592a22aff44ba1d8b4e2a5257bfc35751b0aa6f1d4261182b3361707bc96e53",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GroundHands__vfx.json",
+            "path": "config/portablevfx/effects/PR_GroundHands/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GroundHands/textures/T_BoneClaw.png",
+          "name": "config/portablevfx/effects/PR_GroundHands/textures/T_BoneClaw.png",
+          "type": "File",
+          "artifact": {
+            "size": 7785,
+            "MD5": "ed24fa206ee035e8001a42e869e697ed",
+            "SHA256": "e8a814d1517662e85fb3257a8363ca0329c9340f049abaadbcafdea4635aa061",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GroundHands__textures__T_BoneClaw.png",
+            "path": "config/portablevfx/effects/PR_GroundHands/textures/T_BoneClaw.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GroundHands/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/PR_GroundHands/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33258,
+            "MD5": "c6d450b9d86087ccbb0910f8d53f7718",
+            "SHA256": "f6c68dd49549c3fe7b670d32c2ca38e3e8eede4c225eef6538c0bf7758a95ddb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GroundHands__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/PR_GroundHands/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GroundHands/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/PR_GroundHands/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GroundHands__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/PR_GroundHands/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GroundHands/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/PR_GroundHands/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GroundHands__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/PR_GroundHands/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GroundHands/textures/T_InkShard.png",
+          "name": "config/portablevfx/effects/PR_GroundHands/textures/T_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2720,
+            "MD5": "3095ac1c219067d36b1329dc06f18efa",
+            "SHA256": "936e3de7b34e68bbec75b881c0ace09b80db82cb168c3a303c0ea7037746fa1f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GroundHands__textures__T_InkShard.png",
+            "path": "config/portablevfx/effects/PR_GroundHands/textures/T_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GroundHands/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/PR_GroundHands/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 41365,
+            "MD5": "64bb67742ea33d02b5f309e885e44a19",
+            "SHA256": "a099973a643bf864c2976cf0e4ca1ef4fcfe205299d689f7dd8c424219e3e8b0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GroundHands__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/PR_GroundHands/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GroundHands/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/PR_GroundHands/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GroundHands__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/PR_GroundHands/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GroundHands/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/PR_GroundHands/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 47860,
+            "MD5": "c4d1fef0ed72eeeb8ee1e52b8ea2ea49",
+            "SHA256": "721379333e686f376b8ba4f97671237e6d1c3e9e73814b97d81626f2d8ae6bab",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GroundHands__textures__T_Sigil.png",
+            "path": "config/portablevfx/effects/PR_GroundHands/textures/T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GroundHands/textures/T_SoulFlame_Sheet.png",
+          "name": "config/portablevfx/effects/PR_GroundHands/textures/T_SoulFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 86936,
+            "MD5": "2223232e1c152af99845fe58ef28790a",
+            "SHA256": "19009fe17fc46212a1af6531ab8733354aee7595570d0d1638a1da5a97704668",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GroundHands__textures__T_SoulFlame_Sheet.png",
+            "path": "config/portablevfx/effects/PR_GroundHands/textures/T_SoulFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GroundHands/textures/T_SoulStreak.png",
+          "name": "config/portablevfx/effects/PR_GroundHands/textures/T_SoulStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2256,
+            "MD5": "9b4624cfe1982bfdd34b62455c79d907",
+            "SHA256": "fe36758297986a102a47117549848839707709a058a40add207207a6253af753",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GroundHands__textures__T_SoulStreak.png",
+            "path": "config/portablevfx/effects/PR_GroundHands/textures/T_SoulStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_GroundHands/textures/T_Star.png",
+          "name": "config/portablevfx/effects/PR_GroundHands/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_GroundHands__textures__T_Star.png",
+            "path": "config/portablevfx/effects/PR_GroundHands/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_Harvested/vfx.json",
+          "name": "config/portablevfx/effects/PR_Harvested/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 70558,
+            "MD5": "9ebe0c4be9e42e18ce3099ae5a0d5a04",
+            "SHA256": "ceac0d709ae18ca99309a77dc8b63e7804a5f2ad94d4c0c0c75486b76e10895b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_Harvested__vfx.json",
+            "path": "config/portablevfx/effects/PR_Harvested/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_Harvested/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/PR_Harvested/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33258,
+            "MD5": "c6d450b9d86087ccbb0910f8d53f7718",
+            "SHA256": "f6c68dd49549c3fe7b670d32c2ca38e3e8eede4c225eef6538c0bf7758a95ddb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_Harvested__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/PR_Harvested/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_Harvested/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/PR_Harvested/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_Harvested__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/PR_Harvested/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_Harvested/textures/T_Ghost.png",
+          "name": "config/portablevfx/effects/PR_Harvested/textures/T_Ghost.png",
+          "type": "File",
+          "artifact": {
+            "size": 16844,
+            "MD5": "0dffdb64e7f4202400e455bf6306ddec",
+            "SHA256": "9af5e47690d79ae0d98d3a1b114470eca7c6a32f50624e33b9e34287823b8a67",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_Harvested__textures__T_Ghost.png",
+            "path": "config/portablevfx/effects/PR_Harvested/textures/T_Ghost.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_Harvested/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/PR_Harvested/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_Harvested__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/PR_Harvested/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_Harvested/textures/T_InkShard.png",
+          "name": "config/portablevfx/effects/PR_Harvested/textures/T_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2720,
+            "MD5": "3095ac1c219067d36b1329dc06f18efa",
+            "SHA256": "936e3de7b34e68bbec75b881c0ace09b80db82cb168c3a303c0ea7037746fa1f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_Harvested__textures__T_InkShard.png",
+            "path": "config/portablevfx/effects/PR_Harvested/textures/T_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_Harvested/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/PR_Harvested/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 41365,
+            "MD5": "64bb67742ea33d02b5f309e885e44a19",
+            "SHA256": "a099973a643bf864c2976cf0e4ca1ef4fcfe205299d689f7dd8c424219e3e8b0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_Harvested__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/PR_Harvested/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_Harvested/textures/T_ScytheSlash_Sheet.png",
+          "name": "config/portablevfx/effects/PR_Harvested/textures/T_ScytheSlash_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 77724,
+            "MD5": "d36678df67f090e429cc2b4d8e1d967a",
+            "SHA256": "083ba958b0fa2542f15f487bbf77d06bd99015ab0d0f9aa00ebe1e2fc8375f83",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_Harvested__textures__T_ScytheSlash_Sheet.png",
+            "path": "config/portablevfx/effects/PR_Harvested/textures/T_ScytheSlash_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_Harvested/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/PR_Harvested/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_Harvested__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/PR_Harvested/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_Harvested/textures/T_SoulFlame_Sheet.png",
+          "name": "config/portablevfx/effects/PR_Harvested/textures/T_SoulFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 86936,
+            "MD5": "2223232e1c152af99845fe58ef28790a",
+            "SHA256": "19009fe17fc46212a1af6531ab8733354aee7595570d0d1638a1da5a97704668",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_Harvested__textures__T_SoulFlame_Sheet.png",
+            "path": "config/portablevfx/effects/PR_Harvested/textures/T_SoulFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_Harvested/textures/T_SoulStreak.png",
+          "name": "config/portablevfx/effects/PR_Harvested/textures/T_SoulStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2256,
+            "MD5": "9b4624cfe1982bfdd34b62455c79d907",
+            "SHA256": "fe36758297986a102a47117549848839707709a058a40add207207a6253af753",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_Harvested__textures__T_SoulStreak.png",
+            "path": "config/portablevfx/effects/PR_Harvested/textures/T_SoulStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_Harvested/textures/T_Star.png",
+          "name": "config/portablevfx/effects/PR_Harvested/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_Harvested__textures__T_Star.png",
+            "path": "config/portablevfx/effects/PR_Harvested/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_HarvestSlash/vfx.json",
+          "name": "config/portablevfx/effects/PR_HarvestSlash/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 250137,
+            "MD5": "d4ca2e1fd10cd664cf60956258ad554a",
+            "SHA256": "2b5564b9755cbd2bed780df39af36934350d147fdc69aabd991f0c6a8b7e967c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_HarvestSlash__vfx.json",
+            "path": "config/portablevfx/effects/PR_HarvestSlash/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_HarvestSlash/textures/T_Bat.png",
+          "name": "config/portablevfx/effects/PR_HarvestSlash/textures/T_Bat.png",
+          "type": "File",
+          "artifact": {
+            "size": 5363,
+            "MD5": "a1878247ebff31fdf67ac7de38829ac9",
+            "SHA256": "9b01c07dd16bf68dd881813e93d2aaed68f7dd0b95d773fc01bbbfffd0732b93",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_HarvestSlash__textures__T_Bat.png",
+            "path": "config/portablevfx/effects/PR_HarvestSlash/textures/T_Bat.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_HarvestSlash/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/PR_HarvestSlash/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33258,
+            "MD5": "c6d450b9d86087ccbb0910f8d53f7718",
+            "SHA256": "f6c68dd49549c3fe7b670d32c2ca38e3e8eede4c225eef6538c0bf7758a95ddb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_HarvestSlash__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/PR_HarvestSlash/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_HarvestSlash/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/PR_HarvestSlash/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_HarvestSlash__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/PR_HarvestSlash/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_HarvestSlash/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/PR_HarvestSlash/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2267,
+            "MD5": "0bfd3e5aa44c8a033800819695ecf369",
+            "SHA256": "e7531e4d339dc3a300355da494d0c429e6e0f6d25777254e94f412d58411ae1a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_HarvestSlash__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/PR_HarvestSlash/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_HarvestSlash/textures/T_InkShard.png",
+          "name": "config/portablevfx/effects/PR_HarvestSlash/textures/T_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2720,
+            "MD5": "3095ac1c219067d36b1329dc06f18efa",
+            "SHA256": "936e3de7b34e68bbec75b881c0ace09b80db82cb168c3a303c0ea7037746fa1f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_HarvestSlash__textures__T_InkShard.png",
+            "path": "config/portablevfx/effects/PR_HarvestSlash/textures/T_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_HarvestSlash/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/PR_HarvestSlash/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 41365,
+            "MD5": "64bb67742ea33d02b5f309e885e44a19",
+            "SHA256": "a099973a643bf864c2976cf0e4ca1ef4fcfe205299d689f7dd8c424219e3e8b0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_HarvestSlash__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/PR_HarvestSlash/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_HarvestSlash/textures/T_PumpkinFlame_Sheet.png",
+          "name": "config/portablevfx/effects/PR_HarvestSlash/textures/T_PumpkinFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 79591,
+            "MD5": "37a3af22beea238ba6387ce2ec0297bb",
+            "SHA256": "e7831c11caa7a1cc228ee3cd7ebb525c97976079b5f6fb52d6d368fd1051f545",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_HarvestSlash__textures__T_PumpkinFlame_Sheet.png",
+            "path": "config/portablevfx/effects/PR_HarvestSlash/textures/T_PumpkinFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_HarvestSlash/textures/T_ScytheSlash_Sheet.png",
+          "name": "config/portablevfx/effects/PR_HarvestSlash/textures/T_ScytheSlash_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 77724,
+            "MD5": "d36678df67f090e429cc2b4d8e1d967a",
+            "SHA256": "083ba958b0fa2542f15f487bbf77d06bd99015ab0d0f9aa00ebe1e2fc8375f83",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_HarvestSlash__textures__T_ScytheSlash_Sheet.png",
+            "path": "config/portablevfx/effects/PR_HarvestSlash/textures/T_ScytheSlash_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_HarvestSlash/textures/T_Star.png",
+          "name": "config/portablevfx/effects/PR_HarvestSlash/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_HarvestSlash__textures__T_Star.png",
+            "path": "config/portablevfx/effects/PR_HarvestSlash/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LanternLight/vfx.json",
+          "name": "config/portablevfx/effects/PR_LanternLight/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 234726,
+            "MD5": "5495da811d6c77a8ccb85351ae301bfb",
+            "SHA256": "75cd9bdb44f220e74e8f40c7979f042011929dfb573668488916a2e65cde1864",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LanternLight__vfx.json",
+            "path": "config/portablevfx/effects/PR_LanternLight/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LanternLight/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/PR_LanternLight/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LanternLight__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/PR_LanternLight/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LanternLight/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/PR_LanternLight/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LanternLight__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/PR_LanternLight/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LanternLight/textures/T_Line.png",
+          "name": "config/portablevfx/effects/PR_LanternLight/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "cbb12a9a0bd19807642353df0b305c29",
+            "SHA256": "3389485a46efcf76d1b7b6bf51000b1ca531c227e0fc36550979dd5d354482a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LanternLight__textures__T_Line.png",
+            "path": "config/portablevfx/effects/PR_LanternLight/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LanternLight/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/PR_LanternLight/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 41365,
+            "MD5": "64bb67742ea33d02b5f309e885e44a19",
+            "SHA256": "a099973a643bf864c2976cf0e4ca1ef4fcfe205299d689f7dd8c424219e3e8b0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LanternLight__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/PR_LanternLight/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LanternLight/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/PR_LanternLight/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 23341,
+            "MD5": "b6b66ea2e3544bb94fdffbd383d9c23a",
+            "SHA256": "543b334825da7f2c65f176574f0073baa0b128e8c4860fe9268d3c03488d18f7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LanternLight__textures__T_RuneStrip.png",
+            "path": "config/portablevfx/effects/PR_LanternLight/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LanternLight/textures/T_WarnBand.png",
+          "name": "config/portablevfx/effects/PR_LanternLight/textures/T_WarnBand.png",
+          "type": "File",
+          "artifact": {
+            "size": 5692,
+            "MD5": "128c0b5f5a4f6b5cf17d6c0e46a8053a",
+            "SHA256": "448fb0158ba58d35a210d29dcf440ce8ae771b6724c8d092f4a0098250252a40",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LanternLight__textures__T_WarnBand.png",
+            "path": "config/portablevfx/effects/PR_LanternLight/textures/T_WarnBand.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LastLantern/vfx.json",
+          "name": "config/portablevfx/effects/PR_LastLantern/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 388628,
+            "MD5": "5ebdb51c163c5a0116278da76085c249",
+            "SHA256": "0d46cadaafeff17440e702ae207bb52172aff324d32fface0e0cdcff8f790148",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LastLantern__vfx.json",
+            "path": "config/portablevfx/effects/PR_LastLantern/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LastLantern/textures/T_Bat.png",
+          "name": "config/portablevfx/effects/PR_LastLantern/textures/T_Bat.png",
+          "type": "File",
+          "artifact": {
+            "size": 5363,
+            "MD5": "a1878247ebff31fdf67ac7de38829ac9",
+            "SHA256": "9b01c07dd16bf68dd881813e93d2aaed68f7dd0b95d773fc01bbbfffd0732b93",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LastLantern__textures__T_Bat.png",
+            "path": "config/portablevfx/effects/PR_LastLantern/textures/T_Bat.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LastLantern/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/PR_LastLantern/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33258,
+            "MD5": "c6d450b9d86087ccbb0910f8d53f7718",
+            "SHA256": "f6c68dd49549c3fe7b670d32c2ca38e3e8eede4c225eef6538c0bf7758a95ddb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LastLantern__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/PR_LastLantern/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LastLantern/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/PR_LastLantern/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LastLantern__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/PR_LastLantern/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LastLantern/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/PR_LastLantern/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2267,
+            "MD5": "0bfd3e5aa44c8a033800819695ecf369",
+            "SHA256": "e7531e4d339dc3a300355da494d0c429e6e0f6d25777254e94f412d58411ae1a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LastLantern__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/PR_LastLantern/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LastLantern/textures/T_Ghost.png",
+          "name": "config/portablevfx/effects/PR_LastLantern/textures/T_Ghost.png",
+          "type": "File",
+          "artifact": {
+            "size": 16844,
+            "MD5": "0dffdb64e7f4202400e455bf6306ddec",
+            "SHA256": "9af5e47690d79ae0d98d3a1b114470eca7c6a32f50624e33b9e34287823b8a67",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LastLantern__textures__T_Ghost.png",
+            "path": "config/portablevfx/effects/PR_LastLantern/textures/T_Ghost.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LastLantern/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/PR_LastLantern/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LastLantern__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/PR_LastLantern/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LastLantern/textures/T_Line.png",
+          "name": "config/portablevfx/effects/PR_LastLantern/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "cbb12a9a0bd19807642353df0b305c29",
+            "SHA256": "3389485a46efcf76d1b7b6bf51000b1ca531c227e0fc36550979dd5d354482a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LastLantern__textures__T_Line.png",
+            "path": "config/portablevfx/effects/PR_LastLantern/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LastLantern/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/PR_LastLantern/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 41365,
+            "MD5": "64bb67742ea33d02b5f309e885e44a19",
+            "SHA256": "a099973a643bf864c2976cf0e4ca1ef4fcfe205299d689f7dd8c424219e3e8b0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LastLantern__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/PR_LastLantern/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LastLantern/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/PR_LastLantern/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 25177,
+            "MD5": "5b240a157ee83908b58fad846d6a8011",
+            "SHA256": "0571a4672a9c0f2ef2afe3985cffa1590e5a0e61ea8c73f717396a7766845358",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LastLantern__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/PR_LastLantern/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LastLantern/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/PR_LastLantern/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 23341,
+            "MD5": "b6b66ea2e3544bb94fdffbd383d9c23a",
+            "SHA256": "543b334825da7f2c65f176574f0073baa0b128e8c4860fe9268d3c03488d18f7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LastLantern__textures__T_RuneStrip.png",
+            "path": "config/portablevfx/effects/PR_LastLantern/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LastLantern/textures/T_ScytheSlash_Sheet.png",
+          "name": "config/portablevfx/effects/PR_LastLantern/textures/T_ScytheSlash_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 77724,
+            "MD5": "d36678df67f090e429cc2b4d8e1d967a",
+            "SHA256": "083ba958b0fa2542f15f487bbf77d06bd99015ab0d0f9aa00ebe1e2fc8375f83",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LastLantern__textures__T_ScytheSlash_Sheet.png",
+            "path": "config/portablevfx/effects/PR_LastLantern/textures/T_ScytheSlash_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LastLantern/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/PR_LastLantern/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LastLantern__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/PR_LastLantern/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LastLantern/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/PR_LastLantern/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 47860,
+            "MD5": "c4d1fef0ed72eeeb8ee1e52b8ea2ea49",
+            "SHA256": "721379333e686f376b8ba4f97671237e6d1c3e9e73814b97d81626f2d8ae6bab",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LastLantern__textures__T_Sigil.png",
+            "path": "config/portablevfx/effects/PR_LastLantern/textures/T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LastLantern/textures/T_SoulStreak.png",
+          "name": "config/portablevfx/effects/PR_LastLantern/textures/T_SoulStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2256,
+            "MD5": "9b4624cfe1982bfdd34b62455c79d907",
+            "SHA256": "fe36758297986a102a47117549848839707709a058a40add207207a6253af753",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LastLantern__textures__T_SoulStreak.png",
+            "path": "config/portablevfx/effects/PR_LastLantern/textures/T_SoulStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LastLantern/textures/T_Star.png",
+          "name": "config/portablevfx/effects/PR_LastLantern/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LastLantern__textures__T_Star.png",
+            "path": "config/portablevfx/effects/PR_LastLantern/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LastLantern/textures/T_VioletFlame_Sheet.png",
+          "name": "config/portablevfx/effects/PR_LastLantern/textures/T_VioletFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 84971,
+            "MD5": "d868c88bc0ee4dc14c59cba6cc0937c5",
+            "SHA256": "5ef1a9dc593fef1ffad1791a15194f5d9e195d9ee56e554824fb37eb14e4d788",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LastLantern__textures__T_VioletFlame_Sheet.png",
+            "path": "config/portablevfx/effects/PR_LastLantern/textures/T_VioletFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LyingPumpkins/vfx.json",
+          "name": "config/portablevfx/effects/PR_LyingPumpkins/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 423084,
+            "MD5": "2511b77c1192ec7db29c94aa47d4e303",
+            "SHA256": "812833be61ff217040852a34f589f69352156b3e21ba1729e80c877de7f897b7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LyingPumpkins__vfx.json",
+            "path": "config/portablevfx/effects/PR_LyingPumpkins/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Bat.png",
+          "name": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Bat.png",
+          "type": "File",
+          "artifact": {
+            "size": 5363,
+            "MD5": "a1878247ebff31fdf67ac7de38829ac9",
+            "SHA256": "9b01c07dd16bf68dd881813e93d2aaed68f7dd0b95d773fc01bbbfffd0732b93",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LyingPumpkins__textures__T_Bat.png",
+            "path": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Bat.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33258,
+            "MD5": "c6d450b9d86087ccbb0910f8d53f7718",
+            "SHA256": "f6c68dd49549c3fe7b670d32c2ca38e3e8eede4c225eef6538c0bf7758a95ddb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LyingPumpkins__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LyingPumpkins__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2267,
+            "MD5": "0bfd3e5aa44c8a033800819695ecf369",
+            "SHA256": "e7531e4d339dc3a300355da494d0c429e6e0f6d25777254e94f412d58411ae1a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LyingPumpkins__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LyingPumpkins__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_InkShard.png",
+          "name": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2720,
+            "MD5": "3095ac1c219067d36b1329dc06f18efa",
+            "SHA256": "936e3de7b34e68bbec75b881c0ace09b80db82cb168c3a303c0ea7037746fa1f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LyingPumpkins__textures__T_InkShard.png",
+            "path": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Line.png",
+          "name": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "cbb12a9a0bd19807642353df0b305c29",
+            "SHA256": "3389485a46efcf76d1b7b6bf51000b1ca531c227e0fc36550979dd5d354482a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LyingPumpkins__textures__T_Line.png",
+            "path": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 41365,
+            "MD5": "64bb67742ea33d02b5f309e885e44a19",
+            "SHA256": "a099973a643bf864c2976cf0e4ca1ef4fcfe205299d689f7dd8c424219e3e8b0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LyingPumpkins__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_PumpkinFlame_Sheet.png",
+          "name": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_PumpkinFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 79591,
+            "MD5": "37a3af22beea238ba6387ce2ec0297bb",
+            "SHA256": "e7831c11caa7a1cc228ee3cd7ebb525c97976079b5f6fb52d6d368fd1051f545",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LyingPumpkins__textures__T_PumpkinFlame_Sheet.png",
+            "path": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_PumpkinFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 25177,
+            "MD5": "5b240a157ee83908b58fad846d6a8011",
+            "SHA256": "0571a4672a9c0f2ef2afe3985cffa1590e5a0e61ea8c73f717396a7766845358",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LyingPumpkins__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 23341,
+            "MD5": "b6b66ea2e3544bb94fdffbd383d9c23a",
+            "SHA256": "543b334825da7f2c65f176574f0073baa0b128e8c4860fe9268d3c03488d18f7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LyingPumpkins__textures__T_RuneStrip.png",
+            "path": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LyingPumpkins__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 47860,
+            "MD5": "c4d1fef0ed72eeeb8ee1e52b8ea2ea49",
+            "SHA256": "721379333e686f376b8ba4f97671237e6d1c3e9e73814b97d81626f2d8ae6bab",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LyingPumpkins__textures__T_Sigil.png",
+            "path": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Star.png",
+          "name": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_LyingPumpkins__textures__T_Star.png",
+            "path": "config/portablevfx/effects/PR_LyingPumpkins/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_PumpkinBomb/vfx.json",
+          "name": "config/portablevfx/effects/PR_PumpkinBomb/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 74496,
+            "MD5": "11e2df2ffb8fcef407c9797370d1e9ad",
+            "SHA256": "dcd9ddd8bda6779bd7f88f732b9e5a24090db070b5f51b797e87f94bb9223111",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_PumpkinBomb__vfx.json",
+            "path": "config/portablevfx/effects/PR_PumpkinBomb/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Bat.png",
+          "name": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Bat.png",
+          "type": "File",
+          "artifact": {
+            "size": 5363,
+            "MD5": "a1878247ebff31fdf67ac7de38829ac9",
+            "SHA256": "9b01c07dd16bf68dd881813e93d2aaed68f7dd0b95d773fc01bbbfffd0732b93",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_PumpkinBomb__textures__T_Bat.png",
+            "path": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Bat.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33258,
+            "MD5": "c6d450b9d86087ccbb0910f8d53f7718",
+            "SHA256": "f6c68dd49549c3fe7b670d32c2ca38e3e8eede4c225eef6538c0bf7758a95ddb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_PumpkinBomb__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_PumpkinBomb__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2267,
+            "MD5": "0bfd3e5aa44c8a033800819695ecf369",
+            "SHA256": "e7531e4d339dc3a300355da494d0c429e6e0f6d25777254e94f412d58411ae1a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_PumpkinBomb__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_PumpkinBomb__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_InkShard.png",
+          "name": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2720,
+            "MD5": "3095ac1c219067d36b1329dc06f18efa",
+            "SHA256": "936e3de7b34e68bbec75b881c0ace09b80db82cb168c3a303c0ea7037746fa1f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_PumpkinBomb__textures__T_InkShard.png",
+            "path": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 41365,
+            "MD5": "64bb67742ea33d02b5f309e885e44a19",
+            "SHA256": "a099973a643bf864c2976cf0e4ca1ef4fcfe205299d689f7dd8c424219e3e8b0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_PumpkinBomb__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_PumpkinFlame_Sheet.png",
+          "name": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_PumpkinFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 79591,
+            "MD5": "37a3af22beea238ba6387ce2ec0297bb",
+            "SHA256": "e7831c11caa7a1cc228ee3cd7ebb525c97976079b5f6fb52d6d368fd1051f545",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_PumpkinBomb__textures__T_PumpkinFlame_Sheet.png",
+            "path": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_PumpkinFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_PumpkinBomb__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 47860,
+            "MD5": "c4d1fef0ed72eeeb8ee1e52b8ea2ea49",
+            "SHA256": "721379333e686f376b8ba4f97671237e6d1c3e9e73814b97d81626f2d8ae6bab",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_PumpkinBomb__textures__T_Sigil.png",
+            "path": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_SoulFlame_Sheet.png",
+          "name": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_SoulFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 86936,
+            "MD5": "2223232e1c152af99845fe58ef28790a",
+            "SHA256": "19009fe17fc46212a1af6531ab8733354aee7595570d0d1638a1da5a97704668",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_PumpkinBomb__textures__T_SoulFlame_Sheet.png",
+            "path": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_SoulFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Star.png",
+          "name": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_PumpkinBomb__textures__T_Star.png",
+            "path": "config/portablevfx/effects/PR_PumpkinBomb/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReaperLeap/vfx.json",
+          "name": "config/portablevfx/effects/PR_ReaperLeap/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 373232,
+            "MD5": "c3076f74bcd7944f2923342127eb0722",
+            "SHA256": "39e7b187c0dd5296bb91fac8aeeedc51febd901890af6383202a8e27d417c349",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReaperLeap__vfx.json",
+            "path": "config/portablevfx/effects/PR_ReaperLeap/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Bat.png",
+          "name": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Bat.png",
+          "type": "File",
+          "artifact": {
+            "size": 5363,
+            "MD5": "a1878247ebff31fdf67ac7de38829ac9",
+            "SHA256": "9b01c07dd16bf68dd881813e93d2aaed68f7dd0b95d773fc01bbbfffd0732b93",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReaperLeap__textures__T_Bat.png",
+            "path": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Bat.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33258,
+            "MD5": "c6d450b9d86087ccbb0910f8d53f7718",
+            "SHA256": "f6c68dd49549c3fe7b670d32c2ca38e3e8eede4c225eef6538c0bf7758a95ddb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReaperLeap__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReaperLeap__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReaperLeap/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/PR_ReaperLeap/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2267,
+            "MD5": "0bfd3e5aa44c8a033800819695ecf369",
+            "SHA256": "e7531e4d339dc3a300355da494d0c429e6e0f6d25777254e94f412d58411ae1a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReaperLeap__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/PR_ReaperLeap/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReaperLeap__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReaperLeap/textures/T_InkShard.png",
+          "name": "config/portablevfx/effects/PR_ReaperLeap/textures/T_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2720,
+            "MD5": "3095ac1c219067d36b1329dc06f18efa",
+            "SHA256": "936e3de7b34e68bbec75b881c0ace09b80db82cb168c3a303c0ea7037746fa1f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReaperLeap__textures__T_InkShard.png",
+            "path": "config/portablevfx/effects/PR_ReaperLeap/textures/T_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Line.png",
+          "name": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "cbb12a9a0bd19807642353df0b305c29",
+            "SHA256": "3389485a46efcf76d1b7b6bf51000b1ca531c227e0fc36550979dd5d354482a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReaperLeap__textures__T_Line.png",
+            "path": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 41365,
+            "MD5": "64bb67742ea33d02b5f309e885e44a19",
+            "SHA256": "a099973a643bf864c2976cf0e4ca1ef4fcfe205299d689f7dd8c424219e3e8b0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReaperLeap__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReaperLeap/textures/T_PumpkinFlame_Sheet.png",
+          "name": "config/portablevfx/effects/PR_ReaperLeap/textures/T_PumpkinFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 79591,
+            "MD5": "37a3af22beea238ba6387ce2ec0297bb",
+            "SHA256": "e7831c11caa7a1cc228ee3cd7ebb525c97976079b5f6fb52d6d368fd1051f545",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReaperLeap__textures__T_PumpkinFlame_Sheet.png",
+            "path": "config/portablevfx/effects/PR_ReaperLeap/textures/T_PumpkinFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReaperLeap/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/PR_ReaperLeap/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 23341,
+            "MD5": "b6b66ea2e3544bb94fdffbd383d9c23a",
+            "SHA256": "543b334825da7f2c65f176574f0073baa0b128e8c4860fe9268d3c03488d18f7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReaperLeap__textures__T_RuneStrip.png",
+            "path": "config/portablevfx/effects/PR_ReaperLeap/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReaperLeap/textures/T_ScytheSlash_Sheet.png",
+          "name": "config/portablevfx/effects/PR_ReaperLeap/textures/T_ScytheSlash_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 77724,
+            "MD5": "d36678df67f090e429cc2b4d8e1d967a",
+            "SHA256": "083ba958b0fa2542f15f487bbf77d06bd99015ab0d0f9aa00ebe1e2fc8375f83",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReaperLeap__textures__T_ScytheSlash_Sheet.png",
+            "path": "config/portablevfx/effects/PR_ReaperLeap/textures/T_ScytheSlash_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReaperLeap__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 47860,
+            "MD5": "c4d1fef0ed72eeeb8ee1e52b8ea2ea49",
+            "SHA256": "721379333e686f376b8ba4f97671237e6d1c3e9e73814b97d81626f2d8ae6bab",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReaperLeap__textures__T_Sigil.png",
+            "path": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReaperLeap/textures/T_SoulStreak.png",
+          "name": "config/portablevfx/effects/PR_ReaperLeap/textures/T_SoulStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2256,
+            "MD5": "9b4624cfe1982bfdd34b62455c79d907",
+            "SHA256": "fe36758297986a102a47117549848839707709a058a40add207207a6253af753",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReaperLeap__textures__T_SoulStreak.png",
+            "path": "config/portablevfx/effects/PR_ReaperLeap/textures/T_SoulStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Star.png",
+          "name": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReaperLeap__textures__T_Star.png",
+            "path": "config/portablevfx/effects/PR_ReaperLeap/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReturnGuard/vfx.json",
+          "name": "config/portablevfx/effects/PR_ReturnGuard/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 428868,
+            "MD5": "f7e87fc9310758705ebaccc158e13e6f",
+            "SHA256": "79d42b82836a0ce9448cf1efe4a21d585476ee8e574690cc79fdf0b8988272fe",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReturnGuard__vfx.json",
+            "path": "config/portablevfx/effects/PR_ReturnGuard/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Bat.png",
+          "name": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Bat.png",
+          "type": "File",
+          "artifact": {
+            "size": 5363,
+            "MD5": "a1878247ebff31fdf67ac7de38829ac9",
+            "SHA256": "9b01c07dd16bf68dd881813e93d2aaed68f7dd0b95d773fc01bbbfffd0732b93",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReturnGuard__textures__T_Bat.png",
+            "path": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Bat.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReturnGuard__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Ghost.png",
+          "name": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Ghost.png",
+          "type": "File",
+          "artifact": {
+            "size": 16844,
+            "MD5": "0dffdb64e7f4202400e455bf6306ddec",
+            "SHA256": "9af5e47690d79ae0d98d3a1b114470eca7c6a32f50624e33b9e34287823b8a67",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReturnGuard__textures__T_Ghost.png",
+            "path": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Ghost.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReturnGuard__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Hex.png",
+          "name": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Hex.png",
+          "type": "File",
+          "artifact": {
+            "size": 71023,
+            "MD5": "10d1bd5d420ea7ecaf62979c212c8cc0",
+            "SHA256": "139d540226e3230abd2d82dda4c2cc7fd9a760b77c1146573f1d4b85e3516914",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReturnGuard__textures__T_Hex.png",
+            "path": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Hex.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Line.png",
+          "name": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "cbb12a9a0bd19807642353df0b305c29",
+            "SHA256": "3389485a46efcf76d1b7b6bf51000b1ca531c227e0fc36550979dd5d354482a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReturnGuard__textures__T_Line.png",
+            "path": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 41365,
+            "MD5": "64bb67742ea33d02b5f309e885e44a19",
+            "SHA256": "a099973a643bf864c2976cf0e4ca1ef4fcfe205299d689f7dd8c424219e3e8b0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReturnGuard__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 25177,
+            "MD5": "5b240a157ee83908b58fad846d6a8011",
+            "SHA256": "0571a4672a9c0f2ef2afe3985cffa1590e5a0e61ea8c73f717396a7766845358",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReturnGuard__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReturnGuard/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/PR_ReturnGuard/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 23341,
+            "MD5": "b6b66ea2e3544bb94fdffbd383d9c23a",
+            "SHA256": "543b334825da7f2c65f176574f0073baa0b128e8c4860fe9268d3c03488d18f7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReturnGuard__textures__T_RuneStrip.png",
+            "path": "config/portablevfx/effects/PR_ReturnGuard/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReturnGuard__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 47860,
+            "MD5": "c4d1fef0ed72eeeb8ee1e52b8ea2ea49",
+            "SHA256": "721379333e686f376b8ba4f97671237e6d1c3e9e73814b97d81626f2d8ae6bab",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReturnGuard__textures__T_Sigil.png",
+            "path": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReturnGuard/textures/T_SoulFlame_Sheet.png",
+          "name": "config/portablevfx/effects/PR_ReturnGuard/textures/T_SoulFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 86936,
+            "MD5": "2223232e1c152af99845fe58ef28790a",
+            "SHA256": "19009fe17fc46212a1af6531ab8733354aee7595570d0d1638a1da5a97704668",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReturnGuard__textures__T_SoulFlame_Sheet.png",
+            "path": "config/portablevfx/effects/PR_ReturnGuard/textures/T_SoulFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReturnGuard/textures/T_SoulStreak.png",
+          "name": "config/portablevfx/effects/PR_ReturnGuard/textures/T_SoulStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2256,
+            "MD5": "9b4624cfe1982bfdd34b62455c79d907",
+            "SHA256": "fe36758297986a102a47117549848839707709a058a40add207207a6253af753",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReturnGuard__textures__T_SoulStreak.png",
+            "path": "config/portablevfx/effects/PR_ReturnGuard/textures/T_SoulStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Star.png",
+          "name": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ReturnGuard__textures__T_Star.png",
+            "path": "config/portablevfx/effects/PR_ReturnGuard/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_SoulChain/vfx.json",
+          "name": "config/portablevfx/effects/PR_SoulChain/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 111912,
+            "MD5": "cf19dbcd61b6e7760127148e164a5edc",
+            "SHA256": "4fc85f7f5369b7ea3cb178c115449d9d4397834bf2748695a5dfd263a724a64f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_SoulChain__vfx.json",
+            "path": "config/portablevfx/effects/PR_SoulChain/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_SoulChain/textures/T_Bat.png",
+          "name": "config/portablevfx/effects/PR_SoulChain/textures/T_Bat.png",
+          "type": "File",
+          "artifact": {
+            "size": 5363,
+            "MD5": "a1878247ebff31fdf67ac7de38829ac9",
+            "SHA256": "9b01c07dd16bf68dd881813e93d2aaed68f7dd0b95d773fc01bbbfffd0732b93",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_SoulChain__textures__T_Bat.png",
+            "path": "config/portablevfx/effects/PR_SoulChain/textures/T_Bat.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_SoulChain/textures/T_Chain.png",
+          "name": "config/portablevfx/effects/PR_SoulChain/textures/T_Chain.png",
+          "type": "File",
+          "artifact": {
+            "size": 4534,
+            "MD5": "2def7c21d0884ed57675633dcf920c1d",
+            "SHA256": "4847545b587b3738d32b99070d04239be197eeeb6984f1dd0b404e02d864a156",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_SoulChain__textures__T_Chain.png",
+            "path": "config/portablevfx/effects/PR_SoulChain/textures/T_Chain.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_SoulChain/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/PR_SoulChain/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_SoulChain__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/PR_SoulChain/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_SoulChain/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/PR_SoulChain/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_SoulChain__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/PR_SoulChain/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_SoulChain/textures/T_InkShard.png",
+          "name": "config/portablevfx/effects/PR_SoulChain/textures/T_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2720,
+            "MD5": "3095ac1c219067d36b1329dc06f18efa",
+            "SHA256": "936e3de7b34e68bbec75b881c0ace09b80db82cb168c3a303c0ea7037746fa1f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_SoulChain__textures__T_InkShard.png",
+            "path": "config/portablevfx/effects/PR_SoulChain/textures/T_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_SoulChain/textures/T_Line.png",
+          "name": "config/portablevfx/effects/PR_SoulChain/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "cbb12a9a0bd19807642353df0b305c29",
+            "SHA256": "3389485a46efcf76d1b7b6bf51000b1ca531c227e0fc36550979dd5d354482a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_SoulChain__textures__T_Line.png",
+            "path": "config/portablevfx/effects/PR_SoulChain/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_SoulChain/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/PR_SoulChain/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 41365,
+            "MD5": "64bb67742ea33d02b5f309e885e44a19",
+            "SHA256": "a099973a643bf864c2976cf0e4ca1ef4fcfe205299d689f7dd8c424219e3e8b0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_SoulChain__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/PR_SoulChain/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_SoulChain/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/PR_SoulChain/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_SoulChain__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/PR_SoulChain/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_SoulChain/textures/T_SoulFlame_Sheet.png",
+          "name": "config/portablevfx/effects/PR_SoulChain/textures/T_SoulFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 86936,
+            "MD5": "2223232e1c152af99845fe58ef28790a",
+            "SHA256": "19009fe17fc46212a1af6531ab8733354aee7595570d0d1638a1da5a97704668",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_SoulChain__textures__T_SoulFlame_Sheet.png",
+            "path": "config/portablevfx/effects/PR_SoulChain/textures/T_SoulFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_SoulChain/textures/T_SoulStreak.png",
+          "name": "config/portablevfx/effects/PR_SoulChain/textures/T_SoulStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2256,
+            "MD5": "9b4624cfe1982bfdd34b62455c79d907",
+            "SHA256": "fe36758297986a102a47117549848839707709a058a40add207207a6253af753",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_SoulChain__textures__T_SoulStreak.png",
+            "path": "config/portablevfx/effects/PR_SoulChain/textures/T_SoulStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_SoulChain/textures/T_Star.png",
+          "name": "config/portablevfx/effects/PR_SoulChain/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_SoulChain__textures__T_Star.png",
+            "path": "config/portablevfx/effects/PR_SoulChain/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_SoulChain/textures/T_WarnGrow.png",
+          "name": "config/portablevfx/effects/PR_SoulChain/textures/T_WarnGrow.png",
+          "type": "File",
+          "artifact": {
+            "size": 39604,
+            "MD5": "792059a9b74eabd872281ff75f0118e2",
+            "SHA256": "2aff0a990efa5e53476e24700ecd7345c0234f6efe6adc3f13971f614e46c19f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_SoulChain__textures__T_WarnGrow.png",
+            "path": "config/portablevfx/effects/PR_SoulChain/textures/T_WarnGrow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_SoulChain/textures/T_WarnRim.png",
+          "name": "config/portablevfx/effects/PR_SoulChain/textures/T_WarnRim.png",
+          "type": "File",
+          "artifact": {
+            "size": 37251,
+            "MD5": "a7d2afd34c732fb6c9d58eb087462216",
+            "SHA256": "7a144b5f2b1599133cb8d1e0ea018376ab5d9eb7147a8bb20a00accb01c37bc9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_SoulChain__textures__T_WarnRim.png",
+            "path": "config/portablevfx/effects/PR_SoulChain/textures/T_WarnRim.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ThreeBells/vfx.json",
+          "name": "config/portablevfx/effects/PR_ThreeBells/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 471073,
+            "MD5": "c5fd7887e5e7f46095a3dc6d9d30aa9a",
+            "SHA256": "8117106d99f081334255824d1fd4b763630fed8a99d1d1d8ad8b42a76ac5da76",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ThreeBells__vfx.json",
+            "path": "config/portablevfx/effects/PR_ThreeBells/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ThreeBells/textures/T_Bat.png",
+          "name": "config/portablevfx/effects/PR_ThreeBells/textures/T_Bat.png",
+          "type": "File",
+          "artifact": {
+            "size": 5363,
+            "MD5": "a1878247ebff31fdf67ac7de38829ac9",
+            "SHA256": "9b01c07dd16bf68dd881813e93d2aaed68f7dd0b95d773fc01bbbfffd0732b93",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ThreeBells__textures__T_Bat.png",
+            "path": "config/portablevfx/effects/PR_ThreeBells/textures/T_Bat.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ThreeBells/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/PR_ThreeBells/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33258,
+            "MD5": "c6d450b9d86087ccbb0910f8d53f7718",
+            "SHA256": "f6c68dd49549c3fe7b670d32c2ca38e3e8eede4c225eef6538c0bf7758a95ddb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ThreeBells__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/PR_ThreeBells/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ThreeBells/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/PR_ThreeBells/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ThreeBells__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/PR_ThreeBells/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ThreeBells/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/PR_ThreeBells/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2267,
+            "MD5": "0bfd3e5aa44c8a033800819695ecf369",
+            "SHA256": "e7531e4d339dc3a300355da494d0c429e6e0f6d25777254e94f412d58411ae1a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ThreeBells__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/PR_ThreeBells/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ThreeBells/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/PR_ThreeBells/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ThreeBells__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/PR_ThreeBells/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ThreeBells/textures/T_InkShard.png",
+          "name": "config/portablevfx/effects/PR_ThreeBells/textures/T_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2720,
+            "MD5": "3095ac1c219067d36b1329dc06f18efa",
+            "SHA256": "936e3de7b34e68bbec75b881c0ace09b80db82cb168c3a303c0ea7037746fa1f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ThreeBells__textures__T_InkShard.png",
+            "path": "config/portablevfx/effects/PR_ThreeBells/textures/T_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ThreeBells/textures/T_Line.png",
+          "name": "config/portablevfx/effects/PR_ThreeBells/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "cbb12a9a0bd19807642353df0b305c29",
+            "SHA256": "3389485a46efcf76d1b7b6bf51000b1ca531c227e0fc36550979dd5d354482a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ThreeBells__textures__T_Line.png",
+            "path": "config/portablevfx/effects/PR_ThreeBells/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ThreeBells/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/PR_ThreeBells/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 41365,
+            "MD5": "64bb67742ea33d02b5f309e885e44a19",
+            "SHA256": "a099973a643bf864c2976cf0e4ca1ef4fcfe205299d689f7dd8c424219e3e8b0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ThreeBells__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/PR_ThreeBells/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ThreeBells/textures/T_PumpkinFlame_Sheet.png",
+          "name": "config/portablevfx/effects/PR_ThreeBells/textures/T_PumpkinFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 79591,
+            "MD5": "37a3af22beea238ba6387ce2ec0297bb",
+            "SHA256": "e7831c11caa7a1cc228ee3cd7ebb525c97976079b5f6fb52d6d368fd1051f545",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ThreeBells__textures__T_PumpkinFlame_Sheet.png",
+            "path": "config/portablevfx/effects/PR_ThreeBells/textures/T_PumpkinFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ThreeBells/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/PR_ThreeBells/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 25177,
+            "MD5": "5b240a157ee83908b58fad846d6a8011",
+            "SHA256": "0571a4672a9c0f2ef2afe3985cffa1590e5a0e61ea8c73f717396a7766845358",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ThreeBells__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/PR_ThreeBells/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ThreeBells/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/PR_ThreeBells/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 23341,
+            "MD5": "b6b66ea2e3544bb94fdffbd383d9c23a",
+            "SHA256": "543b334825da7f2c65f176574f0073baa0b128e8c4860fe9268d3c03488d18f7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ThreeBells__textures__T_RuneStrip.png",
+            "path": "config/portablevfx/effects/PR_ThreeBells/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ThreeBells/textures/T_ScytheSlash_Sheet.png",
+          "name": "config/portablevfx/effects/PR_ThreeBells/textures/T_ScytheSlash_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 77724,
+            "MD5": "d36678df67f090e429cc2b4d8e1d967a",
+            "SHA256": "083ba958b0fa2542f15f487bbf77d06bd99015ab0d0f9aa00ebe1e2fc8375f83",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ThreeBells__textures__T_ScytheSlash_Sheet.png",
+            "path": "config/portablevfx/effects/PR_ThreeBells/textures/T_ScytheSlash_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ThreeBells/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/PR_ThreeBells/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ThreeBells__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/PR_ThreeBells/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ThreeBells/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/PR_ThreeBells/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 47860,
+            "MD5": "c4d1fef0ed72eeeb8ee1e52b8ea2ea49",
+            "SHA256": "721379333e686f376b8ba4f97671237e6d1c3e9e73814b97d81626f2d8ae6bab",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ThreeBells__textures__T_Sigil.png",
+            "path": "config/portablevfx/effects/PR_ThreeBells/textures/T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ThreeBells/textures/T_SoulFlame_Sheet.png",
+          "name": "config/portablevfx/effects/PR_ThreeBells/textures/T_SoulFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 86936,
+            "MD5": "2223232e1c152af99845fe58ef28790a",
+            "SHA256": "19009fe17fc46212a1af6531ab8733354aee7595570d0d1638a1da5a97704668",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ThreeBells__textures__T_SoulFlame_Sheet.png",
+            "path": "config/portablevfx/effects/PR_ThreeBells/textures/T_SoulFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ThreeBells/textures/T_SoulStreak.png",
+          "name": "config/portablevfx/effects/PR_ThreeBells/textures/T_SoulStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2256,
+            "MD5": "9b4624cfe1982bfdd34b62455c79d907",
+            "SHA256": "fe36758297986a102a47117549848839707709a058a40add207207a6253af753",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ThreeBells__textures__T_SoulStreak.png",
+            "path": "config/portablevfx/effects/PR_ThreeBells/textures/T_SoulStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ThreeBells/textures/T_Star.png",
+          "name": "config/portablevfx/effects/PR_ThreeBells/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ThreeBells__textures__T_Star.png",
+            "path": "config/portablevfx/effects/PR_ThreeBells/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_ThreeBells/textures/T_VioletFlame_Sheet.png",
+          "name": "config/portablevfx/effects/PR_ThreeBells/textures/T_VioletFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 84971,
+            "MD5": "d868c88bc0ee4dc14c59cba6cc0937c5",
+            "SHA256": "5ef1a9dc593fef1ffad1791a15194f5d9e195d9ee56e554824fb37eb14e4d788",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_ThreeBells__textures__T_VioletFlame_Sheet.png",
+            "path": "config/portablevfx/effects/PR_ThreeBells/textures/T_VioletFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_TrickOrTreat/vfx.json",
+          "name": "config/portablevfx/effects/PR_TrickOrTreat/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 83094,
+            "MD5": "b9cfc5f57d034c86e5c7b073c1104421",
+            "SHA256": "c2d670de6fc41e211936bab4462c7d6a6025a247d0119164f2e51925fc2d1f90",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_TrickOrTreat__vfx.json",
+            "path": "config/portablevfx/effects/PR_TrickOrTreat/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Bat.png",
+          "name": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Bat.png",
+          "type": "File",
+          "artifact": {
+            "size": 5363,
+            "MD5": "a1878247ebff31fdf67ac7de38829ac9",
+            "SHA256": "9b01c07dd16bf68dd881813e93d2aaed68f7dd0b95d773fc01bbbfffd0732b93",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_TrickOrTreat__textures__T_Bat.png",
+            "path": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Bat.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Candy.png",
+          "name": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Candy.png",
+          "type": "File",
+          "artifact": {
+            "size": 6606,
+            "MD5": "87c1f73710ff61032b507c435a083f7a",
+            "SHA256": "8aca174b0d820046e781d761ce1ede8b7f5ba770b15ae4785d7b93189b6e03fa",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_TrickOrTreat__textures__T_Candy.png",
+            "path": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Candy.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_TrickOrTreat__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2267,
+            "MD5": "0bfd3e5aa44c8a033800819695ecf369",
+            "SHA256": "e7531e4d339dc3a300355da494d0c429e6e0f6d25777254e94f412d58411ae1a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_TrickOrTreat__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_TrickOrTreat__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 41365,
+            "MD5": "64bb67742ea33d02b5f309e885e44a19",
+            "SHA256": "a099973a643bf864c2976cf0e4ca1ef4fcfe205299d689f7dd8c424219e3e8b0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_TrickOrTreat__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_PumpkinFlame_Sheet.png",
+          "name": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_PumpkinFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 79591,
+            "MD5": "37a3af22beea238ba6387ce2ec0297bb",
+            "SHA256": "e7831c11caa7a1cc228ee3cd7ebb525c97976079b5f6fb52d6d368fd1051f545",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_TrickOrTreat__textures__T_PumpkinFlame_Sheet.png",
+            "path": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_PumpkinFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 25177,
+            "MD5": "5b240a157ee83908b58fad846d6a8011",
+            "SHA256": "0571a4672a9c0f2ef2afe3985cffa1590e5a0e61ea8c73f717396a7766845358",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_TrickOrTreat__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_TrickOrTreat__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_SoulStreak.png",
+          "name": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_SoulStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2256,
+            "MD5": "9b4624cfe1982bfdd34b62455c79d907",
+            "SHA256": "fe36758297986a102a47117549848839707709a058a40add207207a6253af753",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_TrickOrTreat__textures__T_SoulStreak.png",
+            "path": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_SoulStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Star.png",
+          "name": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_TrickOrTreat__textures__T_Star.png",
+            "path": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Star.png"
+          }
+        },
+        {
           "id": "chacademi/npc-models/captain_bram.glb",
           "name": "chacademi/npc-models/captain_bram.glb",
           "type": "File",
