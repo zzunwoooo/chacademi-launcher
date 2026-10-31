@@ -310,10 +310,10 @@
           "name": "mods/MagicCodex-client-6cfa5a95-preserved-final.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 452164369,
-            "MD5": "6f116a6f767208397543ddcd45a2816b",
-            "SHA256": "c9d5f1bf08cbab32bedf8a6a16b08dec3282c478f41612e47f9c23fc6dc50c1f",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-client-modelaim2-20261030/MagicCodex-client-6cfa5a95-elena-journal-acctip-spyglass-shop-aim2.jar"
+            "size": 452099064,
+            "MD5": "19049ed57945fe5bb51f746195ef8946",
+            "SHA256": "c1e0afdec36fa7c4364a79b1d5fd5d1a23777293b89f7d3f959a6e04826fbdc4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-client-friends-spec-20261031/MagicCodex-client-6cfa5a95-elena-journal-acctip-spyglass-shop-aim2-friends-spec.jar"
           }
         },
         {
