@@ -321,10 +321,10 @@
           "name": "mods/MagicCodex-client-6cfa5a95-preserved-final.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 463123405,
-            "MD5": "f8fd8710308f8b751387909e6b46961f",
-            "SHA256": "97a0d6a4320e1854dfffc679f51dc4b18f537647eb89dcaad692fd02fe571ec8",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-client-subquest-alchemy-20261031/MagicCodex-client-6cfa5a95-elena-journal-acctip-spyglass-shop-aim2-friends-spec-alchemy.jar"
+            "size": 463131509,
+            "MD5": "11009e63f2102523f127ead49e5d0e40",
+            "SHA256": "9e5dd7b337a29ab647eda125e15b7bb5cd4cee59a678823a1cea152d919ab5e3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/MagicCodex-client-6cfa5a95-elena-journal-acctip-spyglass-shop-aim2-friends-spec-alchemy-halloween12.jar"
           }
         },
         {
@@ -29397,6 +29397,2286 @@
           }
         },
         {
+          "id": "config/portablevfx/effects/BatSwarm/textures/T_BS_Bat_Sheet.png",
+          "name": "config/portablevfx/effects/BatSwarm/textures/T_BS_Bat_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 109324,
+            "MD5": "20212521f67f6f5e01474183bd9a7baf",
+            "SHA256": "29264344b1ef86c0f370b1a4b8bcd36730a06a2ebc8b332e3bddae8ea24ad5fd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BatSwarm__textures__T_BS_Bat_Sheet.png",
+            "path": "config/portablevfx/effects/BatSwarm/textures/T_BS_Bat_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BatSwarm/textures/T_BS_Dot.png",
+          "name": "config/portablevfx/effects/BatSwarm/textures/T_BS_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 6176,
+            "MD5": "1e53c40b930f0dec9f69dbb9b87f8431",
+            "SHA256": "5ff7aa766bd7f9d6875eba2d8e232cf36d68f74dfd0e858e5ee5ca2967b11da2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BatSwarm__textures__T_BS_Dot.png",
+            "path": "config/portablevfx/effects/BatSwarm/textures/T_BS_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BatSwarm/textures/T_BS_Glow.png",
+          "name": "config/portablevfx/effects/BatSwarm/textures/T_BS_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5934,
+            "MD5": "8e0a172332fd240ecafd54910f871212",
+            "SHA256": "ec19a0fcf69fa06f180427c9acb1aff31e2b7cd32103bacf957afa7cebf656b6",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BatSwarm__textures__T_BS_Glow.png",
+            "path": "config/portablevfx/effects/BatSwarm/textures/T_BS_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BatSwarm/textures/T_BS_InkShard.png",
+          "name": "config/portablevfx/effects/BatSwarm/textures/T_BS_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2664,
+            "MD5": "8750a82de51d5d7c80ae1c319915bdc9",
+            "SHA256": "775669e29b38ab63711a5caefb880a3dd898434e9c328078170149b8baccbadc",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BatSwarm__textures__T_BS_InkShard.png",
+            "path": "config/portablevfx/effects/BatSwarm/textures/T_BS_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BatSwarm/textures/T_BS_Mist.png",
+          "name": "config/portablevfx/effects/BatSwarm/textures/T_BS_Mist.png",
+          "type": "File",
+          "artifact": {
+            "size": 12412,
+            "MD5": "0e8c74312cf469ffc67444117db7a8f4",
+            "SHA256": "43315f453c185005981e64b73b369c986e90bde5092b3e6e3830a0c8c6d9c4b1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BatSwarm__textures__T_BS_Mist.png",
+            "path": "config/portablevfx/effects/BatSwarm/textures/T_BS_Mist.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BatSwarm/textures/T_BS_Ring.png",
+          "name": "config/portablevfx/effects/BatSwarm/textures/T_BS_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 47714,
+            "MD5": "ac0f2b55bf237343df99644f3894cfd7",
+            "SHA256": "89115ed5aba01b55fb8c291689933d40f7a0951c4344b4f6054667c8952e92b5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BatSwarm__textures__T_BS_Ring.png",
+            "path": "config/portablevfx/effects/BatSwarm/textures/T_BS_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BatSwarm/textures/T_BS_Star.png",
+          "name": "config/portablevfx/effects/BatSwarm/textures/T_BS_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 7213,
+            "MD5": "c8f542adc4ca9d732e782968ceb2f53b",
+            "SHA256": "312d038c5034f365e749dbab8ed828cf7b70a4963a4b1fa6974b172df7532b10",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BatSwarm__textures__T_BS_Star.png",
+            "path": "config/portablevfx/effects/BatSwarm/textures/T_BS_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BatSwarm/textures/T_BS_Streak.png",
+          "name": "config/portablevfx/effects/BatSwarm/textures/T_BS_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2496,
+            "MD5": "6e601231e48097849197b23d476c143d",
+            "SHA256": "01d79abf7f354f735122409082da9ca1f704b224ae7655b2b0da93a564e604d2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BatSwarm__textures__T_BS_Streak.png",
+            "path": "config/portablevfx/effects/BatSwarm/textures/T_BS_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BatSwarm/textures/T_BS_Stroke_Sheet.png",
+          "name": "config/portablevfx/effects/BatSwarm/textures/T_BS_Stroke_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 49823,
+            "MD5": "3c46f3d80fadbbc16e9c9a12b6c59c8f",
+            "SHA256": "b89c8aad149d0c1e00e4f053330812d1689b04849102665960dc866cb5e2c9e8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BatSwarm__textures__T_BS_Stroke_Sheet.png",
+            "path": "config/portablevfx/effects/BatSwarm/textures/T_BS_Stroke_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BatSwarm/vfx.json",
+          "name": "config/portablevfx/effects/BatSwarm/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 178204,
+            "MD5": "ebe292c198003e95f5a9f67428ea5f71",
+            "SHA256": "02fc64372b03947a766d464efc0e0142790685acbbe3c5089124be0a005156ea",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BatSwarm__vfx.json",
+            "path": "config/portablevfx/effects/BatSwarm/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BlackCatHex/textures/T_CH_CatHead.png",
+          "name": "config/portablevfx/effects/BlackCatHex/textures/T_CH_CatHead.png",
+          "type": "File",
+          "artifact": {
+            "size": 60568,
+            "MD5": "8e357185ac296766790ebf987858b29a",
+            "SHA256": "75d5d84bc07cfa6ddcc7e29249ace6b7a9c4930339827ed0e428c6858d933810",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BlackCatHex__textures__T_CH_CatHead.png",
+            "path": "config/portablevfx/effects/BlackCatHex/textures/T_CH_CatHead.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BlackCatHex/textures/T_CH_ClawMark.png",
+          "name": "config/portablevfx/effects/BlackCatHex/textures/T_CH_ClawMark.png",
+          "type": "File",
+          "artifact": {
+            "size": 4374,
+            "MD5": "3e27613f23c6a88d50f23d6208a8d17b",
+            "SHA256": "1fb07cd1a2eb25b2e3d3eff47935325fbb0df55fd0aa5caaf70953d0ca0ff56b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BlackCatHex__textures__T_CH_ClawMark.png",
+            "path": "config/portablevfx/effects/BlackCatHex/textures/T_CH_ClawMark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Claw_Sheet.png",
+          "name": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Claw_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 36038,
+            "MD5": "2370b68e7e154ac96ccf9bafcdbd03bf",
+            "SHA256": "efabf96dbf9cc9cf1f7364de7d7ce0c7c8846094b2d642b5e88e0f186c3bcdb4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BlackCatHex__textures__T_CH_Claw_Sheet.png",
+            "path": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Claw_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Dot.png",
+          "name": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 3620,
+            "MD5": "d50fb9ce392d17090628db2abd21911f",
+            "SHA256": "43b604bc017f9649a759b03344e68c92f1793257ab6793dc39db216825570246",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BlackCatHex__textures__T_CH_Dot.png",
+            "path": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BlackCatHex/textures/T_CH_EyeFlash.png",
+          "name": "config/portablevfx/effects/BlackCatHex/textures/T_CH_EyeFlash.png",
+          "type": "File",
+          "artifact": {
+            "size": 14848,
+            "MD5": "013e6fbd6128e8ade90c7facad93af5a",
+            "SHA256": "be408fc70e5d0ee1b327cfca5742822bec4289f3fdb6087111bcf6e225cab121",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BlackCatHex__textures__T_CH_EyeFlash.png",
+            "path": "config/portablevfx/effects/BlackCatHex/textures/T_CH_EyeFlash.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BlackCatHex/textures/T_CH_EyeGlow.png",
+          "name": "config/portablevfx/effects/BlackCatHex/textures/T_CH_EyeGlow.png",
+          "type": "File",
+          "artifact": {
+            "size": 7842,
+            "MD5": "47fcec824bd8477f6b92249c91cdd75c",
+            "SHA256": "121d89bb087cc06dd6fc9f3e9910ec326028b6a1c8d7327889f18a65d376cf9b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BlackCatHex__textures__T_CH_EyeGlow.png",
+            "path": "config/portablevfx/effects/BlackCatHex/textures/T_CH_EyeGlow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Glow.png",
+          "name": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5934,
+            "MD5": "8e0a172332fd240ecafd54910f871212",
+            "SHA256": "ec19a0fcf69fa06f180427c9acb1aff31e2b7cd32103bacf957afa7cebf656b6",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BlackCatHex__textures__T_CH_Glow.png",
+            "path": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BlackCatHex/textures/T_CH_InkShard.png",
+          "name": "config/portablevfx/effects/BlackCatHex/textures/T_CH_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2664,
+            "MD5": "8750a82de51d5d7c80ae1c319915bdc9",
+            "SHA256": "775669e29b38ab63711a5caefb880a3dd898434e9c328078170149b8baccbadc",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BlackCatHex__textures__T_CH_InkShard.png",
+            "path": "config/portablevfx/effects/BlackCatHex/textures/T_CH_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Line.png",
+          "name": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 249,
+            "MD5": "0b7a58c93f2fdc3f9dbe030d0ca6c8d7",
+            "SHA256": "f9a25cb1a7f5dfd2ca3e006cdd554280b21a170a578e1a37264f6e7a4b0ab831",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BlackCatHex__textures__T_CH_Line.png",
+            "path": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Mist.png",
+          "name": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Mist.png",
+          "type": "File",
+          "artifact": {
+            "size": 12412,
+            "MD5": "0e8c74312cf469ffc67444117db7a8f4",
+            "SHA256": "43315f453c185005981e64b73b369c986e90bde5092b3e6e3830a0c8c6d9c4b1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BlackCatHex__textures__T_CH_Mist.png",
+            "path": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Mist.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Paw.png",
+          "name": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Paw.png",
+          "type": "File",
+          "artifact": {
+            "size": 24792,
+            "MD5": "bc3fc852eeec2f8e48b2b6c9f1ea6f5f",
+            "SHA256": "f1ae05f7854de9c8e7b485910e24d44538f0bc18139c552fdb810283dd03f008",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BlackCatHex__textures__T_CH_Paw.png",
+            "path": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Paw.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Ring.png",
+          "name": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 47851,
+            "MD5": "944c0c0b680e4e291711f84a92946005",
+            "SHA256": "2ed9f609eed7190938dc14431c0cbe9f1120cc1d74c02b6d3045823354ba5dec",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BlackCatHex__textures__T_CH_Ring.png",
+            "path": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Runes.png",
+          "name": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Runes.png",
+          "type": "File",
+          "artifact": {
+            "size": 25344,
+            "MD5": "1c7d74a84741a500aaaa5f110547c905",
+            "SHA256": "cf12b3b45d15112edd5f36357176959f1d519080d82affe683cc35789d90ebd0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BlackCatHex__textures__T_CH_Runes.png",
+            "path": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Runes.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Scar.png",
+          "name": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Scar.png",
+          "type": "File",
+          "artifact": {
+            "size": 28476,
+            "MD5": "27c8bd624914791eaf165a7159b6ae42",
+            "SHA256": "c14be9421b0717ae651135a764b9174a1817b328aa7d8630b6a0775b99a9b153",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BlackCatHex__textures__T_CH_Scar.png",
+            "path": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Scar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Sigil.png",
+          "name": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 46510,
+            "MD5": "cd812a604e5a6931bd28d8dfc8c4c205",
+            "SHA256": "5526d809de06ff797d7d288326de7e5f68fac3a15c4b7ac83f05b0c8567a9c91",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BlackCatHex__textures__T_CH_Sigil.png",
+            "path": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Stain.png",
+          "name": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Stain.png",
+          "type": "File",
+          "artifact": {
+            "size": 49319,
+            "MD5": "5ceb44c8fb3116704f5d21a35791f2ef",
+            "SHA256": "50974a720c149da4e05dc06b08744c33d1c03d7cc811f5c87608755ad39d738e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BlackCatHex__textures__T_CH_Stain.png",
+            "path": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Stain.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Star.png",
+          "name": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5884,
+            "MD5": "f50f04658eee266513362d40f8b1bcb8",
+            "SHA256": "25b06b0687f8a7aef3e39d5afb307bf14db57f684d31ae07d828a697f074e8f4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BlackCatHex__textures__T_CH_Star.png",
+            "path": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Streak.png",
+          "name": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1433,
+            "MD5": "a545982951ff246f295157a703b22867",
+            "SHA256": "5ff94d11dea2cc3fc95f80ce07d9f3d11407e7ccaef5e1c3ec50bfbb4ed8b224",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BlackCatHex__textures__T_CH_Streak.png",
+            "path": "config/portablevfx/effects/BlackCatHex/textures/T_CH_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/BlackCatHex/vfx.json",
+          "name": "config/portablevfx/effects/BlackCatHex/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 764870,
+            "MD5": "b36e2209ba0f400f2780a6b4c72ed158",
+            "SHA256": "800e9f828b6721a54be224de7f6ae64ccfb627db65427ac8412c83d1afa4e316",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__BlackCatHex__vfx.json",
+            "path": "config/portablevfx/effects/BlackCatHex/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CauldronSplash/textures/T_BubblePop.png",
+          "name": "config/portablevfx/effects/CauldronSplash/textures/T_BubblePop.png",
+          "type": "File",
+          "artifact": {
+            "size": 13648,
+            "MD5": "387b71b188a046c926222443d62de718",
+            "SHA256": "cbf970866a7ffc727d36facdd303af7841a72cdd3d27e0ba6c8baabbf57bf357",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__CauldronSplash__textures__T_BubblePop.png",
+            "path": "config/portablevfx/effects/CauldronSplash/textures/T_BubblePop.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CauldronSplash/textures/T_Cauldron.png",
+          "name": "config/portablevfx/effects/CauldronSplash/textures/T_Cauldron.png",
+          "type": "File",
+          "artifact": {
+            "size": 70262,
+            "MD5": "6ab62d017b7ace2bd042a861759476dc",
+            "SHA256": "4c69b28eb37aff7fda2d75a15542595edb05e924c8a5bd9b347340efd960a40b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__CauldronSplash__textures__T_Cauldron.png",
+            "path": "config/portablevfx/effects/CauldronSplash/textures/T_Cauldron.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CauldronSplash/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/CauldronSplash/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 583,
+            "MD5": "98f92e14ab659c592b8390f91397e1c3",
+            "SHA256": "231816ab3bfa9b28874754e711f1dc0969eb7bf643df9f25c181a84364555299",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__CauldronSplash__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/CauldronSplash/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CauldronSplash/textures/T_Drop.png",
+          "name": "config/portablevfx/effects/CauldronSplash/textures/T_Drop.png",
+          "type": "File",
+          "artifact": {
+            "size": 5465,
+            "MD5": "78026ab4acec6d99d9e29c47281504d2",
+            "SHA256": "7cbf071b3fa8d30d209ae45df3d4384fc667d369a3f8ac856839b9d3a73b2e2c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__CauldronSplash__textures__T_Drop.png",
+            "path": "config/portablevfx/effects/CauldronSplash/textures/T_Drop.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CauldronSplash/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/CauldronSplash/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__CauldronSplash__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/CauldronSplash/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CauldronSplash/textures/T_GooStreak.png",
+          "name": "config/portablevfx/effects/CauldronSplash/textures/T_GooStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 10422,
+            "MD5": "d3f2b260b5e778f0b053e2ec179fed5e",
+            "SHA256": "d7e316a3bf14c8f500cbe20f5e82ad27ac390990523f8ed0dc591daaff5a81e5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__CauldronSplash__textures__T_GooStreak.png",
+            "path": "config/portablevfx/effects/CauldronSplash/textures/T_GooStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CauldronSplash/textures/T_InkShard.png",
+          "name": "config/portablevfx/effects/CauldronSplash/textures/T_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 1981,
+            "MD5": "62ce42672081ef095d0491d956a80705",
+            "SHA256": "a03741ed8c9573e20d1fe160f6d6f36af451e495ff0386ed654bfd079f6fe474",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__CauldronSplash__textures__T_InkShard.png",
+            "path": "config/portablevfx/effects/CauldronSplash/textures/T_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CauldronSplash/textures/T_Line.png",
+          "name": "config/portablevfx/effects/CauldronSplash/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 231,
+            "MD5": "dddf4c1615e42edaf2ec9e855bb28dfa",
+            "SHA256": "adf6e769fe536680c5421451434c3720a58b805a6277b49f11dd7883496d96db",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__CauldronSplash__textures__T_Line.png",
+            "path": "config/portablevfx/effects/CauldronSplash/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CauldronSplash/textures/T_Pillar.png",
+          "name": "config/portablevfx/effects/CauldronSplash/textures/T_Pillar.png",
+          "type": "File",
+          "artifact": {
+            "size": 1852,
+            "MD5": "e75c9460139be25c17d3709cec2cc8e1",
+            "SHA256": "2cb6415fafb64b8097b2c30a349f2e538886737314066a3275560a7cfbc3f5d5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__CauldronSplash__textures__T_Pillar.png",
+            "path": "config/portablevfx/effects/CauldronSplash/textures/T_Pillar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CauldronSplash/textures/T_Pool.png",
+          "name": "config/portablevfx/effects/CauldronSplash/textures/T_Pool.png",
+          "type": "File",
+          "artifact": {
+            "size": 143739,
+            "MD5": "92fe23a2723d3157d58a4b47fb5bb1cd",
+            "SHA256": "8f31fdb82e95177ba83fd93a54419c9ebe28dde0a7aeec9c1da9f78944ef42fc",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__CauldronSplash__textures__T_Pool.png",
+            "path": "config/portablevfx/effects/CauldronSplash/textures/T_Pool.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CauldronSplash/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/CauldronSplash/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 25026,
+            "MD5": "de699c83aedf866d39849c56ffe400ba",
+            "SHA256": "e88c2a785bb002ec658bbbf36a546113e6fb3380fbd62b266264b16e23d8abe5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__CauldronSplash__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/CauldronSplash/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CauldronSplash/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/CauldronSplash/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 10957,
+            "MD5": "bfe9747cdb4457d8db0c165059a94bca",
+            "SHA256": "431defcac163343ca60a601a0049acaf49625f75c31abaef86727ea25b71dd69",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__CauldronSplash__textures__T_RuneStrip.png",
+            "path": "config/portablevfx/effects/CauldronSplash/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CauldronSplash/textures/T_SkullSigil.png",
+          "name": "config/portablevfx/effects/CauldronSplash/textures/T_SkullSigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 39726,
+            "MD5": "f23681daf171cfeb67ee06ea95af5f6b",
+            "SHA256": "59e3d85ead1580c9aa416af21e49fab9cf7bb5116a920afeeee2834cdc153665",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__CauldronSplash__textures__T_SkullSigil.png",
+            "path": "config/portablevfx/effects/CauldronSplash/textures/T_SkullSigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CauldronSplash/textures/T_Splash_Sheet.png",
+          "name": "config/portablevfx/effects/CauldronSplash/textures/T_Splash_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 178770,
+            "MD5": "f9ddec9ff0f221b2692a81554bd33f0b",
+            "SHA256": "940f25a152f35110e5240f384e525d4203d4d00184d45d1092e2d7e36bc66c6a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__CauldronSplash__textures__T_Splash_Sheet.png",
+            "path": "config/portablevfx/effects/CauldronSplash/textures/T_Splash_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CauldronSplash/textures/T_Star.png",
+          "name": "config/portablevfx/effects/CauldronSplash/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5080,
+            "MD5": "70ab7bb8b84b48109ec6c751a4b6d6d4",
+            "SHA256": "3b6d8964b8bf814381c349168e7041e5531c2685f3faac4ee85fbecc0c67f9c0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__CauldronSplash__textures__T_Star.png",
+            "path": "config/portablevfx/effects/CauldronSplash/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CauldronSplash/textures/T_Wisp_Sheet.png",
+          "name": "config/portablevfx/effects/CauldronSplash/textures/T_Wisp_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 15460,
+            "MD5": "74ee849642fc4dff3a1b5df5fe79234a",
+            "SHA256": "8e97dda97f7b796d38d59846dbc1ea091c2809975351be5160954110705ab800",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__CauldronSplash__textures__T_Wisp_Sheet.png",
+            "path": "config/portablevfx/effects/CauldronSplash/textures/T_Wisp_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/CauldronSplash/vfx.json",
+          "name": "config/portablevfx/effects/CauldronSplash/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 431583,
+            "MD5": "e33909c93cdac770cd0ce183820f8daa",
+            "SHA256": "0a6c76ec8d34f89329aceae77ddd59dcf30cd3ef57eadafe0b7089a165494fcd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__CauldronSplash__vfx.json",
+            "path": "config/portablevfx/effects/CauldronSplash/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GraveGrasp/textures/T_BoneChip.png",
+          "name": "config/portablevfx/effects/GraveGrasp/textures/T_BoneChip.png",
+          "type": "File",
+          "artifact": {
+            "size": 730,
+            "MD5": "2fd33d2b25ab558d0af99bb941f3934a",
+            "SHA256": "6f162d05becd73e2fb09280556b63ea2db3522ffe3e52caae6a1b9baebc8158a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GraveGrasp__textures__T_BoneChip.png",
+            "path": "config/portablevfx/effects/GraveGrasp/textures/T_BoneChip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GraveGrasp/textures/T_Clod.png",
+          "name": "config/portablevfx/effects/GraveGrasp/textures/T_Clod.png",
+          "type": "File",
+          "artifact": {
+            "size": 4402,
+            "MD5": "b9257df30f2e64bebc058f9d69513888",
+            "SHA256": "8ccba90b17496bbbca818969236622965ca4a76e47acb866a4b35a8cbe2a819a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GraveGrasp__textures__T_Clod.png",
+            "path": "config/portablevfx/effects/GraveGrasp/textures/T_Clod.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GraveGrasp/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/GraveGrasp/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 3671,
+            "MD5": "2681531532fcd55bd49b97d57bb8267e",
+            "SHA256": "ba2b3bfb0b55fc2ced95b6122e3cd801ae538adb5a0d384bd09fc16f3a2c2a4b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GraveGrasp__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/GraveGrasp/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GraveGrasp/textures/T_GCracks.png",
+          "name": "config/portablevfx/effects/GraveGrasp/textures/T_GCracks.png",
+          "type": "File",
+          "artifact": {
+            "size": 65860,
+            "MD5": "0a15ec1ba5da12dddac1589aadb4f4cc",
+            "SHA256": "5845130a18a52869acd193b89e93595445c4ad45a7b5dcbe32f4691163c66320",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GraveGrasp__textures__T_GCracks.png",
+            "path": "config/portablevfx/effects/GraveGrasp/textures/T_GCracks.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GraveGrasp/textures/T_GLine.png",
+          "name": "config/portablevfx/effects/GraveGrasp/textures/T_GLine.png",
+          "type": "File",
+          "artifact": {
+            "size": 248,
+            "MD5": "91c4081ed5b257c0176dd48e9208f3dd",
+            "SHA256": "ee821864b601a5d1f1b0a4507ab39b62ee6a6a2b688fc4a913241b28784a6faa",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GraveGrasp__textures__T_GLine.png",
+            "path": "config/portablevfx/effects/GraveGrasp/textures/T_GLine.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GraveGrasp/textures/T_GMist_Sheet.png",
+          "name": "config/portablevfx/effects/GraveGrasp/textures/T_GMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 17777,
+            "MD5": "05b1ec8285e71ef40c76046ec133f76f",
+            "SHA256": "7ae775ab4904950836ab75b496b566789016e1e346106d91ea4d652043e0795c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GraveGrasp__textures__T_GMist_Sheet.png",
+            "path": "config/portablevfx/effects/GraveGrasp/textures/T_GMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GraveGrasp/textures/T_GRing.png",
+          "name": "config/portablevfx/effects/GraveGrasp/textures/T_GRing.png",
+          "type": "File",
+          "artifact": {
+            "size": 51126,
+            "MD5": "42b4710bd4f58919e206f972283474e7",
+            "SHA256": "9e0ed7494a7cc46364a46782f7bd33111128db24106c7ffdb8dcef27fb4ade7b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GraveGrasp__textures__T_GRing.png",
+            "path": "config/portablevfx/effects/GraveGrasp/textures/T_GRing.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GraveGrasp/textures/T_GRunes.png",
+          "name": "config/portablevfx/effects/GraveGrasp/textures/T_GRunes.png",
+          "type": "File",
+          "artifact": {
+            "size": 32135,
+            "MD5": "0bad19cd32027ce20ef38e25af65c3b3",
+            "SHA256": "d89628dc52a5f9c336a18ab02b47299f227479bed4a3e677b31e53af045accaa",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GraveGrasp__textures__T_GRunes.png",
+            "path": "config/portablevfx/effects/GraveGrasp/textures/T_GRunes.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GraveGrasp/textures/T_GSkull.png",
+          "name": "config/portablevfx/effects/GraveGrasp/textures/T_GSkull.png",
+          "type": "File",
+          "artifact": {
+            "size": 29365,
+            "MD5": "a634ed5c7bee72cf54551b28884788a0",
+            "SHA256": "6cd20eed0125b126391c7a2f44c7a1458de46f90063056b961634e051907276c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GraveGrasp__textures__T_GSkull.png",
+            "path": "config/portablevfx/effects/GraveGrasp/textures/T_GSkull.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GraveGrasp/textures/T_GStar.png",
+          "name": "config/portablevfx/effects/GraveGrasp/textures/T_GStar.png",
+          "type": "File",
+          "artifact": {
+            "size": 7521,
+            "MD5": "139eb30f053bd16ab14e298347f10bc0",
+            "SHA256": "4afd97d85cc630a144b51350f04379ce2666b5bc39ed8c3e4d0b25f4592baeb0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GraveGrasp__textures__T_GStar.png",
+            "path": "config/portablevfx/effects/GraveGrasp/textures/T_GStar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GraveGrasp/textures/T_GStreak.png",
+          "name": "config/portablevfx/effects/GraveGrasp/textures/T_GStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1257,
+            "MD5": "f174ba58375d44a7d77c147394aa4fb6",
+            "SHA256": "8e9d86b9c73bf8289a1c998575bd976776afbf1b06a3669134881eac3339db69",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GraveGrasp__textures__T_GStreak.png",
+            "path": "config/portablevfx/effects/GraveGrasp/textures/T_GStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GraveGrasp/textures/T_GWipe_Sheet.png",
+          "name": "config/portablevfx/effects/GraveGrasp/textures/T_GWipe_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 10782,
+            "MD5": "21b394798e049ecfe6670e9c176badc9",
+            "SHA256": "60c385fe588c396222717772c57aa6625f2494982aa130f54a9eab57d3214583",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GraveGrasp__textures__T_GWipe_Sheet.png",
+            "path": "config/portablevfx/effects/GraveGrasp/textures/T_GWipe_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GraveGrasp/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/GraveGrasp/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GraveGrasp__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/GraveGrasp/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GraveGrasp/textures/T_HandFist.png",
+          "name": "config/portablevfx/effects/GraveGrasp/textures/T_HandFist.png",
+          "type": "File",
+          "artifact": {
+            "size": 9470,
+            "MD5": "2274c409a62552cd5dbd2ea8fec285a2",
+            "SHA256": "34cec74f55073ac2d3a40b4350bbcb3f0d53f3e23989ef75439218a5f5821f6f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GraveGrasp__textures__T_HandFist.png",
+            "path": "config/portablevfx/effects/GraveGrasp/textures/T_HandFist.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GraveGrasp/textures/T_HandGrasp_Sheet.png",
+          "name": "config/portablevfx/effects/GraveGrasp/textures/T_HandGrasp_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 63851,
+            "MD5": "ef6229a9540bd894fc9710458aa9e0eb",
+            "SHA256": "b0643b86c9a3b53dbb13dcfc5dbef08df76250ea089d26b24d456e0338ffa378",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GraveGrasp__textures__T_HandGrasp_Sheet.png",
+            "path": "config/portablevfx/effects/GraveGrasp/textures/T_HandGrasp_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GraveGrasp/textures/T_TombArch.png",
+          "name": "config/portablevfx/effects/GraveGrasp/textures/T_TombArch.png",
+          "type": "File",
+          "artifact": {
+            "size": 48187,
+            "MD5": "e53e3097fd4495f75cc303e36b8bc7e1",
+            "SHA256": "a8dd4fe75f9db4227db911a4e8a3d45a9dba3d5a60b4dacf0c41d621da4174e7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GraveGrasp__textures__T_TombArch.png",
+            "path": "config/portablevfx/effects/GraveGrasp/textures/T_TombArch.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GraveGrasp/textures/T_TombCross.png",
+          "name": "config/portablevfx/effects/GraveGrasp/textures/T_TombCross.png",
+          "type": "File",
+          "artifact": {
+            "size": 43737,
+            "MD5": "7d384d6cbf2ff5961c566c346d24dc1c",
+            "SHA256": "71fa0b2239605fac50b02fa8b868b666e908c0ab92cd55100737639626f45788",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GraveGrasp__textures__T_TombCross.png",
+            "path": "config/portablevfx/effects/GraveGrasp/textures/T_TombCross.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GraveGrasp/vfx.json",
+          "name": "config/portablevfx/effects/GraveGrasp/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 1005226,
+            "MD5": "c6ab7e8ac99f43499857612301ad94de",
+            "SHA256": "342cb3d682eea600367727e1c2a457ffdec288cdab7ff6be0fa8bb1d5bc2775f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GraveGrasp__vfx.json",
+            "path": "config/portablevfx/effects/GraveGrasp/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GreatJackMaw/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/GreatJackMaw/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 87523,
+            "MD5": "c7c78046fb143af3f2d38de438d73a21",
+            "SHA256": "91f4635b148baa9d98f1a56b17bdf095c472f37fe3b1eaebf7bfdf67bc4b7299",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GreatJackMaw__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/GreatJackMaw/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GreatJackMaw/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/GreatJackMaw/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 583,
+            "MD5": "98f92e14ab659c592b8390f91397e1c3",
+            "SHA256": "231816ab3bfa9b28874754e711f1dc0969eb7bf643df9f25c181a84364555299",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GreatJackMaw__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/GreatJackMaw/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GreatJackMaw/textures/T_FaceClosed.png",
+          "name": "config/portablevfx/effects/GreatJackMaw/textures/T_FaceClosed.png",
+          "type": "File",
+          "artifact": {
+            "size": 25882,
+            "MD5": "33dbe62db407ab1aac6943dba68afbe2",
+            "SHA256": "e2e73af43cb00615ebc9a9de517482135006bfbc36667105946bf5c8ece67d82",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GreatJackMaw__textures__T_FaceClosed.png",
+            "path": "config/portablevfx/effects/GreatJackMaw/textures/T_FaceClosed.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GreatJackMaw/textures/T_FaceOpen.png",
+          "name": "config/portablevfx/effects/GreatJackMaw/textures/T_FaceOpen.png",
+          "type": "File",
+          "artifact": {
+            "size": 34760,
+            "MD5": "92d53b665df8029b5cdb95e2662d7e4a",
+            "SHA256": "8f9b0a3e6f22e93c6cd33036474af45fcf6ed6e0e2ecebba3e10fd8ea9212852",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GreatJackMaw__textures__T_FaceOpen.png",
+            "path": "config/portablevfx/effects/GreatJackMaw/textures/T_FaceOpen.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GreatJackMaw/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/GreatJackMaw/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2281,
+            "MD5": "404bc6c2df8d6755c2f6d9a9a1dbb1f5",
+            "SHA256": "941ac58a14ff9f439ed44641814f79dc3b93e654397b93ab3b51f8cd4880dc51",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GreatJackMaw__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/GreatJackMaw/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GreatJackMaw/textures/T_FlameTongue.png",
+          "name": "config/portablevfx/effects/GreatJackMaw/textures/T_FlameTongue.png",
+          "type": "File",
+          "artifact": {
+            "size": 8757,
+            "MD5": "1a20c2d6a2a04e5e7eb009180328a52b",
+            "SHA256": "eada7656ae4743459f35f3ac9d5691c1b54aed7cffd07a33e12b7120a01c3487",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GreatJackMaw__textures__T_FlameTongue.png",
+            "path": "config/portablevfx/effects/GreatJackMaw/textures/T_FlameTongue.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GreatJackMaw/textures/T_Flame_Sheet.png",
+          "name": "config/portablevfx/effects/GreatJackMaw/textures/T_Flame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 75263,
+            "MD5": "4da4e1982e2242c4921533f5c6db2829",
+            "SHA256": "6fd0bb8439e8eb792f405aa724d3c967ebc93fa742fad26b1f9a1f610e8f7420",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GreatJackMaw__textures__T_Flame_Sheet.png",
+            "path": "config/portablevfx/effects/GreatJackMaw/textures/T_Flame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GreatJackMaw/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/GreatJackMaw/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GreatJackMaw__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/GreatJackMaw/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GreatJackMaw/textures/T_HeatStroke_Sheet.png",
+          "name": "config/portablevfx/effects/GreatJackMaw/textures/T_HeatStroke_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 62368,
+            "MD5": "3b55a65db465402a8fea512082c80452",
+            "SHA256": "8bf448c419fd663f8bbdab6e0f856aeed2c3e6e71d3b507c3cb09f2336350649",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GreatJackMaw__textures__T_HeatStroke_Sheet.png",
+            "path": "config/portablevfx/effects/GreatJackMaw/textures/T_HeatStroke_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GreatJackMaw/textures/T_JackSigil.png",
+          "name": "config/portablevfx/effects/GreatJackMaw/textures/T_JackSigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 52214,
+            "MD5": "394e07b58655e0e9c9f6825007c47813",
+            "SHA256": "e86d3d96266310c022359593c95413e22637b8df3f397c0fc240533dff721114",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GreatJackMaw__textures__T_JackSigil.png",
+            "path": "config/portablevfx/effects/GreatJackMaw/textures/T_JackSigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GreatJackMaw/textures/T_LimeFlame_Sheet.png",
+          "name": "config/portablevfx/effects/GreatJackMaw/textures/T_LimeFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 77545,
+            "MD5": "1f2d856ee56ca6be5ec20e4e9ef0409a",
+            "SHA256": "1c24bfe227b5085d444fae8ea6768b9abc90812d75cc65c182809852e9d19fc8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GreatJackMaw__textures__T_LimeFlame_Sheet.png",
+            "path": "config/portablevfx/effects/GreatJackMaw/textures/T_LimeFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GreatJackMaw/textures/T_Line.png",
+          "name": "config/portablevfx/effects/GreatJackMaw/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 231,
+            "MD5": "dddf4c1615e42edaf2ec9e855bb28dfa",
+            "SHA256": "adf6e769fe536680c5421451434c3720a58b805a6277b49f11dd7883496d96db",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GreatJackMaw__textures__T_Line.png",
+            "path": "config/portablevfx/effects/GreatJackMaw/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GreatJackMaw/textures/T_PumpkinShell.png",
+          "name": "config/portablevfx/effects/GreatJackMaw/textures/T_PumpkinShell.png",
+          "type": "File",
+          "artifact": {
+            "size": 72201,
+            "MD5": "e22aea49a1fd0454977a12e8dfa64eff",
+            "SHA256": "1ee0818d50b7f28a2fc962dade5a6456d20a5a7c6693e3a55278fe83e5f21d95",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GreatJackMaw__textures__T_PumpkinShell.png",
+            "path": "config/portablevfx/effects/GreatJackMaw/textures/T_PumpkinShell.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GreatJackMaw/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/GreatJackMaw/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 24989,
+            "MD5": "3082cb109acd02ad16613570dc721952",
+            "SHA256": "d27c6cf54ba69158d310ab7c7bf1ce7cf757d89d157e1f2f81c21afcf86f828e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GreatJackMaw__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/GreatJackMaw/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GreatJackMaw/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/GreatJackMaw/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 18114,
+            "MD5": "d96fc08a55fe9eb73e8b69f1de54c4f5",
+            "SHA256": "2a5d58fe89052a9817d09df14ad1b7f8bae41e406208875e610b9ee5b601c154",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GreatJackMaw__textures__T_RuneStrip.png",
+            "path": "config/portablevfx/effects/GreatJackMaw/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GreatJackMaw/textures/T_Seed.png",
+          "name": "config/portablevfx/effects/GreatJackMaw/textures/T_Seed.png",
+          "type": "File",
+          "artifact": {
+            "size": 522,
+            "MD5": "aa05a4ca3f73993e45ecd060fc2b8eac",
+            "SHA256": "79b955433733989d7724c090a444cb0f5a66281cfa52970167e8c7409c5fd2a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GreatJackMaw__textures__T_Seed.png",
+            "path": "config/portablevfx/effects/GreatJackMaw/textures/T_Seed.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GreatJackMaw/textures/T_ShellShard.png",
+          "name": "config/portablevfx/effects/GreatJackMaw/textures/T_ShellShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 4609,
+            "MD5": "0d3df30c13aef6a95073da80bc8a3c8a",
+            "SHA256": "bba4ab2fe5f5ee4e5e3b576f0f2e5b7897b56152441c8a649ecceedada7f1f68",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GreatJackMaw__textures__T_ShellShard.png",
+            "path": "config/portablevfx/effects/GreatJackMaw/textures/T_ShellShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GreatJackMaw/textures/T_Star.png",
+          "name": "config/portablevfx/effects/GreatJackMaw/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5080,
+            "MD5": "70ab7bb8b84b48109ec6c751a4b6d6d4",
+            "SHA256": "3b6d8964b8bf814381c349168e7041e5531c2685f3faac4ee85fbecc0c67f9c0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GreatJackMaw__textures__T_Star.png",
+            "path": "config/portablevfx/effects/GreatJackMaw/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GreatJackMaw/textures/T_Wisp_Sheet.png",
+          "name": "config/portablevfx/effects/GreatJackMaw/textures/T_Wisp_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 15460,
+            "MD5": "74ee849642fc4dff3a1b5df5fe79234a",
+            "SHA256": "8e97dda97f7b796d38d59846dbc1ea091c2809975351be5160954110705ab800",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GreatJackMaw__textures__T_Wisp_Sheet.png",
+            "path": "config/portablevfx/effects/GreatJackMaw/textures/T_Wisp_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/GreatJackMaw/vfx.json",
+          "name": "config/portablevfx/effects/GreatJackMaw/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 918207,
+            "MD5": "5a348d37ed8dd11b267bbbd002421b38",
+            "SHA256": "39f08795c8c523398572698eb9a334d361d61c47e469816225685bdaba58676c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__GreatJackMaw__vfx.json",
+            "path": "config/portablevfx/effects/GreatJackMaw/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/JackBomb/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/JackBomb/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__JackBomb__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/JackBomb/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/JackBomb/textures/T_FireStar.png",
+          "name": "config/portablevfx/effects/JackBomb/textures/T_FireStar.png",
+          "type": "File",
+          "artifact": {
+            "size": 8073,
+            "MD5": "b81be1bf763a87ed91422b3e9d2fe1a2",
+            "SHA256": "6fc003b0f7a16ba24e6e539f9367b7afb71c02640585c876c9c8296398d11b5a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__JackBomb__textures__T_FireStar.png",
+            "path": "config/portablevfx/effects/JackBomb/textures/T_FireStar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/JackBomb/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/JackBomb/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2486,
+            "MD5": "8fb1bf5d95976be7f1408395edb3ef4d",
+            "SHA256": "7e51eb9d593175c9fb36f43f07e229a7b8b797e59dbce9de9569b346e372f53c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__JackBomb__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/JackBomb/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/JackBomb/textures/T_FireStroke_Sheet.png",
+          "name": "config/portablevfx/effects/JackBomb/textures/T_FireStroke_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 55354,
+            "MD5": "b20cf9f9e751ca2dbe9229715d765bb3",
+            "SHA256": "2ac125148b4a224a8853c4586bde161d8368646103e56c35086228ae40990b80",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__JackBomb__textures__T_FireStroke_Sheet.png",
+            "path": "config/portablevfx/effects/JackBomb/textures/T_FireStroke_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/JackBomb/textures/T_FlameTongue.png",
+          "name": "config/portablevfx/effects/JackBomb/textures/T_FlameTongue.png",
+          "type": "File",
+          "artifact": {
+            "size": 4632,
+            "MD5": "5032f4000836e96fb98edc3d03f7435b",
+            "SHA256": "4834ee1857efd45a313636cc18606bf015d1378a1505adbba0b0b7f607f27009",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__JackBomb__textures__T_FlameTongue.png",
+            "path": "config/portablevfx/effects/JackBomb/textures/T_FlameTongue.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/JackBomb/textures/T_Flame_Sheet.png",
+          "name": "config/portablevfx/effects/JackBomb/textures/T_Flame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 166978,
+            "MD5": "8c3a619c388ca67ca68a6539b42113d6",
+            "SHA256": "21783fdafa63fc292b5a1e5ad5fc9683c98e779411908276e4b74f413d1c6bba",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__JackBomb__textures__T_Flame_Sheet.png",
+            "path": "config/portablevfx/effects/JackBomb/textures/T_Flame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/JackBomb/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/JackBomb/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__JackBomb__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/JackBomb/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/JackBomb/textures/T_JackBody.png",
+          "name": "config/portablevfx/effects/JackBomb/textures/T_JackBody.png",
+          "type": "File",
+          "artifact": {
+            "size": 53920,
+            "MD5": "73365432200dd98053867b16ebec6abb",
+            "SHA256": "714de2fe66fee6175341f9fb27afca31388a8ca6b4ada4dfe486f3feb109a605",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__JackBomb__textures__T_JackBody.png",
+            "path": "config/portablevfx/effects/JackBomb/textures/T_JackBody.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/JackBomb/textures/T_JackFace.png",
+          "name": "config/portablevfx/effects/JackBomb/textures/T_JackFace.png",
+          "type": "File",
+          "artifact": {
+            "size": 32710,
+            "MD5": "9043c52362d44cbb64a5116bfed2f606",
+            "SHA256": "ee172875acf9f6b264d71bbb8e7ebdc604a1a72cc3535923a7d516044ef4c941",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__JackBomb__textures__T_JackFace.png",
+            "path": "config/portablevfx/effects/JackBomb/textures/T_JackFace.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/JackBomb/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/JackBomb/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 54685,
+            "MD5": "73ee889b9e0b6a7269a548629b6b476a",
+            "SHA256": "b90b5cb95344c2a9d1855925b9b2d686edcc455c50220dbe867788ca3dca267d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__JackBomb__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/JackBomb/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/JackBomb/textures/T_Scorch.png",
+          "name": "config/portablevfx/effects/JackBomb/textures/T_Scorch.png",
+          "type": "File",
+          "artifact": {
+            "size": 79558,
+            "MD5": "3a07a2f6148b9af67431b471d452045d",
+            "SHA256": "7e1d7a6f5a40581065b1bbf64ecf577d413ce7fd42365295be76e339b4e85fa9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__JackBomb__textures__T_Scorch.png",
+            "path": "config/portablevfx/effects/JackBomb/textures/T_Scorch.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/JackBomb/textures/T_ScorchGlow.png",
+          "name": "config/portablevfx/effects/JackBomb/textures/T_ScorchGlow.png",
+          "type": "File",
+          "artifact": {
+            "size": 49637,
+            "MD5": "23849cb862d37dbb05a2911747d13d87",
+            "SHA256": "0f56abdd7f891e40a7e7f2733d5c525c1c32f6276076908be3a130390fc9eecb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__JackBomb__textures__T_ScorchGlow.png",
+            "path": "config/portablevfx/effects/JackBomb/textures/T_ScorchGlow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/JackBomb/textures/T_Seed.png",
+          "name": "config/portablevfx/effects/JackBomb/textures/T_Seed.png",
+          "type": "File",
+          "artifact": {
+            "size": 2366,
+            "MD5": "aea4a4090b669206c4ba035f3d2bc60e",
+            "SHA256": "afd126e7155e38b4646b700f24f50cb7f0ba00ab754a8f4a42bd8c54cab3881a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__JackBomb__textures__T_Seed.png",
+            "path": "config/portablevfx/effects/JackBomb/textures/T_Seed.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/JackBomb/textures/T_ShellA.png",
+          "name": "config/portablevfx/effects/JackBomb/textures/T_ShellA.png",
+          "type": "File",
+          "artifact": {
+            "size": 6273,
+            "MD5": "b297dbfa714b28f083f16851a4834fae",
+            "SHA256": "0e03c074a6aa863283d9b9e1bf529005d6010af9c9a79602bdc23be721ea790d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__JackBomb__textures__T_ShellA.png",
+            "path": "config/portablevfx/effects/JackBomb/textures/T_ShellA.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/JackBomb/textures/T_ShellB.png",
+          "name": "config/portablevfx/effects/JackBomb/textures/T_ShellB.png",
+          "type": "File",
+          "artifact": {
+            "size": 9573,
+            "MD5": "09664ed7adcbaf6e8370122955ce815a",
+            "SHA256": "2692ecf50f39b05e93289a4ba0332e390ba72291471ce964cc8d4a805109fcb7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__JackBomb__textures__T_ShellB.png",
+            "path": "config/portablevfx/effects/JackBomb/textures/T_ShellB.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/JackBomb/textures/T_Smoke_Sheet.png",
+          "name": "config/portablevfx/effects/JackBomb/textures/T_Smoke_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 40928,
+            "MD5": "c55cd99ca9f588f81952adae62fba84f",
+            "SHA256": "80f2b5cd09357d6eeb810e9803bd111a97ba80998e811b8bf4fe94092ddeabd1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__JackBomb__textures__T_Smoke_Sheet.png",
+            "path": "config/portablevfx/effects/JackBomb/textures/T_Smoke_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/JackBomb/vfx.json",
+          "name": "config/portablevfx/effects/JackBomb/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 158902,
+            "MD5": "38e13cd156b342d177a38676914befd0",
+            "SHA256": "488c928b05b77fc6bf7884b9c1dabf878cf58fc6c3d6bdc2a2bf2de29bb099eb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__JackBomb__vfx.json",
+            "path": "config/portablevfx/effects/JackBomb/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PhantomParade/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/PhantomParade/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1412,
+            "MD5": "0c01e682d55277f436c744aa9630a7a5",
+            "SHA256": "ef4cd7c281dc360e48c028affa9e55df9d518498ce797de3604560fe408ad440",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PhantomParade__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/PhantomParade/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PhantomParade/textures/T_FanMist.png",
+          "name": "config/portablevfx/effects/PhantomParade/textures/T_FanMist.png",
+          "type": "File",
+          "artifact": {
+            "size": 28891,
+            "MD5": "b8912687c60e3bfd362ca3c7b9ab97f7",
+            "SHA256": "3897771f59bf6566cb5516d438dcc434b601c9bb33306115288d1886f89c8fae",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PhantomParade__textures__T_FanMist.png",
+            "path": "config/portablevfx/effects/PhantomParade/textures/T_FanMist.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PhantomParade/textures/T_GhostDark_Sheet.png",
+          "name": "config/portablevfx/effects/PhantomParade/textures/T_GhostDark_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 68656,
+            "MD5": "c8c429fdb5d07e28ef4a5de53cd7e74d",
+            "SHA256": "00b944678c8719f19471665b5369992ca022a50ff8d19d181d7e1738be2dfa8e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PhantomParade__textures__T_GhostDark_Sheet.png",
+            "path": "config/portablevfx/effects/PhantomParade/textures/T_GhostDark_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PhantomParade/textures/T_Ghost_Sheet.png",
+          "name": "config/portablevfx/effects/PhantomParade/textures/T_Ghost_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 101848,
+            "MD5": "a903c534412dd5872e2158a1f756f163",
+            "SHA256": "39ae3ffef7bfad9d5a1a6f387473e7789f7c9ce210a5c168ed44771edb8ba119",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PhantomParade__textures__T_Ghost_Sheet.png",
+            "path": "config/portablevfx/effects/PhantomParade/textures/T_Ghost_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PhantomParade/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/PhantomParade/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PhantomParade__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/PhantomParade/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PhantomParade/textures/T_Line.png",
+          "name": "config/portablevfx/effects/PhantomParade/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 211,
+            "MD5": "24c3439e4a5d027e1b876d13777740eb",
+            "SHA256": "c00fce9cf5dc3e891967267374eba4afc608abaff5a705f8e2d0c295ff9a08c2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PhantomParade__textures__T_Line.png",
+            "path": "config/portablevfx/effects/PhantomParade/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PhantomParade/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/PhantomParade/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 19558,
+            "MD5": "19a2af511eb6b562ea18e3cd5dda54fe",
+            "SHA256": "4f4ce7c2c213736bedb8f1bd58e3f84f8d8d65f6c346063c29c7aa164b6a5afb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PhantomParade__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/PhantomParade/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PhantomParade/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/PhantomParade/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 4916,
+            "MD5": "0432832c8d6626a0caa68121dad9b794",
+            "SHA256": "3d3f9022b356b865dbce46c3380cc4939d392e76f2f2c6d7e9555f2001f8c6d6",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PhantomParade__textures__T_RuneStrip.png",
+            "path": "config/portablevfx/effects/PhantomParade/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PhantomParade/textures/T_Sparkle.png",
+          "name": "config/portablevfx/effects/PhantomParade/textures/T_Sparkle.png",
+          "type": "File",
+          "artifact": {
+            "size": 7021,
+            "MD5": "60bfe67071ad6a31b3b98f1cae0956d1",
+            "SHA256": "93849c25ddf6c8abd360711317000029641c9f5495d694fefa0bc4c8eb05ff8c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PhantomParade__textures__T_Sparkle.png",
+            "path": "config/portablevfx/effects/PhantomParade/textures/T_Sparkle.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PhantomParade/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/PhantomParade/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2302,
+            "MD5": "cfe23a68b8a1c7c2bb0195a7f3a4e23c",
+            "SHA256": "cb2a1d099a729caa307eb8d8965827c4132b84f14e2e238103590e63e966a260",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PhantomParade__textures__T_Streak.png",
+            "path": "config/portablevfx/effects/PhantomParade/textures/T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PhantomParade/textures/T_Stroke_Sheet.png",
+          "name": "config/portablevfx/effects/PhantomParade/textures/T_Stroke_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 54501,
+            "MD5": "f440a988a2195042274bd084f2fd77b1",
+            "SHA256": "cd3c3c545e47cbbc01635aa1247df2d99ad3ef524d4fba5f96b68b96b976e007",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PhantomParade__textures__T_Stroke_Sheet.png",
+            "path": "config/portablevfx/effects/PhantomParade/textures/T_Stroke_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PhantomParade/textures/T_Wisp_Sheet.png",
+          "name": "config/portablevfx/effects/PhantomParade/textures/T_Wisp_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 116341,
+            "MD5": "be0a360f1851012a42da95e6dca9dd30",
+            "SHA256": "e867484ff7c1b321dc14760890bc106d45e54299f77b5a52795cf5952494ff81",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PhantomParade__textures__T_Wisp_Sheet.png",
+            "path": "config/portablevfx/effects/PhantomParade/textures/T_Wisp_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PhantomParade/vfx.json",
+          "name": "config/portablevfx/effects/PhantomParade/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 345633,
+            "MD5": "d8e4e29e4fb8920cf92480521c275d08",
+            "SHA256": "0dc4b6857ba018d97cacb2599a099ab6d48c4c021149ec8bdb96207af819f62a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PhantomParade__vfx.json",
+            "path": "config/portablevfx/effects/PhantomParade/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_FireStar.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_FireStar.png",
+          "type": "File",
+          "artifact": {
+            "size": 8073,
+            "MD5": "b81be1bf763a87ed91422b3e9d2fe1a2",
+            "SHA256": "6fc003b0f7a16ba24e6e539f9367b7afb71c02640585c876c9c8296398d11b5a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_FireStar.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_FireStar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2486,
+            "MD5": "8fb1bf5d95976be7f1408395edb3ef4d",
+            "SHA256": "7e51eb9d593175c9fb36f43f07e229a7b8b797e59dbce9de9569b346e372f53c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_FireStroke_Sheet.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_FireStroke_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 55354,
+            "MD5": "b20cf9f9e751ca2dbe9229715d765bb3",
+            "SHA256": "2ac125148b4a224a8853c4586bde161d8368646103e56c35086228ae40990b80",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_FireStroke_Sheet.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_FireStroke_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_FlameTongue.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_FlameTongue.png",
+          "type": "File",
+          "artifact": {
+            "size": 4632,
+            "MD5": "5032f4000836e96fb98edc3d03f7435b",
+            "SHA256": "4834ee1857efd45a313636cc18606bf015d1378a1505adbba0b0b7f607f27009",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_FlameTongue.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_FlameTongue.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_Flame_Sheet.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_Flame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 166978,
+            "MD5": "8c3a619c388ca67ca68a6539b42113d6",
+            "SHA256": "21783fdafa63fc292b5a1e5ad5fc9683c98e779411908276e4b74f413d1c6bba",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_Flame_Sheet.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_Flame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_JackBody.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_JackBody.png",
+          "type": "File",
+          "artifact": {
+            "size": 53920,
+            "MD5": "73365432200dd98053867b16ebec6abb",
+            "SHA256": "714de2fe66fee6175341f9fb27afca31388a8ca6b4ada4dfe486f3feb109a605",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_JackBody.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_JackBody.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_JackFace.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_JackFace.png",
+          "type": "File",
+          "artifact": {
+            "size": 12320,
+            "MD5": "61204aec5bdc0b3a25076e87809941f0",
+            "SHA256": "31063f21cb41fcca400c38d01c2d1e1caf2e73d76ea348bc9eccad3d0bd1b87b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_JackFace.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_JackFace.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_Line.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 204,
+            "MD5": "c23faf355c1f54eef78b52fa8d7f7692",
+            "SHA256": "5f5d53f83f72870680067ba3338838100a7736a956b17cb7e109cf4c1321d800",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_Line.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_Pillar.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_Pillar.png",
+          "type": "File",
+          "artifact": {
+            "size": 4960,
+            "MD5": "a970cf1f6d79ea153843f7ef2c3e3f5f",
+            "SHA256": "60efd2c066dde59f8a2fc4e72e11c9e8401a8e13e5e5e8d4908428ccaafc40cb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_Pillar.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_Pillar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 54685,
+            "MD5": "73ee889b9e0b6a7269a548629b6b476a",
+            "SHA256": "b90b5cb95344c2a9d1855925b9b2d686edcc455c50220dbe867788ca3dca267d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_RuneBand.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_RuneBand.png",
+          "type": "File",
+          "artifact": {
+            "size": 27731,
+            "MD5": "8725c66039670777801a0a7492093fe5",
+            "SHA256": "3d85f80616476497d5e287bf0f0f4b9ee097dcd62a28f0c2f9362ad8be6fd28f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_RuneBand.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_RuneBand.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_Scorch.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_Scorch.png",
+          "type": "File",
+          "artifact": {
+            "size": 79558,
+            "MD5": "3a07a2f6148b9af67431b471d452045d",
+            "SHA256": "7e1d7a6f5a40581065b1bbf64ecf577d413ce7fd42365295be76e339b4e85fa9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_Scorch.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_Scorch.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_ScorchGlow.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_ScorchGlow.png",
+          "type": "File",
+          "artifact": {
+            "size": 15727,
+            "MD5": "c7887ef4fac4ef66808e54498b524572",
+            "SHA256": "ee99e4a0a207c91603c2af4abd2e07b815723edc7df0082b5f4ed80bcfb5d5b5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_ScorchGlow.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_ScorchGlow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_Seed.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_Seed.png",
+          "type": "File",
+          "artifact": {
+            "size": 2366,
+            "MD5": "aea4a4090b669206c4ba035f3d2bc60e",
+            "SHA256": "afd126e7155e38b4646b700f24f50cb7f0ba00ab754a8f4a42bd8c54cab3881a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_Seed.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_Seed.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_ShellA.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_ShellA.png",
+          "type": "File",
+          "artifact": {
+            "size": 6273,
+            "MD5": "b297dbfa714b28f083f16851a4834fae",
+            "SHA256": "0e03c074a6aa863283d9b9e1bf529005d6010af9c9a79602bdc23be721ea790d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_ShellA.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_ShellA.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_ShellB.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_ShellB.png",
+          "type": "File",
+          "artifact": {
+            "size": 9573,
+            "MD5": "09664ed7adcbaf6e8370122955ce815a",
+            "SHA256": "2692ecf50f39b05e93289a4ba0332e390ba72291471ce964cc8d4a805109fcb7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_ShellB.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_ShellB.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 98246,
+            "MD5": "5b3aca0788dcfa2ca37b90b871a15b5b",
+            "SHA256": "b914945478b0a3ddeb0700c7b5ecf895529a187fe3240209e446b483342a51a4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_Sigil.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_Smoke_Sheet.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_Smoke_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 40928,
+            "MD5": "c55cd99ca9f588f81952adae62fba84f",
+            "SHA256": "80f2b5cd09357d6eeb810e9803bd111a97ba80998e811b8bf4fe94092ddeabd1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_Smoke_Sheet.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_Smoke_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_VineFire.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_VineFire.png",
+          "type": "File",
+          "artifact": {
+            "size": 7022,
+            "MD5": "ce7d5efb4bd3b9e6912d2789e471833e",
+            "SHA256": "90a7989c208872b5d5563246d63190a02c2698d4568c4238884dae353effb198",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_VineFire.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_VineFire.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/textures/T_VineTrail.png",
+          "name": "config/portablevfx/effects/PumpkinMeteor/textures/T_VineTrail.png",
+          "type": "File",
+          "artifact": {
+            "size": 6962,
+            "MD5": "0357147ca7b4ffbb437952a5c9af8f74",
+            "SHA256": "1997a92de646a4a40d009d8536a56f44d6db3630ed46cf3a4247b3768775d9c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__textures__T_VineTrail.png",
+            "path": "config/portablevfx/effects/PumpkinMeteor/textures/T_VineTrail.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PumpkinMeteor/vfx.json",
+          "name": "config/portablevfx/effects/PumpkinMeteor/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 1082533,
+            "MD5": "7407e10c39bef04734bd90c607248eb4",
+            "SHA256": "15edcce95c5058071b17a7e4b120c27051c2c859d9a8f94e6fd369389db4d4da",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__PumpkinMeteor__vfx.json",
+            "path": "config/portablevfx/effects/PumpkinMeteor/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ScarecrowReap/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/ScarecrowReap/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1412,
+            "MD5": "0c01e682d55277f436c744aa9630a7a5",
+            "SHA256": "ef4cd7c281dc360e48c028affa9e55df9d518498ce797de3604560fe408ad440",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__ScarecrowReap__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/ScarecrowReap/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ScarecrowReap/textures/T_Feather.png",
+          "name": "config/portablevfx/effects/ScarecrowReap/textures/T_Feather.png",
+          "type": "File",
+          "artifact": {
+            "size": 5930,
+            "MD5": "a1c0ab6de6be15b242be5ff834e34a49",
+            "SHA256": "9aec4ff520974857a032e363cd4dee01cbed133d2e8bb4f34c5fc6cda114da6d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__ScarecrowReap__textures__T_Feather.png",
+            "path": "config/portablevfx/effects/ScarecrowReap/textures/T_Feather.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ScarecrowReap/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/ScarecrowReap/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__ScarecrowReap__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/ScarecrowReap/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ScarecrowReap/textures/T_Line.png",
+          "name": "config/portablevfx/effects/ScarecrowReap/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 202,
+            "MD5": "78daf17a2c60e62a82da2b894d1f4b36",
+            "SHA256": "50d0cbff48e550b52544675f1bee136b4f507ae89991c2ce01bb773121d3f253",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__ScarecrowReap__textures__T_Line.png",
+            "path": "config/portablevfx/effects/ScarecrowReap/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ScarecrowReap/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/ScarecrowReap/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 32961,
+            "MD5": "4c418291212dd91fee255f0c2006658c",
+            "SHA256": "dd9e6c70306e41c167c29635be4e490f2f5cb91c12c13fdb7246bd1456721ff5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__ScarecrowReap__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/ScarecrowReap/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ScarecrowReap/textures/T_Scar.png",
+          "name": "config/portablevfx/effects/ScarecrowReap/textures/T_Scar.png",
+          "type": "File",
+          "artifact": {
+            "size": 3796,
+            "MD5": "e5540c3a80c09ffbfbbbbed917a6bc58",
+            "SHA256": "709398f18e1b4b0208cf6e7c9090633fcb331b9c7f640f7a050ed45270f17227",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__ScarecrowReap__textures__T_Scar.png",
+            "path": "config/portablevfx/effects/ScarecrowReap/textures/T_Scar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ScarecrowReap/textures/T_Scythe.png",
+          "name": "config/portablevfx/effects/ScarecrowReap/textures/T_Scythe.png",
+          "type": "File",
+          "artifact": {
+            "size": 25434,
+            "MD5": "d0be07414c56c11d631034b1898391cc",
+            "SHA256": "7677e256c2c08bb60ed0eebe6baf83ffce33f50d9c9ffd93d8386225d2c927b5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__ScarecrowReap__textures__T_Scythe.png",
+            "path": "config/portablevfx/effects/ScarecrowReap/textures/T_Scythe.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ScarecrowReap/textures/T_ScytheEdge.png",
+          "name": "config/portablevfx/effects/ScarecrowReap/textures/T_ScytheEdge.png",
+          "type": "File",
+          "artifact": {
+            "size": 23510,
+            "MD5": "6a4a305edbf64f2a00edad5d639e9a83",
+            "SHA256": "442150ce499d8b2e28327905f6925ebc9a539828649fae53f6f45ffae0f621eb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__ScarecrowReap__textures__T_ScytheEdge.png",
+            "path": "config/portablevfx/effects/ScarecrowReap/textures/T_ScytheEdge.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ScarecrowReap/textures/T_Slash_Sheet.png",
+          "name": "config/portablevfx/effects/ScarecrowReap/textures/T_Slash_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 52464,
+            "MD5": "247a639b10acce00ff3ec584c3b1d000",
+            "SHA256": "460ad8c5391f2d008414cee7faaa529a2024917ee8ef942c79e5e3f1433cc2b2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__ScarecrowReap__textures__T_Slash_Sheet.png",
+            "path": "config/portablevfx/effects/ScarecrowReap/textures/T_Slash_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ScarecrowReap/textures/T_Star.png",
+          "name": "config/portablevfx/effects/ScarecrowReap/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 8449,
+            "MD5": "63cbc7e004e12c28d94e086cf6b9bf84",
+            "SHA256": "2a03105673e41e9d46cf40f4c54aea57b8a205efa0cf9b8de231ed4f04170b53",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__ScarecrowReap__textures__T_Star.png",
+            "path": "config/portablevfx/effects/ScarecrowReap/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ScarecrowReap/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/ScarecrowReap/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2200,
+            "MD5": "55c18ff4a79cf4acb8edf034d0e4a921",
+            "SHA256": "62a4af33d2afd048e06b191c7fb294c4e4417ae1654ec4eeff714ba4a548b473",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__ScarecrowReap__textures__T_Streak.png",
+            "path": "config/portablevfx/effects/ScarecrowReap/textures/T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ScarecrowReap/vfx.json",
+          "name": "config/portablevfx/effects/ScarecrowReap/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 240745,
+            "MD5": "d99e7f585abbf8fdc6ea029b231e2e41",
+            "SHA256": "ab661850258c4f311b7ac3cc225a075c6c987c7a9665fa5386a21d2bb6d14bc3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__ScarecrowReap__vfx.json",
+            "path": "config/portablevfx/effects/ScarecrowReap/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/TrickCandy/textures/T_Candy.png",
+          "name": "config/portablevfx/effects/TrickCandy/textures/T_Candy.png",
+          "type": "File",
+          "artifact": {
+            "size": 55720,
+            "MD5": "9de13710152ed2003f38d836c5868585",
+            "SHA256": "c251969af1122b8965ce54bb5a285273734dc97d9f0972a0330f0c7948f538ca",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__TrickCandy__textures__T_Candy.png",
+            "path": "config/portablevfx/effects/TrickCandy/textures/T_Candy.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/TrickCandy/textures/T_CandyGlow.png",
+          "name": "config/portablevfx/effects/TrickCandy/textures/T_CandyGlow.png",
+          "type": "File",
+          "artifact": {
+            "size": 4017,
+            "MD5": "ee10a09bb54296f04b221b5090b0c4b7",
+            "SHA256": "9ed8c910dccb931c543a75ac33f7ee5d9339d05f7f41fc9251435c61effd5d59",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__TrickCandy__textures__T_CandyGlow.png",
+            "path": "config/portablevfx/effects/TrickCandy/textures/T_CandyGlow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/TrickCandy/textures/T_CandyShard.png",
+          "name": "config/portablevfx/effects/TrickCandy/textures/T_CandyShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2281,
+            "MD5": "d43a8a79e5893ffd67629c628e84c4fd",
+            "SHA256": "f27a65fdb16a26c2a389af04755420a1243cbb4dd762da46d31a395602777186",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__TrickCandy__textures__T_CandyShard.png",
+            "path": "config/portablevfx/effects/TrickCandy/textures/T_CandyShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/TrickCandy/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/TrickCandy/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1412,
+            "MD5": "0c01e682d55277f436c744aa9630a7a5",
+            "SHA256": "ef4cd7c281dc360e48c028affa9e55df9d518498ce797de3604560fe408ad440",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__TrickCandy__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/TrickCandy/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/TrickCandy/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/TrickCandy/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__TrickCandy__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/TrickCandy/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/TrickCandy/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/TrickCandy/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 19526,
+            "MD5": "edd183a9445d85a6b25067e5511d3282",
+            "SHA256": "2715a64c38ccfdd71c49f0d9dffdc254a5d99100db95c84c76cbeeb40f6dcaae",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__TrickCandy__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/TrickCandy/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/TrickCandy/textures/T_Sparkle.png",
+          "name": "config/portablevfx/effects/TrickCandy/textures/T_Sparkle.png",
+          "type": "File",
+          "artifact": {
+            "size": 7021,
+            "MD5": "60bfe67071ad6a31b3b98f1cae0956d1",
+            "SHA256": "93849c25ddf6c8abd360711317000029641c9f5495d694fefa0bc4c8eb05ff8c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__TrickCandy__textures__T_Sparkle.png",
+            "path": "config/portablevfx/effects/TrickCandy/textures/T_Sparkle.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/TrickCandy/textures/T_StarConfetti.png",
+          "name": "config/portablevfx/effects/TrickCandy/textures/T_StarConfetti.png",
+          "type": "File",
+          "artifact": {
+            "size": 7703,
+            "MD5": "75968d833997f2d7ad6c1dcfc18c7942",
+            "SHA256": "7c80982fd7386314ff13e3996280773efe3cbf32a7edb14cb3b0c53382a07bd3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__TrickCandy__textures__T_StarConfetti.png",
+            "path": "config/portablevfx/effects/TrickCandy/textures/T_StarConfetti.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/TrickCandy/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/TrickCandy/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2170,
+            "MD5": "f06f3dba13c6e194c9f7838c09ee9300",
+            "SHA256": "37cdb3bf6bc1c3cd0af29c1a01ed9ca481baf213905f8d51634a7fb6dff76f7a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__TrickCandy__textures__T_Streak.png",
+            "path": "config/portablevfx/effects/TrickCandy/textures/T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/TrickCandy/textures/T_StripeRing.png",
+          "name": "config/portablevfx/effects/TrickCandy/textures/T_StripeRing.png",
+          "type": "File",
+          "artifact": {
+            "size": 57395,
+            "MD5": "28b19cb9d85eb048eca55dd60b6f9a7d",
+            "SHA256": "86fe7a89c342e263d871d659be79a4ae4c1500e1945a038ec56d0ebca9ae7b92",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__TrickCandy__textures__T_StripeRing.png",
+            "path": "config/portablevfx/effects/TrickCandy/textures/T_StripeRing.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/TrickCandy/textures/T_Stroke_Sheet.png",
+          "name": "config/portablevfx/effects/TrickCandy/textures/T_Stroke_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 54293,
+            "MD5": "d932f42d10b37c711cd48baeadb18c7c",
+            "SHA256": "e1602f33f3f5590be7d591d6a4f9eba23e62edb3ddc03ee9748cfcba8e9ceda8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__TrickCandy__textures__T_Stroke_Sheet.png",
+            "path": "config/portablevfx/effects/TrickCandy/textures/T_Stroke_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/TrickCandy/textures/T_Tick_Sheet.png",
+          "name": "config/portablevfx/effects/TrickCandy/textures/T_Tick_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 97325,
+            "MD5": "d3e5a93642f0514fd63ee3e8d9bff49d",
+            "SHA256": "d597d3a8f5b4bee369db6dbfa5f166a628b931761139ec014f9b15f0ebe88e84",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__TrickCandy__textures__T_Tick_Sheet.png",
+            "path": "config/portablevfx/effects/TrickCandy/textures/T_Tick_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/TrickCandy/vfx.json",
+          "name": "config/portablevfx/effects/TrickCandy/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 181303,
+            "MD5": "d73a1c78243e3493d1234bbf442bf5fe",
+            "SHA256": "d2e16e9411c4e69b1b07fa5f93aa5091ed090797628045b836c814471e01e8b2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__TrickCandy__vfx.json",
+            "path": "config/portablevfx/effects/TrickCandy/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WebSnare/textures/T_BeadRing.png",
+          "name": "config/portablevfx/effects/WebSnare/textures/T_BeadRing.png",
+          "type": "File",
+          "artifact": {
+            "size": 33762,
+            "MD5": "56142e8ef1dfae8b91fe25111eeaab3b",
+            "SHA256": "a1785684c2ee4138c2f8d675de6cbddf1effe465292fa2c5e3555b39b0541211",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WebSnare__textures__T_BeadRing.png",
+            "path": "config/portablevfx/effects/WebSnare/textures/T_BeadRing.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WebSnare/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/WebSnare/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 3671,
+            "MD5": "2681531532fcd55bd49b97d57bb8267e",
+            "SHA256": "ba2b3bfb0b55fc2ced95b6122e3cd801ae538adb5a0d384bd09fc16f3a2c2a4b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WebSnare__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/WebSnare/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WebSnare/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/WebSnare/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WebSnare__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/WebSnare/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WebSnare/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/WebSnare/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 46124,
+            "MD5": "18968d376cf51bb8f03aa61f056d2a6d",
+            "SHA256": "8fdd09a444c109c09c966340c751894673ec1974a2487ed1b5915a4f69bb5588",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WebSnare__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/WebSnare/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WebSnare/textures/T_SilkFiber.png",
+          "name": "config/portablevfx/effects/WebSnare/textures/T_SilkFiber.png",
+          "type": "File",
+          "artifact": {
+            "size": 1816,
+            "MD5": "8a3ac0d302d5cfad6578c9013e32e261",
+            "SHA256": "86ac70b12255049f5531d74dd86d769e66dba73abfacc634c315301abd88049d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WebSnare__textures__T_SilkFiber.png",
+            "path": "config/portablevfx/effects/WebSnare/textures/T_SilkFiber.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WebSnare/textures/T_SilkGlint_Sheet.png",
+          "name": "config/portablevfx/effects/WebSnare/textures/T_SilkGlint_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 13263,
+            "MD5": "50136b1edb40b99deccfde83cf157cbc",
+            "SHA256": "aa79e9bd25c44131d2c1ca43db444445bd01d5462b1f952c0fbf3e1d429fb962",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WebSnare__textures__T_SilkGlint_Sheet.png",
+            "path": "config/portablevfx/effects/WebSnare/textures/T_SilkGlint_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WebSnare/textures/T_SilkLine.png",
+          "name": "config/portablevfx/effects/WebSnare/textures/T_SilkLine.png",
+          "type": "File",
+          "artifact": {
+            "size": 240,
+            "MD5": "85dd16a92ec865c1f91c6524ee09ad26",
+            "SHA256": "81c051ed2634b5433f3d8d969920872536fb4b7cf0d1a6c290bc965a9e16cdbe",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WebSnare__textures__T_SilkLine.png",
+            "path": "config/portablevfx/effects/WebSnare/textures/T_SilkLine.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WebSnare/textures/T_SilkRing.png",
+          "name": "config/portablevfx/effects/WebSnare/textures/T_SilkRing.png",
+          "type": "File",
+          "artifact": {
+            "size": 43390,
+            "MD5": "e2b5ce112935e927d69ecfed7cd94765",
+            "SHA256": "0f99596a54c0895e3570ae21f90bf3934d26b8b159b63d7c5ce43d07628e1603",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WebSnare__textures__T_SilkRing.png",
+            "path": "config/portablevfx/effects/WebSnare/textures/T_SilkRing.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WebSnare/textures/T_SilkStar.png",
+          "name": "config/portablevfx/effects/WebSnare/textures/T_SilkStar.png",
+          "type": "File",
+          "artifact": {
+            "size": 7917,
+            "MD5": "7525f0a05569d96b240ad2ef0313a677",
+            "SHA256": "b825fe780b7611165eca16672369efc2d7cfceddef994c104f694538b90994f6",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WebSnare__textures__T_SilkStar.png",
+            "path": "config/portablevfx/effects/WebSnare/textures/T_SilkStar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WebSnare/textures/T_SilkWipe_Sheet.png",
+          "name": "config/portablevfx/effects/WebSnare/textures/T_SilkWipe_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 9879,
+            "MD5": "a71cd1635edd661049cfc96f076efa48",
+            "SHA256": "8beb96d0279f030b35e581142ae49391b9c994104e51643620691e48e3c03e20",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WebSnare__textures__T_SilkWipe_Sheet.png",
+            "path": "config/portablevfx/effects/WebSnare/textures/T_SilkWipe_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WebSnare/textures/T_SoftLine.png",
+          "name": "config/portablevfx/effects/WebSnare/textures/T_SoftLine.png",
+          "type": "File",
+          "artifact": {
+            "size": 200,
+            "MD5": "a5fd5f154ce1ee5d3bc5324895481a7c",
+            "SHA256": "3c205e3f7f1b88040bd946397cb2b2da0efae63b0c49524d3ec21b2a186409ab",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WebSnare__textures__T_SoftLine.png",
+            "path": "config/portablevfx/effects/WebSnare/textures/T_SoftLine.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WebSnare/textures/T_SpiderEmblem.png",
+          "name": "config/portablevfx/effects/WebSnare/textures/T_SpiderEmblem.png",
+          "type": "File",
+          "artifact": {
+            "size": 35811,
+            "MD5": "eccd54cb825e1fa4785f20570aa7fe4e",
+            "SHA256": "c66de4f959543767881f1e7a565c07616a876b73a4dddff3376574e661013ef5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WebSnare__textures__T_SpiderEmblem.png",
+            "path": "config/portablevfx/effects/WebSnare/textures/T_SpiderEmblem.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WebSnare/textures/T_WebShadow.png",
+          "name": "config/portablevfx/effects/WebSnare/textures/T_WebShadow.png",
+          "type": "File",
+          "artifact": {
+            "size": 49568,
+            "MD5": "b86947c2a482e7e2063545a5a5123dc6",
+            "SHA256": "a07f2ce39d2640ef7dcb3654d2e2b3eefc94ed42e11cb73a2415db1f1a7bfb21",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WebSnare__textures__T_WebShadow.png",
+            "path": "config/portablevfx/effects/WebSnare/textures/T_WebShadow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WebSnare/vfx.json",
+          "name": "config/portablevfx/effects/WebSnare/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 639937,
+            "MD5": "57e7896c0dc8aa5b5dcf3b7d1b9fecf9",
+            "SHA256": "a48d9b5d62440897d4a2cf189af804186865cca445630717fff141e28ab16108",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WebSnare__vfx.json",
+            "path": "config/portablevfx/effects/WebSnare/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WispCandles/textures/T_Candle.png",
+          "name": "config/portablevfx/effects/WispCandles/textures/T_Candle.png",
+          "type": "File",
+          "artifact": {
+            "size": 2774,
+            "MD5": "58ff6487566679329bbefffe2adf4572",
+            "SHA256": "613b793a1c40641a40ebc35cbaa301f8075fd7cf6d3413a0c03e77d7c66a0a22",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WispCandles__textures__T_Candle.png",
+            "path": "config/portablevfx/effects/WispCandles/textures/T_Candle.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WispCandles/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/WispCandles/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1412,
+            "MD5": "0c01e682d55277f436c744aa9630a7a5",
+            "SHA256": "ef4cd7c281dc360e48c028affa9e55df9d518498ce797de3604560fe408ad440",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WispCandles__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/WispCandles/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WispCandles/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/WispCandles/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WispCandles__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/WispCandles/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WispCandles/textures/T_InkShard.png",
+          "name": "config/portablevfx/effects/WispCandles/textures/T_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 1819,
+            "MD5": "006bbfd7dd08ef53609b7c464d234f89",
+            "SHA256": "4569ce5864a3692e079d4a2780b7a9136fb4610f5a215b28b3a9c507a492240b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WispCandles__textures__T_InkShard.png",
+            "path": "config/portablevfx/effects/WispCandles/textures/T_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WispCandles/textures/T_Line.png",
+          "name": "config/portablevfx/effects/WispCandles/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 202,
+            "MD5": "78daf17a2c60e62a82da2b894d1f4b36",
+            "SHA256": "50d0cbff48e550b52544675f1bee136b4f507ae89991c2ce01bb773121d3f253",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WispCandles__textures__T_Line.png",
+            "path": "config/portablevfx/effects/WispCandles/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WispCandles/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/WispCandles/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 35964,
+            "MD5": "1ee2687d28520def6c8d5792eec6743a",
+            "SHA256": "a542ecaad7f4cda1c562e0c829c19b144d9fc1f05ecf65b372e99af844817107",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WispCandles__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/WispCandles/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WispCandles/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/WispCandles/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 50223,
+            "MD5": "0a05252bfefc9c09f9a8c51c59dd009f",
+            "SHA256": "9ef8fd22bfdb2ff9865381bee760f6f6e0f765ec5fde6d8d643a6b2e600b507f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WispCandles__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/WispCandles/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WispCandles/textures/T_Star.png",
+          "name": "config/portablevfx/effects/WispCandles/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 7722,
+            "MD5": "0a36bb9494f9e13bda0edfd6fcd257bd",
+            "SHA256": "164155790e6c3132a1cd2b9dfed3ae7f74759ec052bfcb249b521d68447b3aa5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WispCandles__textures__T_Star.png",
+            "path": "config/portablevfx/effects/WispCandles/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WispCandles/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/WispCandles/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1844,
+            "MD5": "0f9c97aadb8094abff8b8506739a2795",
+            "SHA256": "10422c5be7e7563d3881da2c9f93aeb30fc87ed67b0269b2c0fc129ec6543b5f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WispCandles__textures__T_Streak.png",
+            "path": "config/portablevfx/effects/WispCandles/textures/T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WispCandles/textures/T_WindSigil.png",
+          "name": "config/portablevfx/effects/WispCandles/textures/T_WindSigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 60900,
+            "MD5": "993e8febe4b218eb068530ff4cbf1560",
+            "SHA256": "aa60d80fe1c03c0adae5bc408e5e93a803e9339bfe469c313060abd3c2c673ee",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WispCandles__textures__T_WindSigil.png",
+            "path": "config/portablevfx/effects/WispCandles/textures/T_WindSigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WispCandles/textures/T_WindStroke_Sheet.png",
+          "name": "config/portablevfx/effects/WispCandles/textures/T_WindStroke_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 46231,
+            "MD5": "4f66e3802b83bdb99ccc5a39b5ba7f6b",
+            "SHA256": "a795e304a0db2c4a92b6419818b4837f80111ec769fa758eb2360a4f56cef165",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WispCandles__textures__T_WindStroke_Sheet.png",
+            "path": "config/portablevfx/effects/WispCandles/textures/T_WindStroke_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WispCandles/textures/T_WispBurst_Sheet.png",
+          "name": "config/portablevfx/effects/WispCandles/textures/T_WispBurst_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 51042,
+            "MD5": "27b222c3d7f9e33a7cd3fd0a4be96e96",
+            "SHA256": "5688727cbadac087dcb107a2a763c9e7b3e6a4d9d5f4a7b7093a72894a1753e2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WispCandles__textures__T_WispBurst_Sheet.png",
+            "path": "config/portablevfx/effects/WispCandles/textures/T_WispBurst_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WispCandles/textures/T_Wisp_Sheet.png",
+          "name": "config/portablevfx/effects/WispCandles/textures/T_Wisp_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 131259,
+            "MD5": "599815873e34a7d6ae8c0981c359b6ca",
+            "SHA256": "22cfa9612c4b95e9c7c9bd6c3f71e6cb11c222f7b3a3dd7cc98647745747c607",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WispCandles__textures__T_Wisp_Sheet.png",
+            "path": "config/portablevfx/effects/WispCandles/textures/T_Wisp_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/WispCandles/vfx.json",
+          "name": "config/portablevfx/effects/WispCandles/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 281776,
+            "MD5": "92b2854ecf8b1aff71836b5fe52004e0",
+            "SHA256": "436c475af47c2489c3259c06846dc805fa2b2b1c5455777c99e97b694c14ca85",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/h12__WispCandles__vfx.json",
+            "path": "config/portablevfx/effects/WispCandles/vfx.json"
+          }
+        },
+        {
           "id": "config/portablevfx/effects/ScrollLearn/vfx.json",
           "name": "config/portablevfx/effects/ScrollLearn/vfx.json",
           "type": "File",
@@ -32106,10 +34386,10 @@
           "name": "chacademi/npc-models/models.json",
           "type": "File",
           "artifact": {
-            "size": 17476,
-            "MD5": "fa1dc85a12159d0cb65ab44c414582d8",
-            "SHA256": "6d65332ef0ce7be7a8778a83d8e5d62b708aaea53123db8126e5f50e93f5f5ff",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-npc-bruno-enhance-20261027/models.json",
+            "size": 17828,
+            "MD5": "8384981d347d474e25f3ca3e81190f43",
+            "SHA256": "a502814c084c1434bd11c43d67f98b6c0a1a2274f73501a814f5a18e5eedb4ae",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/models.json",
             "path": "chacademi/npc-models/models.json"
           },
           "updatePolicy": "managed"
@@ -32670,6 +34950,19 @@
             "SHA256": "def88e0f01b095b82185990a3ceb725ba816154d3b3fee7fa3faf0d03f7bd743",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-wizard-statue-20261022-task7/wizard_statue.glb",
             "path": "chacademi/npc-models/wizard_statue.glb"
+          },
+          "updatePolicy": "managed"
+        },
+        {
+          "id": "chacademi/npc-models/treat.glb",
+          "name": "chacademi/npc-models/treat.glb",
+          "type": "File",
+          "artifact": {
+            "size": 3298276,
+            "MD5": "363fd30a725d79508fe35802a99cbb61",
+            "SHA256": "86f3da028074f34ed47fab94bce745039570229cf08018906d513dd903949e6d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/treat.glb",
+            "path": "chacademi/npc-models/treat.glb"
           },
           "updatePolicy": "managed"
         },
