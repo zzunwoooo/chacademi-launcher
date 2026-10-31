@@ -321,10 +321,10 @@
           "name": "mods/MagicCodex-client-6cfa5a95-preserved-final.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 463131509,
-            "MD5": "11009e63f2102523f127ead49e5d0e40",
-            "SHA256": "9e5dd7b337a29ab647eda125e15b7bb5cd4cee59a678823a1cea152d919ab5e3",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/MagicCodex-client-6cfa5a95-elena-journal-acctip-spyglass-shop-aim2-friends-spec-alchemy-halloween12.jar"
+            "size": 486522480,
+            "MD5": "40cb4d9fee846c7bf46addd662968a36",
+            "SHA256": "1d92ea397a533da2045935d85ea836de1b5764080efb2c0b7a93b1b6055b3f7b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/MagicCodex-client-6cfa5a95-elena-journal-acctip-spyglass-shop-aim2-friends-spec-alchemy-halloween12-icons.jar"
           }
         },
         {
@@ -354,10 +354,10 @@
           "name": "config/magiccodex/pets/pets-models.zip",
           "type": "File",
           "artifact": {
-            "size": 12102506,
-            "MD5": "227e1567f6785cf53d77cacd7c1736f7",
-            "SHA256": "b96250e19438ea24e20cb1d4612d4636428a0f1a2af0e08789766d541f940fe1",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.0/pets-models.zip",
+            "size": 12296616,
+            "MD5": "7c24ec461f3de8dba2470958d0cec2a5",
+            "SHA256": "4628c15a4a2a2b5f3e7ccc552c69b33c082c2b532d222437ee5e898fb937dec4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/pets-models-20261031.zip",
             "path": "config/magiccodex/pets/pets-models.zip"
           }
         },
@@ -5160,10 +5160,10 @@
           "type": "File",
           "artifact": {
             "path": "resourcepacks/chacademia-integrated-20261023.zip",
-            "size": 50983727,
-            "MD5": "ae4b2f352bd66a608c2ef7d9da1f9c08",
-            "SHA256": "f18b5095189b6c7967d95bec173a897013db154ed86627fe0d9a3d9ebe204cb5",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-iapack-20261031b/chacademia-integrated-ia-20261031b.zip"
+            "size": 51355311,
+            "MD5": "83522decec6b52a38c16d2b2e5edbbf8",
+            "SHA256": "0a9fb78231f13c54ecc2eb492be9bbc10977220d50123ff1e109eb1730354ef6",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/chacademia-integrated-ia-20261031c.zip"
           },
           "updatePolicy": "managed"
         },
