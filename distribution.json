@@ -310,10 +310,10 @@
           "name": "mods/MagicCodex-client-6cfa5a95-preserved-final.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 452099064,
-            "MD5": "19049ed57945fe5bb51f746195ef8946",
-            "SHA256": "c1e0afdec36fa7c4364a79b1d5fd5d1a23777293b89f7d3f959a6e04826fbdc4",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-client-friends-spec-20261031/MagicCodex-client-6cfa5a95-elena-journal-acctip-spyglass-shop-aim2-friends-spec.jar"
+            "size": 463123405,
+            "MD5": "f8fd8710308f8b751387909e6b46961f",
+            "SHA256": "97a0d6a4320e1854dfffc679f51dc4b18f537647eb89dcaad692fd02fe571ec8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-client-subquest-alchemy-20261031/MagicCodex-client-6cfa5a95-elena-journal-acctip-spyglass-shop-aim2-friends-spec-alchemy.jar"
           }
         },
         {
@@ -4412,10 +4412,10 @@
           "name": "mods/chacademy-story-preserved-245d836c.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 971717,
-            "MD5": "4173590f18e2765d25e6854f39f5c6a7",
-            "SHA256": "9c4bf79ea25397fe1fc6f22e471a6e33fca4b770eab7ec3fc438c555a4c65dbc",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-hudkeep-20261030/chacademy-story-preserved-245d836c-rewardwarn-guidey-holo-hudkeep.jar"
+            "size": 988153,
+            "MD5": "ae3b591d879fb5333f8e0c09438b68bc",
+            "SHA256": "caa7eea8b980eda81224e31605ddd13b5165106637ce63f5f9c8af774d670a30",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-client-subquest-alchemy-20261031/chacademy-story-preserved-245d836c-rewardwarn-guidey-holo-hudkeep-subquest.jar"
           }
         },
         {
