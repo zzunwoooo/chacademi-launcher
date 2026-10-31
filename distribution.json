@@ -29341,10 +29341,10 @@
           "name": "config/portablevfx/effects/TamingSeal/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 151008,
-            "MD5": "80d638e7f5ad499b8aa15d64065a27f7",
-            "SHA256": "17b9b063036702bd9ad5081eddb7fdc23b7dc3e14634c722cb6eca921a9defc9",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-party-20261031/tamingseal-vfx.json",
+            "size": 152797,
+            "MD5": "170eacc420c98ccdd483b2ec26885c53",
+            "SHA256": "60b43d4ea9e3b1951e1cd1251a2131da329f64d80911592eaaa9b710abe201b6",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-fix-20261031/tamingseal-vfx-v2.json",
             "path": "config/portablevfx/effects/TamingSeal/vfx.json"
           }
         },
@@ -29394,6 +29394,54 @@
             "SHA256": "3dde453e168d6a5c40faaa2f2e0e9f326bdfccd2cf0ebbddd50273ffaf335803",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-party-20261031/tamingseal-T_SealGrid.png",
             "path": "config/portablevfx/effects/TamingSeal/textures/T_SealGrid.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ScrollLearn/vfx.json",
+          "name": "config/portablevfx/effects/ScrollLearn/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 146879,
+            "MD5": "61c0095bfb35331eee6fd2c7814b79ff",
+            "SHA256": "4d844d83ba7d120f4a413576915ed20b970b9a88f457184b6796fb9fae3055af",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-fix-20261031/scrolllearn-vfx.json",
+            "path": "config/portablevfx/effects/ScrollLearn/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ScrollLearn/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/ScrollLearn/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 3094,
+            "MD5": "7c4f3ec50e70568cf170c36f3a625676",
+            "SHA256": "2e551a165747474997906253a1327f697368de20bb0a8ab3ef3e59a311c96b04",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-fix-20261031/scrolllearn-T_Dot.png",
+            "path": "config/portablevfx/effects/ScrollLearn/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ScrollLearn/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/ScrollLearn/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5557,
+            "MD5": "560859d89147efa567d24953469f1f64",
+            "SHA256": "6fb12d06bff036ca549836d04c59134dad3c03ea947307a8a595b09be8984684",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-fix-20261031/scrolllearn-T_Glow.png",
+            "path": "config/portablevfx/effects/ScrollLearn/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ScrollLearn/textures/T_Line.png",
+          "name": "config/portablevfx/effects/ScrollLearn/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 258,
+            "MD5": "dc69a44b0f11f485402f6c3715dc02ff",
+            "SHA256": "0fb8fcd4afe068be295240df42d40680f71999b1526e29ce6fafff83e836570b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-fix-20261031/scrolllearn-T_Line.png",
+            "path": "config/portablevfx/effects/ScrollLearn/textures/T_Line.png"
           }
         },
         {
