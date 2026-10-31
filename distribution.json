@@ -273,6 +273,17 @@
           }
         },
         {
+          "id": "kr.chacademy:chaca_sky:0.1.0@jar",
+          "name": "mods/chaca-halloween-sky-0.1.0.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 628779,
+            "MD5": "6c50b8eee013f34d7a018ead9c1aaa80",
+            "SHA256": "48862e2e67cefd979678d4f9304f7953c9d9e466b434d2f8c4f0ec1345605e00",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween-sky-20261031/chaca-halloween-sky-0.1.0.jar"
+          }
+        },
+        {
           "id": "org.modrinth:chatplus:2.8.1@jar",
           "name": "mods/chatplus-fabric-2.8.1.jar",
           "type": "FabricMod",
