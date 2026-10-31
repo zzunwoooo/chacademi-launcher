@@ -5160,10 +5160,10 @@
           "type": "File",
           "artifact": {
             "path": "resourcepacks/chacademia-integrated-20261023.zip",
-            "size": 51355311,
-            "MD5": "83522decec6b52a38c16d2b2e5edbbf8",
-            "SHA256": "0a9fb78231f13c54ecc2eb492be9bbc10977220d50123ff1e109eb1730354ef6",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/chacademia-integrated-ia-20261031c.zip"
+            "size": 51442611,
+            "MD5": "a84549d4a3ac672c8c96841add5e8fe7",
+            "SHA256": "a4aadf83ac9bb6c0e5dfbf9a25b0c1f69e8512dc27f28a7b2663e89e973ac9f1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/chacademia-integrated-ia-20261031d.zip"
           },
           "updatePolicy": "managed"
         },
