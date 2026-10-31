@@ -1779,6 +1779,19 @@
           "updatePolicy": "managed"
         },
         {
+          "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/treat-neutral.png",
+          "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/treat-neutral.png",
+          "type": "File",
+          "artifact": {
+            "size": 621859,
+            "MD5": "ae7793ec9d8339b4dda9c278ac2f6835",
+            "SHA256": "ae06f78ffee5f2ff1f1d5eabd32b74ef616cc9b1c0ae7f455338ed0612943993",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/treat-neutral.png",
+            "path": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/treat-neutral.png"
+          },
+          "updatePolicy": "managed"
+        },
+        {
           "id": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/tc_cedric-neutral.png",
           "name": "resourcepacks/chacademia-spells/assets/magiccodex/textures/gui/dialogue/tc_cedric-neutral.png",
           "type": "File",
