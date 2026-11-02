@@ -321,10 +321,10 @@
           "name": "mods/MagicCodex-client-6cfa5a95-preserved-final.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 486522480,
-            "MD5": "40cb4d9fee846c7bf46addd662968a36",
-            "SHA256": "1d92ea397a533da2045935d85ea836de1b5764080efb2c0b7a93b1b6055b3f7b",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-halloween12-treat-20261031/MagicCodex-client-6cfa5a95-elena-journal-acctip-spyglass-shop-aim2-friends-spec-alchemy-halloween12-icons.jar"
+            "size": 486526060,
+            "MD5": "1b3cc956eb2c85e0a0cce515d3026ccf",
+            "SHA256": "6dd9bced9161896168f18626bf8c87b1c1e51f323a2aa671acb7f9f9570e4fde",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-codex-cd50-20261102/MagicCodex-client-6cfa5a95-halloween12-icons-cd50.jar"
           }
         },
         {
