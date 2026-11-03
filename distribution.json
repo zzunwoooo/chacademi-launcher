@@ -321,10 +321,10 @@
           "name": "mods/MagicCodex-client-6cfa5a95-preserved-final.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 486527443,
-            "MD5": "b9fa96c6d91a6571c97828b8bbe29737",
-            "SHA256": "a2aaa4bfa6fd7a3a20eafdb2e13ae3344d6118fbe7ef14f281442228f224fca0",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-codex-cd100-20261102/MagicCodex-client-6cfa5a95-halloween12-icons-cd100.jar"
+            "size": 486593997,
+            "MD5": "adf8f7844ed98c7f49f229a709898dc1",
+            "SHA256": "129ef96baf836692cb0a448fecd4b33cb81769a5370c1dac6cca23129f339a91",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-codex-twin-20261103/MagicCodex-client-6cfa5a95-halloween12-icons-cd100-twin.jar"
           }
         },
         {
@@ -6614,10 +6614,10 @@
           "name": "config/portablevfx/effects/ArtifactCompanions/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 121251,
-            "MD5": "1555b6cf8d46a2817bfd71cc3dcffb76",
-            "SHA256": "010b6d3b9a6b0a8f018596b016451ae4fae58aaa5a24ff98044f7b348befb741",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part1/vfx-0895d05d1744ad89eb1f.json",
+            "size": 187339,
+            "MD5": "5591aed959d2681b474b8b94d5007be1",
+            "SHA256": "8ecefa57d73a6e55b0f1c56f433bb9c35131787d6ba0831f352c48b8f29a705f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-codex-twin-20261103/vfx-artifactcompanions-twin-20261103.json",
             "path": "config/portablevfx/effects/ArtifactCompanions/vfx.json"
           }
         },
