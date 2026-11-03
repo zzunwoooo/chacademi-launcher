@@ -321,10 +321,10 @@
           "name": "mods/MagicCodex-client-6cfa5a95-preserved-final.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 486593997,
-            "MD5": "adf8f7844ed98c7f49f229a709898dc1",
-            "SHA256": "129ef96baf836692cb0a448fecd4b33cb81769a5370c1dac6cca23129f339a91",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-codex-twin-20261103/MagicCodex-client-6cfa5a95-halloween12-icons-cd100-twin.jar"
+            "size": 486632472,
+            "MD5": "94cf26bb01ac4a8e86a3bbc07f52fbca",
+            "SHA256": "7baa9480ca422530dd271e1c24143f0cdd5aa2befd28f3194fbe0485c0beec74",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-20261103/MagicCodex-client-6cfa5a95-halloween12-icons-cd100-twin-nova150.jar"
           }
         },
         {
@@ -366,10 +366,10 @@
           "name": "config/magiccodex/launcher/client-assets.zip",
           "type": "File",
           "artifact": {
-            "size": 698328466,
-            "MD5": "78168f67142e27c1e4cf9e9ae77fe410",
-            "SHA256": "f33975f8e54996605ee96582c981487109e9730500740b1891e974a4243c4747",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/client-assets-rgba-20261103b.zip",
+            "size": 753592287,
+            "MD5": "0d3c0b19ed755bcde3d275c1a45f08e7",
+            "SHA256": "bae55473fc9d0003de4703ca4b4baf2ae97ebef6c3719c7e27772f0c3a902545",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-20261103/client-assets-nova150-20261103.zip",
             "path": "config/magiccodex/launcher/client-assets.zip"
           },
           "updatePolicy": "managed"
