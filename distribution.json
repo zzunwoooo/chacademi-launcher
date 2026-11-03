@@ -51314,9 +51314,9 @@
           "type": "File",
           "artifact": {
             "size": 49561,
-            "MD5": "db07cb3327ed250a84bed65697eb0297",
-            "SHA256": "a19551e6928b461e755dfc236cabb68883379dab076adf86fe4bf28200917480",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p1/vfx-a19551e6928b461e755d.json",
+            "MD5": "21a39b5951e8771b9d750800c8a30274",
+            "SHA256": "34e7fa5e0f2e81c9c1e7215ea8b2a240d09bc4e5985254ba9621b3acb0d4a619",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p2/vfx-GemSplinter-34e7fa5e0f2e81c9c1e7.json",
             "path": "config/portablevfx/effects/GemSplinter/vfx.json"
           }
         },
@@ -55922,9 +55922,9 @@
           "type": "File",
           "artifact": {
             "size": 54998,
-            "MD5": "f9bb8608ab3cfc88a915855507b0ff81",
-            "SHA256": "44e23083ad526dad6f895b2a2060f502ca02f3282c825132b0fc683f5c2cc22b",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p1/vfx-44e23083ad526dad6f89.json",
+            "MD5": "777fa581fcf5a143247c57724b7cdf91",
+            "SHA256": "b253116158ac6ac38f1179affefe20b1dd3b0ee55944fcd701e8d8ecb1b17293",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p2/vfx-LodestoneShard-b253116158ac6ac38f11.json",
             "path": "config/portablevfx/effects/LodestoneShard/vfx.json"
           }
         },
@@ -69026,9 +69026,9 @@
           "type": "File",
           "artifact": {
             "size": 103139,
-            "MD5": "aed5671049bf830c120ed5547f920580",
-            "SHA256": "3171bb1eb9f745635f326899f7fd309ffafd0a331f3dcaf42e33a1b5e2d1e6b7",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p1/vfx-3171bb1eb9f745635f32.json",
+            "MD5": "b12bc7664de5bb17dada34daae1b8ea0",
+            "SHA256": "dafe3d19d2b02d8575f9d3e4280320b87dca4d0d54e47bea83dcb2a762eb916b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p2/vfx-WhistleBlade-dafe3d19d2b02d8575f9.json",
             "path": "config/portablevfx/effects/WhistleBlade/vfx.json"
           }
         },
