@@ -44821,10 +44821,10 @@
           "name": "config/portablevfx/effects/CelestialClepsydra/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 600819,
-            "MD5": "a92666db203be652028b5ef5544078a3",
-            "SHA256": "bfd56081ddb55139810fa2e254a8c28ce2be748f363909a7b43016e33aa31ee8",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p1/vfx-bfd56081ddb55139810f.json",
+            "size": 600987,
+            "MD5": "8c7c3f259472b969166de80e37e87c42",
+            "SHA256": "c3bcceab3464505f26eb0c2b8f5c340b8873e62ec46bd88c70aac876e5777c7f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-CelestialClepsydra-c3bcceab3464505f.json",
             "path": "config/portablevfx/effects/CelestialClepsydra/vfx.json"
           }
         },
@@ -45925,10 +45925,10 @@
           "name": "config/portablevfx/effects/CoreMagnetosphere/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 753406,
-            "MD5": "d9484682595f8e9c4c7b7f312dcfb4e9",
-            "SHA256": "2a653d933432f54ff455603ec03ebaf2dbb40b24d4e51041be2c66edccb4a5c1",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p1/vfx-2a653d933432f54ff455.json",
+            "size": 753554,
+            "MD5": "71f377dccd85b72baa092df1b0beed6c",
+            "SHA256": "e36b86aaf68598a8f60c52a3aa1211ff11ef02d2f9b0399e1526031aee16470e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-CoreMagnetosphere-e36b86aaf68598a8.json",
             "path": "config/portablevfx/effects/CoreMagnetosphere/vfx.json"
           }
         },
@@ -49370,9 +49370,9 @@
           "type": "File",
           "artifact": {
             "size": 141895,
-            "MD5": "5cf26c443a21c5971b73d851fdc1a3c3",
-            "SHA256": "bc2ceadb1b74e1cd5646ff3b42aedd52255b72d1ae0e54de7865fa0a2e70f55d",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p2/vfx-FocusLens-bc2ceadb1b74e1cd5646.json",
+            "MD5": "c8f7f92d3847a7da65ed6ecd99865278",
+            "SHA256": "210014b0ee8c9c1f531894e627d917f42ef637436ccaf517f3a605f5d27fa61d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-FocusLens-210014b0ee8c9c1f.json",
             "path": "config/portablevfx/effects/FocusLens/vfx.json"
           }
         },
@@ -49549,10 +49549,10 @@
           "name": "config/portablevfx/effects/ForgeGodAnvil/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 425210,
-            "MD5": "85dc53ab1ec68e3151b5b9ffc6df894b",
-            "SHA256": "2e7d29647119dfed9071bf8ecd1e5dc83eb52f02265358caf60ec0bbb02f7620",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p1/vfx-2e7d29647119dfed9071.json",
+            "size": 425408,
+            "MD5": "4fcf720dfeda388f2c30b25d1c278a39",
+            "SHA256": "fdf5689313f6b0250fd44d88e94e488041edfca893eb694f90f07d26072ad04b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-ForgeGodAnvil-fdf5689313f6b025.json",
             "path": "config/portablevfx/effects/ForgeGodAnvil/vfx.json"
           }
         },
@@ -50113,10 +50113,10 @@
           "name": "config/portablevfx/effects/FossilWyrm/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 232119,
-            "MD5": "891cc00a4206dc4a78d1e1012d4c3584",
-            "SHA256": "75cfd7831b269cd765118aa77bde961985f67b3d0c00ec3fb89c0ce60513aa9f",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p1/vfx-75cfd7831b269cd76511.json",
+            "size": 232138,
+            "MD5": "cb44149d165b49a50ab2f8ef51dec2c1",
+            "SHA256": "3b7fcfa29811ea0b6b0381a837404f11e4a15c18728e099008e3c67b08f8d8dc",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-FossilWyrm-3b7fcfa29811ea0b.json",
             "path": "config/portablevfx/effects/FossilWyrm/vfx.json"
           }
         },
@@ -50485,10 +50485,10 @@
           "name": "config/portablevfx/effects/FrozenChord/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 1399571,
-            "MD5": "211e1b30388394f37fe82e17b6e13452",
-            "SHA256": "10aed3bff428f185b7477f594ae21412cc1c08ecdae7071097d5574e7b170e3c",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p1/vfx-10aed3bff428f185b747.json",
+            "size": 1399696,
+            "MD5": "aa76881ae633a347ed7af7c2fadeb708",
+            "SHA256": "eb1377ec3b4f72dbc87a96a08a6223e5ab12bbe019650c2890e0e4ca376450fc",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-FrozenChord-eb1377ec3b4f72db.json",
             "path": "config/portablevfx/effects/FrozenChord/vfx.json"
           }
         },
@@ -50677,10 +50677,10 @@
           "name": "config/portablevfx/effects/FullMoonDescent/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 453279,
-            "MD5": "e9cbbbfe3e0880377dd1cef7ba50a2eb",
-            "SHA256": "510acb72d5b784195901af0190cf61d5ab934d880327296e1cccc72a1197c7bf",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p1/vfx-510acb72d5b784195901.json",
+            "size": 453425,
+            "MD5": "5bd9b435b394c3a532ae5ee1eb8213d8",
+            "SHA256": "94799a0f68cfead6263030ea64dc067755fd049906b14005efb18bb290e145e3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-FullMoonDescent-94799a0f68cfead6.json",
             "path": "config/portablevfx/effects/FullMoonDescent/vfx.json"
           }
         },
@@ -51097,10 +51097,10 @@
           "name": "config/portablevfx/effects/FurnaceGate/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 440111,
-            "MD5": "e7c6b15f6f054f5e30e68b65a954951c",
-            "SHA256": "ba26706ebca59fb1098e2f9cdf3e0077b2e4736a463fc0fc0aa406a2ccfb6b17",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p1/vfx-ba26706ebca59fb1098e.json",
+            "size": 440251,
+            "MD5": "0b7953c4c64902401127e51935be2f4e",
+            "SHA256": "9304dd14690b15065a790daa5dcd52387a8014612f65fe19ddd809b1c388ef42",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-FurnaceGate-9304dd14690b1506.json",
             "path": "config/portablevfx/effects/FurnaceGate/vfx.json"
           }
         },
@@ -51314,9 +51314,9 @@
           "type": "File",
           "artifact": {
             "size": 49561,
-            "MD5": "21a39b5951e8771b9d750800c8a30274",
-            "SHA256": "34e7fa5e0f2e81c9c1e7215ea8b2a240d09bc4e5985254ba9621b3acb0d4a619",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p2/vfx-GemSplinter-34e7fa5e0f2e81c9c1e7.json",
+            "MD5": "fc8263e1ae435abf22c075b5da5dd7c8",
+            "SHA256": "2f7bbd02eac3ff1a5f66fde2aab3d5031c546673aff719b01dce739de888fd18",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-GemSplinter-2f7bbd02eac3ff1a.json",
             "path": "config/portablevfx/effects/GemSplinter/vfx.json"
           }
         },
@@ -51613,10 +51613,10 @@
           "name": "config/portablevfx/effects/GiantDroplet/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 382525,
-            "MD5": "f654ec84b799456ab9c5c88b2f0fbd5b",
-            "SHA256": "1bf02cbb61f4b411dd8ce975420df2551162435171309e0a013aa962f8c451dc",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p1/vfx-1bf02cbb61f4b411dd8c.json",
+            "size": 382459,
+            "MD5": "4e5fc918d9e15947b27cab48574d7689",
+            "SHA256": "cbc18ddbdddd22a6fd2dc77a42a3b31d2a1ce87fb04e0c440a8ff4a7bda658b2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-GiantDroplet-cbc18ddbdddd22a6.json",
             "path": "config/portablevfx/effects/GiantDroplet/vfx.json"
           }
         },
@@ -51793,10 +51793,10 @@
           "name": "config/portablevfx/effects/GlacialEpoch/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 458244,
-            "MD5": "28fa139c318af49c56f549d1b3e40f22",
-            "SHA256": "4785c534bf51f122888196dcd1a834fc730f36022d18b02068f6a6cf22d8b958",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p1/vfx-4785c534bf51f1228881.json",
+            "size": 458386,
+            "MD5": "ff540b22416873aa93212499c4ec77ff",
+            "SHA256": "ee7175bcf9735d77da54a08d44dc3942dc59e0b5e84ab4817689f2b162aef7ee",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-GlacialEpoch-ee7175bcf9735d77.json",
             "path": "config/portablevfx/effects/GlacialEpoch/vfx.json"
           }
         },
@@ -52034,9 +52034,9 @@
           "type": "File",
           "artifact": {
             "size": 462586,
-            "MD5": "28b63accbf69edf272a81fe5e080823a",
-            "SHA256": "2e6d9a696821e675af99277c2e9f39e1e97b554ce9e433c7003cfe8ca14c7615",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p2/vfx-GlacierSpire-2e6d9a696821e675af99.json",
+            "MD5": "483dd17741aac46663384a0b341e61ee",
+            "SHA256": "484d23a85ccbf0377267ddb11dbb31757fb08318a8d63097305b1a03635ba928",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-GlacierSpire-484d23a85ccbf037.json",
             "path": "config/portablevfx/effects/GlacierSpire/vfx.json"
           }
         },
@@ -52237,10 +52237,10 @@
           "name": "config/portablevfx/effects/GreatHourglass/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 514506,
-            "MD5": "c982015cbba36560b47cc4168708ff5c",
-            "SHA256": "fd580add33e4899a6a6b53bf59129d25e752d0f13aabd68fe5a11771216c3450",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p1/vfx-fd580add33e4899a6a6b.json",
+            "size": 514646,
+            "MD5": "3da7ef03786daf76bb2e7453edab431f",
+            "SHA256": "70f82b5b18f7996dc3b15782ae29d53b34b2b2456e64b87fc997e4625c5de5fd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-GreatHourglass-70f82b5b18f7996d.json",
             "path": "config/portablevfx/effects/GreatHourglass/vfx.json"
           }
         },
@@ -53042,9 +53042,9 @@
           "type": "File",
           "artifact": {
             "size": 217983,
-            "MD5": "162f0a28924b06ebe16a029d01617c76",
-            "SHA256": "ff2fe7f57e4f3a89ff60a3d147aa1a8921264bfc1659abb83cc450bf36417993",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p2/vfx-HalfMoonGuard-ff2fe7f57e4f3a89ff60.json",
+            "MD5": "561cadaa8f80e9f8da1411973e6f30ab",
+            "SHA256": "a190211490c27584d2b77beff4bddc6cad8fb5b71ced25fb8e3454695ea28344",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-HalfMoonGuard-a190211490c27584.json",
             "path": "config/portablevfx/effects/HalfMoonGuard/vfx.json"
           }
         },
@@ -54613,10 +54613,10 @@
           "name": "config/portablevfx/effects/KiteFestival/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 386880,
-            "MD5": "da1da466632001db5ed53ae41a8bfa14",
-            "SHA256": "3f434a279a092dc29d95adf866391252b3e35d59da635accee90c15efc615da9",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p1/vfx-3f434a279a092dc29d95.json",
+            "size": 386993,
+            "MD5": "f0185fdbacd9fb02d1cf68587f34b667",
+            "SHA256": "b7c5abd8733286b1edffe4552cd76e233b656debe33ec49d520450096f4e7bc9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-KiteFestival-b7c5abd8733286b1.json",
             "path": "config/portablevfx/effects/KiteFestival/vfx.json"
           }
         },
@@ -55142,9 +55142,9 @@
           "type": "File",
           "artifact": {
             "size": 89129,
-            "MD5": "52699c558a7d96ae643afc718508ddff",
-            "SHA256": "5ca7668e36930c209fb5e2d3d7032269c021276c3fcaf50fb78e2a87e08c098a",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p2/vfx-LanternWisp-5ca7668e36930c209fb5.json",
+            "MD5": "63e310957b6492593d3233bd5595b706",
+            "SHA256": "961728713277e64ddb402e08e7e5907a159eca75cfec604c4d225ecbe221573d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-LanternWisp-961728713277e64d.json",
             "path": "config/portablevfx/effects/LanternWisp/vfx.json"
           }
         },
@@ -55922,9 +55922,9 @@
           "type": "File",
           "artifact": {
             "size": 54998,
-            "MD5": "777fa581fcf5a143247c57724b7cdf91",
-            "SHA256": "b253116158ac6ac38f1179affefe20b1dd3b0ee55944fcd701e8d8ecb1b17293",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p2/vfx-LodestoneShard-b253116158ac6ac38f11.json",
+            "MD5": "19b3a79a805cc433d8ba62cebc5b7875",
+            "SHA256": "26721b9e8aea06a6b88dc914560406423a31dfd28d962616494669e2a835a79e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-LodestoneShard-26721b9e8aea06a6.json",
             "path": "config/portablevfx/effects/LodestoneShard/vfx.json"
           }
         },
@@ -57302,9 +57302,9 @@
           "type": "File",
           "artifact": {
             "size": 221822,
-            "MD5": "e2188063af73ecfd070a5b57313b5087",
-            "SHA256": "8b7e9bcd8cb4653b4d34056ac299fdaac8fab4fa8c5679779b81f319387e82f1",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p2/vfx-MirrorRealm-8b7e9bcd8cb4653b4d34.json",
+            "MD5": "d4cefb24c3c24b0a3d85c0e43f371113",
+            "SHA256": "96dd4ba0bf8a4764138b93ab4497b47bc118a8d8a3ffc51a2f34fb852e1e08a8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-MirrorRealm-96dd4ba0bf8a4764.json",
             "path": "config/portablevfx/effects/MirrorRealm/vfx.json"
           }
         },
@@ -59809,10 +59809,10 @@
           "name": "config/portablevfx/effects/MoonlitMasquerade/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 492285,
-            "MD5": "1041e94645965ffe07715b71d8122b9a",
-            "SHA256": "91d18fb60f053d9464f0ac29ab5b883cbbe9da607f330e893271c29a15230c50",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p1/vfx-91d18fb60f053d9464f0.json",
+            "size": 492469,
+            "MD5": "34a0eaa489d714c7d41f4765b2b57059",
+            "SHA256": "52b3ff063585b2bd1eb64e4b081dcac5f39d435e0cc466802202dfd2c6222204",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-MoonlitMasquerade-52b3ff063585b2bd.json",
             "path": "config/portablevfx/effects/MoonlitMasquerade/vfx.json"
           }
         },
@@ -65653,10 +65653,10 @@
           "name": "config/portablevfx/effects/SkyMill/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 492296,
-            "MD5": "d4823cb2e34ac46179a1d5a3bd6935a5",
-            "SHA256": "b4a8117cd6ef58204d82a62265f4bac5bd2c02782bd19d3b1d59d136a7b46617",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p1/vfx-b4a8117cd6ef58204d82.json",
+            "size": 492432,
+            "MD5": "43d836dcf129e21466eb620fef342897",
+            "SHA256": "f12702f92b17b5d77fa5e3c18bf8e5b30df65e137fa5121f7e4bca7dd7fb7908",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-SkyMill-f12702f92b17b5d7.json",
             "path": "config/portablevfx/effects/SkyMill/vfx.json"
           }
         },
@@ -65845,10 +65845,10 @@
           "name": "config/portablevfx/effects/SkySever/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 442616,
-            "MD5": "12c33e09e455f0ed24e5f1ab39bd4b32",
-            "SHA256": "7eb04ee24a73ee6bb30fe1a2fadf34690aa16349f0115c09892b00f83b4205a8",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p1/vfx-7eb04ee24a73ee6bb30f.json",
+            "size": 442796,
+            "MD5": "ba8f14a682a32bc53d718707d64774c2",
+            "SHA256": "861a2b615e09ffa04a4a291e69eacc42b105543d31606227128cc1ef104d6057",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-SkySever-861a2b615e09ffa0.json",
             "path": "config/portablevfx/effects/SkySever/vfx.json"
           }
         },
@@ -66025,10 +66025,10 @@
           "name": "config/portablevfx/effects/SouthernCross/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 242908,
-            "MD5": "5fd289b89d99196d89e78fb33e4dd094",
-            "SHA256": "bfd60fcb94d628d0ac0b967b48e1aa5cedd064f4e8766c3f7b99e354dc00df31",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p1/vfx-bfd60fcb94d628d0ac0b.json",
+            "size": 243045,
+            "MD5": "05a3e97cf422d5ca2e2557a381a524df",
+            "SHA256": "e97abfe2c0139f506e6c897fec48f158ad0b5f9b4e268736e964bce2df0a6ec5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-SouthernCross-e97abfe2c0139f50.json",
             "path": "config/portablevfx/effects/SouthernCross/vfx.json"
           }
         },
@@ -67525,10 +67525,10 @@
           "name": "config/portablevfx/effects/Supernova/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 482329,
-            "MD5": "c8f07699eb345b943caa4235ee0fd067",
-            "SHA256": "6e5d356678a6c309c73fbe65b0eeb9682feeeca171bb52c0680e15c813b615b3",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p1/vfx-6e5d356678a6c309c73f.json",
+            "size": 482473,
+            "MD5": "6e91f8d6340b977c5997fec8ab8b6af5",
+            "SHA256": "6b2d9fc0e55c21be4f8472497b37b774ea45ed4188832a94159bcf8ee0fefc49",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-Supernova-6b2d9fc0e55c21be.json",
             "path": "config/portablevfx/effects/Supernova/vfx.json"
           }
         },
@@ -69026,9 +69026,9 @@
           "type": "File",
           "artifact": {
             "size": 103139,
-            "MD5": "b12bc7664de5bb17dada34daae1b8ea0",
-            "SHA256": "dafe3d19d2b02d8575f9d3e4280320b87dca4d0d54e47bea83dcb2a762eb916b",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p2/vfx-WhistleBlade-dafe3d19d2b02d8575f9.json",
+            "MD5": "0e2e930c9ed7afb4ec0865bb6766bb12",
+            "SHA256": "a89708993c0c59d66d16133eb6785095d17173eca64d39ccf236f205b09c3a6b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-WhistleBlade-a89708993c0c59d6.json",
             "path": "config/portablevfx/effects/WhistleBlade/vfx.json"
           }
         },
@@ -69541,10 +69541,10 @@
           "name": "config/portablevfx/effects/ZodiacWheel/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 662214,
-            "MD5": "bd3b22850c6162896d3b679d2aea97b7",
-            "SHA256": "4a3c2d55b0bf9798e880b481f2ad3cddadaf8de955305282cdbc034bc9a2e29e",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p1/vfx-4a3c2d55b0bf9798e880.json",
+            "size": 662382,
+            "MD5": "66610144a910f3bf2052097eecb5e137",
+            "SHA256": "079265c5ea967aeb6b0b7ae93a59e76d1dfc78421266fd8b8a1dd6b1447687f0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p3/vfx-ZodiacWheel-079265c5ea967aeb.json",
             "path": "config/portablevfx/effects/ZodiacWheel/vfx.json"
           }
         },
