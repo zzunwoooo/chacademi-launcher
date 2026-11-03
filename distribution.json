@@ -366,10 +366,10 @@
           "name": "config/magiccodex/launcher/client-assets.zip",
           "type": "File",
           "artifact": {
-            "size": 698328570,
-            "MD5": "aef28a7f14673a2b5fed2d4a79367a45",
-            "SHA256": "244ae9688c5c54e663803f018179b095221e584b4f856c018e6602ef34a58118",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/client-assets-rgba-20261103.zip",
+            "size": 698328466,
+            "MD5": "78168f67142e27c1e4cf9e9ae77fe410",
+            "SHA256": "f33975f8e54996605ee96582c981487109e9730500740b1891e974a4243c4747",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/client-assets-rgba-20261103b.zip",
             "path": "config/magiccodex/launcher/client-assets.zip"
           },
           "updatePolicy": "managed"
