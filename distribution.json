@@ -266,10 +266,10 @@
           "name": "mods/chacademi-dungeon-0.1.0-lich-20261029.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 9954673,
-            "MD5": "652148522315f0843a24ed24a8e453aa",
-            "SHA256": "d4ebc911708f3c6c4bbca90ab4909e47e1999672debb762ca7a1ca80b7b5ff13",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-party-20261031/chacademi-dungeon-0.4.0-party-20261031b.jar"
+            "size": 11190815,
+            "MD5": "54fa25216fb0fa43fa7b6a9425207c31",
+            "SHA256": "461feeff9820b0a22de1855a601abad0f78aeb2962823248b0549025beebaaa0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/chacademi-dungeon-0.4.0-party-20261031b-ash.jar"
           }
         },
         {
@@ -34327,6 +34327,3078 @@
             "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-reaper-vfx-20261031/pr__PR_TrickOrTreat__textures__T_Star.png",
             "path": "config/portablevfx/effects/PR_TrickOrTreat/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_BruteStomp/vfx.json",
+          "name": "config/portablevfx/effects/AM_BruteStomp/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 265160,
+            "MD5": "121a2d5a5645c6a010b07355d1811373",
+            "SHA256": "847f3e88728783e406519b6a81cdb2865bede663106abf9ab73932df3d30f21e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_BruteStomp__vfx.json",
+            "path": "config/portablevfx/effects/AM_BruteStomp/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_BruteStomp/textures/T_ACrack.png",
+          "name": "config/portablevfx/effects/AM_BruteStomp/textures/T_ACrack.png",
+          "type": "File",
+          "artifact": {
+            "size": 63585,
+            "MD5": "80343e81fde70772d228a6b651f42722",
+            "SHA256": "1a976fa802ecf676f95df6ae7905252cea99eada7f53340c7aac80929045f932",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_BruteStomp__textures__T_ACrack.png",
+            "path": "config/portablevfx/effects/AM_BruteStomp/textures/T_ACrack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_BruteStomp/textures/T_ADot.png",
+          "name": "config/portablevfx/effects/AM_BruteStomp/textures/T_ADot.png",
+          "type": "File",
+          "artifact": {
+            "size": 577,
+            "MD5": "5afd83a0daa43cb6cd967eb02b5a6ea0",
+            "SHA256": "adf0c990a3936e001bb417389f89478833f599fbf0e84109f863723d674f7430",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_BruteStomp__textures__T_ADot.png",
+            "path": "config/portablevfx/effects/AM_BruteStomp/textures/T_ADot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_BruteStomp/textures/T_ADust.png",
+          "name": "config/portablevfx/effects/AM_BruteStomp/textures/T_ADust.png",
+          "type": "File",
+          "artifact": {
+            "size": 73237,
+            "MD5": "4235a641d40784f183851b4657bc84fd",
+            "SHA256": "2e1f63ee7a6d1c5ce1ff3ef676ad80d2df743b9f6e0ca2f74bc1d5b5adb845d3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_BruteStomp__textures__T_ADust.png",
+            "path": "config/portablevfx/effects/AM_BruteStomp/textures/T_ADust.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_BruteStomp/textures/T_AFlame_Sheet.png",
+          "name": "config/portablevfx/effects/AM_BruteStomp/textures/T_AFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 42324,
+            "MD5": "1ff2fb76e8ffa9c6fd72a06d36670d8a",
+            "SHA256": "784c1ea0e5f1113102e211a34c7def19b2f8bd4056ac21ec3baa7b994c603115",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_BruteStomp__textures__T_AFlame_Sheet.png",
+            "path": "config/portablevfx/effects/AM_BruteStomp/textures/T_AFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_BruteStomp/textures/T_AGlow.png",
+          "name": "config/portablevfx/effects/AM_BruteStomp/textures/T_AGlow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_BruteStomp__textures__T_AGlow.png",
+            "path": "config/portablevfx/effects/AM_BruteStomp/textures/T_AGlow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_BruteStomp/textures/T_ALine.png",
+          "name": "config/portablevfx/effects/AM_BruteStomp/textures/T_ALine.png",
+          "type": "File",
+          "artifact": {
+            "size": 147,
+            "MD5": "c66f01038b0995ddd9501086e708ad3a",
+            "SHA256": "e5633f6d949c130fcd57ca9461cc224047881f0ad6c43ee94d310e7878e49c28",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_BruteStomp__textures__T_ALine.png",
+            "path": "config/portablevfx/effects/AM_BruteStomp/textures/T_ALine.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_BruteStomp/textures/T_AMist_Sheet.png",
+          "name": "config/portablevfx/effects/AM_BruteStomp/textures/T_AMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 30054,
+            "MD5": "1862b872fb2010b9e59c95f293cf6864",
+            "SHA256": "e0d3ed3247cdf2074851762b8041565528ed9aadb2178d0d8844bdb3d8436983",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_BruteStomp__textures__T_AMist_Sheet.png",
+            "path": "config/portablevfx/effects/AM_BruteStomp/textures/T_AMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_BruteStomp/textures/T_AShard.png",
+          "name": "config/portablevfx/effects/AM_BruteStomp/textures/T_AShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 1756,
+            "MD5": "ca75c0615458e1b577b53fa342e714e6",
+            "SHA256": "8bab2a8fbeb0079efc618c897161a6699461fcc381077f72b852e18de252abee",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_BruteStomp__textures__T_AShard.png",
+            "path": "config/portablevfx/effects/AM_BruteStomp/textures/T_AShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_BruteStomp/textures/T_AShock.png",
+          "name": "config/portablevfx/effects/AM_BruteStomp/textures/T_AShock.png",
+          "type": "File",
+          "artifact": {
+            "size": 47738,
+            "MD5": "9bbfdd50cf4ae33c48fa8b527b160a96",
+            "SHA256": "371745179e7faf4bd211d329eb0cf5d30dc3e1f061d2d8c63162504317fd911f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_BruteStomp__textures__T_AShock.png",
+            "path": "config/portablevfx/effects/AM_BruteStomp/textures/T_AShock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_BruteStomp/textures/T_ASigil.png",
+          "name": "config/portablevfx/effects/AM_BruteStomp/textures/T_ASigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 29721,
+            "MD5": "3ce998b38f5a71f41828a6c62e667713",
+            "SHA256": "02ad396c7fe1a623cefe499d84799702dd39f7ed13f49f6d9d1ea4c2f719e90f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_BruteStomp__textures__T_ASigil.png",
+            "path": "config/portablevfx/effects/AM_BruteStomp/textures/T_ASigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_BruteStomp/textures/T_AStar.png",
+          "name": "config/portablevfx/effects/AM_BruteStomp/textures/T_AStar.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_BruteStomp__textures__T_AStar.png",
+            "path": "config/portablevfx/effects/AM_BruteStomp/textures/T_AStar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_BruteStomp/textures/T_AStreak.png",
+          "name": "config/portablevfx/effects/AM_BruteStomp/textures/T_AStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 601,
+            "MD5": "ef2e2ad27ed52e759b2a79dfc86309e8",
+            "SHA256": "98738c7dab7ddff015f08964a1b3e7ca10506b1bd838a1292adb76fe9c5204d2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_BruteStomp__textures__T_AStreak.png",
+            "path": "config/portablevfx/effects/AM_BruteStomp/textures/T_AStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_BruteStomp/textures/T_AWax.png",
+          "name": "config/portablevfx/effects/AM_BruteStomp/textures/T_AWax.png",
+          "type": "File",
+          "artifact": {
+            "size": 1509,
+            "MD5": "dd454d520f4fff3823ff124334ad60dd",
+            "SHA256": "988e2835190eb5ce6377a40b1abaa168c623f0493a0ba991fc917d65bc133797",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_BruteStomp__textures__T_AWax.png",
+            "path": "config/portablevfx/effects/AM_BruteStomp/textures/T_AWax.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_HoundBite/vfx.json",
+          "name": "config/portablevfx/effects/AM_HoundBite/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 160938,
+            "MD5": "6b5103b3c10152c1896a7bd4d0943371",
+            "SHA256": "823c733b07bff7748374c7a6f07a7202243cf7d076cb423173e7d8d953d5bbe1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_HoundBite__vfx.json",
+            "path": "config/portablevfx/effects/AM_HoundBite/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_HoundBite/textures/T_AArc.png",
+          "name": "config/portablevfx/effects/AM_HoundBite/textures/T_AArc.png",
+          "type": "File",
+          "artifact": {
+            "size": 4698,
+            "MD5": "c16d39aeb6fb16b4653cf29a9d5c955c",
+            "SHA256": "651a5a8c044942156e77496b4a6cd73ce641e2c986390586be1f3049ac3ccb95",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_HoundBite__textures__T_AArc.png",
+            "path": "config/portablevfx/effects/AM_HoundBite/textures/T_AArc.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_HoundBite/textures/T_ACrack.png",
+          "name": "config/portablevfx/effects/AM_HoundBite/textures/T_ACrack.png",
+          "type": "File",
+          "artifact": {
+            "size": 63585,
+            "MD5": "80343e81fde70772d228a6b651f42722",
+            "SHA256": "1a976fa802ecf676f95df6ae7905252cea99eada7f53340c7aac80929045f932",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_HoundBite__textures__T_ACrack.png",
+            "path": "config/portablevfx/effects/AM_HoundBite/textures/T_ACrack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_HoundBite/textures/T_ADot.png",
+          "name": "config/portablevfx/effects/AM_HoundBite/textures/T_ADot.png",
+          "type": "File",
+          "artifact": {
+            "size": 577,
+            "MD5": "5afd83a0daa43cb6cd967eb02b5a6ea0",
+            "SHA256": "adf0c990a3936e001bb417389f89478833f599fbf0e84109f863723d674f7430",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_HoundBite__textures__T_ADot.png",
+            "path": "config/portablevfx/effects/AM_HoundBite/textures/T_ADot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_HoundBite/textures/T_ADust.png",
+          "name": "config/portablevfx/effects/AM_HoundBite/textures/T_ADust.png",
+          "type": "File",
+          "artifact": {
+            "size": 73237,
+            "MD5": "4235a641d40784f183851b4657bc84fd",
+            "SHA256": "2e1f63ee7a6d1c5ce1ff3ef676ad80d2df743b9f6e0ca2f74bc1d5b5adb845d3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_HoundBite__textures__T_ADust.png",
+            "path": "config/portablevfx/effects/AM_HoundBite/textures/T_ADust.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_HoundBite/textures/T_AFang.png",
+          "name": "config/portablevfx/effects/AM_HoundBite/textures/T_AFang.png",
+          "type": "File",
+          "artifact": {
+            "size": 27843,
+            "MD5": "64d81b99607596c5c4ae0957f3f77721",
+            "SHA256": "12f0c0ed3314dc4c0f2178f8a88bef6516012399df545bcf1f89f1e798434cab",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_HoundBite__textures__T_AFang.png",
+            "path": "config/portablevfx/effects/AM_HoundBite/textures/T_AFang.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_HoundBite/textures/T_AFlame_Sheet.png",
+          "name": "config/portablevfx/effects/AM_HoundBite/textures/T_AFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 42324,
+            "MD5": "1ff2fb76e8ffa9c6fd72a06d36670d8a",
+            "SHA256": "784c1ea0e5f1113102e211a34c7def19b2f8bd4056ac21ec3baa7b994c603115",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_HoundBite__textures__T_AFlame_Sheet.png",
+            "path": "config/portablevfx/effects/AM_HoundBite/textures/T_AFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_HoundBite/textures/T_AGlow.png",
+          "name": "config/portablevfx/effects/AM_HoundBite/textures/T_AGlow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_HoundBite__textures__T_AGlow.png",
+            "path": "config/portablevfx/effects/AM_HoundBite/textures/T_AGlow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_HoundBite/textures/T_AMist_Sheet.png",
+          "name": "config/portablevfx/effects/AM_HoundBite/textures/T_AMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 30054,
+            "MD5": "1862b872fb2010b9e59c95f293cf6864",
+            "SHA256": "e0d3ed3247cdf2074851762b8041565528ed9aadb2178d0d8844bdb3d8436983",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_HoundBite__textures__T_AMist_Sheet.png",
+            "path": "config/portablevfx/effects/AM_HoundBite/textures/T_AMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_HoundBite/textures/T_AShard.png",
+          "name": "config/portablevfx/effects/AM_HoundBite/textures/T_AShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 1756,
+            "MD5": "ca75c0615458e1b577b53fa342e714e6",
+            "SHA256": "8bab2a8fbeb0079efc618c897161a6699461fcc381077f72b852e18de252abee",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_HoundBite__textures__T_AShard.png",
+            "path": "config/portablevfx/effects/AM_HoundBite/textures/T_AShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_HoundBite/textures/T_AStar.png",
+          "name": "config/portablevfx/effects/AM_HoundBite/textures/T_AStar.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_HoundBite__textures__T_AStar.png",
+            "path": "config/portablevfx/effects/AM_HoundBite/textures/T_AStar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_HoundBite/textures/T_AStreak.png",
+          "name": "config/portablevfx/effects/AM_HoundBite/textures/T_AStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 601,
+            "MD5": "ef2e2ad27ed52e759b2a79dfc86309e8",
+            "SHA256": "98738c7dab7ddff015f08964a1b3e7ca10506b1bd838a1292adb76fe9c5204d2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_HoundBite__textures__T_AStreak.png",
+            "path": "config/portablevfx/effects/AM_HoundBite/textures/T_AStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_StagLantern/vfx.json",
+          "name": "config/portablevfx/effects/AM_StagLantern/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 286131,
+            "MD5": "6e4cd69622d6154962e0467aea224b75",
+            "SHA256": "c7aea0f32de3e0c95958a7a04fde7151fad4bdd17c5f491c37acdf135a4abdea",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_StagLantern__vfx.json",
+            "path": "config/portablevfx/effects/AM_StagLantern/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_StagLantern/textures/T_ACrack.png",
+          "name": "config/portablevfx/effects/AM_StagLantern/textures/T_ACrack.png",
+          "type": "File",
+          "artifact": {
+            "size": 63585,
+            "MD5": "80343e81fde70772d228a6b651f42722",
+            "SHA256": "1a976fa802ecf676f95df6ae7905252cea99eada7f53340c7aac80929045f932",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_StagLantern__textures__T_ACrack.png",
+            "path": "config/portablevfx/effects/AM_StagLantern/textures/T_ACrack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_StagLantern/textures/T_ADot.png",
+          "name": "config/portablevfx/effects/AM_StagLantern/textures/T_ADot.png",
+          "type": "File",
+          "artifact": {
+            "size": 577,
+            "MD5": "5afd83a0daa43cb6cd967eb02b5a6ea0",
+            "SHA256": "adf0c990a3936e001bb417389f89478833f599fbf0e84109f863723d674f7430",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_StagLantern__textures__T_ADot.png",
+            "path": "config/portablevfx/effects/AM_StagLantern/textures/T_ADot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_StagLantern/textures/T_ADust.png",
+          "name": "config/portablevfx/effects/AM_StagLantern/textures/T_ADust.png",
+          "type": "File",
+          "artifact": {
+            "size": 73237,
+            "MD5": "4235a641d40784f183851b4657bc84fd",
+            "SHA256": "2e1f63ee7a6d1c5ce1ff3ef676ad80d2df743b9f6e0ca2f74bc1d5b5adb845d3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_StagLantern__textures__T_ADust.png",
+            "path": "config/portablevfx/effects/AM_StagLantern/textures/T_ADust.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_StagLantern/textures/T_AFlame_Sheet.png",
+          "name": "config/portablevfx/effects/AM_StagLantern/textures/T_AFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 42324,
+            "MD5": "1ff2fb76e8ffa9c6fd72a06d36670d8a",
+            "SHA256": "784c1ea0e5f1113102e211a34c7def19b2f8bd4056ac21ec3baa7b994c603115",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_StagLantern__textures__T_AFlame_Sheet.png",
+            "path": "config/portablevfx/effects/AM_StagLantern/textures/T_AFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_StagLantern/textures/T_AGlow.png",
+          "name": "config/portablevfx/effects/AM_StagLantern/textures/T_AGlow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_StagLantern__textures__T_AGlow.png",
+            "path": "config/portablevfx/effects/AM_StagLantern/textures/T_AGlow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_StagLantern/textures/T_ALine.png",
+          "name": "config/portablevfx/effects/AM_StagLantern/textures/T_ALine.png",
+          "type": "File",
+          "artifact": {
+            "size": 147,
+            "MD5": "c66f01038b0995ddd9501086e708ad3a",
+            "SHA256": "e5633f6d949c130fcd57ca9461cc224047881f0ad6c43ee94d310e7878e49c28",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_StagLantern__textures__T_ALine.png",
+            "path": "config/portablevfx/effects/AM_StagLantern/textures/T_ALine.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_StagLantern/textures/T_AMist_Sheet.png",
+          "name": "config/portablevfx/effects/AM_StagLantern/textures/T_AMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 30054,
+            "MD5": "1862b872fb2010b9e59c95f293cf6864",
+            "SHA256": "e0d3ed3247cdf2074851762b8041565528ed9aadb2178d0d8844bdb3d8436983",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_StagLantern__textures__T_AMist_Sheet.png",
+            "path": "config/portablevfx/effects/AM_StagLantern/textures/T_AMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_StagLantern/textures/T_AShard.png",
+          "name": "config/portablevfx/effects/AM_StagLantern/textures/T_AShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 1756,
+            "MD5": "ca75c0615458e1b577b53fa342e714e6",
+            "SHA256": "8bab2a8fbeb0079efc618c897161a6699461fcc381077f72b852e18de252abee",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_StagLantern__textures__T_AShard.png",
+            "path": "config/portablevfx/effects/AM_StagLantern/textures/T_AShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_StagLantern/textures/T_AShock.png",
+          "name": "config/portablevfx/effects/AM_StagLantern/textures/T_AShock.png",
+          "type": "File",
+          "artifact": {
+            "size": 47738,
+            "MD5": "9bbfdd50cf4ae33c48fa8b527b160a96",
+            "SHA256": "371745179e7faf4bd211d329eb0cf5d30dc3e1f061d2d8c63162504317fd911f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_StagLantern__textures__T_AShock.png",
+            "path": "config/portablevfx/effects/AM_StagLantern/textures/T_AShock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_StagLantern/textures/T_ASigil.png",
+          "name": "config/portablevfx/effects/AM_StagLantern/textures/T_ASigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 29721,
+            "MD5": "3ce998b38f5a71f41828a6c62e667713",
+            "SHA256": "02ad396c7fe1a623cefe499d84799702dd39f7ed13f49f6d9d1ea4c2f719e90f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_StagLantern__textures__T_ASigil.png",
+            "path": "config/portablevfx/effects/AM_StagLantern/textures/T_ASigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_StagLantern/textures/T_AStar.png",
+          "name": "config/portablevfx/effects/AM_StagLantern/textures/T_AStar.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_StagLantern__textures__T_AStar.png",
+            "path": "config/portablevfx/effects/AM_StagLantern/textures/T_AStar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AM_StagLantern/textures/T_AStreak.png",
+          "name": "config/portablevfx/effects/AM_StagLantern/textures/T_AStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 601,
+            "MD5": "ef2e2ad27ed52e759b2a79dfc86309e8",
+            "SHA256": "98738c7dab7ddff015f08964a1b3e7ca10506b1bd838a1292adb76fe9c5204d2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AM_StagLantern__textures__T_AStreak.png",
+            "path": "config/portablevfx/effects/AM_StagLantern/textures/T_AStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Absorb/vfx.json",
+          "name": "config/portablevfx/effects/AS_Absorb/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 368070,
+            "MD5": "dfafd7b9b5836a17914f608f4f64f335",
+            "SHA256": "cd557df6da9c463e5d4f7eba093b38ae8c7a3262b95920a780cee15976b1f763",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Absorb__vfx.json",
+            "path": "config/portablevfx/effects/AS_Absorb/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Absorb/textures/T_AshFlake.png",
+          "name": "config/portablevfx/effects/AS_Absorb/textures/T_AshFlake.png",
+          "type": "File",
+          "artifact": {
+            "size": 28074,
+            "MD5": "68b229cc8198afbf6950787fa8070dfb",
+            "SHA256": "1b43b067fdbb3e1d6d9c4aadb0f9eb0baf07420286e2b2a3a4b7eca24f48bf5a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Absorb__textures__T_AshFlake.png",
+            "path": "config/portablevfx/effects/AS_Absorb/textures/T_AshFlake.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Absorb/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/AS_Absorb/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33258,
+            "MD5": "c6d450b9d86087ccbb0910f8d53f7718",
+            "SHA256": "f6c68dd49549c3fe7b670d32c2ca38e3e8eede4c225eef6538c0bf7758a95ddb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Absorb__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/AS_Absorb/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Absorb/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/AS_Absorb/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Absorb__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/AS_Absorb/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Absorb/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/AS_Absorb/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2267,
+            "MD5": "0bfd3e5aa44c8a033800819695ecf369",
+            "SHA256": "e7531e4d339dc3a300355da494d0c429e6e0f6d25777254e94f412d58411ae1a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Absorb__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/AS_Absorb/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Absorb/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/AS_Absorb/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Absorb__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/AS_Absorb/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Absorb/textures/T_GoldStreak.png",
+          "name": "config/portablevfx/effects/AS_Absorb/textures/T_GoldStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2382,
+            "MD5": "bbe301e204c0c95d0171696534539dea",
+            "SHA256": "1dab5029c483eb4333ab0a14b3fae3481d9168b9f41522c5befc696562635e8d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Absorb__textures__T_GoldStreak.png",
+            "path": "config/portablevfx/effects/AS_Absorb/textures/T_GoldStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Absorb/textures/T_Line.png",
+          "name": "config/portablevfx/effects/AS_Absorb/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "cbb12a9a0bd19807642353df0b305c29",
+            "SHA256": "3389485a46efcf76d1b7b6bf51000b1ca531c227e0fc36550979dd5d354482a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Absorb__textures__T_Line.png",
+            "path": "config/portablevfx/effects/AS_Absorb/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Absorb/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/AS_Absorb/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 35196,
+            "MD5": "95907c452acca8d8683818fbad7ce2d9",
+            "SHA256": "743142afac46fbc73e5c67f3c833ea7598611ab2a3cc6c274d3996c6d5c1eabb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Absorb__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/AS_Absorb/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Absorb/textures/T_PumpkinFlame_Sheet.png",
+          "name": "config/portablevfx/effects/AS_Absorb/textures/T_PumpkinFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 79591,
+            "MD5": "37a3af22beea238ba6387ce2ec0297bb",
+            "SHA256": "e7831c11caa7a1cc228ee3cd7ebb525c97976079b5f6fb52d6d368fd1051f545",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Absorb__textures__T_PumpkinFlame_Sheet.png",
+            "path": "config/portablevfx/effects/AS_Absorb/textures/T_PumpkinFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Absorb/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/AS_Absorb/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 23341,
+            "MD5": "b6b66ea2e3544bb94fdffbd383d9c23a",
+            "SHA256": "543b334825da7f2c65f176574f0073baa0b128e8c4860fe9268d3c03488d18f7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Absorb__textures__T_RuneStrip.png",
+            "path": "config/portablevfx/effects/AS_Absorb/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Absorb/textures/T_Scorch.png",
+          "name": "config/portablevfx/effects/AS_Absorb/textures/T_Scorch.png",
+          "type": "File",
+          "artifact": {
+            "size": 19145,
+            "MD5": "c82a7eab4cffb0e2e9c5497fd8a3b571",
+            "SHA256": "73647ee107509d5efd7f495b62acf778fd6eff9158da720859ab95545bd530af",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Absorb__textures__T_Scorch.png",
+            "path": "config/portablevfx/effects/AS_Absorb/textures/T_Scorch.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Absorb/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/AS_Absorb/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Absorb__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/AS_Absorb/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Absorb/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/AS_Absorb/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 47860,
+            "MD5": "c4d1fef0ed72eeeb8ee1e52b8ea2ea49",
+            "SHA256": "721379333e686f376b8ba4f97671237e6d1c3e9e73814b97d81626f2d8ae6bab",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Absorb__textures__T_Sigil.png",
+            "path": "config/portablevfx/effects/AS_Absorb/textures/T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Absorb/textures/T_Star.png",
+          "name": "config/portablevfx/effects/AS_Absorb/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Absorb__textures__T_Star.png",
+            "path": "config/portablevfx/effects/AS_Absorb/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Afterimage/vfx.json",
+          "name": "config/portablevfx/effects/AS_Afterimage/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 30798,
+            "MD5": "5a1729bb99f669fca40142b47640593c",
+            "SHA256": "c020b68b5f2465306ea9d71adfde9658f9242128c8cee4f0afff1d7f8f1716d5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Afterimage__vfx.json",
+            "path": "config/portablevfx/effects/AS_Afterimage/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Afterimage/textures/T_AshFlake.png",
+          "name": "config/portablevfx/effects/AS_Afterimage/textures/T_AshFlake.png",
+          "type": "File",
+          "artifact": {
+            "size": 2062,
+            "MD5": "c8708b15d2f9222680109309e1dd89aa",
+            "SHA256": "b674f06e4516578af02bd0e05f2cc736e067b5d56f623d7109a70a41e1340ba9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Afterimage__textures__T_AshFlake.png",
+            "path": "config/portablevfx/effects/AS_Afterimage/textures/T_AshFlake.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Afterimage/textures/T_AshMist_Sheet.png",
+          "name": "config/portablevfx/effects/AS_Afterimage/textures/T_AshMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 39525,
+            "MD5": "5a9eb1a3df25648ddb6b8624520a3d47",
+            "SHA256": "de669a2c75c15b949df2a2a8e6e0191d4863964ecaeef75533e2f2bdb757c2a3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Afterimage__textures__T_AshMist_Sheet.png",
+            "path": "config/portablevfx/effects/AS_Afterimage/textures/T_AshMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Afterimage/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/AS_Afterimage/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Afterimage__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/AS_Afterimage/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Afterimage/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/AS_Afterimage/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2339,
+            "MD5": "9563b88aeec3ba17e9d3f7c32e309b57",
+            "SHA256": "779823bca299684d92b110776f2ea3d5a72411f731771ff432b226f2c05120a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Afterimage__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/AS_Afterimage/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Afterimage/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/AS_Afterimage/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 25177,
+            "MD5": "5b240a157ee83908b58fad846d6a8011",
+            "SHA256": "0571a4672a9c0f2ef2afe3985cffa1590e5a0e61ea8c73f717396a7766845358",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Afterimage__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/AS_Afterimage/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Afterimage/textures/T_Scorch.png",
+          "name": "config/portablevfx/effects/AS_Afterimage/textures/T_Scorch.png",
+          "type": "File",
+          "artifact": {
+            "size": 32869,
+            "MD5": "6f160e416316bc66fd7a085a929ecaa7",
+            "SHA256": "face0d74c017d70796364e36a5732533ec255cac50ed66f79cebe2be72814d2c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Afterimage__textures__T_Scorch.png",
+            "path": "config/portablevfx/effects/AS_Afterimage/textures/T_Scorch.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Afterimage/textures/T_Star.png",
+          "name": "config/portablevfx/effects/AS_Afterimage/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Afterimage__textures__T_Star.png",
+            "path": "config/portablevfx/effects/AS_Afterimage/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshDash/vfx.json",
+          "name": "config/portablevfx/effects/AS_AshDash/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 134157,
+            "MD5": "e3a94b05302fc73a8b18199515ead054",
+            "SHA256": "11d944a214745377a79174dab02992fabfa3fb4c9a1cad45fe90b54d13f1534d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshDash__vfx.json",
+            "path": "config/portablevfx/effects/AS_AshDash/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshDash/textures/T_AshFlake.png",
+          "name": "config/portablevfx/effects/AS_AshDash/textures/T_AshFlake.png",
+          "type": "File",
+          "artifact": {
+            "size": 2062,
+            "MD5": "c8708b15d2f9222680109309e1dd89aa",
+            "SHA256": "b674f06e4516578af02bd0e05f2cc736e067b5d56f623d7109a70a41e1340ba9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshDash__textures__T_AshFlake.png",
+            "path": "config/portablevfx/effects/AS_AshDash/textures/T_AshFlake.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshDash/textures/T_AshMist_Sheet.png",
+          "name": "config/portablevfx/effects/AS_AshDash/textures/T_AshMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 39525,
+            "MD5": "5a9eb1a3df25648ddb6b8624520a3d47",
+            "SHA256": "de669a2c75c15b949df2a2a8e6e0191d4863964ecaeef75533e2f2bdb757c2a3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshDash__textures__T_AshMist_Sheet.png",
+            "path": "config/portablevfx/effects/AS_AshDash/textures/T_AshMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshDash/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/AS_AshDash/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33207,
+            "MD5": "457c5f624303fd550eea6130b7ced532",
+            "SHA256": "115566ae62bc058133dc387c7d3213ba8b7fab302ff6ea26e5cbfe1a384b660a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshDash__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/AS_AshDash/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshDash/textures/T_DashBand.png",
+          "name": "config/portablevfx/effects/AS_AshDash/textures/T_DashBand.png",
+          "type": "File",
+          "artifact": {
+            "size": 31329,
+            "MD5": "85418899ef4c35fb2ca22f02824bb6dc",
+            "SHA256": "3d44178c56b84921915babc7cdda8d750c02de69d18ae029ca16cc0880bd705d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshDash__textures__T_DashBand.png",
+            "path": "config/portablevfx/effects/AS_AshDash/textures/T_DashBand.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshDash/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/AS_AshDash/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshDash__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/AS_AshDash/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshDash/textures/T_EmberFlame_Sheet.png",
+          "name": "config/portablevfx/effects/AS_AshDash/textures/T_EmberFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 80133,
+            "MD5": "35fa649b6d2ef72e93a670388b6c4c21",
+            "SHA256": "c8a2ef3877f517e1b3ee2ae0a27dac882d707da28d7013a9f04be16407b25abd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshDash__textures__T_EmberFlame_Sheet.png",
+            "path": "config/portablevfx/effects/AS_AshDash/textures/T_EmberFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshDash/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/AS_AshDash/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2339,
+            "MD5": "9563b88aeec3ba17e9d3f7c32e309b57",
+            "SHA256": "779823bca299684d92b110776f2ea3d5a72411f731771ff432b226f2c05120a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshDash__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/AS_AshDash/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshDash/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/AS_AshDash/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshDash__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/AS_AshDash/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshDash/textures/T_InkShard.png",
+          "name": "config/portablevfx/effects/AS_AshDash/textures/T_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2636,
+            "MD5": "b250b11eaac0ea253416d597e80f7c9f",
+            "SHA256": "5523b2b32a2ace4766dc1ab7dac0df87d9be479ff884b650b2e2e2b726dc29bf",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshDash__textures__T_InkShard.png",
+            "path": "config/portablevfx/effects/AS_AshDash/textures/T_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshDash/textures/T_Line.png",
+          "name": "config/portablevfx/effects/AS_AshDash/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "cbb12a9a0bd19807642353df0b305c29",
+            "SHA256": "3389485a46efcf76d1b7b6bf51000b1ca531c227e0fc36550979dd5d354482a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshDash__textures__T_Line.png",
+            "path": "config/portablevfx/effects/AS_AshDash/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshDash/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/AS_AshDash/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 25177,
+            "MD5": "5b240a157ee83908b58fad846d6a8011",
+            "SHA256": "0571a4672a9c0f2ef2afe3985cffa1590e5a0e61ea8c73f717396a7766845358",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshDash__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/AS_AshDash/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshDash/textures/T_Scorch.png",
+          "name": "config/portablevfx/effects/AS_AshDash/textures/T_Scorch.png",
+          "type": "File",
+          "artifact": {
+            "size": 32869,
+            "MD5": "6f160e416316bc66fd7a085a929ecaa7",
+            "SHA256": "face0d74c017d70796364e36a5732533ec255cac50ed66f79cebe2be72814d2c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshDash__textures__T_Scorch.png",
+            "path": "config/portablevfx/effects/AS_AshDash/textures/T_Scorch.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshDash/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/AS_AshDash/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshDash__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/AS_AshDash/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshDash/textures/T_Star.png",
+          "name": "config/portablevfx/effects/AS_AshDash/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshDash__textures__T_Star.png",
+            "path": "config/portablevfx/effects/AS_AshDash/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshRain/vfx.json",
+          "name": "config/portablevfx/effects/AS_AshRain/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 371112,
+            "MD5": "02a429ce802d1e9323f0e8783b2afd7b",
+            "SHA256": "cbc84ede7cd8dc3933ff8dd2666b1dc217c331f14b84d26f28d1e531e0aabeb4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshRain__vfx.json",
+            "path": "config/portablevfx/effects/AS_AshRain/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshRain/textures/T_AshFlake.png",
+          "name": "config/portablevfx/effects/AS_AshRain/textures/T_AshFlake.png",
+          "type": "File",
+          "artifact": {
+            "size": 2062,
+            "MD5": "c8708b15d2f9222680109309e1dd89aa",
+            "SHA256": "b674f06e4516578af02bd0e05f2cc736e067b5d56f623d7109a70a41e1340ba9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshRain__textures__T_AshFlake.png",
+            "path": "config/portablevfx/effects/AS_AshRain/textures/T_AshFlake.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshRain/textures/T_AshMist_Sheet.png",
+          "name": "config/portablevfx/effects/AS_AshRain/textures/T_AshMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 39525,
+            "MD5": "5a9eb1a3df25648ddb6b8624520a3d47",
+            "SHA256": "de669a2c75c15b949df2a2a8e6e0191d4863964ecaeef75533e2f2bdb757c2a3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshRain__textures__T_AshMist_Sheet.png",
+            "path": "config/portablevfx/effects/AS_AshRain/textures/T_AshMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshRain/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/AS_AshRain/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33207,
+            "MD5": "457c5f624303fd550eea6130b7ced532",
+            "SHA256": "115566ae62bc058133dc387c7d3213ba8b7fab302ff6ea26e5cbfe1a384b660a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshRain__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/AS_AshRain/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshRain/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/AS_AshRain/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshRain__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/AS_AshRain/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshRain/textures/T_EmberFlame_Sheet.png",
+          "name": "config/portablevfx/effects/AS_AshRain/textures/T_EmberFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 80133,
+            "MD5": "35fa649b6d2ef72e93a670388b6c4c21",
+            "SHA256": "c8a2ef3877f517e1b3ee2ae0a27dac882d707da28d7013a9f04be16407b25abd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshRain__textures__T_EmberFlame_Sheet.png",
+            "path": "config/portablevfx/effects/AS_AshRain/textures/T_EmberFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshRain/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/AS_AshRain/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2339,
+            "MD5": "9563b88aeec3ba17e9d3f7c32e309b57",
+            "SHA256": "779823bca299684d92b110776f2ea3d5a72411f731771ff432b226f2c05120a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshRain__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/AS_AshRain/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshRain/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/AS_AshRain/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshRain__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/AS_AshRain/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshRain/textures/T_InkShard.png",
+          "name": "config/portablevfx/effects/AS_AshRain/textures/T_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2636,
+            "MD5": "b250b11eaac0ea253416d597e80f7c9f",
+            "SHA256": "5523b2b32a2ace4766dc1ab7dac0df87d9be479ff884b650b2e2e2b726dc29bf",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshRain__textures__T_InkShard.png",
+            "path": "config/portablevfx/effects/AS_AshRain/textures/T_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshRain/textures/T_Line.png",
+          "name": "config/portablevfx/effects/AS_AshRain/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "cbb12a9a0bd19807642353df0b305c29",
+            "SHA256": "3389485a46efcf76d1b7b6bf51000b1ca531c227e0fc36550979dd5d354482a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshRain__textures__T_Line.png",
+            "path": "config/portablevfx/effects/AS_AshRain/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshRain/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/AS_AshRain/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 25177,
+            "MD5": "5b240a157ee83908b58fad846d6a8011",
+            "SHA256": "0571a4672a9c0f2ef2afe3985cffa1590e5a0e61ea8c73f717396a7766845358",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshRain__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/AS_AshRain/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshRain/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/AS_AshRain/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 42317,
+            "MD5": "3c83850a807622f90e6a4b98cd1a29bc",
+            "SHA256": "6edb113220ddf2f0f8e4c65f82dfe71f377934da33c04531179f39b1ea97254f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshRain__textures__T_RuneStrip.png",
+            "path": "config/portablevfx/effects/AS_AshRain/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshRain/textures/T_Scorch.png",
+          "name": "config/portablevfx/effects/AS_AshRain/textures/T_Scorch.png",
+          "type": "File",
+          "artifact": {
+            "size": 32869,
+            "MD5": "6f160e416316bc66fd7a085a929ecaa7",
+            "SHA256": "face0d74c017d70796364e36a5732533ec255cac50ed66f79cebe2be72814d2c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshRain__textures__T_Scorch.png",
+            "path": "config/portablevfx/effects/AS_AshRain/textures/T_Scorch.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshRain/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/AS_AshRain/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshRain__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/AS_AshRain/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshRain/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/AS_AshRain/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 66993,
+            "MD5": "c9a7333b7946aa9ad65b51543fab38b3",
+            "SHA256": "26d21123d4da7520dd3af210e9beb4a1ede514f7e9c3bb498d76d781454fbd4d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshRain__textures__T_Sigil.png",
+            "path": "config/portablevfx/effects/AS_AshRain/textures/T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshRain/textures/T_Star.png",
+          "name": "config/portablevfx/effects/AS_AshRain/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshRain__textures__T_Star.png",
+            "path": "config/portablevfx/effects/AS_AshRain/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshVeil/vfx.json",
+          "name": "config/portablevfx/effects/AS_AshVeil/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 65383,
+            "MD5": "4bb58e2a9e2a2499c4fc395997d248f0",
+            "SHA256": "de001a4494ea82197dfe337adb7c0513ddbf77decb3c543be898b0550ee96803",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshVeil__vfx.json",
+            "path": "config/portablevfx/effects/AS_AshVeil/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshVeil/textures/T_AshFlake.png",
+          "name": "config/portablevfx/effects/AS_AshVeil/textures/T_AshFlake.png",
+          "type": "File",
+          "artifact": {
+            "size": 2062,
+            "MD5": "c8708b15d2f9222680109309e1dd89aa",
+            "SHA256": "b674f06e4516578af02bd0e05f2cc736e067b5d56f623d7109a70a41e1340ba9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshVeil__textures__T_AshFlake.png",
+            "path": "config/portablevfx/effects/AS_AshVeil/textures/T_AshFlake.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshVeil/textures/T_AshMist_Sheet.png",
+          "name": "config/portablevfx/effects/AS_AshVeil/textures/T_AshMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 39525,
+            "MD5": "5a9eb1a3df25648ddb6b8624520a3d47",
+            "SHA256": "de669a2c75c15b949df2a2a8e6e0191d4863964ecaeef75533e2f2bdb757c2a3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshVeil__textures__T_AshMist_Sheet.png",
+            "path": "config/portablevfx/effects/AS_AshVeil/textures/T_AshMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshVeil/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/AS_AshVeil/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33207,
+            "MD5": "457c5f624303fd550eea6130b7ced532",
+            "SHA256": "115566ae62bc058133dc387c7d3213ba8b7fab302ff6ea26e5cbfe1a384b660a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshVeil__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/AS_AshVeil/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshVeil/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/AS_AshVeil/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshVeil__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/AS_AshVeil/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshVeil/textures/T_EmberFlame_Sheet.png",
+          "name": "config/portablevfx/effects/AS_AshVeil/textures/T_EmberFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 80133,
+            "MD5": "35fa649b6d2ef72e93a670388b6c4c21",
+            "SHA256": "c8a2ef3877f517e1b3ee2ae0a27dac882d707da28d7013a9f04be16407b25abd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshVeil__textures__T_EmberFlame_Sheet.png",
+            "path": "config/portablevfx/effects/AS_AshVeil/textures/T_EmberFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshVeil/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/AS_AshVeil/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2339,
+            "MD5": "9563b88aeec3ba17e9d3f7c32e309b57",
+            "SHA256": "779823bca299684d92b110776f2ea3d5a72411f731771ff432b226f2c05120a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshVeil__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/AS_AshVeil/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshVeil/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/AS_AshVeil/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshVeil__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/AS_AshVeil/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshVeil/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/AS_AshVeil/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 25177,
+            "MD5": "5b240a157ee83908b58fad846d6a8011",
+            "SHA256": "0571a4672a9c0f2ef2afe3985cffa1590e5a0e61ea8c73f717396a7766845358",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshVeil__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/AS_AshVeil/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshVeil/textures/T_Scorch.png",
+          "name": "config/portablevfx/effects/AS_AshVeil/textures/T_Scorch.png",
+          "type": "File",
+          "artifact": {
+            "size": 32869,
+            "MD5": "6f160e416316bc66fd7a085a929ecaa7",
+            "SHA256": "face0d74c017d70796364e36a5732533ec255cac50ed66f79cebe2be72814d2c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshVeil__textures__T_Scorch.png",
+            "path": "config/portablevfx/effects/AS_AshVeil/textures/T_Scorch.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshVeil/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/AS_AshVeil/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshVeil__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/AS_AshVeil/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_AshVeil/textures/T_Star.png",
+          "name": "config/portablevfx/effects/AS_AshVeil/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_AshVeil__textures__T_Star.png",
+            "path": "config/portablevfx/effects/AS_AshVeil/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Barrage/vfx.json",
+          "name": "config/portablevfx/effects/AS_Barrage/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 382123,
+            "MD5": "a1d097bafb4d5d06ce4b2909fdf495a9",
+            "SHA256": "d61a91c5f8cf3598a248c17954959f90897c9eae7ffed41865d7f7f99434c8e6",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Barrage__vfx.json",
+            "path": "config/portablevfx/effects/AS_Barrage/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Barrage/textures/T_AshFlake.png",
+          "name": "config/portablevfx/effects/AS_Barrage/textures/T_AshFlake.png",
+          "type": "File",
+          "artifact": {
+            "size": 28074,
+            "MD5": "68b229cc8198afbf6950787fa8070dfb",
+            "SHA256": "1b43b067fdbb3e1d6d9c4aadb0f9eb0baf07420286e2b2a3a4b7eca24f48bf5a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Barrage__textures__T_AshFlake.png",
+            "path": "config/portablevfx/effects/AS_Barrage/textures/T_AshFlake.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Barrage/textures/T_CandleFlame.png",
+          "name": "config/portablevfx/effects/AS_Barrage/textures/T_CandleFlame.png",
+          "type": "File",
+          "artifact": {
+            "size": 5641,
+            "MD5": "67bf91fdc1ac674c4a3ab87251cd0e2b",
+            "SHA256": "ab19920ed143a70c7bd59e0cac0542c9da427cd4ac22603448921d41e45f6adf",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Barrage__textures__T_CandleFlame.png",
+            "path": "config/portablevfx/effects/AS_Barrage/textures/T_CandleFlame.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Barrage/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/AS_Barrage/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33258,
+            "MD5": "c6d450b9d86087ccbb0910f8d53f7718",
+            "SHA256": "f6c68dd49549c3fe7b670d32c2ca38e3e8eede4c225eef6538c0bf7758a95ddb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Barrage__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/AS_Barrage/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Barrage/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/AS_Barrage/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Barrage__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/AS_Barrage/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Barrage/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/AS_Barrage/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2267,
+            "MD5": "0bfd3e5aa44c8a033800819695ecf369",
+            "SHA256": "e7531e4d339dc3a300355da494d0c429e6e0f6d25777254e94f412d58411ae1a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Barrage__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/AS_Barrage/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Barrage/textures/T_Fissure.png",
+          "name": "config/portablevfx/effects/AS_Barrage/textures/T_Fissure.png",
+          "type": "File",
+          "artifact": {
+            "size": 38342,
+            "MD5": "5c6c6dcfc3b7c41929441bfa3ee0ef62",
+            "SHA256": "fc0839bc220ed3368af60fc58aaec4ff05ce92ca742e5e5103dcad11880aa478",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Barrage__textures__T_Fissure.png",
+            "path": "config/portablevfx/effects/AS_Barrage/textures/T_Fissure.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Barrage/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/AS_Barrage/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Barrage__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/AS_Barrage/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Barrage/textures/T_InkShard.png",
+          "name": "config/portablevfx/effects/AS_Barrage/textures/T_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2720,
+            "MD5": "3095ac1c219067d36b1329dc06f18efa",
+            "SHA256": "936e3de7b34e68bbec75b881c0ace09b80db82cb168c3a303c0ea7037746fa1f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Barrage__textures__T_InkShard.png",
+            "path": "config/portablevfx/effects/AS_Barrage/textures/T_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Barrage/textures/T_Line.png",
+          "name": "config/portablevfx/effects/AS_Barrage/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "cbb12a9a0bd19807642353df0b305c29",
+            "SHA256": "3389485a46efcf76d1b7b6bf51000b1ca531c227e0fc36550979dd5d354482a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Barrage__textures__T_Line.png",
+            "path": "config/portablevfx/effects/AS_Barrage/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Barrage/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/AS_Barrage/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 35196,
+            "MD5": "95907c452acca8d8683818fbad7ce2d9",
+            "SHA256": "743142afac46fbc73e5c67f3c833ea7598611ab2a3cc6c274d3996c6d5c1eabb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Barrage__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/AS_Barrage/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Barrage/textures/T_PumpkinFlame_Sheet.png",
+          "name": "config/portablevfx/effects/AS_Barrage/textures/T_PumpkinFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 79591,
+            "MD5": "37a3af22beea238ba6387ce2ec0297bb",
+            "SHA256": "e7831c11caa7a1cc228ee3cd7ebb525c97976079b5f6fb52d6d368fd1051f545",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Barrage__textures__T_PumpkinFlame_Sheet.png",
+            "path": "config/portablevfx/effects/AS_Barrage/textures/T_PumpkinFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Barrage/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/AS_Barrage/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 23341,
+            "MD5": "b6b66ea2e3544bb94fdffbd383d9c23a",
+            "SHA256": "543b334825da7f2c65f176574f0073baa0b128e8c4860fe9268d3c03488d18f7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Barrage__textures__T_RuneStrip.png",
+            "path": "config/portablevfx/effects/AS_Barrage/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Barrage/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/AS_Barrage/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Barrage__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/AS_Barrage/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Barrage/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/AS_Barrage/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 47860,
+            "MD5": "c4d1fef0ed72eeeb8ee1e52b8ea2ea49",
+            "SHA256": "721379333e686f376b8ba4f97671237e6d1c3e9e73814b97d81626f2d8ae6bab",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Barrage__textures__T_Sigil.png",
+            "path": "config/portablevfx/effects/AS_Barrage/textures/T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Barrage/textures/T_Star.png",
+          "name": "config/portablevfx/effects/AS_Barrage/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Barrage__textures__T_Star.png",
+            "path": "config/portablevfx/effects/AS_Barrage/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ClawSwipe/vfx.json",
+          "name": "config/portablevfx/effects/AS_ClawSwipe/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 181189,
+            "MD5": "aecf6dddebfff200d1e47a4cf1075e6e",
+            "SHA256": "d0439f10ffb26f898a12d9299ffef08925c0d890cd0e0243e710fb7b15975376",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ClawSwipe__vfx.json",
+            "path": "config/portablevfx/effects/AS_ClawSwipe/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ClawSwipe/textures/T_AshFlake.png",
+          "name": "config/portablevfx/effects/AS_ClawSwipe/textures/T_AshFlake.png",
+          "type": "File",
+          "artifact": {
+            "size": 2062,
+            "MD5": "c8708b15d2f9222680109309e1dd89aa",
+            "SHA256": "b674f06e4516578af02bd0e05f2cc736e067b5d56f623d7109a70a41e1340ba9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ClawSwipe__textures__T_AshFlake.png",
+            "path": "config/portablevfx/effects/AS_ClawSwipe/textures/T_AshFlake.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ClawSwipe/textures/T_AshMist_Sheet.png",
+          "name": "config/portablevfx/effects/AS_ClawSwipe/textures/T_AshMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 39525,
+            "MD5": "5a9eb1a3df25648ddb6b8624520a3d47",
+            "SHA256": "de669a2c75c15b949df2a2a8e6e0191d4863964ecaeef75533e2f2bdb757c2a3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ClawSwipe__textures__T_AshMist_Sheet.png",
+            "path": "config/portablevfx/effects/AS_ClawSwipe/textures/T_AshMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ClawSwipe/textures/T_ClawSlash_Sheet.png",
+          "name": "config/portablevfx/effects/AS_ClawSwipe/textures/T_ClawSlash_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 59637,
+            "MD5": "14b53416258d1fd4e49a339c1f5c37a2",
+            "SHA256": "3dd7f906995b5adc852b053bd3b2e29d19c277d0993a612fe0964b7975b52ae9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ClawSwipe__textures__T_ClawSlash_Sheet.png",
+            "path": "config/portablevfx/effects/AS_ClawSwipe/textures/T_ClawSlash_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ClawSwipe/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/AS_ClawSwipe/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33207,
+            "MD5": "457c5f624303fd550eea6130b7ced532",
+            "SHA256": "115566ae62bc058133dc387c7d3213ba8b7fab302ff6ea26e5cbfe1a384b660a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ClawSwipe__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/AS_ClawSwipe/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ClawSwipe/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/AS_ClawSwipe/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ClawSwipe__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/AS_ClawSwipe/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ClawSwipe/textures/T_EmberFlame_Sheet.png",
+          "name": "config/portablevfx/effects/AS_ClawSwipe/textures/T_EmberFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 80133,
+            "MD5": "35fa649b6d2ef72e93a670388b6c4c21",
+            "SHA256": "c8a2ef3877f517e1b3ee2ae0a27dac882d707da28d7013a9f04be16407b25abd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ClawSwipe__textures__T_EmberFlame_Sheet.png",
+            "path": "config/portablevfx/effects/AS_ClawSwipe/textures/T_EmberFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ClawSwipe/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/AS_ClawSwipe/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2339,
+            "MD5": "9563b88aeec3ba17e9d3f7c32e309b57",
+            "SHA256": "779823bca299684d92b110776f2ea3d5a72411f731771ff432b226f2c05120a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ClawSwipe__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/AS_ClawSwipe/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ClawSwipe/textures/T_InkShard.png",
+          "name": "config/portablevfx/effects/AS_ClawSwipe/textures/T_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2636,
+            "MD5": "b250b11eaac0ea253416d597e80f7c9f",
+            "SHA256": "5523b2b32a2ace4766dc1ab7dac0df87d9be479ff884b650b2e2e2b726dc29bf",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ClawSwipe__textures__T_InkShard.png",
+            "path": "config/portablevfx/effects/AS_ClawSwipe/textures/T_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ClawSwipe/textures/T_Scorch.png",
+          "name": "config/portablevfx/effects/AS_ClawSwipe/textures/T_Scorch.png",
+          "type": "File",
+          "artifact": {
+            "size": 32869,
+            "MD5": "6f160e416316bc66fd7a085a929ecaa7",
+            "SHA256": "face0d74c017d70796364e36a5732533ec255cac50ed66f79cebe2be72814d2c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ClawSwipe__textures__T_Scorch.png",
+            "path": "config/portablevfx/effects/AS_ClawSwipe/textures/T_Scorch.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ClawSwipe/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/AS_ClawSwipe/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ClawSwipe__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/AS_ClawSwipe/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ClawSwipe/textures/T_Star.png",
+          "name": "config/portablevfx/effects/AS_ClawSwipe/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ClawSwipe__textures__T_Star.png",
+            "path": "config/portablevfx/effects/AS_ClawSwipe/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_CremationRing/vfx.json",
+          "name": "config/portablevfx/effects/AS_CremationRing/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 252496,
+            "MD5": "3c152233e703b9df0ca0f877a1fdcaf4",
+            "SHA256": "b2ab7036c578d27d76c186463fb21118c7baf1c2cf1f10983b1e720811db45d0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_CremationRing__vfx.json",
+            "path": "config/portablevfx/effects/AS_CremationRing/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_CremationRing/textures/T_AshFlake.png",
+          "name": "config/portablevfx/effects/AS_CremationRing/textures/T_AshFlake.png",
+          "type": "File",
+          "artifact": {
+            "size": 2062,
+            "MD5": "c8708b15d2f9222680109309e1dd89aa",
+            "SHA256": "b674f06e4516578af02bd0e05f2cc736e067b5d56f623d7109a70a41e1340ba9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_CremationRing__textures__T_AshFlake.png",
+            "path": "config/portablevfx/effects/AS_CremationRing/textures/T_AshFlake.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_CremationRing/textures/T_AshMist_Sheet.png",
+          "name": "config/portablevfx/effects/AS_CremationRing/textures/T_AshMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 39525,
+            "MD5": "5a9eb1a3df25648ddb6b8624520a3d47",
+            "SHA256": "de669a2c75c15b949df2a2a8e6e0191d4863964ecaeef75533e2f2bdb757c2a3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_CremationRing__textures__T_AshMist_Sheet.png",
+            "path": "config/portablevfx/effects/AS_CremationRing/textures/T_AshMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_CremationRing/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/AS_CremationRing/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33207,
+            "MD5": "457c5f624303fd550eea6130b7ced532",
+            "SHA256": "115566ae62bc058133dc387c7d3213ba8b7fab302ff6ea26e5cbfe1a384b660a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_CremationRing__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/AS_CremationRing/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_CremationRing/textures/T_DashBand.png",
+          "name": "config/portablevfx/effects/AS_CremationRing/textures/T_DashBand.png",
+          "type": "File",
+          "artifact": {
+            "size": 31329,
+            "MD5": "85418899ef4c35fb2ca22f02824bb6dc",
+            "SHA256": "3d44178c56b84921915babc7cdda8d750c02de69d18ae029ca16cc0880bd705d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_CremationRing__textures__T_DashBand.png",
+            "path": "config/portablevfx/effects/AS_CremationRing/textures/T_DashBand.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_CremationRing/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/AS_CremationRing/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_CremationRing__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/AS_CremationRing/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_CremationRing/textures/T_EmberFlame_Sheet.png",
+          "name": "config/portablevfx/effects/AS_CremationRing/textures/T_EmberFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 80133,
+            "MD5": "35fa649b6d2ef72e93a670388b6c4c21",
+            "SHA256": "c8a2ef3877f517e1b3ee2ae0a27dac882d707da28d7013a9f04be16407b25abd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_CremationRing__textures__T_EmberFlame_Sheet.png",
+            "path": "config/portablevfx/effects/AS_CremationRing/textures/T_EmberFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_CremationRing/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/AS_CremationRing/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2339,
+            "MD5": "9563b88aeec3ba17e9d3f7c32e309b57",
+            "SHA256": "779823bca299684d92b110776f2ea3d5a72411f731771ff432b226f2c05120a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_CremationRing__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/AS_CremationRing/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_CremationRing/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/AS_CremationRing/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_CremationRing__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/AS_CremationRing/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_CremationRing/textures/T_Line.png",
+          "name": "config/portablevfx/effects/AS_CremationRing/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "cbb12a9a0bd19807642353df0b305c29",
+            "SHA256": "3389485a46efcf76d1b7b6bf51000b1ca531c227e0fc36550979dd5d354482a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_CremationRing__textures__T_Line.png",
+            "path": "config/portablevfx/effects/AS_CremationRing/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_CremationRing/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/AS_CremationRing/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 25177,
+            "MD5": "5b240a157ee83908b58fad846d6a8011",
+            "SHA256": "0571a4672a9c0f2ef2afe3985cffa1590e5a0e61ea8c73f717396a7766845358",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_CremationRing__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/AS_CremationRing/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_CremationRing/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/AS_CremationRing/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 42317,
+            "MD5": "3c83850a807622f90e6a4b98cd1a29bc",
+            "SHA256": "6edb113220ddf2f0f8e4c65f82dfe71f377934da33c04531179f39b1ea97254f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_CremationRing__textures__T_RuneStrip.png",
+            "path": "config/portablevfx/effects/AS_CremationRing/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_CremationRing/textures/T_Scorch.png",
+          "name": "config/portablevfx/effects/AS_CremationRing/textures/T_Scorch.png",
+          "type": "File",
+          "artifact": {
+            "size": 32869,
+            "MD5": "6f160e416316bc66fd7a085a929ecaa7",
+            "SHA256": "face0d74c017d70796364e36a5732533ec255cac50ed66f79cebe2be72814d2c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_CremationRing__textures__T_Scorch.png",
+            "path": "config/portablevfx/effects/AS_CremationRing/textures/T_Scorch.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_CremationRing/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/AS_CremationRing/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_CremationRing__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/AS_CremationRing/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_CremationRing/textures/T_Star.png",
+          "name": "config/portablevfx/effects/AS_CremationRing/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_CremationRing__textures__T_Star.png",
+            "path": "config/portablevfx/effects/AS_CremationRing/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Desperate/vfx.json",
+          "name": "config/portablevfx/effects/AS_Desperate/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 356279,
+            "MD5": "d7fb7d5ed6e80b9f35b955bc13d13fee",
+            "SHA256": "6fce0f061c9b4fbc6e00d81dce2761726d1815f2585368adf9b48d5403e5d1fd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Desperate__vfx.json",
+            "path": "config/portablevfx/effects/AS_Desperate/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Desperate/textures/T_AshFlake.png",
+          "name": "config/portablevfx/effects/AS_Desperate/textures/T_AshFlake.png",
+          "type": "File",
+          "artifact": {
+            "size": 28074,
+            "MD5": "68b229cc8198afbf6950787fa8070dfb",
+            "SHA256": "1b43b067fdbb3e1d6d9c4aadb0f9eb0baf07420286e2b2a3a4b7eca24f48bf5a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Desperate__textures__T_AshFlake.png",
+            "path": "config/portablevfx/effects/AS_Desperate/textures/T_AshFlake.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Desperate/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/AS_Desperate/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33258,
+            "MD5": "c6d450b9d86087ccbb0910f8d53f7718",
+            "SHA256": "f6c68dd49549c3fe7b670d32c2ca38e3e8eede4c225eef6538c0bf7758a95ddb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Desperate__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/AS_Desperate/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Desperate/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/AS_Desperate/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Desperate__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/AS_Desperate/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Desperate/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/AS_Desperate/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2267,
+            "MD5": "0bfd3e5aa44c8a033800819695ecf369",
+            "SHA256": "e7531e4d339dc3a300355da494d0c429e6e0f6d25777254e94f412d58411ae1a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Desperate__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/AS_Desperate/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Desperate/textures/T_Fissure.png",
+          "name": "config/portablevfx/effects/AS_Desperate/textures/T_Fissure.png",
+          "type": "File",
+          "artifact": {
+            "size": 38342,
+            "MD5": "5c6c6dcfc3b7c41929441bfa3ee0ef62",
+            "SHA256": "fc0839bc220ed3368af60fc58aaec4ff05ce92ca742e5e5103dcad11880aa478",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Desperate__textures__T_Fissure.png",
+            "path": "config/portablevfx/effects/AS_Desperate/textures/T_Fissure.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Desperate/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/AS_Desperate/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Desperate__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/AS_Desperate/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Desperate/textures/T_InkShard.png",
+          "name": "config/portablevfx/effects/AS_Desperate/textures/T_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2720,
+            "MD5": "3095ac1c219067d36b1329dc06f18efa",
+            "SHA256": "936e3de7b34e68bbec75b881c0ace09b80db82cb168c3a303c0ea7037746fa1f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Desperate__textures__T_InkShard.png",
+            "path": "config/portablevfx/effects/AS_Desperate/textures/T_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Desperate/textures/T_Line.png",
+          "name": "config/portablevfx/effects/AS_Desperate/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "cbb12a9a0bd19807642353df0b305c29",
+            "SHA256": "3389485a46efcf76d1b7b6bf51000b1ca531c227e0fc36550979dd5d354482a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Desperate__textures__T_Line.png",
+            "path": "config/portablevfx/effects/AS_Desperate/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Desperate/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/AS_Desperate/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 35196,
+            "MD5": "95907c452acca8d8683818fbad7ce2d9",
+            "SHA256": "743142afac46fbc73e5c67f3c833ea7598611ab2a3cc6c274d3996c6d5c1eabb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Desperate__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/AS_Desperate/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Desperate/textures/T_PumpkinFlame_Sheet.png",
+          "name": "config/portablevfx/effects/AS_Desperate/textures/T_PumpkinFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 79591,
+            "MD5": "37a3af22beea238ba6387ce2ec0297bb",
+            "SHA256": "e7831c11caa7a1cc228ee3cd7ebb525c97976079b5f6fb52d6d368fd1051f545",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Desperate__textures__T_PumpkinFlame_Sheet.png",
+            "path": "config/portablevfx/effects/AS_Desperate/textures/T_PumpkinFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Desperate/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/AS_Desperate/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 25177,
+            "MD5": "5b240a157ee83908b58fad846d6a8011",
+            "SHA256": "0571a4672a9c0f2ef2afe3985cffa1590e5a0e61ea8c73f717396a7766845358",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Desperate__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/AS_Desperate/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Desperate/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/AS_Desperate/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 23341,
+            "MD5": "b6b66ea2e3544bb94fdffbd383d9c23a",
+            "SHA256": "543b334825da7f2c65f176574f0073baa0b128e8c4860fe9268d3c03488d18f7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Desperate__textures__T_RuneStrip.png",
+            "path": "config/portablevfx/effects/AS_Desperate/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Desperate/textures/T_Scorch.png",
+          "name": "config/portablevfx/effects/AS_Desperate/textures/T_Scorch.png",
+          "type": "File",
+          "artifact": {
+            "size": 19145,
+            "MD5": "c82a7eab4cffb0e2e9c5497fd8a3b571",
+            "SHA256": "73647ee107509d5efd7f495b62acf778fd6eff9158da720859ab95545bd530af",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Desperate__textures__T_Scorch.png",
+            "path": "config/portablevfx/effects/AS_Desperate/textures/T_Scorch.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Desperate/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/AS_Desperate/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Desperate__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/AS_Desperate/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Desperate/textures/T_Star.png",
+          "name": "config/portablevfx/effects/AS_Desperate/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Desperate__textures__T_Star.png",
+            "path": "config/portablevfx/effects/AS_Desperate/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Device/vfx.json",
+          "name": "config/portablevfx/effects/AS_Device/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 354873,
+            "MD5": "5f62740260933a7f12f8245cbff1db7e",
+            "SHA256": "1b6a4b709615d628945999473eb050ec1f9289a659dadf67132b0796b8f6e099",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Device__vfx.json",
+            "path": "config/portablevfx/effects/AS_Device/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Device/textures/T_AshFlake.png",
+          "name": "config/portablevfx/effects/AS_Device/textures/T_AshFlake.png",
+          "type": "File",
+          "artifact": {
+            "size": 28074,
+            "MD5": "68b229cc8198afbf6950787fa8070dfb",
+            "SHA256": "1b43b067fdbb3e1d6d9c4aadb0f9eb0baf07420286e2b2a3a4b7eca24f48bf5a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Device__textures__T_AshFlake.png",
+            "path": "config/portablevfx/effects/AS_Device/textures/T_AshFlake.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Device/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/AS_Device/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33258,
+            "MD5": "c6d450b9d86087ccbb0910f8d53f7718",
+            "SHA256": "f6c68dd49549c3fe7b670d32c2ca38e3e8eede4c225eef6538c0bf7758a95ddb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Device__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/AS_Device/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Device/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/AS_Device/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Device__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/AS_Device/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Device/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/AS_Device/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Device__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/AS_Device/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Device/textures/T_GoldStreak.png",
+          "name": "config/portablevfx/effects/AS_Device/textures/T_GoldStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2382,
+            "MD5": "bbe301e204c0c95d0171696534539dea",
+            "SHA256": "1dab5029c483eb4333ab0a14b3fae3481d9168b9f41522c5befc696562635e8d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Device__textures__T_GoldStreak.png",
+            "path": "config/portablevfx/effects/AS_Device/textures/T_GoldStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Device/textures/T_Line.png",
+          "name": "config/portablevfx/effects/AS_Device/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "cbb12a9a0bd19807642353df0b305c29",
+            "SHA256": "3389485a46efcf76d1b7b6bf51000b1ca531c227e0fc36550979dd5d354482a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Device__textures__T_Line.png",
+            "path": "config/portablevfx/effects/AS_Device/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Device/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/AS_Device/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 35196,
+            "MD5": "95907c452acca8d8683818fbad7ce2d9",
+            "SHA256": "743142afac46fbc73e5c67f3c833ea7598611ab2a3cc6c274d3996c6d5c1eabb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Device__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/AS_Device/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Device/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/AS_Device/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 23341,
+            "MD5": "b6b66ea2e3544bb94fdffbd383d9c23a",
+            "SHA256": "543b334825da7f2c65f176574f0073baa0b128e8c4860fe9268d3c03488d18f7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Device__textures__T_RuneStrip.png",
+            "path": "config/portablevfx/effects/AS_Device/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Device/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/AS_Device/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Device__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/AS_Device/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Device/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/AS_Device/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 47860,
+            "MD5": "c4d1fef0ed72eeeb8ee1e52b8ea2ea49",
+            "SHA256": "721379333e686f376b8ba4f97671237e6d1c3e9e73814b97d81626f2d8ae6bab",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Device__textures__T_Sigil.png",
+            "path": "config/portablevfx/effects/AS_Device/textures/T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Device/textures/T_Star.png",
+          "name": "config/portablevfx/effects/AS_Device/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Device__textures__T_Star.png",
+            "path": "config/portablevfx/effects/AS_Device/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Fate/vfx.json",
+          "name": "config/portablevfx/effects/AS_Fate/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 478370,
+            "MD5": "c015ae4980e17007ee68d35bbdfd876c",
+            "SHA256": "5087347cd05ce5f8341668cd41c55f039d3b28c13e2a9dd13b5403911b6c48f5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Fate__vfx.json",
+            "path": "config/portablevfx/effects/AS_Fate/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Fate/textures/T_AshFlake.png",
+          "name": "config/portablevfx/effects/AS_Fate/textures/T_AshFlake.png",
+          "type": "File",
+          "artifact": {
+            "size": 28074,
+            "MD5": "68b229cc8198afbf6950787fa8070dfb",
+            "SHA256": "1b43b067fdbb3e1d6d9c4aadb0f9eb0baf07420286e2b2a3a4b7eca24f48bf5a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Fate__textures__T_AshFlake.png",
+            "path": "config/portablevfx/effects/AS_Fate/textures/T_AshFlake.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Fate/textures/T_CandleFlame.png",
+          "name": "config/portablevfx/effects/AS_Fate/textures/T_CandleFlame.png",
+          "type": "File",
+          "artifact": {
+            "size": 5641,
+            "MD5": "67bf91fdc1ac674c4a3ab87251cd0e2b",
+            "SHA256": "ab19920ed143a70c7bd59e0cac0542c9da427cd4ac22603448921d41e45f6adf",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Fate__textures__T_CandleFlame.png",
+            "path": "config/portablevfx/effects/AS_Fate/textures/T_CandleFlame.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Fate/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/AS_Fate/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33258,
+            "MD5": "c6d450b9d86087ccbb0910f8d53f7718",
+            "SHA256": "f6c68dd49549c3fe7b670d32c2ca38e3e8eede4c225eef6538c0bf7758a95ddb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Fate__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/AS_Fate/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Fate/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/AS_Fate/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Fate__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/AS_Fate/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Fate/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/AS_Fate/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2267,
+            "MD5": "0bfd3e5aa44c8a033800819695ecf369",
+            "SHA256": "e7531e4d339dc3a300355da494d0c429e6e0f6d25777254e94f412d58411ae1a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Fate__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/AS_Fate/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Fate/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/AS_Fate/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Fate__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/AS_Fate/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Fate/textures/T_Line.png",
+          "name": "config/portablevfx/effects/AS_Fate/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "cbb12a9a0bd19807642353df0b305c29",
+            "SHA256": "3389485a46efcf76d1b7b6bf51000b1ca531c227e0fc36550979dd5d354482a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Fate__textures__T_Line.png",
+            "path": "config/portablevfx/effects/AS_Fate/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Fate/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/AS_Fate/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 35196,
+            "MD5": "95907c452acca8d8683818fbad7ce2d9",
+            "SHA256": "743142afac46fbc73e5c67f3c833ea7598611ab2a3cc6c274d3996c6d5c1eabb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Fate__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/AS_Fate/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Fate/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/AS_Fate/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 23341,
+            "MD5": "b6b66ea2e3544bb94fdffbd383d9c23a",
+            "SHA256": "543b334825da7f2c65f176574f0073baa0b128e8c4860fe9268d3c03488d18f7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Fate__textures__T_RuneStrip.png",
+            "path": "config/portablevfx/effects/AS_Fate/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Fate/textures/T_Scorch.png",
+          "name": "config/portablevfx/effects/AS_Fate/textures/T_Scorch.png",
+          "type": "File",
+          "artifact": {
+            "size": 19145,
+            "MD5": "c82a7eab4cffb0e2e9c5497fd8a3b571",
+            "SHA256": "73647ee107509d5efd7f495b62acf778fd6eff9158da720859ab95545bd530af",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Fate__textures__T_Scorch.png",
+            "path": "config/portablevfx/effects/AS_Fate/textures/T_Scorch.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Fate/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/AS_Fate/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Fate__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/AS_Fate/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Fate/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/AS_Fate/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 47860,
+            "MD5": "c4d1fef0ed72eeeb8ee1e52b8ea2ea49",
+            "SHA256": "721379333e686f376b8ba4f97671237e6d1c3e9e73814b97d81626f2d8ae6bab",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Fate__textures__T_Sigil.png",
+            "path": "config/portablevfx/effects/AS_Fate/textures/T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Fate/textures/T_Star.png",
+          "name": "config/portablevfx/effects/AS_Fate/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Fate__textures__T_Star.png",
+            "path": "config/portablevfx/effects/AS_Fate/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Grasp/vfx.json",
+          "name": "config/portablevfx/effects/AS_Grasp/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 186957,
+            "MD5": "f7356fbce2cca108917661e04c9eb861",
+            "SHA256": "bb31f9926eb7232c493d3eff9c5a5eb97049237c7a4615c076b3f1f47ac3684d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Grasp__vfx.json",
+            "path": "config/portablevfx/effects/AS_Grasp/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Grasp/textures/T_AshFlake.png",
+          "name": "config/portablevfx/effects/AS_Grasp/textures/T_AshFlake.png",
+          "type": "File",
+          "artifact": {
+            "size": 2062,
+            "MD5": "c8708b15d2f9222680109309e1dd89aa",
+            "SHA256": "b674f06e4516578af02bd0e05f2cc736e067b5d56f623d7109a70a41e1340ba9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Grasp__textures__T_AshFlake.png",
+            "path": "config/portablevfx/effects/AS_Grasp/textures/T_AshFlake.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Grasp/textures/T_AshMist_Sheet.png",
+          "name": "config/portablevfx/effects/AS_Grasp/textures/T_AshMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 39525,
+            "MD5": "5a9eb1a3df25648ddb6b8624520a3d47",
+            "SHA256": "de669a2c75c15b949df2a2a8e6e0191d4863964ecaeef75533e2f2bdb757c2a3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Grasp__textures__T_AshMist_Sheet.png",
+            "path": "config/portablevfx/effects/AS_Grasp/textures/T_AshMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Grasp/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/AS_Grasp/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33207,
+            "MD5": "457c5f624303fd550eea6130b7ced532",
+            "SHA256": "115566ae62bc058133dc387c7d3213ba8b7fab302ff6ea26e5cbfe1a384b660a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Grasp__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/AS_Grasp/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Grasp/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/AS_Grasp/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Grasp__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/AS_Grasp/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Grasp/textures/T_EmberFlame_Sheet.png",
+          "name": "config/portablevfx/effects/AS_Grasp/textures/T_EmberFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 80133,
+            "MD5": "35fa649b6d2ef72e93a670388b6c4c21",
+            "SHA256": "c8a2ef3877f517e1b3ee2ae0a27dac882d707da28d7013a9f04be16407b25abd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Grasp__textures__T_EmberFlame_Sheet.png",
+            "path": "config/portablevfx/effects/AS_Grasp/textures/T_EmberFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Grasp/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/AS_Grasp/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2339,
+            "MD5": "9563b88aeec3ba17e9d3f7c32e309b57",
+            "SHA256": "779823bca299684d92b110776f2ea3d5a72411f731771ff432b226f2c05120a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Grasp__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/AS_Grasp/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Grasp/textures/T_InkPool.png",
+          "name": "config/portablevfx/effects/AS_Grasp/textures/T_InkPool.png",
+          "type": "File",
+          "artifact": {
+            "size": 45621,
+            "MD5": "3b4c3031f30f9a7588c8263beba3496e",
+            "SHA256": "1bf0c5c823b8af78a3501cf96f386d79945612c8dc1e756099c7a71211fa7b7e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Grasp__textures__T_InkPool.png",
+            "path": "config/portablevfx/effects/AS_Grasp/textures/T_InkPool.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Grasp/textures/T_Line.png",
+          "name": "config/portablevfx/effects/AS_Grasp/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "cbb12a9a0bd19807642353df0b305c29",
+            "SHA256": "3389485a46efcf76d1b7b6bf51000b1ca531c227e0fc36550979dd5d354482a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Grasp__textures__T_Line.png",
+            "path": "config/portablevfx/effects/AS_Grasp/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Grasp/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/AS_Grasp/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 42317,
+            "MD5": "3c83850a807622f90e6a4b98cd1a29bc",
+            "SHA256": "6edb113220ddf2f0f8e4c65f82dfe71f377934da33c04531179f39b1ea97254f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Grasp__textures__T_RuneStrip.png",
+            "path": "config/portablevfx/effects/AS_Grasp/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Grasp/textures/T_ShadowHand.png",
+          "name": "config/portablevfx/effects/AS_Grasp/textures/T_ShadowHand.png",
+          "type": "File",
+          "artifact": {
+            "size": 25285,
+            "MD5": "5174f1da290b16377614bccfeff83a51",
+            "SHA256": "a7339c494b8baec5863a297bcc99f6a6d718ff359e1bd02eeaaf7dcdbf84d974",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Grasp__textures__T_ShadowHand.png",
+            "path": "config/portablevfx/effects/AS_Grasp/textures/T_ShadowHand.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Grasp/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/AS_Grasp/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Grasp__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/AS_Grasp/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Grasp/textures/T_Star.png",
+          "name": "config/portablevfx/effects/AS_Grasp/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Grasp__textures__T_Star.png",
+            "path": "config/portablevfx/effects/AS_Grasp/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Groggy/vfx.json",
+          "name": "config/portablevfx/effects/AS_Groggy/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 96258,
+            "MD5": "c0bf85ffb711773de16ef5cdeb0936cd",
+            "SHA256": "6a17b12cf8e31e87392e3448329bf14e9993ced40abb3e07b77f6dd90e7d7e99",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Groggy__vfx.json",
+            "path": "config/portablevfx/effects/AS_Groggy/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Groggy/textures/T_AshFlake.png",
+          "name": "config/portablevfx/effects/AS_Groggy/textures/T_AshFlake.png",
+          "type": "File",
+          "artifact": {
+            "size": 28074,
+            "MD5": "68b229cc8198afbf6950787fa8070dfb",
+            "SHA256": "1b43b067fdbb3e1d6d9c4aadb0f9eb0baf07420286e2b2a3a4b7eca24f48bf5a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Groggy__textures__T_AshFlake.png",
+            "path": "config/portablevfx/effects/AS_Groggy/textures/T_AshFlake.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Groggy/textures/T_CandleFlame.png",
+          "name": "config/portablevfx/effects/AS_Groggy/textures/T_CandleFlame.png",
+          "type": "File",
+          "artifact": {
+            "size": 5641,
+            "MD5": "67bf91fdc1ac674c4a3ab87251cd0e2b",
+            "SHA256": "ab19920ed143a70c7bd59e0cac0542c9da427cd4ac22603448921d41e45f6adf",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Groggy__textures__T_CandleFlame.png",
+            "path": "config/portablevfx/effects/AS_Groggy/textures/T_CandleFlame.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Groggy/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/AS_Groggy/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33258,
+            "MD5": "c6d450b9d86087ccbb0910f8d53f7718",
+            "SHA256": "f6c68dd49549c3fe7b670d32c2ca38e3e8eede4c225eef6538c0bf7758a95ddb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Groggy__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/AS_Groggy/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Groggy/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/AS_Groggy/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Groggy__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/AS_Groggy/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Groggy/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/AS_Groggy/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2267,
+            "MD5": "0bfd3e5aa44c8a033800819695ecf369",
+            "SHA256": "e7531e4d339dc3a300355da494d0c429e6e0f6d25777254e94f412d58411ae1a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Groggy__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/AS_Groggy/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Groggy/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/AS_Groggy/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Groggy__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/AS_Groggy/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Groggy/textures/T_InkShard.png",
+          "name": "config/portablevfx/effects/AS_Groggy/textures/T_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2720,
+            "MD5": "3095ac1c219067d36b1329dc06f18efa",
+            "SHA256": "936e3de7b34e68bbec75b881c0ace09b80db82cb168c3a303c0ea7037746fa1f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Groggy__textures__T_InkShard.png",
+            "path": "config/portablevfx/effects/AS_Groggy/textures/T_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Groggy/textures/T_Line.png",
+          "name": "config/portablevfx/effects/AS_Groggy/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "cbb12a9a0bd19807642353df0b305c29",
+            "SHA256": "3389485a46efcf76d1b7b6bf51000b1ca531c227e0fc36550979dd5d354482a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Groggy__textures__T_Line.png",
+            "path": "config/portablevfx/effects/AS_Groggy/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Groggy/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/AS_Groggy/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 35196,
+            "MD5": "95907c452acca8d8683818fbad7ce2d9",
+            "SHA256": "743142afac46fbc73e5c67f3c833ea7598611ab2a3cc6c274d3996c6d5c1eabb",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Groggy__textures__T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/AS_Groggy/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Groggy/textures/T_PumpkinFlame_Sheet.png",
+          "name": "config/portablevfx/effects/AS_Groggy/textures/T_PumpkinFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 79591,
+            "MD5": "37a3af22beea238ba6387ce2ec0297bb",
+            "SHA256": "e7831c11caa7a1cc228ee3cd7ebb525c97976079b5f6fb52d6d368fd1051f545",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Groggy__textures__T_PumpkinFlame_Sheet.png",
+            "path": "config/portablevfx/effects/AS_Groggy/textures/T_PumpkinFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Groggy/textures/T_Scorch.png",
+          "name": "config/portablevfx/effects/AS_Groggy/textures/T_Scorch.png",
+          "type": "File",
+          "artifact": {
+            "size": 19145,
+            "MD5": "c82a7eab4cffb0e2e9c5497fd8a3b571",
+            "SHA256": "73647ee107509d5efd7f495b62acf778fd6eff9158da720859ab95545bd530af",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Groggy__textures__T_Scorch.png",
+            "path": "config/portablevfx/effects/AS_Groggy/textures/T_Scorch.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Groggy/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/AS_Groggy/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Groggy__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/AS_Groggy/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Groggy/textures/T_Star.png",
+          "name": "config/portablevfx/effects/AS_Groggy/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Groggy__textures__T_Star.png",
+            "path": "config/portablevfx/effects/AS_Groggy/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_HandSlam/vfx.json",
+          "name": "config/portablevfx/effects/AS_HandSlam/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 89511,
+            "MD5": "dadeb5139a1f2d3d9ed9b21ce1b7ff64",
+            "SHA256": "52d87af2995523dca3cab24ff19a8051215252a8a30479151b2b000d692a2d34",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_HandSlam__vfx.json",
+            "path": "config/portablevfx/effects/AS_HandSlam/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_HandSlam/textures/T_AshFlake.png",
+          "name": "config/portablevfx/effects/AS_HandSlam/textures/T_AshFlake.png",
+          "type": "File",
+          "artifact": {
+            "size": 2062,
+            "MD5": "c8708b15d2f9222680109309e1dd89aa",
+            "SHA256": "b674f06e4516578af02bd0e05f2cc736e067b5d56f623d7109a70a41e1340ba9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_HandSlam__textures__T_AshFlake.png",
+            "path": "config/portablevfx/effects/AS_HandSlam/textures/T_AshFlake.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_HandSlam/textures/T_AshMist_Sheet.png",
+          "name": "config/portablevfx/effects/AS_HandSlam/textures/T_AshMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 39525,
+            "MD5": "5a9eb1a3df25648ddb6b8624520a3d47",
+            "SHA256": "de669a2c75c15b949df2a2a8e6e0191d4863964ecaeef75533e2f2bdb757c2a3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_HandSlam__textures__T_AshMist_Sheet.png",
+            "path": "config/portablevfx/effects/AS_HandSlam/textures/T_AshMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_HandSlam/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/AS_HandSlam/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33207,
+            "MD5": "457c5f624303fd550eea6130b7ced532",
+            "SHA256": "115566ae62bc058133dc387c7d3213ba8b7fab302ff6ea26e5cbfe1a384b660a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_HandSlam__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/AS_HandSlam/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_HandSlam/textures/T_DashBand.png",
+          "name": "config/portablevfx/effects/AS_HandSlam/textures/T_DashBand.png",
+          "type": "File",
+          "artifact": {
+            "size": 31329,
+            "MD5": "85418899ef4c35fb2ca22f02824bb6dc",
+            "SHA256": "3d44178c56b84921915babc7cdda8d750c02de69d18ae029ca16cc0880bd705d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_HandSlam__textures__T_DashBand.png",
+            "path": "config/portablevfx/effects/AS_HandSlam/textures/T_DashBand.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_HandSlam/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/AS_HandSlam/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_HandSlam__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/AS_HandSlam/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_HandSlam/textures/T_EmberFlame_Sheet.png",
+          "name": "config/portablevfx/effects/AS_HandSlam/textures/T_EmberFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 80133,
+            "MD5": "35fa649b6d2ef72e93a670388b6c4c21",
+            "SHA256": "c8a2ef3877f517e1b3ee2ae0a27dac882d707da28d7013a9f04be16407b25abd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_HandSlam__textures__T_EmberFlame_Sheet.png",
+            "path": "config/portablevfx/effects/AS_HandSlam/textures/T_EmberFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_HandSlam/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/AS_HandSlam/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2339,
+            "MD5": "9563b88aeec3ba17e9d3f7c32e309b57",
+            "SHA256": "779823bca299684d92b110776f2ea3d5a72411f731771ff432b226f2c05120a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_HandSlam__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/AS_HandSlam/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_HandSlam/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/AS_HandSlam/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_HandSlam__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/AS_HandSlam/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_HandSlam/textures/T_HandPrint.png",
+          "name": "config/portablevfx/effects/AS_HandSlam/textures/T_HandPrint.png",
+          "type": "File",
+          "artifact": {
+            "size": 31442,
+            "MD5": "533e42ba4196d6230db246746a93653f",
+            "SHA256": "588fdb1b01dcb5b8c4abf0276fc4a348d93fbb24bae62bce631fc67b1a59bcc7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_HandSlam__textures__T_HandPrint.png",
+            "path": "config/portablevfx/effects/AS_HandSlam/textures/T_HandPrint.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_HandSlam/textures/T_InkShard.png",
+          "name": "config/portablevfx/effects/AS_HandSlam/textures/T_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2636,
+            "MD5": "b250b11eaac0ea253416d597e80f7c9f",
+            "SHA256": "5523b2b32a2ace4766dc1ab7dac0df87d9be479ff884b650b2e2e2b726dc29bf",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_HandSlam__textures__T_InkShard.png",
+            "path": "config/portablevfx/effects/AS_HandSlam/textures/T_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_HandSlam/textures/T_Scorch.png",
+          "name": "config/portablevfx/effects/AS_HandSlam/textures/T_Scorch.png",
+          "type": "File",
+          "artifact": {
+            "size": 32869,
+            "MD5": "6f160e416316bc66fd7a085a929ecaa7",
+            "SHA256": "face0d74c017d70796364e36a5732533ec255cac50ed66f79cebe2be72814d2c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_HandSlam__textures__T_Scorch.png",
+            "path": "config/portablevfx/effects/AS_HandSlam/textures/T_Scorch.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_HandSlam/textures/T_ShadowHand.png",
+          "name": "config/portablevfx/effects/AS_HandSlam/textures/T_ShadowHand.png",
+          "type": "File",
+          "artifact": {
+            "size": 25285,
+            "MD5": "5174f1da290b16377614bccfeff83a51",
+            "SHA256": "a7339c494b8baec5863a297bcc99f6a6d718ff359e1bd02eeaaf7dcdbf84d974",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_HandSlam__textures__T_ShadowHand.png",
+            "path": "config/portablevfx/effects/AS_HandSlam/textures/T_ShadowHand.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_HandSlam/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/AS_HandSlam/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_HandSlam__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/AS_HandSlam/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_HandSlam/textures/T_Star.png",
+          "name": "config/portablevfx/effects/AS_HandSlam/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_HandSlam__textures__T_Star.png",
+            "path": "config/portablevfx/effects/AS_HandSlam/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ShadowSink/vfx.json",
+          "name": "config/portablevfx/effects/AS_ShadowSink/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 82682,
+            "MD5": "5b06744d80e4140804f6a5f2234d7c1a",
+            "SHA256": "45c941bc84638f798eb08e7baeab94650210e251f62f053a8015d082c897c65d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ShadowSink__vfx.json",
+            "path": "config/portablevfx/effects/AS_ShadowSink/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ShadowSink/textures/T_AshFlake.png",
+          "name": "config/portablevfx/effects/AS_ShadowSink/textures/T_AshFlake.png",
+          "type": "File",
+          "artifact": {
+            "size": 2062,
+            "MD5": "c8708b15d2f9222680109309e1dd89aa",
+            "SHA256": "b674f06e4516578af02bd0e05f2cc736e067b5d56f623d7109a70a41e1340ba9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ShadowSink__textures__T_AshFlake.png",
+            "path": "config/portablevfx/effects/AS_ShadowSink/textures/T_AshFlake.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ShadowSink/textures/T_AshMist_Sheet.png",
+          "name": "config/portablevfx/effects/AS_ShadowSink/textures/T_AshMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 39525,
+            "MD5": "5a9eb1a3df25648ddb6b8624520a3d47",
+            "SHA256": "de669a2c75c15b949df2a2a8e6e0191d4863964ecaeef75533e2f2bdb757c2a3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ShadowSink__textures__T_AshMist_Sheet.png",
+            "path": "config/portablevfx/effects/AS_ShadowSink/textures/T_AshMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ShadowSink/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/AS_ShadowSink/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33207,
+            "MD5": "457c5f624303fd550eea6130b7ced532",
+            "SHA256": "115566ae62bc058133dc387c7d3213ba8b7fab302ff6ea26e5cbfe1a384b660a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ShadowSink__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/AS_ShadowSink/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ShadowSink/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/AS_ShadowSink/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ShadowSink__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/AS_ShadowSink/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ShadowSink/textures/T_EmberFlame_Sheet.png",
+          "name": "config/portablevfx/effects/AS_ShadowSink/textures/T_EmberFlame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 80133,
+            "MD5": "35fa649b6d2ef72e93a670388b6c4c21",
+            "SHA256": "c8a2ef3877f517e1b3ee2ae0a27dac882d707da28d7013a9f04be16407b25abd",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ShadowSink__textures__T_EmberFlame_Sheet.png",
+            "path": "config/portablevfx/effects/AS_ShadowSink/textures/T_EmberFlame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ShadowSink/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/AS_ShadowSink/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2339,
+            "MD5": "9563b88aeec3ba17e9d3f7c32e309b57",
+            "SHA256": "779823bca299684d92b110776f2ea3d5a72411f731771ff432b226f2c05120a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ShadowSink__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/AS_ShadowSink/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ShadowSink/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/AS_ShadowSink/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ShadowSink__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/AS_ShadowSink/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ShadowSink/textures/T_InkPool.png",
+          "name": "config/portablevfx/effects/AS_ShadowSink/textures/T_InkPool.png",
+          "type": "File",
+          "artifact": {
+            "size": 45621,
+            "MD5": "3b4c3031f30f9a7588c8263beba3496e",
+            "SHA256": "1bf0c5c823b8af78a3501cf96f386d79945612c8dc1e756099c7a71211fa7b7e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ShadowSink__textures__T_InkPool.png",
+            "path": "config/portablevfx/effects/AS_ShadowSink/textures/T_InkPool.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ShadowSink/textures/T_InkShard.png",
+          "name": "config/portablevfx/effects/AS_ShadowSink/textures/T_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 2636,
+            "MD5": "b250b11eaac0ea253416d597e80f7c9f",
+            "SHA256": "5523b2b32a2ace4766dc1ab7dac0df87d9be479ff884b650b2e2e2b726dc29bf",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ShadowSink__textures__T_InkShard.png",
+            "path": "config/portablevfx/effects/AS_ShadowSink/textures/T_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ShadowSink/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/AS_ShadowSink/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 25177,
+            "MD5": "5b240a157ee83908b58fad846d6a8011",
+            "SHA256": "0571a4672a9c0f2ef2afe3985cffa1590e5a0e61ea8c73f717396a7766845358",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ShadowSink__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/AS_ShadowSink/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ShadowSink/textures/T_Scorch.png",
+          "name": "config/portablevfx/effects/AS_ShadowSink/textures/T_Scorch.png",
+          "type": "File",
+          "artifact": {
+            "size": 32869,
+            "MD5": "6f160e416316bc66fd7a085a929ecaa7",
+            "SHA256": "face0d74c017d70796364e36a5732533ec255cac50ed66f79cebe2be72814d2c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ShadowSink__textures__T_Scorch.png",
+            "path": "config/portablevfx/effects/AS_ShadowSink/textures/T_Scorch.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ShadowSink/textures/T_ShadowHand.png",
+          "name": "config/portablevfx/effects/AS_ShadowSink/textures/T_ShadowHand.png",
+          "type": "File",
+          "artifact": {
+            "size": 25285,
+            "MD5": "5174f1da290b16377614bccfeff83a51",
+            "SHA256": "a7339c494b8baec5863a297bcc99f6a6d718ff359e1bd02eeaaf7dcdbf84d974",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ShadowSink__textures__T_ShadowHand.png",
+            "path": "config/portablevfx/effects/AS_ShadowSink/textures/T_ShadowHand.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ShadowSink/textures/T_Shock.png",
+          "name": "config/portablevfx/effects/AS_ShadowSink/textures/T_Shock.png",
+          "type": "File",
+          "artifact": {
+            "size": 32924,
+            "MD5": "2f3b642728ee5be0e76cd8d279bea9e1",
+            "SHA256": "9222d5896d9062e895124939b1fe896aa332be3ba6408c7b9cff527547843235",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ShadowSink__textures__T_Shock.png",
+            "path": "config/portablevfx/effects/AS_ShadowSink/textures/T_Shock.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_ShadowSink/textures/T_Star.png",
+          "name": "config/portablevfx/effects/AS_ShadowSink/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_ShadowSink__textures__T_Star.png",
+            "path": "config/portablevfx/effects/AS_ShadowSink/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Ward/vfx.json",
+          "name": "config/portablevfx/effects/AS_Ward/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 252971,
+            "MD5": "a6320053eaaaec678daf0c87aa2fcb38",
+            "SHA256": "ff09f1ee15aeb23e940010351db96ab428c7a89e0ef03e06ca7cc28019f3831e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Ward__vfx.json",
+            "path": "config/portablevfx/effects/AS_Ward/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Ward/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/AS_Ward/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1396,
+            "MD5": "c56ddeb03bf9377c55ad4445c61cc5dc",
+            "SHA256": "a6ce2416a95a4f9ab4c1b8484fd35ba6ebd1c726e9fc98f4e0b4cd56adade21b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Ward__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/AS_Ward/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Ward/textures/T_FireStreak.png",
+          "name": "config/portablevfx/effects/AS_Ward/textures/T_FireStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2267,
+            "MD5": "0bfd3e5aa44c8a033800819695ecf369",
+            "SHA256": "e7531e4d339dc3a300355da494d0c429e6e0f6d25777254e94f412d58411ae1a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Ward__textures__T_FireStreak.png",
+            "path": "config/portablevfx/effects/AS_Ward/textures/T_FireStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Ward/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/AS_Ward/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Ward__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/AS_Ward/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Ward/textures/T_GoldStreak.png",
+          "name": "config/portablevfx/effects/AS_Ward/textures/T_GoldStreak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2382,
+            "MD5": "bbe301e204c0c95d0171696534539dea",
+            "SHA256": "1dab5029c483eb4333ab0a14b3fae3481d9168b9f41522c5befc696562635e8d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Ward__textures__T_GoldStreak.png",
+            "path": "config/portablevfx/effects/AS_Ward/textures/T_GoldStreak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Ward/textures/T_HexGold.png",
+          "name": "config/portablevfx/effects/AS_Ward/textures/T_HexGold.png",
+          "type": "File",
+          "artifact": {
+            "size": 62207,
+            "MD5": "6b49cf5d608124c8f164c1fd6b6110cc",
+            "SHA256": "9b1f1939a3a1c9c88413ed130225279a98d210fd154459b304bdcf969e7aa0d0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Ward__textures__T_HexGold.png",
+            "path": "config/portablevfx/effects/AS_Ward/textures/T_HexGold.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Ward/textures/T_Line.png",
+          "name": "config/portablevfx/effects/AS_Ward/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "MD5": "cbb12a9a0bd19807642353df0b305c29",
+            "SHA256": "3389485a46efcf76d1b7b6bf51000b1ca531c227e0fc36550979dd5d354482a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Ward__textures__T_Line.png",
+            "path": "config/portablevfx/effects/AS_Ward/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Ward/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/AS_Ward/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 23341,
+            "MD5": "b6b66ea2e3544bb94fdffbd383d9c23a",
+            "SHA256": "543b334825da7f2c65f176574f0073baa0b128e8c4860fe9268d3c03488d18f7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Ward__textures__T_RuneStrip.png",
+            "path": "config/portablevfx/effects/AS_Ward/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/AS_Ward/textures/T_Star.png",
+          "name": "config/portablevfx/effects/AS_Ward/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5809,
+            "MD5": "567825b7a375ddde720b31007cdeeb1f",
+            "SHA256": "8df9f59efb574c774b6df705faf1946bde1d6b660eb0be7f20b5618b129b8f5d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-ash-20261103/ash__AS_Ward__textures__T_Star.png",
+            "path": "config/portablevfx/effects/AS_Ward/textures/T_Star.png"
           }
         },
         {
