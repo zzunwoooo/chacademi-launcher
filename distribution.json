@@ -343,10 +343,10 @@
           "name": "mods/portable-vfx-preserved-245d836c.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 431297,
-            "MD5": "5304946d2f65d6a779899294d52c0789",
-            "SHA256": "7405aa1f8869a68e3bb93e77c2b43a398a032d5e8354e6b7554ca511a52cb9af",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-readiness-repair-20261026/portable-vfx-audited-packs-fixed-7405aa1f.jar"
+            "size": 434306,
+            "MD5": "7c3b4385f9a72cd3b07072f64ad24f0e",
+            "SHA256": "439c43fb27ce1f3512e75facaf445ba186b9907fc4d198aa4ca1318075ef97ea",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/portable-vfx-preserved-245d836c-rgba2048.jar"
           }
         },
         {
@@ -366,10 +366,10 @@
           "name": "config/magiccodex/launcher/client-assets.zip",
           "type": "File",
           "artifact": {
-            "size": 752563854,
-            "MD5": "c4691b3b7e5ffa6266c66727b751e44e",
-            "SHA256": "0e9a6e6397e8e406208bdb193771199564938d80ca1398fc00cf9dec6b9d0def",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-client-assets-eip-20261029/client-assets-eip-20261029.zip",
+            "size": 698328570,
+            "MD5": "aef28a7f14673a2b5fed2d4a79367a45",
+            "SHA256": "244ae9688c5c54e663803f018179b095221e584b4f856c018e6602ef34a58118",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/client-assets-rgba-20261103.zip",
             "path": "config/magiccodex/launcher/client-assets.zip"
           },
           "updatePolicy": "managed"
@@ -4369,10 +4369,10 @@
           "name": "config/portablevfx/load-limits.properties",
           "type": "File",
           "artifact": {
-            "size": 205,
-            "MD5": "bad1d853d68242032ad5399657aa3e4c",
-            "SHA256": "07e513140ccbf6e80decbe9bf6702d63c7f9042d4a79ba5e425a4067b4bb1105",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/v0.1.19/load-limits.properties",
+            "size": 528,
+            "MD5": "b30e97dae950acc3b5ee97e2010ef60c",
+            "SHA256": "b071e9a57833bc5ba1c2c0fa340d16e5f32fb5d55833fcdd9c34c3372a921948",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/load-limits-rgba1536.properties",
             "path": "config/portablevfx/load-limits.properties"
           },
           "updatePolicy": "seed",
@@ -5148,11 +5148,11 @@
           "name": "config/portablevfx/effects/LegendaryDrop/textures/T_Wisp_Sheet.png",
           "type": "File",
           "artifact": {
-            "size": 58534,
-            "SHA256": "ba352a471a84f75c3b611eeadcf0beb2a28c35b7828e5f3270a17b9e92ba53c9",
-            "MD5": "ec743f1dd18b0e9c75b44efd88ee43d3",
+            "size": 24384,
+            "SHA256": "3293839f27ba46fa3f45227ff757fd23a029b25bb3b35d6716e3793396ce4890",
+            "MD5": "18be2413b623a2bd1e6ff4b0cf75e901",
             "path": "config/portablevfx/effects/LegendaryDrop/textures/T_Wisp_Sheet.png",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-drop-rarity-vfx-20261022-task7/drop-LegendaryDrop__textures__T_Wisp_Sheet.png"
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/rgba512__LegendaryDrop__textures__T_Wisp_Sheet.png"
           }
         },
         {
@@ -5834,10 +5834,10 @@
           "name": "config/portablevfx/effects/AbyssGate/textures/T_AGStroke_Sheet.png",
           "type": "File",
           "artifact": {
-            "size": 124031,
-            "MD5": "97d3a504848cd837a1ea5f711bff816f",
-            "SHA256": "423514e39dbe63babb26fd07fb6b98b84eb70220c404d4213ad5c9d1c9357caf",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part1/vfx-452fc2196151a48d600a.png",
+            "size": 39836,
+            "MD5": "be57671b3730ba19cc4ec0cfe9fed87b",
+            "SHA256": "00adc090b7f3630b6a3cb4c4362fbdd577faed5ee44816cd618d1e6cb6534fd1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/rgba512__AbyssGate__textures__T_AGStroke_Sheet.png",
             "path": "config/portablevfx/effects/AbyssGate/textures/T_AGStroke_Sheet.png"
           }
         },
@@ -6014,10 +6014,10 @@
           "name": "config/portablevfx/effects/AirCannon/textures/T_ACStroke_Sheet.png",
           "type": "File",
           "artifact": {
-            "size": 130240,
-            "MD5": "855eb8daf18833f74c2c03096e4876ab",
-            "SHA256": "8d0c7bfef8ddc8a1508628184e843e54a51bee0bcb03e71e6aa91161fb35b236",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part1/vfx-8cae0027ea1ba8bc4a71.png",
+            "size": 41501,
+            "MD5": "db12392eaee33f1cef72240096f5ac0f",
+            "SHA256": "d81e80ebd696622db465935cffa878a176f4ac5c513f5cf54ff23d44fca24634",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/rgba512__AirCannon__textures__T_ACStroke_Sheet.png",
             "path": "config/portablevfx/effects/AirCannon/textures/T_ACStroke_Sheet.png"
           }
         },
@@ -11414,10 +11414,10 @@
           "name": "config/portablevfx/effects/EbbMark/textures/T_EMStroke_Sheet.png",
           "type": "File",
           "artifact": {
-            "size": 140239,
-            "MD5": "91924fd6e2981a2d8ea91ff73f26ca37",
-            "SHA256": "ba451ac685b63451e2e5d394e07285394be612e7b54ecdf288664ff634205d2f",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part1/vfx-de98e9171b7126205c17.png",
+            "size": 45122,
+            "MD5": "681d2bde392f743c3931d8a3ac150437",
+            "SHA256": "87d6e5ee33acd953ae3912990c525ec25e1b1f822dbaa77313984ac4d218036b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/rgba512__EbbMark__textures__T_EMStroke_Sheet.png",
             "path": "config/portablevfx/effects/EbbMark/textures/T_EMStroke_Sheet.png"
           }
         },
@@ -11594,10 +11594,10 @@
           "name": "config/portablevfx/effects/EchoReading/textures/T_ERStroke_Sheet.png",
           "type": "File",
           "artifact": {
-            "size": 116951,
-            "MD5": "f4e074884db5032079bd9ad908266e6b",
-            "SHA256": "206a2afadd574e054aa485234006152647a994474bf0ae897bd3eeb36de461d0",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part2/vfx-0b53c05f78ad27feb0fe.png",
+            "size": 38356,
+            "MD5": "091ed4d148d4f0bacdd2b0d508c56106",
+            "SHA256": "c0773e22a46f60d70fe2c88f960a8e6a438a107b6a801ffd35f0448479ed01e5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/rgba512__EchoReading__textures__T_ERStroke_Sheet.png",
             "path": "config/portablevfx/effects/EchoReading/textures/T_ERStroke_Sheet.png"
           }
         },
@@ -12902,10 +12902,10 @@
           "name": "config/portablevfx/effects/FateLink/textures/T_FLStroke_Sheet.png",
           "type": "File",
           "artifact": {
-            "size": 112101,
-            "MD5": "1be92b07bfd5fda9e82839adb006df9a",
-            "SHA256": "471a0380ec4451abaf46f2bb60b128312159c3d1eed40039106367096c1ac16e",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part2/vfx-f5451952ac6db28c0307.png",
+            "size": 36208,
+            "MD5": "0095098bca596d5eeb7598a6347bdf0d",
+            "SHA256": "8322d00f87d497ebc2cef1eec477408e6e661801c37f8bdbf21e0dcf9e187916",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/rgba512__FateLink__textures__T_FLStroke_Sheet.png",
             "path": "config/portablevfx/effects/FateLink/textures/T_FLStroke_Sheet.png"
           }
         },
@@ -14234,10 +14234,10 @@
           "name": "config/portablevfx/effects/ForbiddenContract/textures/T_FCStroke_Sheet.png",
           "type": "File",
           "artifact": {
-            "size": 116853,
-            "MD5": "38a66d43a93d381e3b58141ee83db347",
-            "SHA256": "2c77c68d51da6450032e4068ec0a4f1b150e4011fb4100a9842688d615e6b496",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part2/vfx-9dd8579223e7c10e6a80.png",
+            "size": 38247,
+            "MD5": "0875dbc2ec4fd36d9c18d47c9edea764",
+            "SHA256": "90647f32e7fe13963bf6ff026c02bc6b9e656e64eb5295af74e761714bbd69ab",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/rgba512__ForbiddenContract__textures__T_FCStroke_Sheet.png",
             "path": "config/portablevfx/effects/ForbiddenContract/textures/T_FCStroke_Sheet.png"
           }
         },
@@ -14870,10 +14870,10 @@
           "name": "config/portablevfx/effects/GaleCombo/textures/T_GCStroke_Sheet.png",
           "type": "File",
           "artifact": {
-            "size": 135081,
-            "MD5": "77c0cc9268a18f8628a9ad56bfb25b34",
-            "SHA256": "92fd26ab519f1f0d3530ce4975ecb6d1ed3ffacefb9bb685e0d2a30bbe844777",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part2/vfx-d8dbd5c7bf537adf8d1b.png",
+            "size": 42818,
+            "MD5": "b5516194176a8f13908fc7e39fe28ab7",
+            "SHA256": "c01352df93adf4ba5e546be39d816ba496cba613a2481f80fe1a13d43a49a9ee",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/rgba512__GaleCombo__textures__T_GCStroke_Sheet.png",
             "path": "config/portablevfx/effects/GaleCombo/textures/T_GCStroke_Sheet.png"
           }
         },
@@ -15674,10 +15674,10 @@
           "name": "config/portablevfx/effects/HealingSeal/textures/T_HSStroke_Sheet.png",
           "type": "File",
           "artifact": {
-            "size": 109459,
-            "MD5": "d0ce78bd219e5966e1631e29f39483d0",
-            "SHA256": "44893537b2fb9432a445ade926bb81663ac1a8c63e6f1f9524b77a91eed82613",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part2/vfx-f4e9958badf4018c7bd8.png",
+            "size": 35981,
+            "MD5": "ea4507ff8bebcaec88ab2d519e66ed49",
+            "SHA256": "310880cdde972fb3151e594bb01b6bf99328361e7bf0b45141f3f16daece3cd9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/rgba512__HealingSeal__textures__T_HSStroke_Sheet.png",
             "path": "config/portablevfx/effects/HealingSeal/textures/T_HSStroke_Sheet.png"
           }
         },
@@ -16334,10 +16334,10 @@
           "name": "config/portablevfx/effects/HeavenCyclone/textures/T_HCStroke_Sheet.png",
           "type": "File",
           "artifact": {
-            "size": 132751,
-            "MD5": "1147a7df48a7454619f76f9acf801938",
-            "SHA256": "df1d4d5cd16a8acf11a85f6835bd70266f510e7a97917680f850c8bec5337222",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part2/vfx-9157c76ff25ed5e0e747.png",
+            "size": 41925,
+            "MD5": "3110c3c2fdfbcc70adc9049c641f950f",
+            "SHA256": "cda8d214dc009c4381d3258f6a3126f3ea4490b4a1e84752c5b75b81174d6cb5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/rgba512__HeavenCyclone__textures__T_HCStroke_Sheet.png",
             "path": "config/portablevfx/effects/HeavenCyclone/textures/T_HCStroke_Sheet.png"
           }
         },
@@ -18206,10 +18206,10 @@
           "name": "config/portablevfx/effects/InkFingertip/textures/T_IFStroke_Sheet.png",
           "type": "File",
           "artifact": {
-            "size": 101143,
-            "MD5": "9a5673ee6f984f486f524719c332afe2",
-            "SHA256": "fdd89498cbabe762410fa25dc1bc703fec8a8c8198f53c299464a177e59c158e",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-934f613bb9e69c0db331.png",
+            "size": 32258,
+            "MD5": "a2f0ac22f383817a2719222676f91cf4",
+            "SHA256": "0da4f9bca6aec74ac76476df0dc76f8a0030e6f223f8eaf56769b867fd604b32",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/rgba512__InkFingertip__textures__T_IFStroke_Sheet.png",
             "path": "config/portablevfx/effects/InkFingertip/textures/T_IFStroke_Sheet.png"
           }
         },
@@ -20150,10 +20150,10 @@
           "name": "config/portablevfx/effects/MiniTwister/textures/T_MTStroke_Sheet.png",
           "type": "File",
           "artifact": {
-            "size": 137483,
-            "MD5": "d17b597ef3854098b5853ba2c2cbd3db",
-            "SHA256": "7b66a701692bbe92825837131742a5019e49be57737cc0e8fd2556e228c2849c",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-5a5bb20c121902330b7d.png",
+            "size": 43612,
+            "MD5": "c7461ed9a5aaba0c9ec6ce86458b0ef4",
+            "SHA256": "d4330986c2313b44d572b1ad464493c9709c81ef5cf8b08b8a1456f96c74f77b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/rgba512__MiniTwister__textures__T_MTStroke_Sheet.png",
             "path": "config/portablevfx/effects/MiniTwister/textures/T_MTStroke_Sheet.png"
           }
         },
@@ -20426,10 +20426,10 @@
           "name": "config/portablevfx/effects/misfortune_whisper/textures/T_MWStroke_Sheet.png",
           "type": "File",
           "artifact": {
-            "size": 117301,
-            "MD5": "2d9db34a0a79bfcbb0951cd7eb4be861",
-            "SHA256": "313e74e2a65825dceae8571b7481bee143e50a60917a10d52f1b5d8c7c37d83d",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-59197ea4fa479e2ce2ff.png",
+            "size": 38249,
+            "MD5": "9a940dd3305b86540187abd54a183039",
+            "SHA256": "09471ea89e72bf07e1d90d3d75ff1a8bef91a8cec85f99950d3a60392a61582f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/rgba512__misfortune_whisper__textures__T_MWStroke_Sheet.png",
             "path": "config/portablevfx/effects/misfortune_whisper/textures/T_MWStroke_Sheet.png"
           }
         },
@@ -24650,10 +24650,10 @@
           "name": "config/portablevfx/effects/SkyDive/textures/T_SDStroke_Sheet.png",
           "type": "File",
           "artifact": {
-            "size": 132751,
-            "MD5": "1147a7df48a7454619f76f9acf801938",
-            "SHA256": "df1d4d5cd16a8acf11a85f6835bd70266f510e7a97917680f850c8bec5337222",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part4/vfx-173cc205b37396e34940.png",
+            "size": 41925,
+            "MD5": "3110c3c2fdfbcc70adc9049c641f950f",
+            "SHA256": "cda8d214dc009c4381d3258f6a3126f3ea4490b4a1e84752c5b75b81174d6cb5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/rgba512__SkyDive__textures__T_SDStroke_Sheet.png",
             "path": "config/portablevfx/effects/SkyDive/textures/T_SDStroke_Sheet.png"
           }
         },
@@ -26150,10 +26150,10 @@
           "name": "config/portablevfx/effects/Tailwind/textures/T_TWStroke_Sheet.png",
           "type": "File",
           "artifact": {
-            "size": 134594,
-            "MD5": "6e7a441cb91d71335a8ad44f693ae010",
-            "SHA256": "eb33af6c1fd837417522a3d037a38adbcbab8f0eb2bf619e6dfb2118681b02ee",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part4/vfx-e5b770fd6543a86cea72.png",
+            "size": 42381,
+            "MD5": "07ee7cd7e5d7567e36e690305582df95",
+            "SHA256": "cf805f62d1d5a0fac4f72ee585fa8ce6bb96908c791ecac06d13ca2e972ba9e2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/rgba512__Tailwind__textures__T_TWStroke_Sheet.png",
             "path": "config/portablevfx/effects/Tailwind/textures/T_TWStroke_Sheet.png"
           }
         },
@@ -27470,10 +27470,10 @@
           "name": "config/portablevfx/effects/VacuumBurst/textures/T_VBStroke_Sheet.png",
           "type": "File",
           "artifact": {
-            "size": 133145,
-            "MD5": "1f0c5481edf23d24f8563e155c3fe402",
-            "SHA256": "29a0696f0ccede56587898cda7152774b1d325d463047a04b13d02f2fae08753",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part4/vfx-71a3dda3829f5e84652c.png",
+            "size": 42117,
+            "MD5": "999c9698c56ecad59fda16e81099dc68",
+            "SHA256": "8abaf02091c9661a4c7be7ed040589050343fe30b6fa6b7e62b93c84166618f0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/rgba512__VacuumBurst__textures__T_VBStroke_Sheet.png",
             "path": "config/portablevfx/effects/VacuumBurst/textures/T_VBStroke_Sheet.png"
           }
         },
@@ -38174,10 +38174,10 @@
           "name": "config/portablevfx/effects/MordianClaw/textures/T_ClawSheet.png",
           "type": "File",
           "artifact": {
-            "size": 116523,
-            "MD5": "74b3b0f76d9bc3272502df1c8d0cb9b2",
-            "SHA256": "e3677f95b4230c90236413faea7190991cc1d1b34ccb575b57e4cb9c4b74522d",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-bosses-20261103/boss__MordianClaw__textures__T_ClawSheet.png",
+            "size": 34234,
+            "MD5": "ca4c8ce250688d91701924e2b96dee19",
+            "SHA256": "795f02566c98a64106a53da8d88d7ab42db9b9512a3cbc32971f4bf2e15133d9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/rgba512__MordianClaw__textures__T_ClawSheet.png",
             "path": "config/portablevfx/effects/MordianClaw/textures/T_ClawSheet.png"
           }
         },
