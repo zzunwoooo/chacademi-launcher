@@ -49375,9 +49375,9 @@
           "type": "File",
           "artifact": {
             "size": 141895,
-            "MD5": "9023eddadb8d4df6ef18924c852dc9b6",
-            "SHA256": "63281db0554013be2f6e0192e5d0b2b37d6607b480eda82738505565f4458c6d",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p2/vfx-FocusLens-63281db0554013be2f6e.json",
+            "MD5": "5cf26c443a21c5971b73d851fdc1a3c3",
+            "SHA256": "bc2ceadb1b74e1cd5646ff3b42aedd52255b72d1ae0e54de7865fa0a2e70f55d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-nova150-vfx-20261103-p2/vfx-FocusLens-bc2ceadb1b74e1cd5646.json",
             "path": "config/portablevfx/effects/FocusLens/vfx.json"
           }
         },
