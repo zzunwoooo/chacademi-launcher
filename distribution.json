@@ -4374,11 +4374,6 @@
             "SHA256": "b071e9a57833bc5ba1c2c0fa340d16e5f32fb5d55833fcdd9c34c3372a921948",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/load-limits-rgba1536.properties",
             "path": "config/portablevfx/load-limits.properties"
-          },
-          "updatePolicy": "seed",
-          "vfxCatalogLimits": {
-            "encodedCacheMiB": 512,
-            "systems": 4096
           }
         },
         {
