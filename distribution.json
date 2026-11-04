@@ -19277,6 +19277,1386 @@
           }
         },
         {
+          "id": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Core_Sheet.png",
+          "name": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Core_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 6716,
+            "MD5": "65d3f210e9536ff5a02730b357f62244",
+            "SHA256": "a24786712e3a1ffc86aaa1e30cbf799642bd98c3a0e99305a2f2350c268278a4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-8125ffc10ee3fc00a3c3.png",
+            "path": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Core_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Dot.png",
+          "name": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1201,
+            "MD5": "e0761e9085849986fa136cd9087733aa",
+            "SHA256": "44af166d8577d96165a2b93713d25b8c8667fd29f1ef301ea547a68c35295ad9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-22a6c72d44903de4547a.png",
+            "path": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Flare.png",
+          "name": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 13242,
+            "MD5": "1bf3b9d21f1e667e72cfed984fd328bb",
+            "SHA256": "64ec764883b817ba3e329734d6f76e96a88a085f6926988ddba6ce698810015e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-1cf98040fdf3a6b50edb.png",
+            "path": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Flare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Glow.png",
+          "name": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 7110,
+            "MD5": "24927af34b97f186fb68af48ddb7f9e5",
+            "SHA256": "1a8f36b955f8112946688e726d2b873c63de9c3d9695bac24b8ec27c701a5a04",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-a5d8005f2873e3fc9316.png",
+            "path": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Halo.png",
+          "name": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Halo.png",
+          "type": "File",
+          "artifact": {
+            "size": 1323,
+            "MD5": "5f8a5d8c7950ac52a2d9568b222747c3",
+            "SHA256": "ff44367e03aca7eb1a2559c50dee7bebe42d7cb15c37fbe0e8e29654b82a7633",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-57214631768b383ad40a.png",
+            "path": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Halo.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Line.png",
+          "name": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 241,
+            "MD5": "6387fd297feeb82dd0ad309a2316e6cc",
+            "SHA256": "06619056a5c2268599605335bbaa28214d3b0997d58f37462412fdeafa53e73e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-3e092828927a0e874869.png",
+            "path": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Ray.png",
+          "name": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Ray.png",
+          "type": "File",
+          "artifact": {
+            "size": 1096,
+            "MD5": "54e4f8cf74bde9ca61e56480d9434311",
+            "SHA256": "3b3c8ac3ea98a4bf627020f50c7df92576af3928035b2885a2a24956d23855af",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-d1deaecd1deb43bb775a.png",
+            "path": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Ray.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Sigil.png",
+          "name": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 64561,
+            "MD5": "7e3575ef2ac7afc10d47239f20223280",
+            "SHA256": "03e4afa731384ec676b269b7e5990c878f93eff8d322e4f454fab6de23d9590e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-d7db559a8f50fd55e600.png",
+            "path": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Spark.png",
+          "name": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Spark.png",
+          "type": "File",
+          "artifact": {
+            "size": 5111,
+            "MD5": "3dc47a1677465c207f7701c03c05add7",
+            "SHA256": "2a8f311e4bd10958234a8e6df6871bbc16e68f2dccba8b959978f6bf890a8d77",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-e0944dfa3d5df74c63c1.png",
+            "path": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Spark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Strand_Sheet.png",
+          "name": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Strand_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 44061,
+            "MD5": "34cf31b6fa27e12550541909108eeee8",
+            "SHA256": "40aae8f62f37054e5b9e2a62680114f9e86332aab4bd74b04b2d45ff14a42f5c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-3ea30d5e94d6a4144ec8.png",
+            "path": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Strand_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Streak.png",
+          "name": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1397,
+            "MD5": "36a18a8e831b40f5d3d01c44e2adfd97",
+            "SHA256": "8743602dfdab142ebc36c462e71184edce502f9bd6ea707a18a1b9bba2ddf799",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-62838d5e103cdb2a1a80.png",
+            "path": "config/portablevfx/effects/LightBeamBlue/textures/T_LB_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamBlue/vfx.json",
+          "name": "config/portablevfx/effects/LightBeamBlue/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 517783,
+            "MD5": "44d81a5701aa3661fca70ee1a626a29b",
+            "SHA256": "cd4c4d2a78ae33a28131d3f9806d1a6efb3570fbb2dafbd8e706a4cc81cedd0c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-beamcolor-20261104/lightbeamblue-vfx.json",
+            "path": "config/portablevfx/effects/LightBeamBlue/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Core_Sheet.png",
+          "name": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Core_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 6716,
+            "MD5": "65d3f210e9536ff5a02730b357f62244",
+            "SHA256": "a24786712e3a1ffc86aaa1e30cbf799642bd98c3a0e99305a2f2350c268278a4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-8125ffc10ee3fc00a3c3.png",
+            "path": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Core_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Dot.png",
+          "name": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1201,
+            "MD5": "e0761e9085849986fa136cd9087733aa",
+            "SHA256": "44af166d8577d96165a2b93713d25b8c8667fd29f1ef301ea547a68c35295ad9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-22a6c72d44903de4547a.png",
+            "path": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Flare.png",
+          "name": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 13242,
+            "MD5": "1bf3b9d21f1e667e72cfed984fd328bb",
+            "SHA256": "64ec764883b817ba3e329734d6f76e96a88a085f6926988ddba6ce698810015e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-1cf98040fdf3a6b50edb.png",
+            "path": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Flare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Glow.png",
+          "name": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 7110,
+            "MD5": "24927af34b97f186fb68af48ddb7f9e5",
+            "SHA256": "1a8f36b955f8112946688e726d2b873c63de9c3d9695bac24b8ec27c701a5a04",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-a5d8005f2873e3fc9316.png",
+            "path": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Halo.png",
+          "name": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Halo.png",
+          "type": "File",
+          "artifact": {
+            "size": 1323,
+            "MD5": "5f8a5d8c7950ac52a2d9568b222747c3",
+            "SHA256": "ff44367e03aca7eb1a2559c50dee7bebe42d7cb15c37fbe0e8e29654b82a7633",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-57214631768b383ad40a.png",
+            "path": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Halo.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Line.png",
+          "name": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 241,
+            "MD5": "6387fd297feeb82dd0ad309a2316e6cc",
+            "SHA256": "06619056a5c2268599605335bbaa28214d3b0997d58f37462412fdeafa53e73e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-3e092828927a0e874869.png",
+            "path": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Ray.png",
+          "name": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Ray.png",
+          "type": "File",
+          "artifact": {
+            "size": 1096,
+            "MD5": "54e4f8cf74bde9ca61e56480d9434311",
+            "SHA256": "3b3c8ac3ea98a4bf627020f50c7df92576af3928035b2885a2a24956d23855af",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-d1deaecd1deb43bb775a.png",
+            "path": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Ray.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Sigil.png",
+          "name": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 64561,
+            "MD5": "7e3575ef2ac7afc10d47239f20223280",
+            "SHA256": "03e4afa731384ec676b269b7e5990c878f93eff8d322e4f454fab6de23d9590e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-d7db559a8f50fd55e600.png",
+            "path": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Spark.png",
+          "name": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Spark.png",
+          "type": "File",
+          "artifact": {
+            "size": 5111,
+            "MD5": "3dc47a1677465c207f7701c03c05add7",
+            "SHA256": "2a8f311e4bd10958234a8e6df6871bbc16e68f2dccba8b959978f6bf890a8d77",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-e0944dfa3d5df74c63c1.png",
+            "path": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Spark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Strand_Sheet.png",
+          "name": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Strand_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 44061,
+            "MD5": "34cf31b6fa27e12550541909108eeee8",
+            "SHA256": "40aae8f62f37054e5b9e2a62680114f9e86332aab4bd74b04b2d45ff14a42f5c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-3ea30d5e94d6a4144ec8.png",
+            "path": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Strand_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Streak.png",
+          "name": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1397,
+            "MD5": "36a18a8e831b40f5d3d01c44e2adfd97",
+            "SHA256": "8743602dfdab142ebc36c462e71184edce502f9bd6ea707a18a1b9bba2ddf799",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-62838d5e103cdb2a1a80.png",
+            "path": "config/portablevfx/effects/LightBeamGreen/textures/T_LB_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamGreen/vfx.json",
+          "name": "config/portablevfx/effects/LightBeamGreen/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 517882,
+            "MD5": "f719f9213093af00f6566dfd8912ffe6",
+            "SHA256": "dc730b0becb8a139625f43bf696999cf387094e6fb0e45c4b430499ffcade74e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-beamcolor-20261104/lightbeamgreen-vfx.json",
+            "path": "config/portablevfx/effects/LightBeamGreen/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Core_Sheet.png",
+          "name": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Core_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 6716,
+            "MD5": "65d3f210e9536ff5a02730b357f62244",
+            "SHA256": "a24786712e3a1ffc86aaa1e30cbf799642bd98c3a0e99305a2f2350c268278a4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-8125ffc10ee3fc00a3c3.png",
+            "path": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Core_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Dot.png",
+          "name": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1201,
+            "MD5": "e0761e9085849986fa136cd9087733aa",
+            "SHA256": "44af166d8577d96165a2b93713d25b8c8667fd29f1ef301ea547a68c35295ad9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-22a6c72d44903de4547a.png",
+            "path": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Flare.png",
+          "name": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 13242,
+            "MD5": "1bf3b9d21f1e667e72cfed984fd328bb",
+            "SHA256": "64ec764883b817ba3e329734d6f76e96a88a085f6926988ddba6ce698810015e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-1cf98040fdf3a6b50edb.png",
+            "path": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Flare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Glow.png",
+          "name": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 7110,
+            "MD5": "24927af34b97f186fb68af48ddb7f9e5",
+            "SHA256": "1a8f36b955f8112946688e726d2b873c63de9c3d9695bac24b8ec27c701a5a04",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-a5d8005f2873e3fc9316.png",
+            "path": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Halo.png",
+          "name": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Halo.png",
+          "type": "File",
+          "artifact": {
+            "size": 1323,
+            "MD5": "5f8a5d8c7950ac52a2d9568b222747c3",
+            "SHA256": "ff44367e03aca7eb1a2559c50dee7bebe42d7cb15c37fbe0e8e29654b82a7633",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-57214631768b383ad40a.png",
+            "path": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Halo.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Line.png",
+          "name": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 241,
+            "MD5": "6387fd297feeb82dd0ad309a2316e6cc",
+            "SHA256": "06619056a5c2268599605335bbaa28214d3b0997d58f37462412fdeafa53e73e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-3e092828927a0e874869.png",
+            "path": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Ray.png",
+          "name": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Ray.png",
+          "type": "File",
+          "artifact": {
+            "size": 1096,
+            "MD5": "54e4f8cf74bde9ca61e56480d9434311",
+            "SHA256": "3b3c8ac3ea98a4bf627020f50c7df92576af3928035b2885a2a24956d23855af",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-d1deaecd1deb43bb775a.png",
+            "path": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Ray.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Sigil.png",
+          "name": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 64561,
+            "MD5": "7e3575ef2ac7afc10d47239f20223280",
+            "SHA256": "03e4afa731384ec676b269b7e5990c878f93eff8d322e4f454fab6de23d9590e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-d7db559a8f50fd55e600.png",
+            "path": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Spark.png",
+          "name": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Spark.png",
+          "type": "File",
+          "artifact": {
+            "size": 5111,
+            "MD5": "3dc47a1677465c207f7701c03c05add7",
+            "SHA256": "2a8f311e4bd10958234a8e6df6871bbc16e68f2dccba8b959978f6bf890a8d77",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-e0944dfa3d5df74c63c1.png",
+            "path": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Spark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Strand_Sheet.png",
+          "name": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Strand_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 44061,
+            "MD5": "34cf31b6fa27e12550541909108eeee8",
+            "SHA256": "40aae8f62f37054e5b9e2a62680114f9e86332aab4bd74b04b2d45ff14a42f5c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-3ea30d5e94d6a4144ec8.png",
+            "path": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Strand_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Streak.png",
+          "name": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1397,
+            "MD5": "36a18a8e831b40f5d3d01c44e2adfd97",
+            "SHA256": "8743602dfdab142ebc36c462e71184edce502f9bd6ea707a18a1b9bba2ddf799",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-62838d5e103cdb2a1a80.png",
+            "path": "config/portablevfx/effects/LightBeamPurple/textures/T_LB_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamPurple/vfx.json",
+          "name": "config/portablevfx/effects/LightBeamPurple/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 517786,
+            "MD5": "5226c7b9060f3cdc4311a48f14d2655f",
+            "SHA256": "2204723e08bdd36becc89327692c25631f972a262024829c0c31e00f995ca819",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-beamcolor-20261104/lightbeampurple-vfx.json",
+            "path": "config/portablevfx/effects/LightBeamPurple/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Core_Sheet.png",
+          "name": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Core_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 6716,
+            "MD5": "65d3f210e9536ff5a02730b357f62244",
+            "SHA256": "a24786712e3a1ffc86aaa1e30cbf799642bd98c3a0e99305a2f2350c268278a4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-8125ffc10ee3fc00a3c3.png",
+            "path": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Core_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Dot.png",
+          "name": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1201,
+            "MD5": "e0761e9085849986fa136cd9087733aa",
+            "SHA256": "44af166d8577d96165a2b93713d25b8c8667fd29f1ef301ea547a68c35295ad9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-22a6c72d44903de4547a.png",
+            "path": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Flare.png",
+          "name": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 13242,
+            "MD5": "1bf3b9d21f1e667e72cfed984fd328bb",
+            "SHA256": "64ec764883b817ba3e329734d6f76e96a88a085f6926988ddba6ce698810015e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-1cf98040fdf3a6b50edb.png",
+            "path": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Flare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Glow.png",
+          "name": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 7110,
+            "MD5": "24927af34b97f186fb68af48ddb7f9e5",
+            "SHA256": "1a8f36b955f8112946688e726d2b873c63de9c3d9695bac24b8ec27c701a5a04",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-a5d8005f2873e3fc9316.png",
+            "path": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Halo.png",
+          "name": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Halo.png",
+          "type": "File",
+          "artifact": {
+            "size": 1323,
+            "MD5": "5f8a5d8c7950ac52a2d9568b222747c3",
+            "SHA256": "ff44367e03aca7eb1a2559c50dee7bebe42d7cb15c37fbe0e8e29654b82a7633",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-57214631768b383ad40a.png",
+            "path": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Halo.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Line.png",
+          "name": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 241,
+            "MD5": "6387fd297feeb82dd0ad309a2316e6cc",
+            "SHA256": "06619056a5c2268599605335bbaa28214d3b0997d58f37462412fdeafa53e73e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-3e092828927a0e874869.png",
+            "path": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Ray.png",
+          "name": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Ray.png",
+          "type": "File",
+          "artifact": {
+            "size": 1096,
+            "MD5": "54e4f8cf74bde9ca61e56480d9434311",
+            "SHA256": "3b3c8ac3ea98a4bf627020f50c7df92576af3928035b2885a2a24956d23855af",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-d1deaecd1deb43bb775a.png",
+            "path": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Ray.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Sigil.png",
+          "name": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 64561,
+            "MD5": "7e3575ef2ac7afc10d47239f20223280",
+            "SHA256": "03e4afa731384ec676b269b7e5990c878f93eff8d322e4f454fab6de23d9590e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-d7db559a8f50fd55e600.png",
+            "path": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Spark.png",
+          "name": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Spark.png",
+          "type": "File",
+          "artifact": {
+            "size": 5111,
+            "MD5": "3dc47a1677465c207f7701c03c05add7",
+            "SHA256": "2a8f311e4bd10958234a8e6df6871bbc16e68f2dccba8b959978f6bf890a8d77",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-e0944dfa3d5df74c63c1.png",
+            "path": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Spark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Strand_Sheet.png",
+          "name": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Strand_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 44061,
+            "MD5": "34cf31b6fa27e12550541909108eeee8",
+            "SHA256": "40aae8f62f37054e5b9e2a62680114f9e86332aab4bd74b04b2d45ff14a42f5c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-3ea30d5e94d6a4144ec8.png",
+            "path": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Strand_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Streak.png",
+          "name": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1397,
+            "MD5": "36a18a8e831b40f5d3d01c44e2adfd97",
+            "SHA256": "8743602dfdab142ebc36c462e71184edce502f9bd6ea707a18a1b9bba2ddf799",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-62838d5e103cdb2a1a80.png",
+            "path": "config/portablevfx/effects/LightBeamRed/textures/T_LB_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamRed/vfx.json",
+          "name": "config/portablevfx/effects/LightBeamRed/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 517778,
+            "MD5": "ad37031fe9b9bb7e9d765481518fe014",
+            "SHA256": "ee151a0970e72ccf028a91f0a73b026c92d534a85b821026b70a3ab480691399",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-beamcolor-20261104/lightbeamred-vfx.json",
+            "path": "config/portablevfx/effects/LightBeamRed/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Core_Sheet.png",
+          "name": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Core_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 6716,
+            "MD5": "65d3f210e9536ff5a02730b357f62244",
+            "SHA256": "a24786712e3a1ffc86aaa1e30cbf799642bd98c3a0e99305a2f2350c268278a4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-8125ffc10ee3fc00a3c3.png",
+            "path": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Core_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Dot.png",
+          "name": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1201,
+            "MD5": "e0761e9085849986fa136cd9087733aa",
+            "SHA256": "44af166d8577d96165a2b93713d25b8c8667fd29f1ef301ea547a68c35295ad9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-22a6c72d44903de4547a.png",
+            "path": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Flare.png",
+          "name": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 13242,
+            "MD5": "1bf3b9d21f1e667e72cfed984fd328bb",
+            "SHA256": "64ec764883b817ba3e329734d6f76e96a88a085f6926988ddba6ce698810015e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-1cf98040fdf3a6b50edb.png",
+            "path": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Flare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Glow.png",
+          "name": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 7110,
+            "MD5": "24927af34b97f186fb68af48ddb7f9e5",
+            "SHA256": "1a8f36b955f8112946688e726d2b873c63de9c3d9695bac24b8ec27c701a5a04",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-a5d8005f2873e3fc9316.png",
+            "path": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Halo.png",
+          "name": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Halo.png",
+          "type": "File",
+          "artifact": {
+            "size": 1323,
+            "MD5": "5f8a5d8c7950ac52a2d9568b222747c3",
+            "SHA256": "ff44367e03aca7eb1a2559c50dee7bebe42d7cb15c37fbe0e8e29654b82a7633",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-57214631768b383ad40a.png",
+            "path": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Halo.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Line.png",
+          "name": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 241,
+            "MD5": "6387fd297feeb82dd0ad309a2316e6cc",
+            "SHA256": "06619056a5c2268599605335bbaa28214d3b0997d58f37462412fdeafa53e73e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-3e092828927a0e874869.png",
+            "path": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Ray.png",
+          "name": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Ray.png",
+          "type": "File",
+          "artifact": {
+            "size": 1096,
+            "MD5": "54e4f8cf74bde9ca61e56480d9434311",
+            "SHA256": "3b3c8ac3ea98a4bf627020f50c7df92576af3928035b2885a2a24956d23855af",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-d1deaecd1deb43bb775a.png",
+            "path": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Ray.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Sigil.png",
+          "name": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 64561,
+            "MD5": "7e3575ef2ac7afc10d47239f20223280",
+            "SHA256": "03e4afa731384ec676b269b7e5990c878f93eff8d322e4f454fab6de23d9590e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-d7db559a8f50fd55e600.png",
+            "path": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Spark.png",
+          "name": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Spark.png",
+          "type": "File",
+          "artifact": {
+            "size": 5111,
+            "MD5": "3dc47a1677465c207f7701c03c05add7",
+            "SHA256": "2a8f311e4bd10958234a8e6df6871bbc16e68f2dccba8b959978f6bf890a8d77",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-e0944dfa3d5df74c63c1.png",
+            "path": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Spark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Strand_Sheet.png",
+          "name": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Strand_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 44061,
+            "MD5": "34cf31b6fa27e12550541909108eeee8",
+            "SHA256": "40aae8f62f37054e5b9e2a62680114f9e86332aab4bd74b04b2d45ff14a42f5c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-3ea30d5e94d6a4144ec8.png",
+            "path": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Strand_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Streak.png",
+          "name": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1397,
+            "MD5": "36a18a8e831b40f5d3d01c44e2adfd97",
+            "SHA256": "8743602dfdab142ebc36c462e71184edce502f9bd6ea707a18a1b9bba2ddf799",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-62838d5e103cdb2a1a80.png",
+            "path": "config/portablevfx/effects/LightBeamYellow/textures/T_LB_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/LightBeamYellow/vfx.json",
+          "name": "config/portablevfx/effects/LightBeamYellow/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 517749,
+            "MD5": "a7ea39dccbc76272e7e5c422895ca206",
+            "SHA256": "1d91f5fd3ca73febc34f0cafbb6e8f2d88fa4dc2799f49e3d6463492745c1c0b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-beamcolor-20261104/lightbeamyellow-vfx.json",
+            "path": "config/portablevfx/effects/LightBeamYellow/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Dot.png",
+          "name": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1201,
+            "MD5": "e0761e9085849986fa136cd9087733aa",
+            "SHA256": "44af166d8577d96165a2b93713d25b8c8667fd29f1ef301ea547a68c35295ad9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-5b7ee69feb2d13a13867.png",
+            "path": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Facet.png",
+          "name": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Facet.png",
+          "type": "File",
+          "artifact": {
+            "size": 3271,
+            "MD5": "9b8e0b7c6bd64ed6df6164b6a88456c0",
+            "SHA256": "9ee34541e9986a7fcfd9700f746bb4af079690f0e6fdf9d57be21f471d77ebf4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-7e9f19083725b97b13d2.png",
+            "path": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Facet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Flare.png",
+          "name": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 13242,
+            "MD5": "1bf3b9d21f1e667e72cfed984fd328bb",
+            "SHA256": "64ec764883b817ba3e329734d6f76e96a88a085f6926988ddba6ce698810015e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-5b89334bbd40099d07f6.png",
+            "path": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Flare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Glow.png",
+          "name": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 7110,
+            "MD5": "24927af34b97f186fb68af48ddb7f9e5",
+            "SHA256": "1a8f36b955f8112946688e726d2b873c63de9c3d9695bac24b8ec27c701a5a04",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-4fd790a7f5f524b9fa32.png",
+            "path": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Line.png",
+          "name": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 241,
+            "MD5": "6387fd297feeb82dd0ad309a2316e6cc",
+            "SHA256": "06619056a5c2268599605335bbaa28214d3b0997d58f37462412fdeafa53e73e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-708c394004c498c658ba.png",
+            "path": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Ray.png",
+          "name": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Ray.png",
+          "type": "File",
+          "artifact": {
+            "size": 1096,
+            "MD5": "54e4f8cf74bde9ca61e56480d9434311",
+            "SHA256": "3b3c8ac3ea98a4bf627020f50c7df92576af3928035b2885a2a24956d23855af",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-625d9caf310eb367e02c.png",
+            "path": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Ray.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Sigil.png",
+          "name": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 54166,
+            "MD5": "9360fd2c8d2d78a4bd15eebd568142a2",
+            "SHA256": "505d3ca6781400b8e241180df08877bb614df64faf0bdc670ad77afcfdcc7dee",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-4bda5032aaa5e22fd857.png",
+            "path": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Spark.png",
+          "name": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Spark.png",
+          "type": "File",
+          "artifact": {
+            "size": 5111,
+            "MD5": "3dc47a1677465c207f7701c03c05add7",
+            "SHA256": "2a8f311e4bd10958234a8e6df6871bbc16e68f2dccba8b959978f6bf890a8d77",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-adc1c917027a5dd18571.png",
+            "path": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Spark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Streak.png",
+          "name": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1397,
+            "MD5": "36a18a8e831b40f5d3d01c44e2adfd97",
+            "SHA256": "8743602dfdab142ebc36c462e71184edce502f9bd6ea707a18a1b9bba2ddf799",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-7c2acfa18dc7a1112b25.png",
+            "path": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Swirl_Sheet.png",
+          "name": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Swirl_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 21157,
+            "MD5": "aad118da8244e8258609007222e5c4cb",
+            "SHA256": "fce96b41a3840a44f77cc5a7bfd35a9dd78055302aa18187b3fd1326b67fef28",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-d0cb74a259e653258547.png",
+            "path": "config/portablevfx/effects/PrismTintBlue/textures/T_PT_Swirl_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintBlue/vfx.json",
+          "name": "config/portablevfx/effects/PrismTintBlue/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 486884,
+            "MD5": "a2a49607f9dc7adbb9b637d61ae6274c",
+            "SHA256": "a72031a5c4e4110930e26933cccbb89d33a72bcd38f7726d0e293fc83612ec29",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-beamcolor-20261104/prismtintblue-vfx.json",
+            "path": "config/portablevfx/effects/PrismTintBlue/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Dot.png",
+          "name": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1201,
+            "MD5": "e0761e9085849986fa136cd9087733aa",
+            "SHA256": "44af166d8577d96165a2b93713d25b8c8667fd29f1ef301ea547a68c35295ad9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-5b7ee69feb2d13a13867.png",
+            "path": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Facet.png",
+          "name": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Facet.png",
+          "type": "File",
+          "artifact": {
+            "size": 3271,
+            "MD5": "9b8e0b7c6bd64ed6df6164b6a88456c0",
+            "SHA256": "9ee34541e9986a7fcfd9700f746bb4af079690f0e6fdf9d57be21f471d77ebf4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-7e9f19083725b97b13d2.png",
+            "path": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Facet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Flare.png",
+          "name": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 13242,
+            "MD5": "1bf3b9d21f1e667e72cfed984fd328bb",
+            "SHA256": "64ec764883b817ba3e329734d6f76e96a88a085f6926988ddba6ce698810015e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-5b89334bbd40099d07f6.png",
+            "path": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Flare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Glow.png",
+          "name": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 7110,
+            "MD5": "24927af34b97f186fb68af48ddb7f9e5",
+            "SHA256": "1a8f36b955f8112946688e726d2b873c63de9c3d9695bac24b8ec27c701a5a04",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-4fd790a7f5f524b9fa32.png",
+            "path": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Line.png",
+          "name": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 241,
+            "MD5": "6387fd297feeb82dd0ad309a2316e6cc",
+            "SHA256": "06619056a5c2268599605335bbaa28214d3b0997d58f37462412fdeafa53e73e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-708c394004c498c658ba.png",
+            "path": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Ray.png",
+          "name": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Ray.png",
+          "type": "File",
+          "artifact": {
+            "size": 1096,
+            "MD5": "54e4f8cf74bde9ca61e56480d9434311",
+            "SHA256": "3b3c8ac3ea98a4bf627020f50c7df92576af3928035b2885a2a24956d23855af",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-625d9caf310eb367e02c.png",
+            "path": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Ray.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Sigil.png",
+          "name": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 54166,
+            "MD5": "9360fd2c8d2d78a4bd15eebd568142a2",
+            "SHA256": "505d3ca6781400b8e241180df08877bb614df64faf0bdc670ad77afcfdcc7dee",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-4bda5032aaa5e22fd857.png",
+            "path": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Spark.png",
+          "name": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Spark.png",
+          "type": "File",
+          "artifact": {
+            "size": 5111,
+            "MD5": "3dc47a1677465c207f7701c03c05add7",
+            "SHA256": "2a8f311e4bd10958234a8e6df6871bbc16e68f2dccba8b959978f6bf890a8d77",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-adc1c917027a5dd18571.png",
+            "path": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Spark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Streak.png",
+          "name": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1397,
+            "MD5": "36a18a8e831b40f5d3d01c44e2adfd97",
+            "SHA256": "8743602dfdab142ebc36c462e71184edce502f9bd6ea707a18a1b9bba2ddf799",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-7c2acfa18dc7a1112b25.png",
+            "path": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Swirl_Sheet.png",
+          "name": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Swirl_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 21157,
+            "MD5": "aad118da8244e8258609007222e5c4cb",
+            "SHA256": "fce96b41a3840a44f77cc5a7bfd35a9dd78055302aa18187b3fd1326b67fef28",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-d0cb74a259e653258547.png",
+            "path": "config/portablevfx/effects/PrismTintGreen/textures/T_PT_Swirl_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintGreen/vfx.json",
+          "name": "config/portablevfx/effects/PrismTintGreen/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 487008,
+            "MD5": "fb4bcff65300103f3915ca3f57d6ee87",
+            "SHA256": "b0a6234392ce341dc4dbd02158c35e3d4b2908d47140b60c7ae4eeb79c3c38a1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-beamcolor-20261104/prismtintgreen-vfx.json",
+            "path": "config/portablevfx/effects/PrismTintGreen/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Dot.png",
+          "name": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1201,
+            "MD5": "e0761e9085849986fa136cd9087733aa",
+            "SHA256": "44af166d8577d96165a2b93713d25b8c8667fd29f1ef301ea547a68c35295ad9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-5b7ee69feb2d13a13867.png",
+            "path": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Facet.png",
+          "name": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Facet.png",
+          "type": "File",
+          "artifact": {
+            "size": 3271,
+            "MD5": "9b8e0b7c6bd64ed6df6164b6a88456c0",
+            "SHA256": "9ee34541e9986a7fcfd9700f746bb4af079690f0e6fdf9d57be21f471d77ebf4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-7e9f19083725b97b13d2.png",
+            "path": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Facet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Flare.png",
+          "name": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 13242,
+            "MD5": "1bf3b9d21f1e667e72cfed984fd328bb",
+            "SHA256": "64ec764883b817ba3e329734d6f76e96a88a085f6926988ddba6ce698810015e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-5b89334bbd40099d07f6.png",
+            "path": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Flare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Glow.png",
+          "name": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 7110,
+            "MD5": "24927af34b97f186fb68af48ddb7f9e5",
+            "SHA256": "1a8f36b955f8112946688e726d2b873c63de9c3d9695bac24b8ec27c701a5a04",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-4fd790a7f5f524b9fa32.png",
+            "path": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Line.png",
+          "name": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 241,
+            "MD5": "6387fd297feeb82dd0ad309a2316e6cc",
+            "SHA256": "06619056a5c2268599605335bbaa28214d3b0997d58f37462412fdeafa53e73e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-708c394004c498c658ba.png",
+            "path": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Ray.png",
+          "name": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Ray.png",
+          "type": "File",
+          "artifact": {
+            "size": 1096,
+            "MD5": "54e4f8cf74bde9ca61e56480d9434311",
+            "SHA256": "3b3c8ac3ea98a4bf627020f50c7df92576af3928035b2885a2a24956d23855af",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-625d9caf310eb367e02c.png",
+            "path": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Ray.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Sigil.png",
+          "name": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 54166,
+            "MD5": "9360fd2c8d2d78a4bd15eebd568142a2",
+            "SHA256": "505d3ca6781400b8e241180df08877bb614df64faf0bdc670ad77afcfdcc7dee",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-4bda5032aaa5e22fd857.png",
+            "path": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Spark.png",
+          "name": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Spark.png",
+          "type": "File",
+          "artifact": {
+            "size": 5111,
+            "MD5": "3dc47a1677465c207f7701c03c05add7",
+            "SHA256": "2a8f311e4bd10958234a8e6df6871bbc16e68f2dccba8b959978f6bf890a8d77",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-adc1c917027a5dd18571.png",
+            "path": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Spark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Streak.png",
+          "name": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1397,
+            "MD5": "36a18a8e831b40f5d3d01c44e2adfd97",
+            "SHA256": "8743602dfdab142ebc36c462e71184edce502f9bd6ea707a18a1b9bba2ddf799",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-7c2acfa18dc7a1112b25.png",
+            "path": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Swirl_Sheet.png",
+          "name": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Swirl_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 21157,
+            "MD5": "aad118da8244e8258609007222e5c4cb",
+            "SHA256": "fce96b41a3840a44f77cc5a7bfd35a9dd78055302aa18187b3fd1326b67fef28",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-d0cb74a259e653258547.png",
+            "path": "config/portablevfx/effects/PrismTintPurple/textures/T_PT_Swirl_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintPurple/vfx.json",
+          "name": "config/portablevfx/effects/PrismTintPurple/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 486887,
+            "MD5": "8ce51c083e9c7b7ca471975535bbfdbc",
+            "SHA256": "7a6057bef7db0e453358c9b23d2f83d5bbc370e4f3622ce6deb6b866af8d926b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-beamcolor-20261104/prismtintpurple-vfx.json",
+            "path": "config/portablevfx/effects/PrismTintPurple/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Dot.png",
+          "name": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1201,
+            "MD5": "e0761e9085849986fa136cd9087733aa",
+            "SHA256": "44af166d8577d96165a2b93713d25b8c8667fd29f1ef301ea547a68c35295ad9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-5b7ee69feb2d13a13867.png",
+            "path": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Facet.png",
+          "name": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Facet.png",
+          "type": "File",
+          "artifact": {
+            "size": 3271,
+            "MD5": "9b8e0b7c6bd64ed6df6164b6a88456c0",
+            "SHA256": "9ee34541e9986a7fcfd9700f746bb4af079690f0e6fdf9d57be21f471d77ebf4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-7e9f19083725b97b13d2.png",
+            "path": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Facet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Flare.png",
+          "name": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 13242,
+            "MD5": "1bf3b9d21f1e667e72cfed984fd328bb",
+            "SHA256": "64ec764883b817ba3e329734d6f76e96a88a085f6926988ddba6ce698810015e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-5b89334bbd40099d07f6.png",
+            "path": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Flare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Glow.png",
+          "name": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 7110,
+            "MD5": "24927af34b97f186fb68af48ddb7f9e5",
+            "SHA256": "1a8f36b955f8112946688e726d2b873c63de9c3d9695bac24b8ec27c701a5a04",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-4fd790a7f5f524b9fa32.png",
+            "path": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Line.png",
+          "name": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 241,
+            "MD5": "6387fd297feeb82dd0ad309a2316e6cc",
+            "SHA256": "06619056a5c2268599605335bbaa28214d3b0997d58f37462412fdeafa53e73e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-708c394004c498c658ba.png",
+            "path": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Ray.png",
+          "name": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Ray.png",
+          "type": "File",
+          "artifact": {
+            "size": 1096,
+            "MD5": "54e4f8cf74bde9ca61e56480d9434311",
+            "SHA256": "3b3c8ac3ea98a4bf627020f50c7df92576af3928035b2885a2a24956d23855af",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-625d9caf310eb367e02c.png",
+            "path": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Ray.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Sigil.png",
+          "name": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 54166,
+            "MD5": "9360fd2c8d2d78a4bd15eebd568142a2",
+            "SHA256": "505d3ca6781400b8e241180df08877bb614df64faf0bdc670ad77afcfdcc7dee",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-4bda5032aaa5e22fd857.png",
+            "path": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Spark.png",
+          "name": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Spark.png",
+          "type": "File",
+          "artifact": {
+            "size": 5111,
+            "MD5": "3dc47a1677465c207f7701c03c05add7",
+            "SHA256": "2a8f311e4bd10958234a8e6df6871bbc16e68f2dccba8b959978f6bf890a8d77",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-adc1c917027a5dd18571.png",
+            "path": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Spark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Streak.png",
+          "name": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1397,
+            "MD5": "36a18a8e831b40f5d3d01c44e2adfd97",
+            "SHA256": "8743602dfdab142ebc36c462e71184edce502f9bd6ea707a18a1b9bba2ddf799",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-7c2acfa18dc7a1112b25.png",
+            "path": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Swirl_Sheet.png",
+          "name": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Swirl_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 21157,
+            "MD5": "aad118da8244e8258609007222e5c4cb",
+            "SHA256": "fce96b41a3840a44f77cc5a7bfd35a9dd78055302aa18187b3fd1326b67fef28",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-d0cb74a259e653258547.png",
+            "path": "config/portablevfx/effects/PrismTintRed/textures/T_PT_Swirl_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintRed/vfx.json",
+          "name": "config/portablevfx/effects/PrismTintRed/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 486884,
+            "MD5": "31f73a4e294cbcac45ba29a93185f324",
+            "SHA256": "495d6f267c54de1e23351f8af1801830940db5f3e2fb976f07d96ff46863a90c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-beamcolor-20261104/prismtintred-vfx.json",
+            "path": "config/portablevfx/effects/PrismTintRed/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Dot.png",
+          "name": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1201,
+            "MD5": "e0761e9085849986fa136cd9087733aa",
+            "SHA256": "44af166d8577d96165a2b93713d25b8c8667fd29f1ef301ea547a68c35295ad9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-5b7ee69feb2d13a13867.png",
+            "path": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Facet.png",
+          "name": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Facet.png",
+          "type": "File",
+          "artifact": {
+            "size": 3271,
+            "MD5": "9b8e0b7c6bd64ed6df6164b6a88456c0",
+            "SHA256": "9ee34541e9986a7fcfd9700f746bb4af079690f0e6fdf9d57be21f471d77ebf4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-7e9f19083725b97b13d2.png",
+            "path": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Facet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Flare.png",
+          "name": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 13242,
+            "MD5": "1bf3b9d21f1e667e72cfed984fd328bb",
+            "SHA256": "64ec764883b817ba3e329734d6f76e96a88a085f6926988ddba6ce698810015e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-5b89334bbd40099d07f6.png",
+            "path": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Flare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Glow.png",
+          "name": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 7110,
+            "MD5": "24927af34b97f186fb68af48ddb7f9e5",
+            "SHA256": "1a8f36b955f8112946688e726d2b873c63de9c3d9695bac24b8ec27c701a5a04",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-4fd790a7f5f524b9fa32.png",
+            "path": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Line.png",
+          "name": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 241,
+            "MD5": "6387fd297feeb82dd0ad309a2316e6cc",
+            "SHA256": "06619056a5c2268599605335bbaa28214d3b0997d58f37462412fdeafa53e73e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-708c394004c498c658ba.png",
+            "path": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Ray.png",
+          "name": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Ray.png",
+          "type": "File",
+          "artifact": {
+            "size": 1096,
+            "MD5": "54e4f8cf74bde9ca61e56480d9434311",
+            "SHA256": "3b3c8ac3ea98a4bf627020f50c7df92576af3928035b2885a2a24956d23855af",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-625d9caf310eb367e02c.png",
+            "path": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Ray.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Sigil.png",
+          "name": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 54166,
+            "MD5": "9360fd2c8d2d78a4bd15eebd568142a2",
+            "SHA256": "505d3ca6781400b8e241180df08877bb614df64faf0bdc670ad77afcfdcc7dee",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-4bda5032aaa5e22fd857.png",
+            "path": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Spark.png",
+          "name": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Spark.png",
+          "type": "File",
+          "artifact": {
+            "size": 5111,
+            "MD5": "3dc47a1677465c207f7701c03c05add7",
+            "SHA256": "2a8f311e4bd10958234a8e6df6871bbc16e68f2dccba8b959978f6bf890a8d77",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-adc1c917027a5dd18571.png",
+            "path": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Spark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Streak.png",
+          "name": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1397,
+            "MD5": "36a18a8e831b40f5d3d01c44e2adfd97",
+            "SHA256": "8743602dfdab142ebc36c462e71184edce502f9bd6ea707a18a1b9bba2ddf799",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-7c2acfa18dc7a1112b25.png",
+            "path": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Swirl_Sheet.png",
+          "name": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Swirl_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 21157,
+            "MD5": "aad118da8244e8258609007222e5c4cb",
+            "SHA256": "fce96b41a3840a44f77cc5a7bfd35a9dd78055302aa18187b3fd1326b67fef28",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-245d836c-20261026-task5-part3/vfx-d0cb74a259e653258547.png",
+            "path": "config/portablevfx/effects/PrismTintYellow/textures/T_PT_Swirl_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/PrismTintYellow/vfx.json",
+          "name": "config/portablevfx/effects/PrismTintYellow/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 486862,
+            "MD5": "2bda8500f6c99779b815b15cfbf72b30",
+            "SHA256": "1ae1f60e717eca9e1fcde5bcc4f9343577b2d2dbf2ef10bcc012f963f77b5f77",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-beamcolor-20261104/prismtintyellow-vfx.json",
+            "path": "config/portablevfx/effects/PrismTintYellow/vfx.json"
+          }
+        },
+        {
           "id": "config/portablevfx/effects/LightBeam/NOTES.md",
           "name": "config/portablevfx/effects/LightBeam/NOTES.md",
           "type": "File",
