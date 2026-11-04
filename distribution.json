@@ -39705,10 +39705,10 @@
           "name": "config/portablevfx/effects/MordianChainBind/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 802832,
-            "MD5": "e4fa19acbb37c6e3d0de6cf6428f62aa",
-            "SHA256": "c5b0f6878cc3fcdab0f0c4ddf99a1e89a48a7d57fd6f1ccb130a386c842f7849",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-bosses-20261103/boss__MordianChainBind__vfx.json",
+            "size": 373504,
+            "MD5": "68e7db5bb89b3296c8ddb91bd65d2425",
+            "SHA256": "d82740ff7388bc8a54d93737ab39621f69268bdc3c00093446e84a883b50ee73",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianChainBind__vfx.json",
             "path": "config/portablevfx/effects/MordianChainBind/vfx.json"
           }
         },
@@ -40689,10 +40689,10 @@
           "name": "config/portablevfx/effects/MordianForbiddenRing/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 955190,
-            "MD5": "7bc34b8a66a033a07a70b44d70df2308",
-            "SHA256": "ab55c57f2d98ba280cb413b78adff071f69411b205d67969ad61d62b5e6235d0",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-bosses-20261103/boss__MordianForbiddenRing__vfx.json",
+            "size": 422735,
+            "MD5": "0b90f50a2f41df23767be9d2bc10b47e",
+            "SHA256": "14ccfd019ee4585348b135a081104ba69bbc2fc9d222ee00319313dd8d6b762e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianForbiddenRing__vfx.json",
             "path": "config/portablevfx/effects/MordianForbiddenRing/vfx.json"
           }
         },
@@ -41061,10 +41061,10 @@
           "name": "config/portablevfx/effects/MordianOfferingCircle/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 809593,
-            "MD5": "394322b073446205b6b23e9240165bed",
-            "SHA256": "88d7f2e81fe9fe6f30162877ef9a2027ab7c2130a41e7660613ffb4dae40f1b4",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-bosses-20261103/boss__MordianOfferingCircle__vfx.json",
+            "size": 367234,
+            "MD5": "9c35c40f293c84ac9ea10a24edab3fb2",
+            "SHA256": "e1766c176e0d3269f7d992a5bf3f0cfd89058b040cf93b36d0fa08f06162faa2",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianOfferingCircle__vfx.json",
             "path": "config/portablevfx/effects/MordianOfferingCircle/vfx.json"
           }
         },
@@ -41253,10 +41253,10 @@
           "name": "config/portablevfx/effects/MordianReseal/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 1472991,
-            "MD5": "f65907b6f739d85a686a3acad767b828",
-            "SHA256": "a1541ea8ad30c72ef5eee7dfdb9596702a7ade47766f43ec66dd65c1ac8a8bd2",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-bosses-20261103/boss__MordianReseal__vfx.json",
+            "size": 647535,
+            "MD5": "2c5d68acc98577547b8a01c4ae599415",
+            "SHA256": "aa4a08821d00fe1cb46a00d0ed21b859167d309fb6aad9ff0201d0403a71c89e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianReseal__vfx.json",
             "path": "config/portablevfx/effects/MordianReseal/vfx.json"
           }
         },
@@ -41445,10 +41445,10 @@
           "name": "config/portablevfx/effects/MordianRitualRune/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 1209138,
-            "MD5": "00d353e76dcc833c27c9b5e3a4c06795",
-            "SHA256": "11f3b1ba1063e14538a0735994745d82d048a4b68ce4adce8b942a5a25e238f6",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-bosses-20261103/boss__MordianRitualRune__vfx.json",
+            "size": 339445,
+            "MD5": "e8baeecd83ceaf690656f144389341f5",
+            "SHA256": "49b32c916ce5183f01163316fd05f313c901bebb4626173ccad900c288b4ea87",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianRitualRune__vfx.json",
             "path": "config/portablevfx/effects/MordianRitualRune/vfx.json"
           }
         },
@@ -41621,14 +41621,194 @@
           }
         },
         {
+          "id": "config/portablevfx/effects/MordianRitualRune2/vfx.json",
+          "name": "config/portablevfx/effects/MordianRitualRune2/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 319431,
+            "MD5": "34a45eab113a05bf432456fd4c2ac5ca",
+            "SHA256": "416e2b863ada91ec38afbb1d23b6d9c2745d69f0ba0282db61a444f214d86612",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianRitualRune2__vfx.json",
+            "path": "config/portablevfx/effects/MordianRitualRune2/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/MordianRitualRune2/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/MordianRitualRune2/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 33112,
+            "MD5": "a9746cf6c273ebc49ab3265af38aeb72",
+            "SHA256": "616cce52e4fd37a3350a6f30474c9dfdc1d52eeadd2dc78df704b6eb72cc7928",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianRitualRune2__textures__T_Crack.png",
+            "path": "config/portablevfx/effects/MordianRitualRune2/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/MordianRitualRune2/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/MordianRitualRune2/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 2275,
+            "MD5": "6cb17b80308a611b4de77769fad28fa5",
+            "SHA256": "def71bd0779ee87e59f008806c631a410626eb6ef29b7240ea4f964c053bfe1d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianRitualRune2__textures__T_Dot.png",
+            "path": "config/portablevfx/effects/MordianRitualRune2/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/MordianRitualRune2/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/MordianRitualRune2/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianRitualRune2__textures__T_Glow.png",
+            "path": "config/portablevfx/effects/MordianRitualRune2/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/MordianRitualRune2/textures/T_InkLine.png",
+          "name": "config/portablevfx/effects/MordianRitualRune2/textures/T_InkLine.png",
+          "type": "File",
+          "artifact": {
+            "size": 1623,
+            "MD5": "16a6b2c0db6b3252de1d4d4ef3e000a7",
+            "SHA256": "45e1b0f114d784db4d965b0f9cde67d724d63e4a6e342338a7dc83fc0147594a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianRitualRune2__textures__T_InkLine.png",
+            "path": "config/portablevfx/effects/MordianRitualRune2/textures/T_InkLine.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/MordianRitualRune2/textures/T_InkMist_Sheet.png",
+          "name": "config/portablevfx/effects/MordianRitualRune2/textures/T_InkMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 34909,
+            "MD5": "d75362077c8638ae7c8fd5e6cdd68f8a",
+            "SHA256": "8e9590324d7b52be555b56b33aba2cb6b20b3707fc1fe043f54c70b98364053f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianRitualRune2__textures__T_InkMist_Sheet.png",
+            "path": "config/portablevfx/effects/MordianRitualRune2/textures/T_InkMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/MordianRitualRune2/textures/T_InkShard.png",
+          "name": "config/portablevfx/effects/MordianRitualRune2/textures/T_InkShard.png",
+          "type": "File",
+          "artifact": {
+            "size": 3570,
+            "MD5": "af3a6a15090eaafb97f1f15afd29fbf4",
+            "SHA256": "a62e4e1fe6144d5f0e56ff73787fbc767fc917ac5e862704b0ced56774c3da66",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianRitualRune2__textures__T_InkShard.png",
+            "path": "config/portablevfx/effects/MordianRitualRune2/textures/T_InkShard.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/MordianRitualRune2/textures/T_InkSplat.png",
+          "name": "config/portablevfx/effects/MordianRitualRune2/textures/T_InkSplat.png",
+          "type": "File",
+          "artifact": {
+            "size": 37912,
+            "MD5": "b48b979e18094d8fae7890a6919c7f7f",
+            "SHA256": "7f3ff2cfc38b0bbcfbbc70f596cf592c3e9bffda0070d361669cbfb37444d2c7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianRitualRune2__textures__T_InkSplat.png",
+            "path": "config/portablevfx/effects/MordianRitualRune2/textures/T_InkSplat.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/MordianRitualRune2/textures/T_Line.png",
+          "name": "config/portablevfx/effects/MordianRitualRune2/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 249,
+            "MD5": "4b146e60ef669866eb1b9cb937165823",
+            "SHA256": "fefb58bd7aebb64969de6e60514264238b439e11881082c204cdf1f282d3026a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianRitualRune2__textures__T_Line.png",
+            "path": "config/portablevfx/effects/MordianRitualRune2/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/MordianRitualRune2/textures/T_LineWipe.png",
+          "name": "config/portablevfx/effects/MordianRitualRune2/textures/T_LineWipe.png",
+          "type": "File",
+          "artifact": {
+            "size": 42810,
+            "MD5": "58a393a9a204f9495887115e6b5ea277",
+            "SHA256": "30259304adf2ef472dbb43058dd5a66f5a2e496666a0e6656d954524664d4ca3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianRitualRune2__textures__T_LineWipe.png",
+            "path": "config/portablevfx/effects/MordianRitualRune2/textures/T_LineWipe.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/MordianRitualRune2/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/MordianRitualRune2/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 38164,
+            "MD5": "c3631898d8acd59b9f86419dbe2ffcb7",
+            "SHA256": "198e937aac7d3dda13058ce63e99404dbcbdc6bc969429b3c679ec65320c327e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianRitualRune2__textures__T_Ring.png",
+            "path": "config/portablevfx/effects/MordianRitualRune2/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/MordianRitualRune2/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/MordianRitualRune2/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 26802,
+            "MD5": "780a54085c39ec2ace75f51bfa3bce24",
+            "SHA256": "a3cdaef9c9115cd31ba4e55dd5eb71477f31fcaa74a7cbee1d3b3e2a5518b197",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianRitualRune2__textures__T_RuneStrip.png",
+            "path": "config/portablevfx/effects/MordianRitualRune2/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/MordianRitualRune2/textures/T_Scratch.png",
+          "name": "config/portablevfx/effects/MordianRitualRune2/textures/T_Scratch.png",
+          "type": "File",
+          "artifact": {
+            "size": 27116,
+            "MD5": "fda33830b9f93e706c032c765800d190",
+            "SHA256": "a9aed12993de1c955f39842df2ff52dc41ac86d61d55e7794c6be29364e88012",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianRitualRune2__textures__T_Scratch.png",
+            "path": "config/portablevfx/effects/MordianRitualRune2/textures/T_Scratch.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/MordianRitualRune2/textures/T_Star.png",
+          "name": "config/portablevfx/effects/MordianRitualRune2/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 6590,
+            "MD5": "3472a248d0fecef58bcb72bdf8ce2f70",
+            "SHA256": "aa6e20b49b29babda6f2c557bef219c0624cee69f3cfce083d1b36e5e8f17041",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianRitualRune2__textures__T_Star.png",
+            "path": "config/portablevfx/effects/MordianRitualRune2/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/MordianRitualRune2/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/MordianRitualRune2/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2052,
+            "MD5": "f208c94372a8f81a964a8b94feb27928",
+            "SHA256": "658cbe72fe7dcd073c6414a052e83cf2b825a5086665bf5b8bb168c1a6a3d8f0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianRitualRune2__textures__T_Streak.png",
+            "path": "config/portablevfx/effects/MordianRitualRune2/textures/T_Streak.png"
+          }
+        },
+        {
           "id": "config/portablevfx/effects/MordianSealBeam/vfx.json",
           "name": "config/portablevfx/effects/MordianSealBeam/vfx.json",
           "type": "File",
           "artifact": {
-            "size": 670446,
-            "MD5": "3b57cb01a59f554c6b85e553933ddb21",
-            "SHA256": "fa6c9a7b28f66f198e725b48249a0e61231c7674bd0a6bfb9d965bc57cb15261",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-bosses-20261103/boss__MordianSealBeam__vfx.json",
+            "size": 315512,
+            "MD5": "31f0ad860d3266b3b74055b7f7791884",
+            "SHA256": "fa3564f1481309a8ce97217580fca7cff644867714d1bf248d61c58e8c1ddff0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-mordianfx-20261104/mdfx__MordianSealBeam__vfx.json",
             "path": "config/portablevfx/effects/MordianSealBeam/vfx.json"
           }
         },
