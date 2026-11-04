@@ -5168,10 +5168,10 @@
           "type": "File",
           "artifact": {
             "path": "resourcepacks/chacademia-integrated-20261023.zip",
-            "size": 52677390,
-            "MD5": "02c19b5164f86ffd6158a08d52fbb582",
-            "SHA256": "dc566eecbae0c79c6577a4eb6cc74654ebbdac55eec6468306b07b565c2b9069",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-ia-bosses-20261103/chacademia-integrated-ia-20261103.zip"
+            "size": 52736597,
+            "MD5": "30d01a9065b1530860dd0c455410e2b1",
+            "SHA256": "c33b500273a3039c7657cb9df6757816f1ddebff30b889018a15e8ba9a961690",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-ia-money-20261104/chacademia-integrated-ia-20261104.zip"
           },
           "updatePolicy": "managed"
         },
