@@ -266,10 +266,10 @@
           "name": "mods/chacademi-dungeon-0.1.0-lich-20261029.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 13389882,
-            "MD5": "0c28342029f055547086860e4d08a2f2",
-            "SHA256": "8795c74763ffe5404f6f9ab3bc843e2ffda8902f5c85dc071ef627fd2a14d00d",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-mordian-art-20261103/chacademi-dungeon-0.4.0-party-20261031b-mordian.jar"
+            "size": 13390596,
+            "MD5": "7389be462938c8f729674d79356b9dd8",
+            "SHA256": "ac4d15404e0bb59fd9fd23a4bf302ccc38387e157cebd252094c5f81def71ec7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-dungeon-qty-20261104/chacademi-dungeon-0.4.0-party-20261031b-qty.jar"
           }
         },
         {
