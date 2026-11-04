@@ -321,10 +321,10 @@
           "name": "mods/MagicCodex-client-6cfa5a95-preserved-final.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 556490904,
-            "MD5": "6b8e191ab69a0ac657c5e5b6318fc4cc",
-            "SHA256": "00cf88f5d11ff00eb5bcc0c883a13efff1d2c5f94a20ee11e00dcb3ad60fe79c",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-pvpplate-20261104/MagicCodex-client-6cfa5a95-halloween12-icons-cd100-twin-nova150c-corehide-icons150-pvpplate.jar"
+            "size": 556490893,
+            "MD5": "6b721a65368323eba15c906e0abcb3d2",
+            "SHA256": "5dfb59f55c39b1cfc13940e09e763687f181376fa31abf6cb8d8ae1f6d1a178b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-darklib-20261104/MagicCodex-client-6cfa5a95-halloween12-icons-cd100-twin-nova150c-corehide-icons150-pvpplate-darklib.jar"
           }
         },
         {
