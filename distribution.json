@@ -321,10 +321,10 @@
           "name": "mods/MagicCodex-client-6cfa5a95-preserved-final.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 556490893,
-            "MD5": "6b721a65368323eba15c906e0abcb3d2",
-            "SHA256": "5dfb59f55c39b1cfc13940e09e763687f181376fa31abf6cb8d8ae1f6d1a178b",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-darklib-20261104/MagicCodex-client-6cfa5a95-halloween12-icons-cd100-twin-nova150c-corehide-icons150-pvpplate-darklib.jar"
+            "size": 557528946,
+            "MD5": "332885c187d052a8946aa8efc9b79180",
+            "SHA256": "3d1ab27346bf4de58a78b4342ee0e9fec3df07fbdf68262b78e2e58e7cd68b95",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/MagicCodex-client-6cfa5a95-halloween12-icons-cd100-twin-nova150c-corehide-icons150-pvpplate-darklib-victory.jar"
           }
         },
         {
@@ -4668,6 +4668,690 @@
             "MD5": "5a3074f7e907cac290ae614c8a6323da",
             "SHA256": "e19817688cf718936f239563f2b006c9fcb9881fcf419e9606c4a75656c60ab5",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-story-nameplates-models-20261022-task7/config__chaca_cutscene__magic_tutorial__cutscene.yml"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Corona.png",
+          "name": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Corona.png",
+          "type": "File",
+          "artifact": {
+            "size": 46030,
+            "MD5": "2170d4ca968620142c5c537a9897128b",
+            "SHA256": "ca48c0c0438f6d9e8d08d9d6d0d7f51826918cd5554a5c305e5ee31a548fc19f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorybronze-T_Corona.png",
+            "path": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Corona.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Crown.png",
+          "name": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Crown.png",
+          "type": "File",
+          "artifact": {
+            "size": 15752,
+            "MD5": "e28382c54d39596b642680943e3f0f19",
+            "SHA256": "cf35bb9e2700e429ddcd4a575d42fbc2746a8257b2376b54bb9fa94f42a1484f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorybronze-T_Crown.png",
+            "path": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Crown.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryBronze/textures/T_CrownDark.png",
+          "name": "config/portablevfx/effects/ChampionGloryBronze/textures/T_CrownDark.png",
+          "type": "File",
+          "artifact": {
+            "size": 4162,
+            "MD5": "e519a99156a990706abe62b4bf90bab6",
+            "SHA256": "b57cc25992c0ea946fc6aee3be3190e342d0c3e5312966190ba60c26d7b3ea20",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorybronze-T_CrownDark.png",
+            "path": "config/portablevfx/effects/ChampionGloryBronze/textures/T_CrownDark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryBronze/textures/T_DarkMist_Sheet.png",
+          "name": "config/portablevfx/effects/ChampionGloryBronze/textures/T_DarkMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 13320,
+            "MD5": "aa63f76f38ff77db3a8e0d3297ba3642",
+            "SHA256": "33b2a665c11d26fbdfec2ecabdfd832abfe5b4e500f53d101df1a1a7c32fd8fa",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorybronze-T_DarkMist_Sheet.png",
+            "path": "config/portablevfx/effects/ChampionGloryBronze/textures/T_DarkMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 504,
+            "MD5": "e37e2de618604acc034519eb76614b61",
+            "SHA256": "15964a17d281c420ded68c233f3cc8e8b5ef5d1cedafad43514e0a3188d20288",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorybronze-T_Dot.png",
+            "path": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Glitter.png",
+          "name": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Glitter.png",
+          "type": "File",
+          "artifact": {
+            "size": 2000,
+            "MD5": "832756f42c7ae74bc18bec1c1c101d07",
+            "SHA256": "2be18023bfed1a5dc617c8a27bd811085f3044d93984cedab85fa3dd7db6b6b9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorybronze-T_Glitter.png",
+            "path": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Glitter.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 4510,
+            "MD5": "114653f1f23dea1fb5ec51f28f07556c",
+            "SHA256": "d0f1308076b85b4099032d3a790808d226cd6fc294eb7fb14f22a1a4304ef3cc",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorybronze-T_Glow.png",
+            "path": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Leaf.png",
+          "name": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Leaf.png",
+          "type": "File",
+          "artifact": {
+            "size": 7483,
+            "MD5": "35009c9dce2d2403f36cce19f5ba5ac0",
+            "SHA256": "25ac9be7fa111bcc1ec5deb5a76d82b426a1115346552a435fe92797b145def5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorybronze-T_Leaf.png",
+            "path": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Leaf.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryBronze/textures/T_LeafDark.png",
+          "name": "config/portablevfx/effects/ChampionGloryBronze/textures/T_LeafDark.png",
+          "type": "File",
+          "artifact": {
+            "size": 3409,
+            "MD5": "7cbd63c1e196040eb7fbef79c843159a",
+            "SHA256": "0456f4675956dc0fbc01dac8357811cf9b17aa4865c873aae49207f59521b4a0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorybronze-T_LeafDark.png",
+            "path": "config/portablevfx/effects/ChampionGloryBronze/textures/T_LeafDark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Line.png",
+          "name": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 230,
+            "MD5": "c78f3b937312a4563f593d433b81e371",
+            "SHA256": "841bdc5375a465487c63241c8c01f9f57df3f911c08b19f748f139860c66e083",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorybronze-T_Line.png",
+            "path": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 29445,
+            "MD5": "cd696cd6092f8ff3c36bb4c5a220a507",
+            "SHA256": "0748f7560d5c07de10a6d1f77f38349d8550951837b788269ea7b41a2fcad9f1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorybronze-T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Pillar.png",
+          "name": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Pillar.png",
+          "type": "File",
+          "artifact": {
+            "size": 13132,
+            "MD5": "d4f2928e5368bce59b9d2de74d2a3dc4",
+            "SHA256": "30e8fea01c64a585654363ed2c34e97772d75983f21406d5d433c94b10d1d6f7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorybronze-T_Pillar.png",
+            "path": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Pillar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Ribbon.png",
+          "name": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Ribbon.png",
+          "type": "File",
+          "artifact": {
+            "size": 13959,
+            "MD5": "bd93e87689400529696fb6adb7bd4417",
+            "SHA256": "af09dc1bdde96e7cbbde5247b47c83d370c13fd8431913ad751d51e767b5e5f1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorybronze-T_Ribbon.png",
+            "path": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Ribbon.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 27127,
+            "MD5": "941b4635363f146a3a2d31c678e5bb92",
+            "SHA256": "c8f49db1237f563c46558d6b4f3fdaedd6ef6e4e285ea1d83ef5cdbc4d637832",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorybronze-T_Ring.png",
+            "path": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryBronze/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/ChampionGloryBronze/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 26894,
+            "MD5": "744f63b4b477f1744bf1de11a4f29b26",
+            "SHA256": "90c2aab51fcb2d9c93d4d143ad027e26e30cf025deb6c0a2010ad35bb2e12e9d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorybronze-T_RuneStrip.png",
+            "path": "config/portablevfx/effects/ChampionGloryBronze/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 114003,
+            "MD5": "ff282c5f4ee763bb3494c8a26141b355",
+            "SHA256": "d769fe8897608e3b983cc3d5d2515d26c36f933bc6de9904dddb0bb6a780aaad",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorybronze-T_Sigil.png",
+            "path": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Star4.png",
+          "name": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Star4.png",
+          "type": "File",
+          "artifact": {
+            "size": 7616,
+            "MD5": "8432bfecf0efe6b82171558b2ed9d97f",
+            "SHA256": "fb4de67e0a4727fc03352cc98a65414735d0a3356fd2c8da0f54cde87b064ad5",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorybronze-T_Star4.png",
+            "path": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Star4.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1841,
+            "MD5": "7e08938fa614dbbadbd8f2085088ea24",
+            "SHA256": "c886edd0de11fcea024d507bb5f9622aa30abda2598902d01bb84ec7750f1853",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorybronze-T_Streak.png",
+            "path": "config/portablevfx/effects/ChampionGloryBronze/textures/T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryBronze/vfx.json",
+          "name": "config/portablevfx/effects/ChampionGloryBronze/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 884229,
+            "MD5": "e3693f470cfa18ca44742f3c6d261f54",
+            "SHA256": "944d2c9b782d4e58c9c454c98af0c47c964b7d99e7a0f131c8fd782681dcb693",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorybronze-vfx.json",
+            "path": "config/portablevfx/effects/ChampionGloryBronze/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryGold/textures/T_Corona.png",
+          "name": "config/portablevfx/effects/ChampionGloryGold/textures/T_Corona.png",
+          "type": "File",
+          "artifact": {
+            "size": 42774,
+            "MD5": "5eb2b4cae055a15876cd02335d734d00",
+            "SHA256": "7172dcccbae9df60c6fb2212cca027a06ce3b42fd8a33fec0ae7915a0bc9b156",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorygold-T_Corona.png",
+            "path": "config/portablevfx/effects/ChampionGloryGold/textures/T_Corona.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryGold/textures/T_Crown.png",
+          "name": "config/portablevfx/effects/ChampionGloryGold/textures/T_Crown.png",
+          "type": "File",
+          "artifact": {
+            "size": 14996,
+            "MD5": "bdf27ede231a89d4567e32fae66057c1",
+            "SHA256": "5456e2fa8de843c14e2dba65c49a4e43dfe66a0055453662cb7dcca8ad9e6b45",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorygold-T_Crown.png",
+            "path": "config/portablevfx/effects/ChampionGloryGold/textures/T_Crown.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryGold/textures/T_CrownDark.png",
+          "name": "config/portablevfx/effects/ChampionGloryGold/textures/T_CrownDark.png",
+          "type": "File",
+          "artifact": {
+            "size": 4207,
+            "MD5": "4b7dfcab1aa717a538814b7deec32667",
+            "SHA256": "f903c8affd27b4ff8284625c925ce136bc63c58393382fc4f3b62341b8b325b0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorygold-T_CrownDark.png",
+            "path": "config/portablevfx/effects/ChampionGloryGold/textures/T_CrownDark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryGold/textures/T_DarkMist_Sheet.png",
+          "name": "config/portablevfx/effects/ChampionGloryGold/textures/T_DarkMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 13323,
+            "MD5": "005f93c299513d735b43d89f9bbdf828",
+            "SHA256": "c4171d3138e6836099e04841063fecf3651ccf044bf57895d8d2eff44124f3c7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorygold-T_DarkMist_Sheet.png",
+            "path": "config/portablevfx/effects/ChampionGloryGold/textures/T_DarkMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryGold/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/ChampionGloryGold/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 504,
+            "MD5": "e37e2de618604acc034519eb76614b61",
+            "SHA256": "15964a17d281c420ded68c233f3cc8e8b5ef5d1cedafad43514e0a3188d20288",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorygold-T_Dot.png",
+            "path": "config/portablevfx/effects/ChampionGloryGold/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryGold/textures/T_Glitter.png",
+          "name": "config/portablevfx/effects/ChampionGloryGold/textures/T_Glitter.png",
+          "type": "File",
+          "artifact": {
+            "size": 1908,
+            "MD5": "ab33e0834f5c49b80a9a0589f09a9cab",
+            "SHA256": "170f591590dee2d5f6a7bc8736870f452a98ffcff67c5bb9444661491e66e56f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorygold-T_Glitter.png",
+            "path": "config/portablevfx/effects/ChampionGloryGold/textures/T_Glitter.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryGold/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/ChampionGloryGold/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 4510,
+            "MD5": "114653f1f23dea1fb5ec51f28f07556c",
+            "SHA256": "d0f1308076b85b4099032d3a790808d226cd6fc294eb7fb14f22a1a4304ef3cc",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorygold-T_Glow.png",
+            "path": "config/portablevfx/effects/ChampionGloryGold/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryGold/textures/T_Leaf.png",
+          "name": "config/portablevfx/effects/ChampionGloryGold/textures/T_Leaf.png",
+          "type": "File",
+          "artifact": {
+            "size": 7251,
+            "MD5": "6d294f8484471f12a5eac34363a8efbf",
+            "SHA256": "3878b5843cf3e4a61ee626690458247be048a7dd8fd7de1b9546128b40f62ea3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorygold-T_Leaf.png",
+            "path": "config/portablevfx/effects/ChampionGloryGold/textures/T_Leaf.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryGold/textures/T_LeafDark.png",
+          "name": "config/portablevfx/effects/ChampionGloryGold/textures/T_LeafDark.png",
+          "type": "File",
+          "artifact": {
+            "size": 3459,
+            "MD5": "acd9fb5bdc8e6c0e5e94415269dcf756",
+            "SHA256": "bde7800661b80fd6d6d53e89947a6224fc269af2402d8f5860211f8586eea64f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorygold-T_LeafDark.png",
+            "path": "config/portablevfx/effects/ChampionGloryGold/textures/T_LeafDark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryGold/textures/T_Line.png",
+          "name": "config/portablevfx/effects/ChampionGloryGold/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 225,
+            "MD5": "9f11d5a2f52cffc7a6cd9f1aaba3b53d",
+            "SHA256": "989231d71cfeae011601b38fce941c234742bb0b756aab6035544e99c0f949c8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorygold-T_Line.png",
+            "path": "config/portablevfx/effects/ChampionGloryGold/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryGold/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/ChampionGloryGold/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 28429,
+            "MD5": "dc37b3f48b98478d908178d5c68cc0a0",
+            "SHA256": "59a570e8d4acb2888bd63a313a407c9a09a972625df68ad5ae5d6e694f18ff67",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorygold-T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/ChampionGloryGold/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryGold/textures/T_Pillar.png",
+          "name": "config/portablevfx/effects/ChampionGloryGold/textures/T_Pillar.png",
+          "type": "File",
+          "artifact": {
+            "size": 13287,
+            "MD5": "10d9d49b5a77bec2657f936876188a89",
+            "SHA256": "8606cc87e0678f4de66b30bf35c33ae9548cfc6ebdbba474cfca6ef0098ff5d9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorygold-T_Pillar.png",
+            "path": "config/portablevfx/effects/ChampionGloryGold/textures/T_Pillar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryGold/textures/T_Ribbon.png",
+          "name": "config/portablevfx/effects/ChampionGloryGold/textures/T_Ribbon.png",
+          "type": "File",
+          "artifact": {
+            "size": 13565,
+            "MD5": "b140dc0593b673e00583d3c4fbac8401",
+            "SHA256": "af01bec02930a588d0c945efdabb18fb6b5b3233140e6686c52788e41a7c3abe",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorygold-T_Ribbon.png",
+            "path": "config/portablevfx/effects/ChampionGloryGold/textures/T_Ribbon.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryGold/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/ChampionGloryGold/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 26097,
+            "MD5": "c9cb1dd76987d306877fc58431ef9b53",
+            "SHA256": "1ac2c03df7ab493ba2f5e8a5b6c1506588de98bdf4dfb13353641b3c2787d911",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorygold-T_Ring.png",
+            "path": "config/portablevfx/effects/ChampionGloryGold/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryGold/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/ChampionGloryGold/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 27078,
+            "MD5": "e07103f0836cb4275995e981bfcf0be0",
+            "SHA256": "eaf1db81677e13be858bdacb997b674769fb3ee1a9bade8a060b6b46f38fe77c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorygold-T_RuneStrip.png",
+            "path": "config/portablevfx/effects/ChampionGloryGold/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryGold/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/ChampionGloryGold/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 115223,
+            "MD5": "d20b0ab822e10d5368bac1101a1cf8c7",
+            "SHA256": "32ec99cbbd60d9e3abc94596bd6707daf9275f66d214af57ba20fd0e3ee6305f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorygold-T_Sigil.png",
+            "path": "config/portablevfx/effects/ChampionGloryGold/textures/T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryGold/textures/T_Star4.png",
+          "name": "config/portablevfx/effects/ChampionGloryGold/textures/T_Star4.png",
+          "type": "File",
+          "artifact": {
+            "size": 8239,
+            "MD5": "c20f5c0008eb931e1874ffd444fd2de7",
+            "SHA256": "adf7d8e185f4f05b8782aea43573d9aa2517f3da24ce2fb02cadbb97281aedf6",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorygold-T_Star4.png",
+            "path": "config/portablevfx/effects/ChampionGloryGold/textures/T_Star4.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryGold/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/ChampionGloryGold/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 2005,
+            "MD5": "b7be19cfc230767cb33d96002aed5324",
+            "SHA256": "b621c0935a7be8287db6623855e9ee718871890b7d0f84087cb543a5227212a9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorygold-T_Streak.png",
+            "path": "config/portablevfx/effects/ChampionGloryGold/textures/T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGloryGold/vfx.json",
+          "name": "config/portablevfx/effects/ChampionGloryGold/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 883970,
+            "MD5": "09da77efa4a24a739759962bf9974a46",
+            "SHA256": "60a5c7b43601a5e7dc815e3541ede9009992f918a72785a7a56ced12425a1ee7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorygold-vfx.json",
+            "path": "config/portablevfx/effects/ChampionGloryGold/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Corona.png",
+          "name": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Corona.png",
+          "type": "File",
+          "artifact": {
+            "size": 42620,
+            "MD5": "320b010d6c0750a2f97cc1b643182d60",
+            "SHA256": "b96eac84afb3e06cdf81d7f786520b13637634272ca1b29a86e7a28fe0f5216b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorysilver-T_Corona.png",
+            "path": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Corona.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Crown.png",
+          "name": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Crown.png",
+          "type": "File",
+          "artifact": {
+            "size": 15118,
+            "MD5": "335e4aa6e26a689fb6777a540fc9ceed",
+            "SHA256": "6c54a82d96b84e1eb59f3f77c3afc2e609ad1235fbda28d4aaeb9539107563e4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorysilver-T_Crown.png",
+            "path": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Crown.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGlorySilver/textures/T_CrownDark.png",
+          "name": "config/portablevfx/effects/ChampionGlorySilver/textures/T_CrownDark.png",
+          "type": "File",
+          "artifact": {
+            "size": 4252,
+            "MD5": "8e45f61c8b5519ad8577d7ee9b9bbabe",
+            "SHA256": "1c936875e5e04d95e422c1abafac5dd3bf4b1bd74cf3b10669a0e928f841d3dc",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorysilver-T_CrownDark.png",
+            "path": "config/portablevfx/effects/ChampionGlorySilver/textures/T_CrownDark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGlorySilver/textures/T_DarkMist_Sheet.png",
+          "name": "config/portablevfx/effects/ChampionGlorySilver/textures/T_DarkMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 13323,
+            "MD5": "bc1479c3a416478b0dfa1aa930e07c69",
+            "SHA256": "90a20618bd9228939f8e7cd182b5645158ef2fb4a79838da8b3139721ff558db",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorysilver-T_DarkMist_Sheet.png",
+            "path": "config/portablevfx/effects/ChampionGlorySilver/textures/T_DarkMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 504,
+            "MD5": "e37e2de618604acc034519eb76614b61",
+            "SHA256": "15964a17d281c420ded68c233f3cc8e8b5ef5d1cedafad43514e0a3188d20288",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorysilver-T_Dot.png",
+            "path": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Glitter.png",
+          "name": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Glitter.png",
+          "type": "File",
+          "artifact": {
+            "size": 1865,
+            "MD5": "664219ad3ad695965ba84ced514b2d17",
+            "SHA256": "768a226a9a01ea28dcbee8e91be4a2d8cf9e01ea7e4d0ba4dde62a7ba84e24a8",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorysilver-T_Glitter.png",
+            "path": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Glitter.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 4510,
+            "MD5": "114653f1f23dea1fb5ec51f28f07556c",
+            "SHA256": "d0f1308076b85b4099032d3a790808d226cd6fc294eb7fb14f22a1a4304ef3cc",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorysilver-T_Glow.png",
+            "path": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Leaf.png",
+          "name": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Leaf.png",
+          "type": "File",
+          "artifact": {
+            "size": 7097,
+            "MD5": "615e0d076f89fd198f2287aa4537fd4d",
+            "SHA256": "34312390a5656b4c0df4f5f2a83b841a7f1e78a82454d83d48cd061f4fbcab83",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorysilver-T_Leaf.png",
+            "path": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Leaf.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGlorySilver/textures/T_LeafDark.png",
+          "name": "config/portablevfx/effects/ChampionGlorySilver/textures/T_LeafDark.png",
+          "type": "File",
+          "artifact": {
+            "size": 3535,
+            "MD5": "01aa54ee61cf6a3b996e9136963f6894",
+            "SHA256": "4242bbd5792e406a1cbb136a48fa14e12756bfe265e90616c89b443c66ae2757",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorysilver-T_LeafDark.png",
+            "path": "config/portablevfx/effects/ChampionGlorySilver/textures/T_LeafDark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Line.png",
+          "name": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 224,
+            "MD5": "c8e691a258d578331a0a092181eef21d",
+            "SHA256": "0185993087e8b957e228352d914cd21b5530a40ac54a5b58d4b323153ca1419e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorysilver-T_Line.png",
+            "path": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Mist_Sheet.png",
+          "name": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Mist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 29129,
+            "MD5": "9a99af41ef6bc0f61046fb26bc7616c5",
+            "SHA256": "152ae9bff047e1770208380dc9c5a3d79132806510877e6b9645d952f52b31c0",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorysilver-T_Mist_Sheet.png",
+            "path": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Mist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Pillar.png",
+          "name": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Pillar.png",
+          "type": "File",
+          "artifact": {
+            "size": 12996,
+            "MD5": "391cee666a9085d8e22ab79e19778b40",
+            "SHA256": "385ac92bcb716698a190e8e9b7498431d8167aead8b4c691873e2a084189d37c",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorysilver-T_Pillar.png",
+            "path": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Pillar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Ribbon.png",
+          "name": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Ribbon.png",
+          "type": "File",
+          "artifact": {
+            "size": 13401,
+            "MD5": "d3e5a455f3cc8481ae9c629366917f4b",
+            "SHA256": "bd4bca2c834f0e9a2c075bad28515b85105adb0d15baab331baf913118a45158",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorysilver-T_Ribbon.png",
+            "path": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Ribbon.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 25862,
+            "MD5": "94a001999cfd117007cb22c6f58b1cac",
+            "SHA256": "435741f45789212ff0d2d588a7e68a7d5b702e7169871a7b77fe1f0c09129a23",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorysilver-T_Ring.png",
+            "path": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGlorySilver/textures/T_RuneStrip.png",
+          "name": "config/portablevfx/effects/ChampionGlorySilver/textures/T_RuneStrip.png",
+          "type": "File",
+          "artifact": {
+            "size": 26832,
+            "MD5": "c313c7a11f081bf0f34549305d6ae08a",
+            "SHA256": "4be9e72a78ce284e4b9e84ef87f649f65344c79e54b0229525a9619732461676",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorysilver-T_RuneStrip.png",
+            "path": "config/portablevfx/effects/ChampionGlorySilver/textures/T_RuneStrip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Sigil.png",
+          "name": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Sigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 112855,
+            "MD5": "9a07685edf60b6622cea2f61a2b3c160",
+            "SHA256": "a3a5d2da3de8aa255abda8de8f76cef7392ea331c6f251117a7fa949cd4c0a47",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorysilver-T_Sigil.png",
+            "path": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Sigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Star4.png",
+          "name": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Star4.png",
+          "type": "File",
+          "artifact": {
+            "size": 8055,
+            "MD5": "5c8bebb5e5ec774a00cb1c8c24ef5e7f",
+            "SHA256": "01d8a9b7f0800d5b4c10741782b4bb7b8ac137462863291feb46719a68bab915",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorysilver-T_Star4.png",
+            "path": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Star4.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1996,
+            "MD5": "11b18b76484edf9e7f95f968a0773092",
+            "SHA256": "1d1efa466efc39f9ad2316e4325bbbe329f917e962f0a9fe156ff5e41e7152af",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorysilver-T_Streak.png",
+            "path": "config/portablevfx/effects/ChampionGlorySilver/textures/T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/ChampionGlorySilver/vfx.json",
+          "name": "config/portablevfx/effects/ChampionGlorySilver/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 883914,
+            "MD5": "4cb38a15a0605ed89efc254ae3df6c99",
+            "SHA256": "c7ee49b4c8d822ddbc9b5add296687879b0206e760ced874bc28d3896234efaa",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-victory-sigil-20261104/championglorysilver-vfx.json",
+            "path": "config/portablevfx/effects/ChampionGlorySilver/vfx.json"
           }
         },
         {
