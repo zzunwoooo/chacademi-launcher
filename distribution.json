@@ -343,10 +343,10 @@
           "name": "mods/portable-vfx-preserved-245d836c.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 434306,
-            "MD5": "7c3b4385f9a72cd3b07072f64ad24f0e",
-            "SHA256": "439c43fb27ce1f3512e75facaf445ba186b9907fc4d198aa4ca1318075ef97ea",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-rgba1536-20261103/portable-vfx-preserved-245d836c-rgba2048.jar"
+            "size": 435222,
+            "MD5": "b05148f0bb9a2dca3a21843b0fdc0af4",
+            "SHA256": "7f5313a296f2cb223f7f05e8874b10a0957de921cb7223d1a41f84351a446730",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-vfx-bossfx-20261107/portable-vfx-preserved-245d836c-rgba2048-bossfx.jar"
           }
         },
         {
