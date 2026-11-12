@@ -266,10 +266,10 @@
           "name": "mods/chacademi-dungeon-0.1.0-lich-20261029.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 31553299,
-            "MD5": "a977d13f47cf5759402a2601a928932f",
-            "SHA256": "0be907c2d8fbce7de9a1b8042e88ce337722a54cf5252c67f1321f57569d2a95",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-tower-20261112/chacademi-dungeon-0.6.0-tower-20261109.jar"
+            "size": 31562399,
+            "MD5": "c21f66807863763d35e906508200db7e",
+            "SHA256": "4f0090138fb1a960a74cc32ee0e0a8c72b4ba3503653331081ba536e924e7e34",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-tower-20261112b/chacademi-dungeon-0.6.1-tower-20261112.jar"
           }
         },
         {
