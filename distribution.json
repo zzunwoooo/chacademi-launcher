@@ -266,10 +266,10 @@
           "name": "mods/chacademi-dungeon-0.1.0-lich-20261029.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 31562418,
-            "MD5": "26dc6928c00a49078f3a97a31681b188",
-            "SHA256": "331cc0084cdcb5324bbd5de1c22f3609660a4899249741bf42739c37148ffb12",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-tower-20261112c/chacademi-dungeon-0.6.2-tower-20261112.jar"
+            "size": 34611345,
+            "MD5": "d489209872d07bb730f6303da3f85370",
+            "SHA256": "915d11c0f708d0259bebaa201047834723fb143d4b755ea1953b494b4817ce80",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/chacademi-dungeon-0.7.0-siege-20261113.jar"
           }
         },
         {
@@ -343,10 +343,10 @@
           "name": "mods/portable-vfx-preserved-245d836c.jar",
           "type": "FabricMod",
           "artifact": {
-            "size": 435291,
-            "MD5": "32d6cbd5788b9441b9cc82c991c6e228",
-            "SHA256": "feee4f7672aafca11eade593e546eb7cc5207bc24d5b7c229e56bd54f78ec4ee",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-ch4-bossvfx-20261109/portable-vfx-preserved-245d836c-rgba2048-bossfx2.jar"
+            "size": 435299,
+            "MD5": "d7eac5f3e58728460290a598fb304ede",
+            "SHA256": "8e2a6db4d54f948f7a40fc8959a656f4d23f02b084e16b1da5fcba2ac63c9da4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/portable-vfx-preserved-245d836c-rgba2048-bossfx3.jar"
           }
         },
         {
@@ -5852,10 +5852,10 @@
           "type": "File",
           "artifact": {
             "path": "resourcepacks/chacademia-integrated-20261023.zip",
-            "size": 54742299,
-            "MD5": "6b6acd03a7792f844df0e22be13837e8",
-            "SHA256": "eb8b2171027ab50d7d9bc8d7d5c4a0ddeb5504a12220813042298ff72f70d693",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-ch4-bossvfx-20261109/chacademia-integrated-ia-20261109.zip"
+            "size": 58445567,
+            "MD5": "bee6deddcdec037f44839301bdccd719",
+            "SHA256": "bcb9e07cd4ef6bb2246f7ea8e5b8e159e15767185159f72811d49c1d3a8fe0c6",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/chacademia-integrated-ia-20261113.zip"
           },
           "updatePolicy": "managed"
         },
@@ -78318,6 +78318,2382 @@
             "SHA256": "2f2d70e767fcec1399136ad47f337debdfa740eef5fabe208b69489c14cc9123",
             "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-ch4-bossvfx-20261109/somnia_mobs__vfx.json",
             "path": "config/portablevfx/effects/Somnia_Mobs/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts/textures/T_Band.png",
+          "name": "config/portablevfx/effects/Siege_Beasts/textures/T_Band.png",
+          "type": "File",
+          "artifact": {
+            "size": 1870,
+            "MD5": "f50cefb95f4ad0b745c4b59ba8c28cf2",
+            "SHA256": "da78e75623894f72371ea93d54524f247efc925f5f9e374d5fe3d224cae20cc9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts__textures__t_band.png",
+            "path": "config/portablevfx/effects/Siege_Beasts/textures/T_Band.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts/textures/T_ClawMark.png",
+          "name": "config/portablevfx/effects/Siege_Beasts/textures/T_ClawMark.png",
+          "type": "File",
+          "artifact": {
+            "size": 17199,
+            "MD5": "af103083737697ccd010675499cfe670",
+            "SHA256": "c39711ce2c6795842199e27de55603d296f8db3e80977d8b9387c7394126a4b1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts__textures__t_clawmark.png",
+            "path": "config/portablevfx/effects/Siege_Beasts/textures/T_ClawMark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/Siege_Beasts/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 29643,
+            "MD5": "3c3ddeb404af143de75089244210dd98",
+            "SHA256": "06164e92ee87cb2c2508f6b841140c01a612a04a4d6c51aa00e0806ba8f0580b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts__textures__t_crack.png",
+            "path": "config/portablevfx/effects/Siege_Beasts/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts/textures/T_DarkMist_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Beasts/textures/T_DarkMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 19273,
+            "MD5": "79ca800d239b7ac2769218a02028a48d",
+            "SHA256": "3905d022e328e4ed25403fa49335afb47ee0147d138ed221571a7ce2f030e73b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts__textures__t_darkmist_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Beasts/textures/T_DarkMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/Siege_Beasts/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1392,
+            "MD5": "7ca4f18f1a133f2f3714f2e8d686b40f",
+            "SHA256": "e9f29711c415b83e98c20eadded5ee97c5fee5c19add40d7f9160b5ea41fd4a4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts__textures__t_dot.png",
+            "path": "config/portablevfx/effects/Siege_Beasts/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts/textures/T_Dust_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Beasts/textures/T_Dust_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 29125,
+            "MD5": "7c70d316687ee6d6d8d499f456ba055d",
+            "SHA256": "def6b535347f0fa23b5f72b187de9fc1fa53ed07f6aee6f8d3950ca3e4d1ff46",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts__textures__t_dust_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Beasts/textures/T_Dust_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts/textures/T_Flame_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Beasts/textures/T_Flame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 58539,
+            "MD5": "58f8095851c90722a87758fb4942ea40",
+            "SHA256": "c5ddd37c537643aa8ceab62809e1b8127b0015e3fab345c2ce17f3652ba83978",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts__textures__t_flame_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Beasts/textures/T_Flame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts/textures/T_Flare.png",
+          "name": "config/portablevfx/effects/Siege_Beasts/textures/T_Flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 11208,
+            "MD5": "4969c971ee249ac6d339d3e634ebc5b8",
+            "SHA256": "65b29b2d2c5d38934d5a4f6e55830dac6c587467255515d283e5c5016f1a9ef9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts__textures__t_flare.png",
+            "path": "config/portablevfx/effects/Siege_Beasts/textures/T_Flare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/Siege_Beasts/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts__textures__t_glow.png",
+            "path": "config/portablevfx/effects/Siege_Beasts/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts/textures/T_Line.png",
+          "name": "config/portablevfx/effects/Siege_Beasts/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 204,
+            "MD5": "641ae507813d5a55db29ace634b778d1",
+            "SHA256": "47a88ededdd5301578c33799aafd5fc3062428ddff7a03c3e96da620b7e4b047",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts__textures__t_line.png",
+            "path": "config/portablevfx/effects/Siege_Beasts/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts/textures/T_Pillar.png",
+          "name": "config/portablevfx/effects/Siege_Beasts/textures/T_Pillar.png",
+          "type": "File",
+          "artifact": {
+            "size": 5587,
+            "MD5": "f82cc786f54ac07ad5d0ad24e4929dd4",
+            "SHA256": "c51b0f8591f201b8b6c755d7bd492150adf49fbc0f6ea59d18863e5b735e41a3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts__textures__t_pillar.png",
+            "path": "config/portablevfx/effects/Siege_Beasts/textures/T_Pillar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts/textures/T_ShardDark.png",
+          "name": "config/portablevfx/effects/Siege_Beasts/textures/T_ShardDark.png",
+          "type": "File",
+          "artifact": {
+            "size": 1541,
+            "MD5": "48815a9e3fb364c16f6aacf9b419e733",
+            "SHA256": "6376450f2cb1a790239002fb6d23c3bb12686d6fefa3a8f09f7efe30f60b788e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts__textures__t_sharddark.png",
+            "path": "config/portablevfx/effects/Siege_Beasts/textures/T_ShardDark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts/textures/T_ShardLight.png",
+          "name": "config/portablevfx/effects/Siege_Beasts/textures/T_ShardLight.png",
+          "type": "File",
+          "artifact": {
+            "size": 1569,
+            "MD5": "a762840da6e164582ebc076a18087689",
+            "SHA256": "04ce8ccb154ea4ebc8889f469de7e81803fdb91106e6b3dee42d024cd1541f35",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts__textures__t_shardlight.png",
+            "path": "config/portablevfx/effects/Siege_Beasts/textures/T_ShardLight.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts/textures/T_Star.png",
+          "name": "config/portablevfx/effects/Siege_Beasts/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5671,
+            "MD5": "fc3cabd2bdb443c3fd04ecbdae3fe53b",
+            "SHA256": "d6f366de42ee3f6d284d355acc3ccfced6c344a8ec462e02b556e1f9c798546d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts__textures__t_star.png",
+            "path": "config/portablevfx/effects/Siege_Beasts/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/Siege_Beasts/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1322,
+            "MD5": "6623fe0d70c94abd154ca2455705824b",
+            "SHA256": "7c531271ca16538a9b4ddc6e129f18178b2e4d00aabe436ba488ec274fec021a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts__textures__t_streak.png",
+            "path": "config/portablevfx/effects/Siege_Beasts/textures/T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts/textures/T_Wave.png",
+          "name": "config/portablevfx/effects/Siege_Beasts/textures/T_Wave.png",
+          "type": "File",
+          "artifact": {
+            "size": 18722,
+            "MD5": "048f96629067c865bccec8f480f2692c",
+            "SHA256": "fa55c8e6a256779cb32a0f25712024a56bed51e3817ad173b8a80706948f65da",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts__textures__t_wave.png",
+            "path": "config/portablevfx/effects/Siege_Beasts/textures/T_Wave.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts/vfx.json",
+          "name": "config/portablevfx/effects/Siege_Beasts/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 408972,
+            "MD5": "84da1e225d1a14335760201614864019",
+            "SHA256": "7ce53a8e6f23e33276e5e8bac22af8347c5ccd5e3494e7f89bf5adf4d849f86f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts__vfx.json",
+            "path": "config/portablevfx/effects/Siege_Beasts/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts2/textures/T_Band.png",
+          "name": "config/portablevfx/effects/Siege_Beasts2/textures/T_Band.png",
+          "type": "File",
+          "artifact": {
+            "size": 1870,
+            "MD5": "f50cefb95f4ad0b745c4b59ba8c28cf2",
+            "SHA256": "da78e75623894f72371ea93d54524f247efc925f5f9e374d5fe3d224cae20cc9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts2__textures__t_band.png",
+            "path": "config/portablevfx/effects/Siege_Beasts2/textures/T_Band.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts2/textures/T_ClawMark.png",
+          "name": "config/portablevfx/effects/Siege_Beasts2/textures/T_ClawMark.png",
+          "type": "File",
+          "artifact": {
+            "size": 17199,
+            "MD5": "af103083737697ccd010675499cfe670",
+            "SHA256": "c39711ce2c6795842199e27de55603d296f8db3e80977d8b9387c7394126a4b1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts2__textures__t_clawmark.png",
+            "path": "config/portablevfx/effects/Siege_Beasts2/textures/T_ClawMark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts2/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/Siege_Beasts2/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 29643,
+            "MD5": "3c3ddeb404af143de75089244210dd98",
+            "SHA256": "06164e92ee87cb2c2508f6b841140c01a612a04a4d6c51aa00e0806ba8f0580b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts2__textures__t_crack.png",
+            "path": "config/portablevfx/effects/Siege_Beasts2/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts2/textures/T_DarkMist_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Beasts2/textures/T_DarkMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 19273,
+            "MD5": "79ca800d239b7ac2769218a02028a48d",
+            "SHA256": "3905d022e328e4ed25403fa49335afb47ee0147d138ed221571a7ce2f030e73b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts2__textures__t_darkmist_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Beasts2/textures/T_DarkMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts2/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/Siege_Beasts2/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1392,
+            "MD5": "7ca4f18f1a133f2f3714f2e8d686b40f",
+            "SHA256": "e9f29711c415b83e98c20eadded5ee97c5fee5c19add40d7f9160b5ea41fd4a4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts2__textures__t_dot.png",
+            "path": "config/portablevfx/effects/Siege_Beasts2/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts2/textures/T_Dust_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Beasts2/textures/T_Dust_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 29125,
+            "MD5": "7c70d316687ee6d6d8d499f456ba055d",
+            "SHA256": "def6b535347f0fa23b5f72b187de9fc1fa53ed07f6aee6f8d3950ca3e4d1ff46",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts2__textures__t_dust_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Beasts2/textures/T_Dust_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts2/textures/T_Flame_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Beasts2/textures/T_Flame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 58539,
+            "MD5": "58f8095851c90722a87758fb4942ea40",
+            "SHA256": "c5ddd37c537643aa8ceab62809e1b8127b0015e3fab345c2ce17f3652ba83978",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts2__textures__t_flame_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Beasts2/textures/T_Flame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts2/textures/T_Flare.png",
+          "name": "config/portablevfx/effects/Siege_Beasts2/textures/T_Flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 11208,
+            "MD5": "4969c971ee249ac6d339d3e634ebc5b8",
+            "SHA256": "65b29b2d2c5d38934d5a4f6e55830dac6c587467255515d283e5c5016f1a9ef9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts2__textures__t_flare.png",
+            "path": "config/portablevfx/effects/Siege_Beasts2/textures/T_Flare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts2/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/Siege_Beasts2/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts2__textures__t_glow.png",
+            "path": "config/portablevfx/effects/Siege_Beasts2/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts2/textures/T_Line.png",
+          "name": "config/portablevfx/effects/Siege_Beasts2/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 204,
+            "MD5": "641ae507813d5a55db29ace634b778d1",
+            "SHA256": "47a88ededdd5301578c33799aafd5fc3062428ddff7a03c3e96da620b7e4b047",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts2__textures__t_line.png",
+            "path": "config/portablevfx/effects/Siege_Beasts2/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts2/textures/T_Pillar.png",
+          "name": "config/portablevfx/effects/Siege_Beasts2/textures/T_Pillar.png",
+          "type": "File",
+          "artifact": {
+            "size": 5587,
+            "MD5": "f82cc786f54ac07ad5d0ad24e4929dd4",
+            "SHA256": "c51b0f8591f201b8b6c755d7bd492150adf49fbc0f6ea59d18863e5b735e41a3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts2__textures__t_pillar.png",
+            "path": "config/portablevfx/effects/Siege_Beasts2/textures/T_Pillar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts2/textures/T_ShardDark.png",
+          "name": "config/portablevfx/effects/Siege_Beasts2/textures/T_ShardDark.png",
+          "type": "File",
+          "artifact": {
+            "size": 1541,
+            "MD5": "48815a9e3fb364c16f6aacf9b419e733",
+            "SHA256": "6376450f2cb1a790239002fb6d23c3bb12686d6fefa3a8f09f7efe30f60b788e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts2__textures__t_sharddark.png",
+            "path": "config/portablevfx/effects/Siege_Beasts2/textures/T_ShardDark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts2/textures/T_ShardLight.png",
+          "name": "config/portablevfx/effects/Siege_Beasts2/textures/T_ShardLight.png",
+          "type": "File",
+          "artifact": {
+            "size": 1569,
+            "MD5": "a762840da6e164582ebc076a18087689",
+            "SHA256": "04ce8ccb154ea4ebc8889f469de7e81803fdb91106e6b3dee42d024cd1541f35",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts2__textures__t_shardlight.png",
+            "path": "config/portablevfx/effects/Siege_Beasts2/textures/T_ShardLight.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts2/textures/T_Spiral.png",
+          "name": "config/portablevfx/effects/Siege_Beasts2/textures/T_Spiral.png",
+          "type": "File",
+          "artifact": {
+            "size": 20068,
+            "MD5": "096c5cff384b4cf5f2fb92f4d8055eb9",
+            "SHA256": "ab836b776f63fd2d8c4f9c06f40a39405e71b4cb968339a028e5ebc43e4bcf8b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts2__textures__t_spiral.png",
+            "path": "config/portablevfx/effects/Siege_Beasts2/textures/T_Spiral.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts2/textures/T_Star.png",
+          "name": "config/portablevfx/effects/Siege_Beasts2/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5671,
+            "MD5": "fc3cabd2bdb443c3fd04ecbdae3fe53b",
+            "SHA256": "d6f366de42ee3f6d284d355acc3ccfced6c344a8ec462e02b556e1f9c798546d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts2__textures__t_star.png",
+            "path": "config/portablevfx/effects/Siege_Beasts2/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts2/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/Siege_Beasts2/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1322,
+            "MD5": "6623fe0d70c94abd154ca2455705824b",
+            "SHA256": "7c531271ca16538a9b4ddc6e129f18178b2e4d00aabe436ba488ec274fec021a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts2__textures__t_streak.png",
+            "path": "config/portablevfx/effects/Siege_Beasts2/textures/T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts2/textures/T_Wave.png",
+          "name": "config/portablevfx/effects/Siege_Beasts2/textures/T_Wave.png",
+          "type": "File",
+          "artifact": {
+            "size": 18722,
+            "MD5": "048f96629067c865bccec8f480f2692c",
+            "SHA256": "fa55c8e6a256779cb32a0f25712024a56bed51e3817ad173b8a80706948f65da",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts2__textures__t_wave.png",
+            "path": "config/portablevfx/effects/Siege_Beasts2/textures/T_Wave.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Beasts2/vfx.json",
+          "name": "config/portablevfx/effects/Siege_Beasts2/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 219825,
+            "MD5": "6873a148ff7f9e158d7ca100c7b2aeb4",
+            "SHA256": "0ca2bde3e1eacc9e104a48a6a65154f837d47c3ade791ffa9b1ffd682d3688b7",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_beasts2__vfx.json",
+            "path": "config/portablevfx/effects/Siege_Beasts2/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_Band.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_Band.png",
+          "type": "File",
+          "artifact": {
+            "size": 1870,
+            "MD5": "f50cefb95f4ad0b745c4b59ba8c28cf2",
+            "SHA256": "da78e75623894f72371ea93d54524f247efc925f5f9e374d5fe3d224cae20cc9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_band.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_Band.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_Chain.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_Chain.png",
+          "type": "File",
+          "artifact": {
+            "size": 4504,
+            "MD5": "0bf0e6eaf93eac55ef5f9b4e3569fb96",
+            "SHA256": "34ae929dca3cc64e6f15b26bf96669498fd22434e346c94df8cd0ecf215d915a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_chain.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_Chain.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 29643,
+            "MD5": "3c3ddeb404af143de75089244210dd98",
+            "SHA256": "06164e92ee87cb2c2508f6b841140c01a612a04a4d6c51aa00e0806ba8f0580b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_crack.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_Cross.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_Cross.png",
+          "type": "File",
+          "artifact": {
+            "size": 6633,
+            "MD5": "ac80ff594b5d73fa0574d206438c240b",
+            "SHA256": "366052b916f6499881d66950accc90f8e0f33121566011064de1ee759282e805",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_cross.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_Cross.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_DarkMist_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_DarkMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 19273,
+            "MD5": "79ca800d239b7ac2769218a02028a48d",
+            "SHA256": "3905d022e328e4ed25403fa49335afb47ee0147d138ed221571a7ce2f030e73b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_darkmist_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_DarkMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1392,
+            "MD5": "7ca4f18f1a133f2f3714f2e8d686b40f",
+            "SHA256": "e9f29711c415b83e98c20eadded5ee97c5fee5c19add40d7f9160b5ea41fd4a4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_dot.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_Dust_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_Dust_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 29125,
+            "MD5": "7c70d316687ee6d6d8d499f456ba055d",
+            "SHA256": "def6b535347f0fa23b5f72b187de9fc1fa53ed07f6aee6f8d3950ca3e4d1ff46",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_dust_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_Dust_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_Feather.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_Feather.png",
+          "type": "File",
+          "artifact": {
+            "size": 7732,
+            "MD5": "0ab689b0ac5b011f0a40f4c18047a232",
+            "SHA256": "07517f06834b5c3f4327a63a68ea7222154ce37812b57614e8e053211d891363",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_feather.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_Feather.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_Flare.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_Flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 11208,
+            "MD5": "4969c971ee249ac6d339d3e634ebc5b8",
+            "SHA256": "65b29b2d2c5d38934d5a4f6e55830dac6c587467255515d283e5c5016f1a9ef9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_flare.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_Flare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_glow.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_HaloSigil.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_HaloSigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 88605,
+            "MD5": "d9a648580b05c84949b0de64e1da9b75",
+            "SHA256": "0b76bbb2801eb30d80168f6168933732c6f400b83de569dcf5db008c82308011",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_halosigil.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_HaloSigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_Line.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 204,
+            "MD5": "641ae507813d5a55db29ace634b778d1",
+            "SHA256": "47a88ededdd5301578c33799aafd5fc3062428ddff7a03c3e96da620b7e4b047",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_line.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_Pillar.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_Pillar.png",
+          "type": "File",
+          "artifact": {
+            "size": 5587,
+            "MD5": "f82cc786f54ac07ad5d0ad24e4929dd4",
+            "SHA256": "c51b0f8591f201b8b6c755d7bd492150adf49fbc0f6ea59d18863e5b735e41a3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_pillar.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_Pillar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 20816,
+            "MD5": "74beaa3b9ab7c50c5479d354af5b39bb",
+            "SHA256": "559ddcecd3c9f4b74b101685e3ea52e00a1c0def85bddb64f4aba0409fb15d09",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_ring.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_ShardDark.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_ShardDark.png",
+          "type": "File",
+          "artifact": {
+            "size": 1541,
+            "MD5": "48815a9e3fb364c16f6aacf9b419e733",
+            "SHA256": "6376450f2cb1a790239002fb6d23c3bb12686d6fefa3a8f09f7efe30f60b788e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_sharddark.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_ShardDark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_ShardLight.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_ShardLight.png",
+          "type": "File",
+          "artifact": {
+            "size": 1569,
+            "MD5": "a762840da6e164582ebc076a18087689",
+            "SHA256": "04ce8ccb154ea4ebc8889f469de7e81803fdb91106e6b3dee42d024cd1541f35",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_shardlight.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_ShardLight.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_Slash_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_Slash_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 38837,
+            "MD5": "de085c29935d4a0b36ade89059c9be0e",
+            "SHA256": "3aac64b5a552f59bb77713e3739f2f9e224537724a2268f7eb3ed6a3fcd05584",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_slash_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_Slash_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_Star.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5671,
+            "MD5": "fc3cabd2bdb443c3fd04ecbdae3fe53b",
+            "SHA256": "d6f366de42ee3f6d284d355acc3ccfced6c344a8ec462e02b556e1f9c798546d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_star.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1322,
+            "MD5": "6623fe0d70c94abd154ca2455705824b",
+            "SHA256": "7c531271ca16538a9b4ddc6e129f18178b2e4d00aabe436ba488ec274fec021a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_streak.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_ThornSigil.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_ThornSigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 87148,
+            "MD5": "6a80b324aae7eabc15f07c845fb47e24",
+            "SHA256": "e918572c16f049d05bd209d87fcee2db5e5b096d16f0d521da0a5add6498f25b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_thornsigil.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_ThornSigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/textures/T_Wave.png",
+          "name": "config/portablevfx/effects/Siege_Belzar/textures/T_Wave.png",
+          "type": "File",
+          "artifact": {
+            "size": 18722,
+            "MD5": "048f96629067c865bccec8f480f2692c",
+            "SHA256": "fa55c8e6a256779cb32a0f25712024a56bed51e3817ad173b8a80706948f65da",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__textures__t_wave.png",
+            "path": "config/portablevfx/effects/Siege_Belzar/textures/T_Wave.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar/vfx.json",
+          "name": "config/portablevfx/effects/Siege_Belzar/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 667066,
+            "MD5": "e23866a4865e57d04d7e1ba98d0102ec",
+            "SHA256": "875c417ba818f7adde67d8ca3780c07b6a964cae48e8cf3ecfffb86a54e199a3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar__vfx.json",
+            "path": "config/portablevfx/effects/Siege_Belzar/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar2/textures/T_Band.png",
+          "name": "config/portablevfx/effects/Siege_Belzar2/textures/T_Band.png",
+          "type": "File",
+          "artifact": {
+            "size": 1870,
+            "MD5": "f50cefb95f4ad0b745c4b59ba8c28cf2",
+            "SHA256": "da78e75623894f72371ea93d54524f247efc925f5f9e374d5fe3d224cae20cc9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar2__textures__t_band.png",
+            "path": "config/portablevfx/effects/Siege_Belzar2/textures/T_Band.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar2/textures/T_Chain.png",
+          "name": "config/portablevfx/effects/Siege_Belzar2/textures/T_Chain.png",
+          "type": "File",
+          "artifact": {
+            "size": 4504,
+            "MD5": "0bf0e6eaf93eac55ef5f9b4e3569fb96",
+            "SHA256": "34ae929dca3cc64e6f15b26bf96669498fd22434e346c94df8cd0ecf215d915a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar2__textures__t_chain.png",
+            "path": "config/portablevfx/effects/Siege_Belzar2/textures/T_Chain.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar2/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/Siege_Belzar2/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 29643,
+            "MD5": "3c3ddeb404af143de75089244210dd98",
+            "SHA256": "06164e92ee87cb2c2508f6b841140c01a612a04a4d6c51aa00e0806ba8f0580b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar2__textures__t_crack.png",
+            "path": "config/portablevfx/effects/Siege_Belzar2/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar2/textures/T_Cross.png",
+          "name": "config/portablevfx/effects/Siege_Belzar2/textures/T_Cross.png",
+          "type": "File",
+          "artifact": {
+            "size": 6633,
+            "MD5": "ac80ff594b5d73fa0574d206438c240b",
+            "SHA256": "366052b916f6499881d66950accc90f8e0f33121566011064de1ee759282e805",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar2__textures__t_cross.png",
+            "path": "config/portablevfx/effects/Siege_Belzar2/textures/T_Cross.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar2/textures/T_DarkMist_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Belzar2/textures/T_DarkMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 19273,
+            "MD5": "79ca800d239b7ac2769218a02028a48d",
+            "SHA256": "3905d022e328e4ed25403fa49335afb47ee0147d138ed221571a7ce2f030e73b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar2__textures__t_darkmist_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Belzar2/textures/T_DarkMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar2/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/Siege_Belzar2/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1392,
+            "MD5": "7ca4f18f1a133f2f3714f2e8d686b40f",
+            "SHA256": "e9f29711c415b83e98c20eadded5ee97c5fee5c19add40d7f9160b5ea41fd4a4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar2__textures__t_dot.png",
+            "path": "config/portablevfx/effects/Siege_Belzar2/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar2/textures/T_Dust_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Belzar2/textures/T_Dust_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 29125,
+            "MD5": "7c70d316687ee6d6d8d499f456ba055d",
+            "SHA256": "def6b535347f0fa23b5f72b187de9fc1fa53ed07f6aee6f8d3950ca3e4d1ff46",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar2__textures__t_dust_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Belzar2/textures/T_Dust_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar2/textures/T_Feather.png",
+          "name": "config/portablevfx/effects/Siege_Belzar2/textures/T_Feather.png",
+          "type": "File",
+          "artifact": {
+            "size": 7732,
+            "MD5": "0ab689b0ac5b011f0a40f4c18047a232",
+            "SHA256": "07517f06834b5c3f4327a63a68ea7222154ce37812b57614e8e053211d891363",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar2__textures__t_feather.png",
+            "path": "config/portablevfx/effects/Siege_Belzar2/textures/T_Feather.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar2/textures/T_Flare.png",
+          "name": "config/portablevfx/effects/Siege_Belzar2/textures/T_Flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 11208,
+            "MD5": "4969c971ee249ac6d339d3e634ebc5b8",
+            "SHA256": "65b29b2d2c5d38934d5a4f6e55830dac6c587467255515d283e5c5016f1a9ef9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar2__textures__t_flare.png",
+            "path": "config/portablevfx/effects/Siege_Belzar2/textures/T_Flare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar2/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/Siege_Belzar2/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar2__textures__t_glow.png",
+            "path": "config/portablevfx/effects/Siege_Belzar2/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar2/textures/T_HaloSigil.png",
+          "name": "config/portablevfx/effects/Siege_Belzar2/textures/T_HaloSigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 88605,
+            "MD5": "d9a648580b05c84949b0de64e1da9b75",
+            "SHA256": "0b76bbb2801eb30d80168f6168933732c6f400b83de569dcf5db008c82308011",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar2__textures__t_halosigil.png",
+            "path": "config/portablevfx/effects/Siege_Belzar2/textures/T_HaloSigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar2/textures/T_Line.png",
+          "name": "config/portablevfx/effects/Siege_Belzar2/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 204,
+            "MD5": "641ae507813d5a55db29ace634b778d1",
+            "SHA256": "47a88ededdd5301578c33799aafd5fc3062428ddff7a03c3e96da620b7e4b047",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar2__textures__t_line.png",
+            "path": "config/portablevfx/effects/Siege_Belzar2/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar2/textures/T_Ring.png",
+          "name": "config/portablevfx/effects/Siege_Belzar2/textures/T_Ring.png",
+          "type": "File",
+          "artifact": {
+            "size": 20816,
+            "MD5": "74beaa3b9ab7c50c5479d354af5b39bb",
+            "SHA256": "559ddcecd3c9f4b74b101685e3ea52e00a1c0def85bddb64f4aba0409fb15d09",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar2__textures__t_ring.png",
+            "path": "config/portablevfx/effects/Siege_Belzar2/textures/T_Ring.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar2/textures/T_ShardDark.png",
+          "name": "config/portablevfx/effects/Siege_Belzar2/textures/T_ShardDark.png",
+          "type": "File",
+          "artifact": {
+            "size": 1541,
+            "MD5": "48815a9e3fb364c16f6aacf9b419e733",
+            "SHA256": "6376450f2cb1a790239002fb6d23c3bb12686d6fefa3a8f09f7efe30f60b788e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar2__textures__t_sharddark.png",
+            "path": "config/portablevfx/effects/Siege_Belzar2/textures/T_ShardDark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar2/textures/T_ShardLight.png",
+          "name": "config/portablevfx/effects/Siege_Belzar2/textures/T_ShardLight.png",
+          "type": "File",
+          "artifact": {
+            "size": 1569,
+            "MD5": "a762840da6e164582ebc076a18087689",
+            "SHA256": "04ce8ccb154ea4ebc8889f469de7e81803fdb91106e6b3dee42d024cd1541f35",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar2__textures__t_shardlight.png",
+            "path": "config/portablevfx/effects/Siege_Belzar2/textures/T_ShardLight.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar2/textures/T_Star.png",
+          "name": "config/portablevfx/effects/Siege_Belzar2/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5671,
+            "MD5": "fc3cabd2bdb443c3fd04ecbdae3fe53b",
+            "SHA256": "d6f366de42ee3f6d284d355acc3ccfced6c344a8ec462e02b556e1f9c798546d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar2__textures__t_star.png",
+            "path": "config/portablevfx/effects/Siege_Belzar2/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar2/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/Siege_Belzar2/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1322,
+            "MD5": "6623fe0d70c94abd154ca2455705824b",
+            "SHA256": "7c531271ca16538a9b4ddc6e129f18178b2e4d00aabe436ba488ec274fec021a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar2__textures__t_streak.png",
+            "path": "config/portablevfx/effects/Siege_Belzar2/textures/T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar2/textures/T_ThornSigil.png",
+          "name": "config/portablevfx/effects/Siege_Belzar2/textures/T_ThornSigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 87148,
+            "MD5": "6a80b324aae7eabc15f07c845fb47e24",
+            "SHA256": "e918572c16f049d05bd209d87fcee2db5e5b096d16f0d521da0a5add6498f25b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar2__textures__t_thornsigil.png",
+            "path": "config/portablevfx/effects/Siege_Belzar2/textures/T_ThornSigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar2/textures/T_Wave.png",
+          "name": "config/portablevfx/effects/Siege_Belzar2/textures/T_Wave.png",
+          "type": "File",
+          "artifact": {
+            "size": 18722,
+            "MD5": "048f96629067c865bccec8f480f2692c",
+            "SHA256": "fa55c8e6a256779cb32a0f25712024a56bed51e3817ad173b8a80706948f65da",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar2__textures__t_wave.png",
+            "path": "config/portablevfx/effects/Siege_Belzar2/textures/T_Wave.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Belzar2/vfx.json",
+          "name": "config/portablevfx/effects/Siege_Belzar2/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 299605,
+            "MD5": "fd022c8da14b450312ebd814d27e1337",
+            "SHA256": "2ebc271427c55d9eb9a2b936bec391ed7b1c14e77b147320f52b66f576c3d182",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_belzar2__vfx.json",
+            "path": "config/portablevfx/effects/Siege_Belzar2/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon/textures/T_Band.png",
+          "name": "config/portablevfx/effects/Siege_Demon/textures/T_Band.png",
+          "type": "File",
+          "artifact": {
+            "size": 1870,
+            "MD5": "f50cefb95f4ad0b745c4b59ba8c28cf2",
+            "SHA256": "da78e75623894f72371ea93d54524f247efc925f5f9e374d5fe3d224cae20cc9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon__textures__t_band.png",
+            "path": "config/portablevfx/effects/Siege_Demon/textures/T_Band.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon/textures/T_Blade.png",
+          "name": "config/portablevfx/effects/Siege_Demon/textures/T_Blade.png",
+          "type": "File",
+          "artifact": {
+            "size": 8958,
+            "MD5": "8b9fd250a4ad31f0421cd29dca1c6a8f",
+            "SHA256": "89f75c60fb7ca5f6b053ec6cece5ba5acaf37f9f2cd144d27e7a0d2bc66d8f1e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon__textures__t_blade.png",
+            "path": "config/portablevfx/effects/Siege_Demon/textures/T_Blade.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon/textures/T_ClawMark.png",
+          "name": "config/portablevfx/effects/Siege_Demon/textures/T_ClawMark.png",
+          "type": "File",
+          "artifact": {
+            "size": 17199,
+            "MD5": "af103083737697ccd010675499cfe670",
+            "SHA256": "c39711ce2c6795842199e27de55603d296f8db3e80977d8b9387c7394126a4b1",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon__textures__t_clawmark.png",
+            "path": "config/portablevfx/effects/Siege_Demon/textures/T_ClawMark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/Siege_Demon/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 29643,
+            "MD5": "3c3ddeb404af143de75089244210dd98",
+            "SHA256": "06164e92ee87cb2c2508f6b841140c01a612a04a4d6c51aa00e0806ba8f0580b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon__textures__t_crack.png",
+            "path": "config/portablevfx/effects/Siege_Demon/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon/textures/T_DarkMist_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Demon/textures/T_DarkMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 19273,
+            "MD5": "79ca800d239b7ac2769218a02028a48d",
+            "SHA256": "3905d022e328e4ed25403fa49335afb47ee0147d138ed221571a7ce2f030e73b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon__textures__t_darkmist_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Demon/textures/T_DarkMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/Siege_Demon/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1392,
+            "MD5": "7ca4f18f1a133f2f3714f2e8d686b40f",
+            "SHA256": "e9f29711c415b83e98c20eadded5ee97c5fee5c19add40d7f9160b5ea41fd4a4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon__textures__t_dot.png",
+            "path": "config/portablevfx/effects/Siege_Demon/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon/textures/T_Flame_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Demon/textures/T_Flame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 58539,
+            "MD5": "58f8095851c90722a87758fb4942ea40",
+            "SHA256": "c5ddd37c537643aa8ceab62809e1b8127b0015e3fab345c2ce17f3652ba83978",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon__textures__t_flame_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Demon/textures/T_Flame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon/textures/T_Flare.png",
+          "name": "config/portablevfx/effects/Siege_Demon/textures/T_Flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 11208,
+            "MD5": "4969c971ee249ac6d339d3e634ebc5b8",
+            "SHA256": "65b29b2d2c5d38934d5a4f6e55830dac6c587467255515d283e5c5016f1a9ef9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon__textures__t_flare.png",
+            "path": "config/portablevfx/effects/Siege_Demon/textures/T_Flare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon/textures/T_GateSigil.png",
+          "name": "config/portablevfx/effects/Siege_Demon/textures/T_GateSigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 73190,
+            "MD5": "0976bf7c52b86b34445bfc9e2f712127",
+            "SHA256": "1071206ad4a59c0141697abf1a2c113f93ceb80e837f5116297d0d3e8f7ec0ea",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon__textures__t_gatesigil.png",
+            "path": "config/portablevfx/effects/Siege_Demon/textures/T_GateSigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/Siege_Demon/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon__textures__t_glow.png",
+            "path": "config/portablevfx/effects/Siege_Demon/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon/textures/T_Line.png",
+          "name": "config/portablevfx/effects/Siege_Demon/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 204,
+            "MD5": "641ae507813d5a55db29ace634b778d1",
+            "SHA256": "47a88ededdd5301578c33799aafd5fc3062428ddff7a03c3e96da620b7e4b047",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon__textures__t_line.png",
+            "path": "config/portablevfx/effects/Siege_Demon/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon/textures/T_Pillar.png",
+          "name": "config/portablevfx/effects/Siege_Demon/textures/T_Pillar.png",
+          "type": "File",
+          "artifact": {
+            "size": 5587,
+            "MD5": "f82cc786f54ac07ad5d0ad24e4929dd4",
+            "SHA256": "c51b0f8591f201b8b6c755d7bd492150adf49fbc0f6ea59d18863e5b735e41a3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon__textures__t_pillar.png",
+            "path": "config/portablevfx/effects/Siege_Demon/textures/T_Pillar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon/textures/T_ShardDark.png",
+          "name": "config/portablevfx/effects/Siege_Demon/textures/T_ShardDark.png",
+          "type": "File",
+          "artifact": {
+            "size": 1541,
+            "MD5": "48815a9e3fb364c16f6aacf9b419e733",
+            "SHA256": "6376450f2cb1a790239002fb6d23c3bb12686d6fefa3a8f09f7efe30f60b788e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon__textures__t_sharddark.png",
+            "path": "config/portablevfx/effects/Siege_Demon/textures/T_ShardDark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon/textures/T_ShardLight.png",
+          "name": "config/portablevfx/effects/Siege_Demon/textures/T_ShardLight.png",
+          "type": "File",
+          "artifact": {
+            "size": 1569,
+            "MD5": "a762840da6e164582ebc076a18087689",
+            "SHA256": "04ce8ccb154ea4ebc8889f469de7e81803fdb91106e6b3dee42d024cd1541f35",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon__textures__t_shardlight.png",
+            "path": "config/portablevfx/effects/Siege_Demon/textures/T_ShardLight.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon/textures/T_Slash_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Demon/textures/T_Slash_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 38837,
+            "MD5": "de085c29935d4a0b36ade89059c9be0e",
+            "SHA256": "3aac64b5a552f59bb77713e3739f2f9e224537724a2268f7eb3ed6a3fcd05584",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon__textures__t_slash_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Demon/textures/T_Slash_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon/textures/T_Star.png",
+          "name": "config/portablevfx/effects/Siege_Demon/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5671,
+            "MD5": "fc3cabd2bdb443c3fd04ecbdae3fe53b",
+            "SHA256": "d6f366de42ee3f6d284d355acc3ccfced6c344a8ec462e02b556e1f9c798546d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon__textures__t_star.png",
+            "path": "config/portablevfx/effects/Siege_Demon/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/Siege_Demon/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1322,
+            "MD5": "6623fe0d70c94abd154ca2455705824b",
+            "SHA256": "7c531271ca16538a9b4ddc6e129f18178b2e4d00aabe436ba488ec274fec021a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon__textures__t_streak.png",
+            "path": "config/portablevfx/effects/Siege_Demon/textures/T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon/textures/T_Wave.png",
+          "name": "config/portablevfx/effects/Siege_Demon/textures/T_Wave.png",
+          "type": "File",
+          "artifact": {
+            "size": 18722,
+            "MD5": "048f96629067c865bccec8f480f2692c",
+            "SHA256": "fa55c8e6a256779cb32a0f25712024a56bed51e3817ad173b8a80706948f65da",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon__textures__t_wave.png",
+            "path": "config/portablevfx/effects/Siege_Demon/textures/T_Wave.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon/vfx.json",
+          "name": "config/portablevfx/effects/Siege_Demon/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 871986,
+            "MD5": "ee06a2866886bba1f3c087c80efbd7b5",
+            "SHA256": "8c2b870fef7ea1ac7a88b9ec1fcaa39a99a17bfa9cb5dcd65d8a3e4ea694a4df",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon__vfx.json",
+            "path": "config/portablevfx/effects/Siege_Demon/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon2/textures/T_Band.png",
+          "name": "config/portablevfx/effects/Siege_Demon2/textures/T_Band.png",
+          "type": "File",
+          "artifact": {
+            "size": 1870,
+            "MD5": "f50cefb95f4ad0b745c4b59ba8c28cf2",
+            "SHA256": "da78e75623894f72371ea93d54524f247efc925f5f9e374d5fe3d224cae20cc9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon2__textures__t_band.png",
+            "path": "config/portablevfx/effects/Siege_Demon2/textures/T_Band.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon2/textures/T_Blade.png",
+          "name": "config/portablevfx/effects/Siege_Demon2/textures/T_Blade.png",
+          "type": "File",
+          "artifact": {
+            "size": 8958,
+            "MD5": "8b9fd250a4ad31f0421cd29dca1c6a8f",
+            "SHA256": "89f75c60fb7ca5f6b053ec6cece5ba5acaf37f9f2cd144d27e7a0d2bc66d8f1e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon2__textures__t_blade.png",
+            "path": "config/portablevfx/effects/Siege_Demon2/textures/T_Blade.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon2/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/Siege_Demon2/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 29643,
+            "MD5": "3c3ddeb404af143de75089244210dd98",
+            "SHA256": "06164e92ee87cb2c2508f6b841140c01a612a04a4d6c51aa00e0806ba8f0580b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon2__textures__t_crack.png",
+            "path": "config/portablevfx/effects/Siege_Demon2/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon2/textures/T_DarkMist_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Demon2/textures/T_DarkMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 19273,
+            "MD5": "79ca800d239b7ac2769218a02028a48d",
+            "SHA256": "3905d022e328e4ed25403fa49335afb47ee0147d138ed221571a7ce2f030e73b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon2__textures__t_darkmist_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Demon2/textures/T_DarkMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon2/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/Siege_Demon2/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1392,
+            "MD5": "7ca4f18f1a133f2f3714f2e8d686b40f",
+            "SHA256": "e9f29711c415b83e98c20eadded5ee97c5fee5c19add40d7f9160b5ea41fd4a4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon2__textures__t_dot.png",
+            "path": "config/portablevfx/effects/Siege_Demon2/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon2/textures/T_Flame_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Demon2/textures/T_Flame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 58539,
+            "MD5": "58f8095851c90722a87758fb4942ea40",
+            "SHA256": "c5ddd37c537643aa8ceab62809e1b8127b0015e3fab345c2ce17f3652ba83978",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon2__textures__t_flame_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Demon2/textures/T_Flame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon2/textures/T_Flare.png",
+          "name": "config/portablevfx/effects/Siege_Demon2/textures/T_Flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 11208,
+            "MD5": "4969c971ee249ac6d339d3e634ebc5b8",
+            "SHA256": "65b29b2d2c5d38934d5a4f6e55830dac6c587467255515d283e5c5016f1a9ef9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon2__textures__t_flare.png",
+            "path": "config/portablevfx/effects/Siege_Demon2/textures/T_Flare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon2/textures/T_GateSigil.png",
+          "name": "config/portablevfx/effects/Siege_Demon2/textures/T_GateSigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 73190,
+            "MD5": "0976bf7c52b86b34445bfc9e2f712127",
+            "SHA256": "1071206ad4a59c0141697abf1a2c113f93ceb80e837f5116297d0d3e8f7ec0ea",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon2__textures__t_gatesigil.png",
+            "path": "config/portablevfx/effects/Siege_Demon2/textures/T_GateSigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon2/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/Siege_Demon2/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon2__textures__t_glow.png",
+            "path": "config/portablevfx/effects/Siege_Demon2/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon2/textures/T_Line.png",
+          "name": "config/portablevfx/effects/Siege_Demon2/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 204,
+            "MD5": "641ae507813d5a55db29ace634b778d1",
+            "SHA256": "47a88ededdd5301578c33799aafd5fc3062428ddff7a03c3e96da620b7e4b047",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon2__textures__t_line.png",
+            "path": "config/portablevfx/effects/Siege_Demon2/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon2/textures/T_ShardDark.png",
+          "name": "config/portablevfx/effects/Siege_Demon2/textures/T_ShardDark.png",
+          "type": "File",
+          "artifact": {
+            "size": 1541,
+            "MD5": "48815a9e3fb364c16f6aacf9b419e733",
+            "SHA256": "6376450f2cb1a790239002fb6d23c3bb12686d6fefa3a8f09f7efe30f60b788e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon2__textures__t_sharddark.png",
+            "path": "config/portablevfx/effects/Siege_Demon2/textures/T_ShardDark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon2/textures/T_ShardLight.png",
+          "name": "config/portablevfx/effects/Siege_Demon2/textures/T_ShardLight.png",
+          "type": "File",
+          "artifact": {
+            "size": 1569,
+            "MD5": "a762840da6e164582ebc076a18087689",
+            "SHA256": "04ce8ccb154ea4ebc8889f469de7e81803fdb91106e6b3dee42d024cd1541f35",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon2__textures__t_shardlight.png",
+            "path": "config/portablevfx/effects/Siege_Demon2/textures/T_ShardLight.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon2/textures/T_Star.png",
+          "name": "config/portablevfx/effects/Siege_Demon2/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5671,
+            "MD5": "fc3cabd2bdb443c3fd04ecbdae3fe53b",
+            "SHA256": "d6f366de42ee3f6d284d355acc3ccfced6c344a8ec462e02b556e1f9c798546d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon2__textures__t_star.png",
+            "path": "config/portablevfx/effects/Siege_Demon2/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon2/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/Siege_Demon2/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1322,
+            "MD5": "6623fe0d70c94abd154ca2455705824b",
+            "SHA256": "7c531271ca16538a9b4ddc6e129f18178b2e4d00aabe436ba488ec274fec021a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon2__textures__t_streak.png",
+            "path": "config/portablevfx/effects/Siege_Demon2/textures/T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon2/textures/T_Wave.png",
+          "name": "config/portablevfx/effects/Siege_Demon2/textures/T_Wave.png",
+          "type": "File",
+          "artifact": {
+            "size": 18722,
+            "MD5": "048f96629067c865bccec8f480f2692c",
+            "SHA256": "fa55c8e6a256779cb32a0f25712024a56bed51e3817ad173b8a80706948f65da",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon2__textures__t_wave.png",
+            "path": "config/portablevfx/effects/Siege_Demon2/textures/T_Wave.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Demon2/vfx.json",
+          "name": "config/portablevfx/effects/Siege_Demon2/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 237544,
+            "MD5": "754a3c1a675ea34aa844de8617f035ac",
+            "SHA256": "604868d51984a5a1fdb298c49925158346146b1b8dee2dd0f044cb1d0e045ed6",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_demon2__vfx.json",
+            "path": "config/portablevfx/effects/Siege_Demon2/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Portal/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/Siege_Portal/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 29643,
+            "MD5": "3c3ddeb404af143de75089244210dd98",
+            "SHA256": "06164e92ee87cb2c2508f6b841140c01a612a04a4d6c51aa00e0806ba8f0580b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_portal__textures__t_crack.png",
+            "path": "config/portablevfx/effects/Siege_Portal/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Portal/textures/T_DarkMist_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Portal/textures/T_DarkMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 19273,
+            "MD5": "79ca800d239b7ac2769218a02028a48d",
+            "SHA256": "3905d022e328e4ed25403fa49335afb47ee0147d138ed221571a7ce2f030e73b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_portal__textures__t_darkmist_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Portal/textures/T_DarkMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Portal/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/Siege_Portal/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1392,
+            "MD5": "7ca4f18f1a133f2f3714f2e8d686b40f",
+            "SHA256": "e9f29711c415b83e98c20eadded5ee97c5fee5c19add40d7f9160b5ea41fd4a4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_portal__textures__t_dot.png",
+            "path": "config/portablevfx/effects/Siege_Portal/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Portal/textures/T_Dust_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Portal/textures/T_Dust_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 29125,
+            "MD5": "7c70d316687ee6d6d8d499f456ba055d",
+            "SHA256": "def6b535347f0fa23b5f72b187de9fc1fa53ed07f6aee6f8d3950ca3e4d1ff46",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_portal__textures__t_dust_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Portal/textures/T_Dust_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Portal/textures/T_Flame_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Portal/textures/T_Flame_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 58539,
+            "MD5": "58f8095851c90722a87758fb4942ea40",
+            "SHA256": "c5ddd37c537643aa8ceab62809e1b8127b0015e3fab345c2ce17f3652ba83978",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_portal__textures__t_flame_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Portal/textures/T_Flame_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Portal/textures/T_Flare.png",
+          "name": "config/portablevfx/effects/Siege_Portal/textures/T_Flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 11208,
+            "MD5": "4969c971ee249ac6d339d3e634ebc5b8",
+            "SHA256": "65b29b2d2c5d38934d5a4f6e55830dac6c587467255515d283e5c5016f1a9ef9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_portal__textures__t_flare.png",
+            "path": "config/portablevfx/effects/Siege_Portal/textures/T_Flare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Portal/textures/T_GateSigil.png",
+          "name": "config/portablevfx/effects/Siege_Portal/textures/T_GateSigil.png",
+          "type": "File",
+          "artifact": {
+            "size": 73190,
+            "MD5": "0976bf7c52b86b34445bfc9e2f712127",
+            "SHA256": "1071206ad4a59c0141697abf1a2c113f93ceb80e837f5116297d0d3e8f7ec0ea",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_portal__textures__t_gatesigil.png",
+            "path": "config/portablevfx/effects/Siege_Portal/textures/T_GateSigil.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Portal/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/Siege_Portal/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_portal__textures__t_glow.png",
+            "path": "config/portablevfx/effects/Siege_Portal/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Portal/textures/T_Line.png",
+          "name": "config/portablevfx/effects/Siege_Portal/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 204,
+            "MD5": "641ae507813d5a55db29ace634b778d1",
+            "SHA256": "47a88ededdd5301578c33799aafd5fc3062428ddff7a03c3e96da620b7e4b047",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_portal__textures__t_line.png",
+            "path": "config/portablevfx/effects/Siege_Portal/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Portal/textures/T_Pillar.png",
+          "name": "config/portablevfx/effects/Siege_Portal/textures/T_Pillar.png",
+          "type": "File",
+          "artifact": {
+            "size": 5587,
+            "MD5": "f82cc786f54ac07ad5d0ad24e4929dd4",
+            "SHA256": "c51b0f8591f201b8b6c755d7bd492150adf49fbc0f6ea59d18863e5b735e41a3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_portal__textures__t_pillar.png",
+            "path": "config/portablevfx/effects/Siege_Portal/textures/T_Pillar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Portal/textures/T_ShardDark.png",
+          "name": "config/portablevfx/effects/Siege_Portal/textures/T_ShardDark.png",
+          "type": "File",
+          "artifact": {
+            "size": 1541,
+            "MD5": "48815a9e3fb364c16f6aacf9b419e733",
+            "SHA256": "6376450f2cb1a790239002fb6d23c3bb12686d6fefa3a8f09f7efe30f60b788e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_portal__textures__t_sharddark.png",
+            "path": "config/portablevfx/effects/Siege_Portal/textures/T_ShardDark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Portal/textures/T_ShardLight.png",
+          "name": "config/portablevfx/effects/Siege_Portal/textures/T_ShardLight.png",
+          "type": "File",
+          "artifact": {
+            "size": 1569,
+            "MD5": "a762840da6e164582ebc076a18087689",
+            "SHA256": "04ce8ccb154ea4ebc8889f469de7e81803fdb91106e6b3dee42d024cd1541f35",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_portal__textures__t_shardlight.png",
+            "path": "config/portablevfx/effects/Siege_Portal/textures/T_ShardLight.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Portal/textures/T_Spiral.png",
+          "name": "config/portablevfx/effects/Siege_Portal/textures/T_Spiral.png",
+          "type": "File",
+          "artifact": {
+            "size": 20068,
+            "MD5": "096c5cff384b4cf5f2fb92f4d8055eb9",
+            "SHA256": "ab836b776f63fd2d8c4f9c06f40a39405e71b4cb968339a028e5ebc43e4bcf8b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_portal__textures__t_spiral.png",
+            "path": "config/portablevfx/effects/Siege_Portal/textures/T_Spiral.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Portal/textures/T_Star.png",
+          "name": "config/portablevfx/effects/Siege_Portal/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5671,
+            "MD5": "fc3cabd2bdb443c3fd04ecbdae3fe53b",
+            "SHA256": "d6f366de42ee3f6d284d355acc3ccfced6c344a8ec462e02b556e1f9c798546d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_portal__textures__t_star.png",
+            "path": "config/portablevfx/effects/Siege_Portal/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Portal/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/Siege_Portal/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1322,
+            "MD5": "6623fe0d70c94abd154ca2455705824b",
+            "SHA256": "7c531271ca16538a9b4ddc6e129f18178b2e4d00aabe436ba488ec274fec021a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_portal__textures__t_streak.png",
+            "path": "config/portablevfx/effects/Siege_Portal/textures/T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Portal/textures/T_Wave.png",
+          "name": "config/portablevfx/effects/Siege_Portal/textures/T_Wave.png",
+          "type": "File",
+          "artifact": {
+            "size": 18722,
+            "MD5": "048f96629067c865bccec8f480f2692c",
+            "SHA256": "fa55c8e6a256779cb32a0f25712024a56bed51e3817ad173b8a80706948f65da",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_portal__textures__t_wave.png",
+            "path": "config/portablevfx/effects/Siege_Portal/textures/T_Wave.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Portal/vfx.json",
+          "name": "config/portablevfx/effects/Siege_Portal/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 644419,
+            "MD5": "63deacb78b7d9b8e384f6fdd9b0226d5",
+            "SHA256": "a0c50b8de825727250f901ddb8bd4a976014327bf7bc156d23e19211ebe4453f",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_portal__vfx.json",
+            "path": "config/portablevfx/effects/Siege_Portal/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_Band.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_Band.png",
+          "type": "File",
+          "artifact": {
+            "size": 1870,
+            "MD5": "f50cefb95f4ad0b745c4b59ba8c28cf2",
+            "SHA256": "da78e75623894f72371ea93d54524f247efc925f5f9e374d5fe3d224cae20cc9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_band.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_Band.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_Card.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_Card.png",
+          "type": "File",
+          "artifact": {
+            "size": 1816,
+            "MD5": "e61d8538fd175e6840dd68252d380154",
+            "SHA256": "3d5b4a5a9335c7d6061a0b2316d346885e23f8ca4c334021e3e0cc4f76aefb26",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_card.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_Card.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_Chip.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_Chip.png",
+          "type": "File",
+          "artifact": {
+            "size": 2430,
+            "MD5": "b63bc09eee25c04703ac2bc26b06eb5e",
+            "SHA256": "63d65f982e88c2fcd874f8a252a789d31c4312070f8c1e0d5bdc5967ad086935",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_chip.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_Chip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_Club.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_Club.png",
+          "type": "File",
+          "artifact": {
+            "size": 2252,
+            "MD5": "bf5b0a4408231f7f7b84a7aedf32c960",
+            "SHA256": "fa95cc318b43dbb65a633fc0df0a9134187796f0b502cc468c4b4d892c39e7a4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_club.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_Club.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_Coin.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_Coin.png",
+          "type": "File",
+          "artifact": {
+            "size": 2877,
+            "MD5": "31b4ede3ab474db5df2a1df9d9d2d875",
+            "SHA256": "1eed0e64557eedc41f3db5798c669b84017062793883abe96b7d8689bd38e408",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_coin.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_Coin.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 29643,
+            "MD5": "3c3ddeb404af143de75089244210dd98",
+            "SHA256": "06164e92ee87cb2c2508f6b841140c01a612a04a4d6c51aa00e0806ba8f0580b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_crack.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_DarkMist_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_DarkMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 19273,
+            "MD5": "79ca800d239b7ac2769218a02028a48d",
+            "SHA256": "3905d022e328e4ed25403fa49335afb47ee0147d138ed221571a7ce2f030e73b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_darkmist_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_DarkMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_Diamond.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_Diamond.png",
+          "type": "File",
+          "artifact": {
+            "size": 1847,
+            "MD5": "9338ee847991561d018ae9f181498eec",
+            "SHA256": "deb521c79382b7ebed25113ec42f7e7139680c50c00d609c5835137b26439605",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_diamond.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_Diamond.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_Die.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_Die.png",
+          "type": "File",
+          "artifact": {
+            "size": 1608,
+            "MD5": "73b7b6f440786cf4f470cf11f0c09614",
+            "SHA256": "18632cd936aa6dff7c78f13bf1220f3be8507308e6665235635d689787b6df54",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_die.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_Die.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1392,
+            "MD5": "7ca4f18f1a133f2f3714f2e8d686b40f",
+            "SHA256": "e9f29711c415b83e98c20eadded5ee97c5fee5c19add40d7f9160b5ea41fd4a4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_dot.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_Flare.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_Flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 11208,
+            "MD5": "4969c971ee249ac6d339d3e634ebc5b8",
+            "SHA256": "65b29b2d2c5d38934d5a4f6e55830dac6c587467255515d283e5c5016f1a9ef9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_flare.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_Flare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_glow.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_Hearts.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_Hearts.png",
+          "type": "File",
+          "artifact": {
+            "size": 2038,
+            "MD5": "2de6b74c9fa95b90ede569907434e5df",
+            "SHA256": "5f5a8fab1549334c36d6c8b36da5e9c168f7e9495d23f60da212cad2785db5ca",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_hearts.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_Hearts.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_Line.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 204,
+            "MD5": "641ae507813d5a55db29ace634b778d1",
+            "SHA256": "47a88ededdd5301578c33799aafd5fc3062428ddff7a03c3e96da620b7e4b047",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_line.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_Pillar.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_Pillar.png",
+          "type": "File",
+          "artifact": {
+            "size": 5587,
+            "MD5": "f82cc786f54ac07ad5d0ad24e4929dd4",
+            "SHA256": "c51b0f8591f201b8b6c755d7bd492150adf49fbc0f6ea59d18863e5b735e41a3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_pillar.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_Pillar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_ShardDark.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_ShardDark.png",
+          "type": "File",
+          "artifact": {
+            "size": 1541,
+            "MD5": "48815a9e3fb364c16f6aacf9b419e733",
+            "SHA256": "6376450f2cb1a790239002fb6d23c3bb12686d6fefa3a8f09f7efe30f60b788e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_sharddark.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_ShardDark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_ShardLight.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_ShardLight.png",
+          "type": "File",
+          "artifact": {
+            "size": 1569,
+            "MD5": "a762840da6e164582ebc076a18087689",
+            "SHA256": "04ce8ccb154ea4ebc8889f469de7e81803fdb91106e6b3dee42d024cd1541f35",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_shardlight.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_ShardLight.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_Slash_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_Slash_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 38837,
+            "MD5": "de085c29935d4a0b36ade89059c9be0e",
+            "SHA256": "3aac64b5a552f59bb77713e3739f2f9e224537724a2268f7eb3ed6a3fcd05584",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_slash_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_Slash_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_Spade.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_Spade.png",
+          "type": "File",
+          "artifact": {
+            "size": 2250,
+            "MD5": "c6a335d483c335655b48630b1877ff56",
+            "SHA256": "0e79fb5f38c66fb597a3e3544bd897e9c3a32b7b20d950be8089cc28bbbb9516",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_spade.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_Spade.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_Star.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5671,
+            "MD5": "fc3cabd2bdb443c3fd04ecbdae3fe53b",
+            "SHA256": "d6f366de42ee3f6d284d355acc3ccfced6c344a8ec462e02b556e1f9c798546d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_star.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1322,
+            "MD5": "6623fe0d70c94abd154ca2455705824b",
+            "SHA256": "7c531271ca16538a9b4ddc6e129f18178b2e4d00aabe436ba488ec274fec021a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_streak.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_Wave.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_Wave.png",
+          "type": "File",
+          "artifact": {
+            "size": 18722,
+            "MD5": "048f96629067c865bccec8f480f2692c",
+            "SHA256": "fa55c8e6a256779cb32a0f25712024a56bed51e3817ad173b8a80706948f65da",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_wave.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_Wave.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/textures/T_Wheel.png",
+          "name": "config/portablevfx/effects/Siege_Roulette/textures/T_Wheel.png",
+          "type": "File",
+          "artifact": {
+            "size": 86752,
+            "MD5": "7622d9efe8c44162a181ff791831d9bf",
+            "SHA256": "acc50aaadc38cad7481af7ac6d4340e43a1e839772101f90059efb4c48f97eb4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__textures__t_wheel.png",
+            "path": "config/portablevfx/effects/Siege_Roulette/textures/T_Wheel.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette/vfx.json",
+          "name": "config/portablevfx/effects/Siege_Roulette/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 830057,
+            "MD5": "5cc9d4ede46a4b9e0b01f54ced456617",
+            "SHA256": "cb065ac51f4d6ba7f69c6a33af547835c620342803f7aa5766b53200e460ac77",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette__vfx.json",
+            "path": "config/portablevfx/effects/Siege_Roulette/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_Band.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_Band.png",
+          "type": "File",
+          "artifact": {
+            "size": 1870,
+            "MD5": "f50cefb95f4ad0b745c4b59ba8c28cf2",
+            "SHA256": "da78e75623894f72371ea93d54524f247efc925f5f9e374d5fe3d224cae20cc9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_band.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_Band.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_Card.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_Card.png",
+          "type": "File",
+          "artifact": {
+            "size": 1816,
+            "MD5": "e61d8538fd175e6840dd68252d380154",
+            "SHA256": "3d5b4a5a9335c7d6061a0b2316d346885e23f8ca4c334021e3e0cc4f76aefb26",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_card.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_Card.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_Chip.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_Chip.png",
+          "type": "File",
+          "artifact": {
+            "size": 2430,
+            "MD5": "b63bc09eee25c04703ac2bc26b06eb5e",
+            "SHA256": "63d65f982e88c2fcd874f8a252a789d31c4312070f8c1e0d5bdc5967ad086935",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_chip.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_Chip.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_Club.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_Club.png",
+          "type": "File",
+          "artifact": {
+            "size": 2252,
+            "MD5": "bf5b0a4408231f7f7b84a7aedf32c960",
+            "SHA256": "fa95cc318b43dbb65a633fc0df0a9134187796f0b502cc468c4b4d892c39e7a4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_club.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_Club.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_Coin.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_Coin.png",
+          "type": "File",
+          "artifact": {
+            "size": 2877,
+            "MD5": "31b4ede3ab474db5df2a1df9d9d2d875",
+            "SHA256": "1eed0e64557eedc41f3db5798c669b84017062793883abe96b7d8689bd38e408",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_coin.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_Coin.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 29643,
+            "MD5": "3c3ddeb404af143de75089244210dd98",
+            "SHA256": "06164e92ee87cb2c2508f6b841140c01a612a04a4d6c51aa00e0806ba8f0580b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_crack.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_DarkMist_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_DarkMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 19273,
+            "MD5": "79ca800d239b7ac2769218a02028a48d",
+            "SHA256": "3905d022e328e4ed25403fa49335afb47ee0147d138ed221571a7ce2f030e73b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_darkmist_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_DarkMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_Diamond.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_Diamond.png",
+          "type": "File",
+          "artifact": {
+            "size": 1847,
+            "MD5": "9338ee847991561d018ae9f181498eec",
+            "SHA256": "deb521c79382b7ebed25113ec42f7e7139680c50c00d609c5835137b26439605",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_diamond.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_Diamond.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1392,
+            "MD5": "7ca4f18f1a133f2f3714f2e8d686b40f",
+            "SHA256": "e9f29711c415b83e98c20eadded5ee97c5fee5c19add40d7f9160b5ea41fd4a4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_dot.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_Flare.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_Flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 11208,
+            "MD5": "4969c971ee249ac6d339d3e634ebc5b8",
+            "SHA256": "65b29b2d2c5d38934d5a4f6e55830dac6c587467255515d283e5c5016f1a9ef9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_flare.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_Flare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_glow.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_Hearts.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_Hearts.png",
+          "type": "File",
+          "artifact": {
+            "size": 2038,
+            "MD5": "2de6b74c9fa95b90ede569907434e5df",
+            "SHA256": "5f5a8fab1549334c36d6c8b36da5e9c168f7e9495d23f60da212cad2785db5ca",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_hearts.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_Hearts.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_Line.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 204,
+            "MD5": "641ae507813d5a55db29ace634b778d1",
+            "SHA256": "47a88ededdd5301578c33799aafd5fc3062428ddff7a03c3e96da620b7e4b047",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_line.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_ShardDark.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_ShardDark.png",
+          "type": "File",
+          "artifact": {
+            "size": 1541,
+            "MD5": "48815a9e3fb364c16f6aacf9b419e733",
+            "SHA256": "6376450f2cb1a790239002fb6d23c3bb12686d6fefa3a8f09f7efe30f60b788e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_sharddark.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_ShardDark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_ShardLight.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_ShardLight.png",
+          "type": "File",
+          "artifact": {
+            "size": 1569,
+            "MD5": "a762840da6e164582ebc076a18087689",
+            "SHA256": "04ce8ccb154ea4ebc8889f469de7e81803fdb91106e6b3dee42d024cd1541f35",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_shardlight.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_ShardLight.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_Slash_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_Slash_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 38837,
+            "MD5": "de085c29935d4a0b36ade89059c9be0e",
+            "SHA256": "3aac64b5a552f59bb77713e3739f2f9e224537724a2268f7eb3ed6a3fcd05584",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_slash_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_Slash_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_Spade.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_Spade.png",
+          "type": "File",
+          "artifact": {
+            "size": 2250,
+            "MD5": "c6a335d483c335655b48630b1877ff56",
+            "SHA256": "0e79fb5f38c66fb597a3e3544bd897e9c3a32b7b20d950be8089cc28bbbb9516",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_spade.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_Spade.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_Star.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5671,
+            "MD5": "fc3cabd2bdb443c3fd04ecbdae3fe53b",
+            "SHA256": "d6f366de42ee3f6d284d355acc3ccfced6c344a8ec462e02b556e1f9c798546d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_star.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1322,
+            "MD5": "6623fe0d70c94abd154ca2455705824b",
+            "SHA256": "7c531271ca16538a9b4ddc6e129f18178b2e4d00aabe436ba488ec274fec021a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_streak.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_Wave.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_Wave.png",
+          "type": "File",
+          "artifact": {
+            "size": 18722,
+            "MD5": "048f96629067c865bccec8f480f2692c",
+            "SHA256": "fa55c8e6a256779cb32a0f25712024a56bed51e3817ad173b8a80706948f65da",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_wave.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_Wave.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/textures/T_Wheel.png",
+          "name": "config/portablevfx/effects/Siege_Roulette2/textures/T_Wheel.png",
+          "type": "File",
+          "artifact": {
+            "size": 86752,
+            "MD5": "7622d9efe8c44162a181ff791831d9bf",
+            "SHA256": "acc50aaadc38cad7481af7ac6d4340e43a1e839772101f90059efb4c48f97eb4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__textures__t_wheel.png",
+            "path": "config/portablevfx/effects/Siege_Roulette2/textures/T_Wheel.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Roulette2/vfx.json",
+          "name": "config/portablevfx/effects/Siege_Roulette2/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 676027,
+            "MD5": "70935750cee460ce3269085725d7cc58",
+            "SHA256": "396cc19380af9eef46a116e6c64e6c1e691b71525c0a378b52ab50a22572e7ef",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_roulette2__vfx.json",
+            "path": "config/portablevfx/effects/Siege_Roulette2/vfx.json"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_Band.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_Band.png",
+          "type": "File",
+          "artifact": {
+            "size": 1870,
+            "MD5": "f50cefb95f4ad0b745c4b59ba8c28cf2",
+            "SHA256": "da78e75623894f72371ea93d54524f247efc925f5f9e374d5fe3d224cae20cc9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_band.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_Band.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_Bubble.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_Bubble.png",
+          "type": "File",
+          "artifact": {
+            "size": 2784,
+            "MD5": "be0e076ffdd81fe149e2d9ad99bc5bda",
+            "SHA256": "9700486b115c1106e41234e7eed0f0e815527579e3afa87d03667a54e1750f8b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_bubble.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_Bubble.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_Crack.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_Crack.png",
+          "type": "File",
+          "artifact": {
+            "size": 29643,
+            "MD5": "3c3ddeb404af143de75089244210dd98",
+            "SHA256": "06164e92ee87cb2c2508f6b841140c01a612a04a4d6c51aa00e0806ba8f0580b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_crack.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_Crack.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_DarkMist_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_DarkMist_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 19273,
+            "MD5": "79ca800d239b7ac2769218a02028a48d",
+            "SHA256": "3905d022e328e4ed25403fa49335afb47ee0147d138ed221571a7ce2f030e73b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_darkmist_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_DarkMist_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_Dot.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_Dot.png",
+          "type": "File",
+          "artifact": {
+            "size": 1392,
+            "MD5": "7ca4f18f1a133f2f3714f2e8d686b40f",
+            "SHA256": "e9f29711c415b83e98c20eadded5ee97c5fee5c19add40d7f9160b5ea41fd4a4",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_dot.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_Dot.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_Dust_Sheet.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_Dust_Sheet.png",
+          "type": "File",
+          "artifact": {
+            "size": 29125,
+            "MD5": "7c70d316687ee6d6d8d499f456ba055d",
+            "SHA256": "def6b535347f0fa23b5f72b187de9fc1fa53ed07f6aee6f8d3950ca3e4d1ff46",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_dust_sheet.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_Dust_Sheet.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_EyeClosed.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_EyeClosed.png",
+          "type": "File",
+          "artifact": {
+            "size": 63075,
+            "MD5": "37da8e50171cd8d018251c6fbf7cf191",
+            "SHA256": "9be44129f0c7148d38a805c68c4b3d0c9e52dde9b3b10a41e2c11a0fde5b178d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_eyeclosed.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_EyeClosed.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_EyeOpen.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_EyeOpen.png",
+          "type": "File",
+          "artifact": {
+            "size": 80750,
+            "MD5": "e83c2e983bc3959fa11eebc4660eb6bd",
+            "SHA256": "79adfa90590f92b4e4d0e96335e16ee17aa9e3082dba9395202c9bad48b38b08",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_eyeopen.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_EyeOpen.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_Feather.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_Feather.png",
+          "type": "File",
+          "artifact": {
+            "size": 7732,
+            "MD5": "0ab689b0ac5b011f0a40f4c18047a232",
+            "SHA256": "07517f06834b5c3f4327a63a68ea7222154ce37812b57614e8e053211d891363",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_feather.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_Feather.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_Flare.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_Flare.png",
+          "type": "File",
+          "artifact": {
+            "size": 11208,
+            "MD5": "4969c971ee249ac6d339d3e634ebc5b8",
+            "SHA256": "65b29b2d2c5d38934d5a4f6e55830dac6c587467255515d283e5c5016f1a9ef9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_flare.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_Flare.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_Glow.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_Glow.png",
+          "type": "File",
+          "artifact": {
+            "size": 5798,
+            "MD5": "e43ff4dbd6d712cddc0dc9c609282dca",
+            "SHA256": "e1821fee82c62e27bdcab623b96f39913fe26fc2aec9994b2e039b0f5f3ea3c3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_glow.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_Glow.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_Line.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_Line.png",
+          "type": "File",
+          "artifact": {
+            "size": 204,
+            "MD5": "641ae507813d5a55db29ace634b778d1",
+            "SHA256": "47a88ededdd5301578c33799aafd5fc3062428ddff7a03c3e96da620b7e4b047",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_line.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_Line.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_Moon.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_Moon.png",
+          "type": "File",
+          "artifact": {
+            "size": 1950,
+            "MD5": "0559e55e0f09c48ce6120c861f0ff095",
+            "SHA256": "8ca93cb3ff9e3b786e9da58beb416a27e7db885a2169c89c6bbd9c7e4f9ed225",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_moon.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_Moon.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_Note.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_Note.png",
+          "type": "File",
+          "artifact": {
+            "size": 1788,
+            "MD5": "554aabf96f2bef00c8c7e7f76240eff9",
+            "SHA256": "913c42a67f53e7cc39ce444d40da9896a41ddaf2f0bd47878eb955cbe43edc19",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_note.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_Note.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_Pillar.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_Pillar.png",
+          "type": "File",
+          "artifact": {
+            "size": 5587,
+            "MD5": "f82cc786f54ac07ad5d0ad24e4929dd4",
+            "SHA256": "c51b0f8591f201b8b6c755d7bd492150adf49fbc0f6ea59d18863e5b735e41a3",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_pillar.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_Pillar.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_ShardDark.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_ShardDark.png",
+          "type": "File",
+          "artifact": {
+            "size": 1541,
+            "MD5": "48815a9e3fb364c16f6aacf9b419e733",
+            "SHA256": "6376450f2cb1a790239002fb6d23c3bb12686d6fefa3a8f09f7efe30f60b788e",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_sharddark.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_ShardDark.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_ShardLight.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_ShardLight.png",
+          "type": "File",
+          "artifact": {
+            "size": 1569,
+            "MD5": "a762840da6e164582ebc076a18087689",
+            "SHA256": "04ce8ccb154ea4ebc8889f469de7e81803fdb91106e6b3dee42d024cd1541f35",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_shardlight.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_ShardLight.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_Spiral.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_Spiral.png",
+          "type": "File",
+          "artifact": {
+            "size": 20068,
+            "MD5": "096c5cff384b4cf5f2fb92f4d8055eb9",
+            "SHA256": "ab836b776f63fd2d8c4f9c06f40a39405e71b4cb968339a028e5ebc43e4bcf8b",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_spiral.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_Spiral.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_Star.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_Star.png",
+          "type": "File",
+          "artifact": {
+            "size": 5671,
+            "MD5": "fc3cabd2bdb443c3fd04ecbdae3fe53b",
+            "SHA256": "d6f366de42ee3f6d284d355acc3ccfced6c344a8ec462e02b556e1f9c798546d",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_star.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_Star.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_Streak.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_Streak.png",
+          "type": "File",
+          "artifact": {
+            "size": 1322,
+            "MD5": "6623fe0d70c94abd154ca2455705824b",
+            "SHA256": "7c531271ca16538a9b4ddc6e129f18178b2e4d00aabe436ba488ec274fec021a",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_streak.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_Streak.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_Wave.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_Wave.png",
+          "type": "File",
+          "artifact": {
+            "size": 18722,
+            "MD5": "048f96629067c865bccec8f480f2692c",
+            "SHA256": "fa55c8e6a256779cb32a0f25712024a56bed51e3817ad173b8a80706948f65da",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_wave.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_Wave.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/textures/T_Zzz.png",
+          "name": "config/portablevfx/effects/Siege_Somnia/textures/T_Zzz.png",
+          "type": "File",
+          "artifact": {
+            "size": 1831,
+            "MD5": "8d0f98ad3cf457b9d76434e2c9c07bf1",
+            "SHA256": "76c07fb654b1a095ff87bd7aca1bc66e08bd3c65169abb77cdab99fdefc23cb9",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__textures__t_zzz.png",
+            "path": "config/portablevfx/effects/Siege_Somnia/textures/T_Zzz.png"
+          }
+        },
+        {
+          "id": "config/portablevfx/effects/Siege_Somnia/vfx.json",
+          "name": "config/portablevfx/effects/Siege_Somnia/vfx.json",
+          "type": "File",
+          "artifact": {
+            "size": 821299,
+            "MD5": "21500d9dd2a4e5baaaf49e2d9b2747f0",
+            "SHA256": "f5d6e09f09b30be7a9d562b529aa78594be05da77e30cca04dd5aad91f0486cf",
+            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-siege-20261113/siege_somnia__vfx.json",
+            "path": "config/portablevfx/effects/Siege_Somnia/vfx.json"
           }
         }
       ]
