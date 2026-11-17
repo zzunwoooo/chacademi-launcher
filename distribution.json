@@ -6129,17 +6129,6 @@
           }
         },
         {
-          "id": "kr.chacademi:donation:2.0.2+allcounts.1@jar",
-          "name": "mods/donation-fabric-1.21.4-2.0.2-allcounts.1.jar",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 843933,
-            "MD5": "4783b76846c7514a2ba3fdb12bde0318",
-            "SHA256": "efbf32f50e87dd8ca553d359767d8c939c1b58e79213f3705c7383de27ab7670",
-            "url": "https://github.com/zzunwoooo/chacademi-launcher/releases/download/content-paired-candidate-245d836c-20261026-task5/mods__donation-fabric-1.21.4-2.0.2-allcounts.1.jar"
-          }
-        },
-        {
           "id": "config/chaca_cutscene/ch1_chronicle/bgm.ogg",
           "name": "config/chaca_cutscene/ch1_chronicle/bgm.ogg",
           "type": "File",
